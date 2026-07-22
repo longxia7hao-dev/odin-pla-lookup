@@ -183,7 +183,8 @@
 
   function imgHtml(item, cls) {
     const fallback = placeholderSvg(item);
-    const src = resolveImageSrc(item) || fallback;
+    // 本機圖優先；沒有本機圖時直接用遠端圖當來源，最後才占位圖
+    const src = resolveImageSrc(item) || item.image_remote || fallback;
     const alt = escapeAttr(item.name_zh || item.name_en || item.designation);
     const remote = item.image_remote || "";
     // 本機 assets 優先；失敗再試 remote；最後占位圖（勿加 crossorigin，否則本機／部分 CDN 會整批失敗）
@@ -347,6 +348,7 @@
           <p>從左側清單選擇一筆裝備，查看規格與說明。</p>
           <span class="hint-key">快捷鍵 / 聚焦搜尋</span>
         </div>`;
+      document.body.classList.remove("detail-active");
       return;
     }
 
@@ -417,6 +419,7 @@
       : "";
 
     els.detail.innerHTML = `
+      <button type="button" class="detail-back" id="detailBack" aria-label="返回清單">← 返回清單</button>
       <div class="detail-photo">
         ${imgHtml(item, "detail-img")}
       </div>
@@ -471,6 +474,13 @@
         <div class="odin-link" style="margin-top:8px">正式訓練與引用請以 DoD CMPR、ODIN WEG 原文為準。</div>
       </div>
     `;
+    // 手機：開啟覆蓋式詳情並回到頂部（桌面此 class 無作用）
+    document.body.classList.add("detail-active");
+    els.detail.scrollTop = 0;
+  }
+
+  function closeDetail() {
+    document.body.classList.remove("detail-active");
   }
 
   function formatWeight(v) {
@@ -650,6 +660,11 @@
       selectItem(card.dataset.id);
     });
 
+    // 手機：詳情返回鈕（覆蓋式面板）
+    els.detail.addEventListener("click", (e) => {
+      if (e.target.closest("#detailBack")) closeDetail();
+    });
+
     $("btnExport").addEventListener("click", exportJson);
     $("btnImport").addEventListener("click", () => openModal("importModal"));
     $("btnHelp").addEventListener("click", () => openModal("helpModal"));
@@ -700,6 +715,7 @@
       }
       if (e.key === "Escape") {
         document.querySelectorAll(".modal-backdrop.open").forEach((m) => m.classList.remove("open"));
+        closeDetail();
       }
     });
   }

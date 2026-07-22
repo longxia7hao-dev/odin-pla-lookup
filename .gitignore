@@ -13,3 +13,6 @@ PROJECT_NOTES.md
 
 # 系統
 .DS_Store
+
+# 抓圖日誌
+tools/img_fetch.log

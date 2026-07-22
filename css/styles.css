@@ -294,14 +294,58 @@ a {
   align-items: start;
 }
 
+/* 返回鈕：桌面隱藏，手機顯示 */
+.detail-back {
+  display: none;
+  width: 100%;
+  padding: 11px 14px;
+  margin-bottom: 10px;
+  background: var(--bg-elevated);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+.detail-back:hover { background: var(--bg-card); }
+
 @media (max-width: 960px) {
   .main {
     grid-template-columns: 1fr;
   }
 
+  /* 詳情改為由下滑出的全螢幕覆蓋層，點清單即刻可用，免捲到最底 */
   .detail-panel {
-    position: static !important;
+    position: fixed;
+    inset: 0;
+    z-index: 300;
     max-height: none !important;
+    border: none;
+    border-radius: 0;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    transform: translateY(100%);
+    transition: transform 0.22s ease;
+    padding: 12px 12px 28px;
+  }
+  body.detail-active .detail-panel {
+    transform: translateY(0);
+  }
+  /* 未選取時不顯示空面板 */
+  body:not(.detail-active) .detail-panel {
+    display: none;
+  }
+  .detail-back {
+    display: block;
+  }
+  /* 覆蓋層開啟時鎖住背景捲動 */
+  body.detail-active {
+    overflow: hidden;
   }
 }
 

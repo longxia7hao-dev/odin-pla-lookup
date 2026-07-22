@@ -42,7 +42,8 @@
           "label": "CSIS Missile Threat：Missiles of China",
           "url": "https://missilethreat.csis.org/country_tax/china/"
         }
-      ]
+      ],
+      "image": "assets/images/df-11a.jpg"
     },
     "df-17": {
       "range_m": "1,800–2,500 km（MRBM＋高超音速滑翔體 DF-ZF；Mach 5–10）",
@@ -133,7 +134,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/df-5c.jpg"
     },
     "jl-2": {
       "range_m": "8,000–9,000 km（潛射彈道飛彈 SLBM，094 型核潛艦攜行）",
@@ -237,7 +239,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "mobility": "蒸汽輪機；四軸"
+      "mobility": "蒸汽輪機；四軸",
+      "image": "assets/images/type-003.jpg"
     },
     "type-055": {
       "weight_kg": "滿載約 12,000–13,000 噸",
@@ -255,7 +258,8 @@
         }
       ],
       "crew": "300+",
-      "mobility": "COGAG 4×QC-280；30 節"
+      "mobility": "COGAG 4×QC-280；30 節",
+      "image": "assets/images/type-055.jpg"
     },
     "type-052d": {
       "weight_kg": "滿載約 7,500 噸",
@@ -268,7 +272,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_052D_destroyer"
         }
       ],
-      "crew": "280"
+      "crew": "280",
+      "image": "assets/images/type-052d.jpg"
     },
     "type-052dl": {
       "weight_kg": "滿載約 7,700 噸",
@@ -281,7 +286,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_052D_destroyer"
         }
       ],
-      "crew": "280"
+      "crew": "280",
+      "image": "assets/images/type-052dl.jpg"
     },
     "type-052c": {
       "weight_kg": "滿載約 7,000 噸",
@@ -307,7 +313,8 @@
           "url": "https://en.wikipedia.org/wiki/Sovremenny-class_destroyer"
         }
       ],
-      "mobility": "蒸汽輪機"
+      "mobility": "蒸汽輪機",
+      "image": "assets/images/sovremenny.jpg"
     },
     "type-054a": {
       "weight_kg": "滿載約 3,963 噸",
@@ -333,7 +340,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_054B_frigate"
         }
       ],
-      "mobility": "CODAD 4×柴油機；2 軸"
+      "mobility": "CODAD 4×柴油機；2 軸",
+      "image": "assets/images/type-054b.jpg"
     },
     "type-056a": {
       "weight_kg": "滿載約 1,500 噸",
@@ -345,7 +353,8 @@
           "label": "維基百科：056型輕型護衛艦",
           "url": "https://en.wikipedia.org/wiki/Type_056_corvette"
         }
-      ]
+      ],
+      "image": "assets/images/type-056a.jpg"
     },
     "type-056": {
       "weight_kg": "滿載約 1,500 噸",
@@ -357,7 +366,8 @@
           "label": "維基百科：056型輕型護衛艦",
           "url": "https://en.wikipedia.org/wiki/Type_056_corvette"
         }
-      ]
+      ],
+      "image": "assets/images/type-056.jpg"
     },
     "type-022": {
       "weight_kg": "滿載約 228 噸",
@@ -1177,7 +1187,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/gj-11.jpg"
     },
     "wz-7": {
       "range_m": "航程 7,000 km／作戰半徑 2,000 km",
@@ -2007,7 +2018,8 @@
           "url": "https://en.wikipedia.org/wiki/ZBL-08"
         }
       ],
-      "crew": "3＋7 兵"
+      "crew": "3＋7 兵",
+      "image": "assets/images/zbl-08.jpg"
     },
     "zbd-08": {
       "weight_kg": "約 21 噸",
@@ -2046,7 +2058,8 @@
           "url": "https://en.wikipedia.org/wiki/ZBL-08"
         }
       ],
-      "crew": "3＋11 兵"
+      "crew": "3＋11 兵",
+      "image": "assets/images/zsl-10.jpg"
     },
     "pgz-09": {
       "weight_kg": "PLZ-05 履帶底盤",
@@ -2389,7 +2402,8 @@
           "label": "維基百科：QBZ-191",
           "url": "https://en.wikipedia.org/wiki/QBZ-191"
         }
-      ]
+      ],
+      "image": "assets/images/qjy-201.jpg"
     },
     "qlg-10": {
       "caliber": "35mm 榴彈",
@@ -2402,7 +2416,8 @@
           "label": "維基百科：QBZ-191",
           "url": "https://en.wikipedia.org/wiki/QBZ-191"
         }
-      ]
+      ],
+      "image": "assets/images/qlg-10.jpg"
     },
     "qbz-95-1": {
       "caliber": "5.8×42mm DBP10",
@@ -2480,7 +2495,8 @@
           "label": "維基百科：88式狙擊步槍",
           "url": "https://en.wikipedia.org/wiki/QBU-88"
         }
-      ]
+      ],
+      "image": "assets/images/qbu-88.jpg"
     },
     "qbu-10": {
       "caliber": "12.7×108mm",
@@ -2597,7 +2613,8 @@
           "label": "維基百科：QJZ-89",
           "url": "https://en.wikipedia.org/wiki/QJZ-89"
         }
-      ]
+      ],
+      "image": "assets/images/qjz-171.jpg"
     },
     "type-67-mg": {
       "caliber": "7.62×54mmR",
@@ -2748,7 +2765,8 @@
           "label": "維基百科：ZSL-92／WZ551",
           "url": "https://en.wikipedia.org/wiki/ZSL-92"
         }
-      ]
+      ],
+      "image": "assets/images/zsl-92.jpg"
     },
     "type-92b": {
       "caliber": "30mm ZPT-99 機砲",
@@ -2760,7 +2778,8 @@
           "label": "維基百科：ZSL-92／WZ551",
           "url": "https://en.wikipedia.org/wiki/ZSL-92"
         }
-      ]
+      ],
+      "image": "assets/images/type-92b.jpg"
     },
     "type-62": {
       "caliber": "85mm Type 62-85TC 線膛砲",
@@ -2784,7 +2803,8 @@
           "label": "維基百科：PGZ-95",
           "url": "https://en.wikipedia.org/wiki/PGZ-95"
         }
-      ]
+      ],
+      "image": "assets/images/pgz-95.jpg"
     },
     "plz-89": {
       "caliber": "122mm 榴彈砲",
@@ -2832,7 +2852,8 @@
           "label": "維基百科：A100 MLRS",
           "url": "https://en.wikipedia.org/wiki/A100_multiple_rocket_launcher"
         }
-      ]
+      ],
+      "image": "assets/images/a100.jpg"
     },
     "type-83-sph": {
       "caliber": "152mm 加榴砲",
@@ -2972,7 +2993,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/df-27.jpg"
     },
     "type-63a": {
       "caliber": "105mm 線膛砲（雙穩）",
@@ -3104,7 +3126,8 @@
           "label": "維基百科：81式火箭砲",
           "url": "https://en.wikipedia.org/wiki/Type_81_122_mm_multiple_rocket_launcher"
         }
-      ]
+      ],
+      "image": "assets/images/phl-81.jpg"
     },
     "pgz-04a": {
       "caliber": "25mm 機砲＋飛彈",
@@ -3200,7 +3223,8 @@
           "label": "維基百科：BZK-005",
           "url": "https://en.wikipedia.org/wiki/BZK-005"
         }
-      ]
+      ],
+      "image": "assets/images/bzk-005.jpg"
     },
     "asn-209": {
       "caliber": "戰術偵察 UAV",
@@ -3212,7 +3236,8 @@
           "label": "維基百科：ASN-209",
           "url": "https://en.wikipedia.org/wiki/ASN-209"
         }
-      ]
+      ],
+      "image": "assets/images/asn-209.png"
     },
     "wj-700": {
       "caliber": "高速偵打 UAV",
@@ -3224,7 +3249,8 @@
           "label": "維基百科：WJ-700",
           "url": "https://en.wikipedia.org/wiki/WJ-700"
         }
-      ]
+      ],
+      "image": "assets/images/wj-700.png"
     },
     "ch-7": {
       "caliber": "匿蹤 UCAV（研發中）",
@@ -3352,7 +3378,8 @@
           "label": "維基百科：LD-10",
           "url": "https://en.wikipedia.org/wiki/LD-10"
         }
-      ]
+      ],
+      "image": "assets/images/ld-10.jpg"
     },
     "ft-series": {
       "caliber": "精確導引炸彈族",
@@ -3364,7 +3391,8 @@
           "label": "維基百科：彩虹無人機（FT/GB 武器）",
           "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
         }
-      ]
+      ],
+      "image": "assets/images/ft-series.jpg"
     },
     "gb-series": {
       "caliber": "精確導引炸彈族",
@@ -3376,7 +3404,8 @@
           "label": "維基百科：彩虹無人機（FT/GB 武器）",
           "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
         }
-      ]
+      ],
+      "image": "assets/images/gb-series.jpg"
     },
     "ba-9": {
       "caliber": "空射反戰車飛彈",
@@ -3460,7 +3489,8 @@
           "label": "維基百科：軍用架橋車",
           "url": "https://en.wikipedia.org/wiki/Armoured_vehicle-launched_bridge"
         }
-      ]
+      ],
+      "image": "assets/images/gcl-111.jpg"
     },
     "type-84-minelayer": {
       "caliber": "履帶布雷車",
@@ -3472,7 +3502,8 @@
           "label": "維基百科：布雷車",
           "url": "https://en.wikipedia.org/wiki/Minelayer"
         }
-      ]
+      ],
+      "image": "assets/images/type-84-minelayer.jpg"
     },
     "type-07-uniform": {
       "caliber": "07 式制式軍服",
