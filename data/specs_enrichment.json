@@ -2,7 +2,7 @@
   "meta": {
     "title": "諸元精修層（分批擴充；附引用出處）",
     "note": "覆蓋 range_m/caliber 等欄位並附 sources；apply 時於 patch 之後套用。批次1：火箭軍飛彈＋潛射彈道（CSIS Missile Threat／FAS-DoD CMPR 2024／MDAA）。",
-    "batch": "all branches; tail cleanup (2026-07-22 Claude)"
+    "batch": "all branches; tail cleanup (2026-07-22 Claude) + 待蒐7"
   },
   "items": {
     "df-15b": {
@@ -3531,6 +3531,98 @@
         {
           "label": "維基百科：解放軍軍服",
           "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
+        }
+      ]
+    },
+    "hq-6": {
+      "caliber": "近程防空飛彈（LY-60，半主動雷達導引）",
+      "range_m": "SAM 約 18 km（AAM 型約 60 km）",
+      "capacity": "Mach 3；彈重 220kg；可追 40 目標、同時接戰 3",
+      "mobility": "車載 TEL；反應 <15 分",
+      "sensors": "近程 SAM",
+      "data_status": "待蒐",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-6",
+          "url": "https://en.wikipedia.org/wiki/HQ-6"
+        },
+        {
+          "label": "⚠️ 待蒐：資料尚待權威來源核實"
+        }
+      ]
+    },
+    "fb-6c": {
+      "caliber": "近程防空系統（車載便攜彈）",
+      "range_m": "0.5–6.5 km（FN-16 飛彈）",
+      "capacity": "指揮車＋發射車＋FN-16 便攜防空飛彈",
+      "mobility": "猛士／HMMWV 級底盤",
+      "sensors": "近程 SAM",
+      "data_status": "待蒐",
+      "sources": [
+        {
+          "label": "Army Recognition：FB-6C（AirShow China）",
+          "url": "https://www.armyrecognition.com/archives/archives-land-defense/land-defense-2014/fb-6c-airshow-china-2014-press-release-20-november-2014-uk"
+        },
+        {
+          "label": "⚠️ 待蒐：資料尚待權威來源核實"
+        }
+      ]
+    },
+    "cs-sm1": {
+      "caliber": "81.4mm 車載速射迫擊砲",
+      "range_m": "0.8–6.2 km",
+      "capacity": "64 發；爆發 4 發/2 秒、戰鬥射速 40 發/分；EQ2050 4×4",
+      "weight_kg": "約 4.8 噸",
+      "notes_zh": "NORINCO CS/SM1 車載速射迫擊砲。⚠️ 原資料標「120mm」有誤，實為 81.4mm 口徑（另有 CS/SM4 才是 120mm）。",
+      "data_status": "待蒐",
+      "sources": [
+        {
+          "label": "GlobalSecurity：CS/SM1",
+          "url": "https://www.globalsecurity.org/military/world/china/cs-sm1.htm"
+        },
+        {
+          "label": "⚠️ 待蒐：資料尚待權威來源核實"
+        }
+      ]
+    },
+    "type-004-rumor": {
+      "caliber": "電磁彈射平甲板（推測）",
+      "capacity": "核動力（外界公開討論，官方未證實）",
+      "notes_zh": "外界推測的下一代核動力航母（Type 004?），官方尚未證實，諸元均為公開討論推測。",
+      "data_status": "待蒐",
+      "sources": [
+        {
+          "label": "⚠️ 待蒐：資料尚待權威來源核實"
+        }
+      ]
+    },
+    "bbg011a": {
+      "caliber": "單兵夜視器材",
+      "capacity": "微光／紅外夜視（型號細節公開資料有限）",
+      "data_status": "待蒐",
+      "sources": [
+        {
+          "label": "⚠️ 待蒐：資料尚待權威來源核實"
+        }
+      ]
+    },
+    "gcj-112": {
+      "caliber": "裝甲工程車系列",
+      "capacity": "掃雷／破障／工程作業（型號細節有限）",
+      "data_status": "待蒐",
+      "sources": [
+        {
+          "label": "⚠️ 待蒐：資料尚待權威來源核實"
+        }
+      ]
+    },
+    "pcz-171": {
+      "caliber": "突擊車變型",
+      "capacity": "PCL／PCZ 系列變型（公開資料有限）",
+      "data_status": "待蒐",
+      "sources": [
+        {
+          "label": "⚠️ 待蒐：資料尚待權威來源核實"
         }
       ]
     }

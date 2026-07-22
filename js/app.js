@@ -141,6 +141,7 @@
       authority_verified: !!item.authority_verified,
       branch: item.branch || "",
       sources: Array.isArray(item.sources) ? item.sources : [],
+      data_status: item.data_status || "",
     };
   }
 
@@ -324,6 +325,10 @@
                 item.authority_verified
                   ? '<span class="tag tag-auth">美方核對</span>'
                   : '<span class="tag tag-open">待核對</span>'
+              }${
+                item.data_status
+                  ? `<span class="tag tag-pending-collect">${escapeHtml(item.data_status)}</span>`
+                  : ""
               }</div>
             </div>
             <div class="card-side">
@@ -419,6 +424,7 @@
         <span class="cat-label ${item.category}">${CATEGORY_LABELS[item.category]} · ${escapeHtml(formZh)}</span>
         ${item.branch ? `<span class="branch-badge branch-${escapeAttr(item.branch)}">${escapeHtml(item.branch)}</span>` : ""}
         ${authBadge}
+        ${item.data_status ? `<span class="auth-badge pending-collect">${escapeHtml(item.data_status)}｜資料尚待權威來源核實</span>` : ""}
         <h2>${escapeHtml(item.name_zh)}</h2>
         <div class="en">${escapeHtml(item.name_en)}</div>
         <div class="desig-lg">${escapeHtml(item.designation)}</div>

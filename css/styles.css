@@ -594,6 +594,16 @@ a {
   border-color: rgba(240, 180, 41, 0.35) !important;
 }
 
+.tag-pending-collect {
+  color: #c78bff !important;
+  border-color: rgba(199, 139, 255, 0.4) !important;
+}
+.auth-badge.pending-collect {
+  color: #c78bff;
+  border: 1px solid rgba(199, 139, 255, 0.45);
+  background: rgba(199, 139, 255, 0.08);
+}
+
 .source-list {
   display: flex;
   flex-wrap: wrap;

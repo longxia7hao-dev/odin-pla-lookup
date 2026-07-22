@@ -11609,17 +11609,17 @@ window.EQUIPMENT_DATA = [
     "origin_zh": "中國",
     "service": "海軍",
     "service_zh": "海軍",
-    "caliber": "—",
+    "caliber": "電磁彈射平甲板（推測）",
     "crew": "—",
     "weight_kg": "—",
     "length_mm": "—",
     "range_m": "—",
     "rate_of_fire": "—",
-    "capacity": "—",
+    "capacity": "核動力（外界公開討論，官方未證實）",
     "armor": "—",
     "mobility": "核動力（傳聞／公開討論）",
     "sensors": "—",
-    "notes_zh": "公開媒體討論中之未來航母，非確認服役。",
+    "notes_zh": "外界推測的下一代核動力航母（Type 004?），官方尚未證實，諸元均為公開討論推測。",
     "notes_en": "Future carrier under public discussion only.",
     "tags": [
       "航母",
@@ -11635,7 +11635,13 @@ window.EQUIPMENT_DATA = [
     ],
     "form_zh": "載具／平台",
     "form_en": "warship",
-    "branch": "海軍"
+    "branch": "海軍",
+    "data_status": "待蒐",
+    "sources": [
+      {
+        "label": "⚠️ 待蒐：資料尚待權威來源核實"
+      }
+    ]
   },
   {
     "id": "type-730",
@@ -12162,13 +12168,13 @@ window.EQUIPMENT_DATA = [
     "origin_zh": "中國",
     "service": "解放軍",
     "service_zh": "解放軍",
-    "caliber": "—",
+    "caliber": "單兵夜視器材",
     "crew": "1",
     "weight_kg": "—",
     "length_mm": "—",
     "range_m": "—",
     "rate_of_fire": "—",
-    "capacity": "—",
+    "capacity": "微光／紅外夜視（型號細節公開資料有限）",
     "armor": "—",
     "mobility": "單兵",
     "sensors": "微光",
@@ -12190,7 +12196,13 @@ window.EQUIPMENT_DATA = [
     "us_designation": "BBG011A night-vision device",
     "dod_class": "Night-vision device",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "data_status": "待蒐",
+    "sources": [
+      {
+        "label": "⚠️ 待蒐：資料尚待權威來源核實"
+      }
+    ]
   },
   {
     "id": "gcl-111",
@@ -12256,13 +12268,13 @@ window.EQUIPMENT_DATA = [
     "origin_zh": "中國",
     "service": "陸軍",
     "service_zh": "陸軍",
-    "caliber": "—",
+    "caliber": "裝甲工程車系列",
     "crew": "—",
     "weight_kg": "—",
     "length_mm": "—",
     "range_m": "—",
     "rate_of_fire": "—",
-    "capacity": "—",
+    "capacity": "掃雷／破障／工程作業（型號細節有限）",
     "armor": "—",
     "mobility": "履帶／輪式",
     "sensors": "—",
@@ -12284,7 +12296,13 @@ window.EQUIPMENT_DATA = [
     "us_designation": "GCJ-112 combat engineer vehicle series",
     "dod_class": "Combat engineer vehicle",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "data_status": "待蒐",
+    "sources": [
+      {
+        "label": "⚠️ 待蒐：資料尚待權威來源核實"
+      }
+    ]
   },
   {
     "id": "type-84-minelayer",
@@ -12553,16 +12571,16 @@ window.EQUIPMENT_DATA = [
     "origin_zh": "中國",
     "service": "空軍防空",
     "service_zh": "空軍防空",
-    "caliber": "近程",
+    "caliber": "近程防空飛彈（LY-60，半主動雷達導引）",
     "crew": "—",
     "weight_kg": "—",
     "length_mm": "—",
-    "range_m": "約10–18km",
+    "range_m": "SAM 約 18 km（AAM 型約 60 km）",
     "rate_of_fire": "—",
-    "capacity": "—",
+    "capacity": "Mach 3；彈重 220kg；可追 40 目標、同時接戰 3",
     "armor": "—",
-    "mobility": "陸基",
-    "sensors": "—",
+    "mobility": "車載 TEL；反應 <15 分",
+    "sensors": "近程 SAM",
     "notes_zh": "近程防空飛彈系統（陸基）。",
     "notes_en": "HQ-6 (LY-60-based SR-SAM). Short-range surface-to-air missile.",
     "tags": [
@@ -12582,7 +12600,17 @@ window.EQUIPMENT_DATA = [
     "us_designation": "HQ-6 (LY-60-based SR-SAM)",
     "dod_class": "Short-range surface-to-air missile",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "data_status": "待蒐",
+    "sources": [
+      {
+        "label": "維基百科：紅旗-6",
+        "url": "https://en.wikipedia.org/wiki/HQ-6"
+      },
+      {
+        "label": "⚠️ 待蒐：資料尚待權威來源核實"
+      }
+    ]
   },
   {
     "id": "fb-6c",
@@ -12598,16 +12626,16 @@ window.EQUIPMENT_DATA = [
     "origin_zh": "中國",
     "service": "陸軍",
     "service_zh": "陸軍",
-    "caliber": "近程",
+    "caliber": "近程防空系統（車載便攜彈）",
     "crew": "—",
     "weight_kg": "—",
     "length_mm": "—",
-    "range_m": "—",
+    "range_m": "0.5–6.5 km（FN-16 飛彈）",
     "rate_of_fire": "—",
-    "capacity": "多聯裝",
+    "capacity": "指揮車＋發射車＋FN-16 便攜防空飛彈",
     "armor": "—",
-    "mobility": "車載",
-    "sensors": "—",
+    "mobility": "猛士／HMMWV 級底盤",
+    "sensors": "近程 SAM",
     "notes_zh": "便攜彈上車近程防空系統。",
     "notes_en": "FB-6C (short-range SAM). Short-range SAM (vehicle/portable).",
     "tags": [
@@ -12626,7 +12654,17 @@ window.EQUIPMENT_DATA = [
     "us_designation": "FB-6C (short-range SAM)",
     "dod_class": "Short-range SAM (vehicle/portable)",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "data_status": "待蒐",
+    "sources": [
+      {
+        "label": "Army Recognition：FB-6C（AirShow China）",
+        "url": "https://www.armyrecognition.com/archives/archives-land-defense/land-defense-2014/fb-6c-airshow-china-2014-press-release-20-november-2014-uk"
+      },
+      {
+        "label": "⚠️ 待蒐：資料尚待權威來源核實"
+      }
+    ]
   },
   {
     "id": "type-90-mlrs",
@@ -12795,17 +12833,17 @@ window.EQUIPMENT_DATA = [
     "origin_zh": "中國",
     "service": "出口／參考",
     "service_zh": "出口／參考",
-    "caliber": "120mm",
+    "caliber": "81.4mm 車載速射迫擊砲",
     "crew": "—",
-    "weight_kg": "—",
+    "weight_kg": "約 4.8 噸",
     "length_mm": "—",
-    "range_m": "—",
+    "range_m": "0.8–6.2 km",
     "rate_of_fire": "—",
-    "capacity": "—",
+    "capacity": "64 發；爆發 4 發/2 秒、戰鬥射速 40 發/分；EQ2050 4×4",
     "armor": "—",
     "mobility": "—",
     "sensors": "—",
-    "notes_zh": "120mm 迫擊砲系統（出口／新型）。",
+    "notes_zh": "NORINCO CS/SM1 車載速射迫擊砲。⚠️ 原資料標「120mm」有誤，實為 81.4mm 口徑（另有 CS/SM4 才是 120mm）。",
     "notes_en": "CS/SM1 (120mm mortar system). Mortar system (120mm).",
     "tags": [
       "迫擊砲"
@@ -12823,7 +12861,17 @@ window.EQUIPMENT_DATA = [
     "us_designation": "CS/SM1 (120mm mortar system)",
     "dod_class": "Mortar system (120mm)",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "data_status": "待蒐",
+    "sources": [
+      {
+        "label": "GlobalSecurity：CS/SM1",
+        "url": "https://www.globalsecurity.org/military/world/china/cs-sm1.htm"
+      },
+      {
+        "label": "⚠️ 待蒐：資料尚待權威來源核實"
+      }
+    ]
   },
   {
     "id": "type-86-ifv",
@@ -13094,13 +13142,13 @@ window.EQUIPMENT_DATA = [
     "origin_zh": "中國",
     "service": "陸軍",
     "service_zh": "陸軍",
-    "caliber": "依任務",
+    "caliber": "突擊車變型",
     "crew": "—",
     "weight_kg": "—",
     "length_mm": "—",
     "range_m": "—",
     "rate_of_fire": "—",
-    "capacity": "—",
+    "capacity": "PCL／PCZ 系列變型（公開資料有限）",
     "armor": "輕防護",
     "mobility": "高機動",
     "sensors": "—",
@@ -13122,7 +13170,13 @@ window.EQUIPMENT_DATA = [
     "us_designation": "PCZ-171 (assault-vehicle variant)",
     "dod_class": "Light assault vehicle variant",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "data_status": "待蒐",
+    "sources": [
+      {
+        "label": "⚠️ 待蒐：資料尚待權威來源核實"
+      }
+    ]
   },
   {
     "id": "hq-9a",
