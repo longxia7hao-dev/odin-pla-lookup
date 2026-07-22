@@ -1952,7 +1952,9 @@
           "label": "維基百科：05式兩棲車",
           "url": "https://en.wikipedia.org/wiki/ZBD-05"
         }
-      ]
+      ],
+      "name_zh": "05式兩棲步兵戰車",
+      "us_designation": "ZBD-05 (amphibious IFV)"
     },
     "ztd-05": {
       "weight_kg": "約 26.5 噸",
@@ -2010,7 +2012,8 @@
       ],
       "crew": "6",
       "range_m": "20 km（火箭增程 53 km）",
-      "rate_of_fire": "4–6 發/分"
+      "rate_of_fire": "4–6 發/分",
+      "image": "assets/images/pcl-181.png"
     },
     "zbl-08": {
       "weight_kg": "約 21 噸（族 15–25 噸）",
@@ -2258,7 +2261,8 @@
           "label": "維基百科：直-11",
           "url": "https://en.wikipedia.org/wiki/Changhe_Z-11"
         }
-      ]
+      ],
+      "image": "assets/images/z-11.jpg"
     },
     "mi-17": {
       "weight_kg": "俄製中型（Mi-8/17 系列）",
@@ -2356,7 +2360,8 @@
           "label": "維基百科：空警-600",
           "url": "https://en.wikipedia.org/wiki/KJ-600"
         }
-      ]
+      ],
+      "image": "assets/images/kj-600.jpg"
     },
     "qbz-191": {
       "caliber": "5.8×42mm",

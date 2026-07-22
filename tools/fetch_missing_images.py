@@ -64,6 +64,36 @@ def search_title(query):
 def _norm(s):
     return "".join(c for c in (s or "").lower() if c.isalnum())
 
+def commons_file_image(query):
+    """直接搜 Wikimedia Commons 檔案，回傳第一張合適圖（私有自用；仍過濾旗幟/圖示）。"""
+    u = ("https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search"
+         "&gsrnamespace=6&gsrlimit=8&gsrsearch=" + urllib.parse.quote(query)
+         + "&prop=imageinfo&iiprop=url|size|mime&iiurlwidth=800")
+    try:
+        d = json.load(GET(u))
+    except Exception:
+        return None
+    pages = list(d.get("query", {}).get("pages", {}).values())
+    pages.sort(key=lambda p: p.get("index", 99))
+    svg_fb = None
+    for pg in pages:
+        ttl = (pg.get("title") or "").lower()
+        if any(k in ttl for k in SKIP):
+            continue
+        ii = (pg.get("imageinfo") or [{}])[0]
+        mime = ii.get("mime", "")
+        if mime and not mime.startswith("image"):
+            continue  # 跳過 PDF 等
+        url = ii.get("thumburl") or ii.get("url")
+        if not url:
+            continue
+        if ttl.endswith(".svg"):
+            if svg_fb is None:
+                svg_fb = url
+            continue
+        return url
+    return svg_fb
+
 def titles_from_sources(item):
     """精修時存的 sources 內含正確的英文維基網址，抽出條目標題（最可靠）。"""
     out = []
@@ -92,17 +122,25 @@ def get_image_url(item):
                 return u
         except Exception:
             pass
-    # 2) 搜尋後備：僅在「找到的條目標題含型號/名稱關鍵詞」時採用，避免抓錯圖
+    # 3) 維基搜尋解析正確條目（修正 sources/wiki 標題錯誤，如 Type 83）→ 取前幾筆條目試圖
     desig = item.get("designation", "")
-    keys = [_norm(desig)] + [_norm(a) for a in (item.get("aliases") or [])]
-    keys = [k for k in keys if len(k) >= 3]
-    q = " ".join(x for x in [item.get("name_en", ""), desig, "China military"] if x)
+    q = " ".join(x for x in [item.get("name_en", ""), desig, "China"] if x)
     try:
-        t2 = search_title(q)
-        if t2 and any(k in _norm(t2) for k in keys):
-            return medialist_image(t2)
+        u = ("https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch="
+             + urllib.parse.quote(q))
+        d = json.load(GET(u))
+        for h in d.get("query", {}).get("search", []):
+            img = medialist_image(h["title"])
+            if img:
+                return img
     except Exception:
         pass
+    # 4) 直接搜 Commons 檔案（私有自用）
+    for cq in [f"{desig} China", f"{item.get('name_en','')} {desig}", desig]:
+        if cq.strip():
+            img = commons_file_image(cq.strip())
+            if img:
+                return img
     return None
 
 t = open("js/equipment-data.js", encoding="utf-8").read()

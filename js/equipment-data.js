@@ -2718,7 +2718,7 @@ window.EQUIPMENT_DATA = [
   },
   {
     "id": "zbd-05",
-    "name_zh": "05式兩棲突擊車",
+    "name_zh": "05式兩棲步兵戰車",
     "name_en": "ZBD-05 AAAV",
     "designation": "ZBD-05",
     "aliases": [
@@ -2753,7 +2753,7 @@ window.EQUIPMENT_DATA = [
     "image": "assets/images/zbd-05.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chinese_ZBD-05.jpg/330px-Chinese_ZBD-05.jpg",
-    "us_designation": "ZBD-05 AAAV",
+    "us_designation": "ZBD-05 (amphibious IFV)",
     "dod_class": "Amphibious IFV",
     "source_authority": [
       "DoD CMPR amphibious context",
@@ -3472,7 +3472,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "PCL-181",
-    "image": "",
+    "image": "assets/images/pcl-181.png",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "PCL-181 (export SH-15 related)",
     "dod_class": "Wheeled self-propelled howitzer",
@@ -6234,7 +6234,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Aircraft",
     "wiki": "KJ-600",
-    "image": "",
+    "image": "assets/images/kj-600.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "KJ-600",
     "dod_class": "Carrier AEW",
@@ -7363,7 +7363,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Aircraft",
     "wiki": "Harbin Z-11",
-    "image": "",
+    "image": "assets/images/z-11.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
