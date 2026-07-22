@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "name": "ODIN WEG 風格匯入範例",
+    "note": "將從 ODIN 整理的公開資料填入 items；odin_url 可連到官方條目",
+    "source": "https://odin.t2com.army.mil/WEG"
+  },
+  "items": [
+    {
+      "id": "ztz-99a-custom",
+      "name_zh": "99A 式主戰坦克（自訂範例）",
+      "name_en": "ZTZ-99A Main Battle Tank",
+      "designation": "ZTZ-99A",
+      "aliases": ["99A", "Type 99A"],
+      "category": "vehicle",
+      "subcategory": "mbt",
+      "origin": "China",
+      "origin_zh": "中國",
+      "service": "PLA Ground Force",
+      "service_zh": "解放軍陸軍",
+      "caliber": "125mm 滑膛砲",
+      "crew": "3",
+      "weight_kg": "約 55000",
+      "length_mm": "約 11000",
+      "range_m": "砲有效約 2000–3000+",
+      "rate_of_fire": "自動裝填",
+      "capacity": "約 40 發砲彈",
+      "armor": "複合裝甲＋ERA",
+      "mobility": "履帶；公路約 70–80 km/h",
+      "sensors": "熱像／射控",
+      "notes_zh": "請以 ODIN WEG 官方條目為準，此為匯入格式範例。",
+      "notes_en": "Example import record. Prefer official ODIN WEG values.",
+      "tags": ["坦克", "MBT", "裝甲"],
+      "odin_hint": "Armored Fighting Vehicles / Tanks",
+      "odin_url": "https://odin.t2com.army.mil/WEG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/ZTZ-99A_tank_front_20170902.jpg/640px-ZTZ-99A_tank_front_20170902.jpg",
+      "wiki": "Type_99_tank"
+    }
+  ]
+}

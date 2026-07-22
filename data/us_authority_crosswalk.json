@@ -1,0 +1,3509 @@
+{
+  "meta": {
+    "title": "US Authority Crosswalk for PLA Equipment Lookup",
+    "primary_sources": [
+      "DoD Military and Security Developments Involving the PRC 2025 (CMPR)",
+      "FAS Chinese Nuclear Weapons 2024 (CSS designators)",
+      "US Navy open ship-class nomenclature (Renhai/Luyang/Jiangkai/Yuan/Jin/Shang)",
+      "ODIN WEG (structure/field model; live fetch may require US network)"
+    ],
+    "note": "Training reference only. Prefer original DoD/ODIN text for formal citation."
+  },
+  "patches": {
+    "df-15b": {
+      "us_designation": "CSS-6 (family)",
+      "dod_class": "SRBM",
+      "range_m": "300–1,000 km（DoD：DF-11A/DF-15/DF-16 族 SRBM 帶）",
+      "notes_zh": "近程彈道飛彈（SRBM）。DoD CMPR 將 DF-15 與 DF-11A、DF-16 列為對陸 SRBM（約 300–1000 km）。",
+      "notes_en": "SRBM. DoD CMPR lists DF-15 with DF-11A/DF-16 as land-attack SRBMs (300–1000 km).",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "category": "weapon",
+      "subcategory": "ballistic",
+      "form_zh": "近程彈道飛彈（SRBM）",
+      "form_en": "Short-Range Ballistic Missile (SRBM)"
+    },
+    "df-16": {
+      "us_designation": "CSS-11 (reported family)",
+      "dod_class": "SRBM",
+      "range_m": "300–1,000 km（DoD SRBM 帶）",
+      "notes_zh": "近程彈道飛彈。DoD 將 DF-16 與 DF-11A、DF-15 並列 SRBM 對陸打擊。",
+      "notes_en": "SRBM land-attack. Grouped with DF-11A/DF-15 in DoD CMPR table.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "近程彈道飛彈（SRBM）",
+      "form_en": "SRBM"
+    },
+    "df-21d": {
+      "us_designation": "CSS-5 Mod (ASBM variant)",
+      "dod_class": "MRBM / ASBM",
+      "range_m": "1,500–2,000 km（DoD：DF-17/DF-21 帶；公開常稱 DF-21D >1,500 km）",
+      "notes_zh": "中程彈道飛彈／反艦彈道飛彈（ASBM）。DoD 將 DF-21 列為 MRBM，任務含對陸／反艦。公開報告指 DF-21D 為反艦型。FAS：DF-21 族 NATO CSS-5。",
+      "notes_en": "MRBM/ASBM. DoD lists DF-21 as MRBM (land attack/anti-ship). FAS: CSS-5 family.",
+      "source_authority": [
+        "DoD CMPR 2025",
+        "FAS 2024"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "中程彈道飛彈／反艦彈道飛彈（MRBM/ASBM）",
+      "form_en": "MRBM / Anti-Ship Ballistic Missile"
+    },
+    "df-21a": {
+      "us_designation": "CSS-5 Mod 2",
+      "dod_class": "MRBM",
+      "range_m": "約 1,750–2,150 km（DoD／USAF 公開區間）",
+      "notes_zh": "中程彈道飛彈。FAS：CSS-5 Mods。DoD 近年核任務敘述中 DF-21 核角色淡出，以 DF-26 為主。",
+      "notes_en": "MRBM. FAS CSS-5. Nuclear role largely superseded by DF-26 per recent DoD/FAS assessments.",
+      "source_authority": [
+        "DoD CMPR 2025",
+        "FAS 2024"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "中程彈道飛彈（MRBM）",
+      "form_en": "Medium-Range Ballistic Missile (MRBM)"
+    },
+    "df-26": {
+      "us_designation": "CSS-18",
+      "dod_class": "IRBM",
+      "range_m": "3,000–4,000 km（DoD CMPR）",
+      "notes_zh": "中程彈道飛彈（IRBM）。DoD：對陸／反艦；雙重能力（核／常規）公開敘述。FAS NATO：CSS-18。",
+      "notes_en": "IRBM. DoD: land attack/anti-ship; dual-capable. FAS: CSS-18.",
+      "source_authority": [
+        "DoD CMPR 2025",
+        "FAS 2024"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "中程彈道飛彈（IRBM）",
+      "form_en": "Intermediate-Range Ballistic Missile (IRBM)"
+    },
+    "df-17": {
+      "us_designation": "DF-17 (HGV booster)",
+      "dod_class": "MRBM (HGV)",
+      "range_m": "1,500–2,000 km（DoD：與 DF-21 同列 MRBM 帶）",
+      "notes_zh": "中程彈道飛彈＋高超音速滑翔載具（HGV）。DoD 將 DF-17 列為常規 MRBM（對陸／反艦帶），非核表列系統（FAS 亦採 DoD 常規判定）。",
+      "notes_en": "MRBM with HGV. DoD lists as conventional MRBM; not in nuclear table per FAS reading of DoD.",
+      "source_authority": [
+        "DoD CMPR 2025",
+        "FAS 2024"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "中程彈道飛彈／高超音速滑翔（MRBM+HGV）",
+      "form_en": "MRBM with Hypersonic Glide Vehicle"
+    },
+    "df-31ag": {
+      "us_designation": "CSS-10 Mod 2",
+      "dod_class": "ICBM",
+      "range_m": "約 11,200 km（FAS 據美方資料）",
+      "notes_zh": "洲際彈道飛彈（ICBM），公路機動。FAS：CSS-10 Mod 2。DoD 亦提及 DF-31 級井射固推 ICBM。",
+      "notes_en": "Road-mobile ICBM. FAS: CSS-10 Mod 2.",
+      "source_authority": [
+        "FAS 2024",
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "洲際彈道飛彈（ICBM）",
+      "form_en": "Intercontinental Ballistic Missile (ICBM)"
+    },
+    "df-41": {
+      "us_designation": "CSS-20",
+      "dod_class": "ICBM",
+      "range_m": "約 12,000 km（FAS）",
+      "notes_zh": "洲際彈道飛彈。FAS：CSS-20（機動／井射敘述）。可多彈頭公開估計。",
+      "notes_en": "ICBM. FAS: CSS-20. MIRV-capable estimates in open US-linked analyses.",
+      "source_authority": [
+        "FAS 2024",
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "洲際彈道飛彈（ICBM）",
+      "form_en": "ICBM"
+    },
+    "df-5c": {
+      "us_designation": "CSS-4 Mod 4 (reported)",
+      "dod_class": "ICBM",
+      "range_m": "約 13,000 km（FAS：DF-5 族）",
+      "notes_zh": "井基液體燃料洲際彈道飛彈。FAS：DF-5 族 CSS-4。",
+      "notes_en": "Silo liquid-fuel ICBM. FAS: CSS-4 family.",
+      "source_authority": [
+        "FAS 2024"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "洲際彈道飛彈（井基液體）",
+      "form_en": "Silo-based liquid-fuel ICBM"
+    },
+    "jl-2": {
+      "us_designation": "CSS-N-14",
+      "dod_class": "SLBM",
+      "range_m": "約 7,000+ km（FAS）",
+      "notes_zh": "潛射彈道飛彈。FAS：CSS-N-14。美方公開敘述 094 型正升級至 JL-3。",
+      "notes_en": "SLBM. FAS: CSS-N-14. Type 094 force upgrading toward JL-3 per US open reporting.",
+      "source_authority": [
+        "FAS 2024",
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "潛射彈道飛彈（SLBM）",
+      "form_en": "Submarine-Launched Ballistic Missile (SLBM)"
+    },
+    "jl-3": {
+      "us_designation": "CSS-N-20",
+      "dod_class": "SLBM",
+      "range_m": "約 9,000+ km（FAS）",
+      "notes_zh": "潛射彈道飛彈。FAS：CSS-N-20。裝備／升級 094／094A，未來或對應 096。",
+      "notes_en": "SLBM. FAS: CSS-N-20. Type 094/A; future Type 096.",
+      "source_authority": [
+        "FAS 2024",
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "潛射彈道飛彈（SLBM）",
+      "form_en": "SLBM"
+    },
+    "cj-10": {
+      "us_designation": "CJ-10 / DH-10 (GLCM)",
+      "dod_class": "GLCM",
+      "range_m": "1,500–2,000 km（DoD：CJ-10/CJ-100 GLCM 帶）",
+      "notes_zh": "陸射巡航飛彈（GLCM）。DoD 將 CJ-10 與 CJ-100 並列，對陸／反艦帶。",
+      "notes_en": "Ground-launched cruise missile. DoD table: CJ-10/CJ-100 GLCM 1500–2000 km.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "陸射巡航飛彈（GLCM）",
+      "form_en": "Ground-Launched Cruise Missile (GLCM)",
+      "subcategory": "cruise"
+    },
+    "df-100": {
+      "us_designation": "CJ-100 / DF-100",
+      "dod_class": "GLCM",
+      "range_m": "1,500–2,000 km（DoD GLCM 帶）",
+      "notes_zh": "陸射巡航飛彈。DoD 表列 CJ-100 與 CJ-10 同帶（1500–2000 km）。",
+      "notes_en": "GLCM. DoD lists CJ-100 with CJ-10.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "陸射巡航飛彈（GLCM）",
+      "form_en": "GLCM",
+      "subcategory": "cruise"
+    },
+    "cj-20": {
+      "us_designation": "CJ-20 (ALCM)",
+      "dod_class": "ALCM",
+      "range_m": "與 H-6 組合作戰半徑合計約 4,000–5,500 km（DoD：H-6+YJ-21/CJ-20）",
+      "notes_zh": "空射巡航飛彈。DoD：H-6 掛載 CJ-20／YJ-21 之對陸能力。",
+      "notes_en": "Air-launched cruise missile used with H-6 per DoD strike table.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "空射巡航飛彈（ALCM）",
+      "form_en": "Air-Launched Cruise Missile (ALCM)"
+    },
+    "yj-12": {
+      "us_designation": "YJ-12 (AShM)",
+      "dod_class": "ALCM / AShM",
+      "range_m": "與 H-6 組合約 3,100–4,000 km 作戰半徑（DoD 表；彈本身為反艦）",
+      "notes_zh": "超音速反艦飛彈。DoD：H-6 掛 YJ-12／YJ-83 反艦。",
+      "notes_en": "Supersonic anti-ship missile. DoD: H-6 with YJ-12/YJ-83 anti-ship.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "空射／反艦巡航飛彈（AShM）",
+      "form_en": "Anti-Ship Cruise Missile (supersonic)"
+    },
+    "yj-83": {
+      "us_designation": "YJ-83 / C-802 family (export)",
+      "dod_class": "AShM",
+      "range_m": "與 H-6 組合 DoD 反艦帶；彈本身典型約 180+ km 級（公開）",
+      "notes_zh": "亞音速反艦飛彈。DoD 明確將 YJ-83 與 YJ-12 並列 H-6 反艦掛載。",
+      "notes_en": "Subsonic AShM. Explicitly listed with YJ-12 on H-6 in DoD CMPR.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "反艦巡航飛彈（AShM）",
+      "form_en": "Anti-Ship Cruise Missile"
+    },
+    "yj-21": {
+      "us_designation": "YJ-21 (hypersonic ASBM/ALBM)",
+      "dod_class": "ALBM / hypersonic AShM",
+      "range_m": "與 H-6 組合約 4,000–5,500 km（DoD）；2024 公開轟炸機投射型",
+      "notes_zh": "高超音速反艦／空射彈道類武器。DoD 2025：2024 年 5 月公開轟炸機投射型 YJ-21；亦有 055 型試射公開報導。",
+      "notes_en": "Hypersonic ASBM/ALBM. DoD: bomber-launched YJ-21 revealed May 2024; Type 055 tests in open reporting.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "高超音速反艦／空射彈道飛彈",
+      "form_en": "Hypersonic anti-ship / air-launched ballistic missile"
+    },
+    "yj-18": {
+      "us_designation": "YJ-18 (AShM)",
+      "dod_class": "AShM",
+      "range_m": "公開估計約 220–540 km（非 CMPR 表列彈種；艦／潛射主力反艦）",
+      "notes_zh": "艦射／潛射反艦巡航飛彈（亞音速巡航＋末端超音速公開描述）。美方海軍／智庫常作 PLAN 垂發反艦主力討論；CMPR 2025 常規遠程表以 YJ-12/83 為空射代表。",
+      "notes_en": "Ship/sub AShM widely discussed in US naval analyses; CMPR long-range table highlights air-launched YJ-12/83.",
+      "source_authority": [
+        "US open naval analyses",
+        "DoD CMPR context"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "反艦巡航飛彈（艦／潛射）",
+      "form_en": "Anti-Ship Cruise Missile (ship/sub launched)"
+    },
+    "pl-15": {
+      "us_designation": "PL-15 (AAM)",
+      "dod_class": "BVR AAM",
+      "range_m": "遠程主動雷達（公開）；DoD 提及出口改進型 PL-15",
+      "notes_zh": "遠程空對空飛彈。DoD 2025：航展公開 PL-15 等出口型改進。",
+      "notes_en": "Long-range AAM. DoD notes export PL-15 variants at Airshow China 2024.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "遠程空對空飛彈（BVR AAM）",
+      "form_en": "Beyond-Visual-Range Air-to-Air Missile"
+    },
+    "pl-17": {
+      "us_designation": "PL-17 (AAM)",
+      "dod_class": "VLRAAM",
+      "range_m": "DoD：J-16+PL-17 反航空高價值目標合計作戰半徑示意約 1,400 km",
+      "notes_zh": "超遠程空對空飛彈。DoD 表：J-16 with PL-17，任務反空／高價值空中目標（HVAA）。",
+      "notes_en": "Very-long-range AAM. DoD table: J-16 with PL-17 against HVAA.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "超遠程空對空飛彈",
+      "form_en": "Very-Long-Range Air-to-Air Missile"
+    },
+    "pl-12": {
+      "us_designation": "PL-12 / SD-10 (export)",
+      "dod_class": "BVR AAM",
+      "notes_zh": "中遠程空對空飛彈。DoD 提及出口型 PL-12A 等。",
+      "notes_en": "BVR AAM. DoD notes export PL-12A variants.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "中遠程空對空飛彈",
+      "form_en": "BVR AAM"
+    },
+    "pl-10": {
+      "us_designation": "PL-10 (AAM)",
+      "dod_class": "SRAAM",
+      "notes_zh": "近距紅外成像空對空飛彈（高離軸角公開描述）。",
+      "notes_en": "Short-range IR AAM (HOBS).",
+      "source_authority": [
+        "US open airpower analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "近距空對空飛彈（IR）",
+      "form_en": "Short-Range IR Air-to-Air Missile"
+    },
+    "j-20": {
+      "us_designation": "J-20 (PLAAF 5th-gen)",
+      "dod_class": "5th-generation fighter",
+      "notes_zh": "第五代戰鬥機。DoD：已作戰部署；持續增產與改進；雙座型可控制無人僚機公開模型。",
+      "notes_en": "5th-gen fighter. DoD: operationally fielded; production expansion; two-seat loyal wingman control model shown.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "第五代匿蹤制空／多用途戰鬥機",
+      "form_en": "5th-generation stealth fighter",
+      "service_zh": "解放軍空軍（PLAAF）"
+    },
+    "j-20s": {
+      "us_designation": "J-20 two-seat variant",
+      "dod_class": "5th-generation fighter",
+      "notes_zh": "殲-20 雙座型。DoD：公開展示可控制無人僚機之雙座構型。",
+      "notes_en": "Two-seat J-20; DoD notes loyal-wingman control concept model.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "第五代雙座戰鬥機",
+      "form_en": "5th-gen two-seat fighter"
+    },
+    "j-35a": {
+      "us_designation": "J-35A",
+      "dod_class": "5th-generation fighter",
+      "notes_zh": "第五代戰鬥機（空軍型）。DoD 2025：2024 重大亮相包括 J-35A。",
+      "notes_en": "5th-gen fighter. DoD: major 2024 debut includes J-35A.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "第五代戰鬥機（空軍）",
+      "form_en": "5th-generation fighter (PLAAF)"
+    },
+    "j-35": {
+      "us_designation": "J-35 (carrier)",
+      "dod_class": "5th-generation carrier fighter",
+      "notes_zh": "艦載第五代戰鬥機。DoD：福建艦未來艦載機聯隊含 J-35。",
+      "notes_en": "Carrier 5th-gen fighter. DoD: intended for Fujian air wing.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "艦載第五代戰鬥機",
+      "form_en": "Carrier-based 5th-generation fighter",
+      "service_zh": "解放軍海軍航空兵（PLANAF）"
+    },
+    "j-16": {
+      "us_designation": "J-16",
+      "dod_class": "4.5-gen multirole fighter",
+      "notes_zh": "重型多用途戰鬥機。DoD 多次提及 J-16 與 J-20 為 PLAAF 先進戰力，並可掛 PL-17。",
+      "notes_en": "Heavy multirole fighter. DoD pairs J-16 with advanced PLAAF force and PL-17.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "重型多用途戰鬥機",
+      "form_en": "Heavy multirole fighter"
+    },
+    "j-16d": {
+      "us_designation": "J-16D (EW)",
+      "dod_class": "Electronic warfare aircraft",
+      "notes_zh": "電子戰型殲-16。",
+      "notes_en": "Electronic-warfare variant of J-16.",
+      "source_authority": [
+        "US open airpower analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "電子戰飛機",
+      "form_en": "Electronic warfare aircraft"
+    },
+    "j-10c": {
+      "us_designation": "J-10C",
+      "dod_class": "4th-generation multirole fighter",
+      "notes_zh": "第四代多用途戰鬥機。DoD 提及出口巴基斯坦等。",
+      "notes_en": "4th-gen multirole; DoD notes exports (e.g., Pakistan).",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "第四代多用途戰鬥機",
+      "form_en": "4th-generation multirole fighter"
+    },
+    "j-15": {
+      "us_designation": "J-15 Flying Shark",
+      "dod_class": "Carrier-based fighter",
+      "notes_zh": "艦載戰鬥機。DoD：遼寧／山東艦載 J-15；福建艦聯隊含 J-15T。",
+      "notes_en": "Carrier fighter. DoD: J-15 on Liaoning/Shandong; J-15T for Fujian air wing.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "艦載戰鬥機",
+      "form_en": "Carrier-based multirole fighter"
+    },
+    "j-15t": {
+      "us_designation": "J-15T",
+      "dod_class": "Carrier fighter (CATOBAR-capable)",
+      "notes_zh": "彈射適改装艦載戰鬥機。DoD：福建艦未來聯隊含 J-15T。",
+      "notes_en": "CATOBAR-capable J-15. DoD: Fujian air wing.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "艦載戰鬥機（彈射）",
+      "form_en": "Carrier fighter (catapult-capable)"
+    },
+    "j-15d": {
+      "us_designation": "J-15D",
+      "dod_class": "Carrier EW aircraft",
+      "notes_zh": "艦載電子戰機。DoD 2025 列為 2024 重大亮相與福建聯隊組成。",
+      "notes_en": "Carrier EW. DoD 2024 debut; Fujian air wing.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "艦載電子戰機",
+      "form_en": "Carrier-borne electronic warfare aircraft"
+    },
+    "h-6k": {
+      "us_designation": "H-6K",
+      "dod_class": "Bomber",
+      "notes_zh": "轟炸機。DoD 以 H-6 系列掛載巡航／反艦／YJ-21 等執行遠程打擊。",
+      "notes_en": "Bomber. DoD strike tables center on H-6 family weapons.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "轟炸機",
+      "form_en": "Bomber"
+    },
+    "h-6n": {
+      "us_designation": "H-6N",
+      "dod_class": "Bomber (nuclear-capable ALBM role in US reporting)",
+      "notes_zh": "可空中加油轟炸機。DoD：H-6N 之空射彈道飛彈（ALBM）屬高精度戰區核／打擊選項敘述之一。",
+      "notes_en": "Probe-equipped bomber. DoD: H-6N ALBM as precise theater weapon option.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "轟炸機（可加油／ALBM 任務敘述）",
+      "form_en": "Bomber with ALBM mission in US reporting"
+    },
+    "h-6j": {
+      "us_designation": "H-6J (PLANAF)",
+      "dod_class": "Maritime strike bomber",
+      "notes_zh": "海軍航空兵轟炸機，反艦任務導向。",
+      "notes_en": "PLANAF maritime strike bomber.",
+      "source_authority": [
+        "US open naval aviation analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "海軍轟炸機（反艦）",
+      "form_en": "Naval bomber (anti-ship)"
+    },
+    "kj-500": {
+      "us_designation": "KJ-500",
+      "dod_class": "AEW&C",
+      "notes_zh": "空中預警與管制機。DoD 點名 KJ-500 為支援先進戰機整合之重要支援機。",
+      "notes_en": "AEW&C. DoD cites KJ-500 supporting advanced fighter integration.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "空中預警管制機（AEW&C）",
+      "form_en": "Airborne Early Warning and Control"
+    },
+    "y-20": {
+      "us_designation": "Y-20 / Y-20B",
+      "dod_class": "Strategic transport",
+      "notes_zh": "戰略運輸機。DoD：Y-20B＋WS-20 引擎；並發展 Y-20B 平台預警等特種任務。",
+      "notes_en": "Strategic airlifter. DoD: Y-20B/WS-20; AEW program on Y-20B airframe.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "戰略運輸機",
+      "form_en": "Strategic transport aircraft"
+    },
+    "z-20": {
+      "us_designation": "Z-20",
+      "dod_class": "Medium utility helicopter",
+      "notes_zh": "中型通用直升機。DoD：福建艦聯隊含 Z-20；054B 可搭載更大型通用直升機如 Z-20。",
+      "notes_en": "Medium utility helo. DoD: Fujian air wing; Type 054B can embark larger helos such as Z-20.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "中型通用直升機",
+      "form_en": "Medium utility helicopter"
+    },
+    "kj-600": {
+      "us_designation": "KJ-600",
+      "dod_class": "Carrier AEW",
+      "notes_zh": "艦載預警機。DoD：福建艦未來聯隊含 KJ-600。",
+      "notes_en": "Carrier AEW. DoD: Fujian air wing includes KJ-600.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "艦載預警機",
+      "form_en": "Carrier-based AEW aircraft"
+    },
+    "type-003": {
+      "name_zh": "003型航空母艦 福建艦（CV-18）",
+      "us_designation": "Fujian (CV-18) / Type 003",
+      "dod_class": "Aircraft carrier (CATOBAR/EMALS)",
+      "notes_zh": "航空母艦。DoD：福建艦（CV-18），首艘國產平甲板彈射航母，電磁彈射；2024 海試／著艦報導。未來聯隊：J-35、J-15T、J-15D、Z-20、KJ-600 與 UAV。",
+      "notes_en": "Carrier CV-18 Fujian. DoD: first indigenous flat-deck EMALS carrier; air wing J-35, J-15T/D, Z-20, KJ-600, UAVs.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "航空母艦（電磁彈射／平甲板）",
+      "form_en": "Aircraft carrier (EMALS CATOBAR)",
+      "aliases": [
+        "福建艦",
+        "003",
+        "CV-18",
+        "Fujian"
+      ]
+    },
+    "type-002": {
+      "us_designation": "Shandong (CV-17) / Type 002",
+      "dod_class": "Aircraft carrier (STOBARski-jump)",
+      "notes_zh": "航空母艦。DoD：山東艦與遼寧艦為現役雙航母，2024 首次雙航母演訓。",
+      "notes_en": "CV-17 Shandong. DoD: dual-carrier ops with Liaoning in 2024.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "航空母艦（滑躍）",
+      "form_en": "Aircraft carrier (ski-jump)",
+      "aliases": [
+        "山東艦",
+        "002",
+        "CV-17"
+      ]
+    },
+    "type-001": {
+      "us_designation": "Liaoning (CV-16) / Type 001",
+      "dod_class": "Aircraft carrier (ski-jump)",
+      "notes_zh": "航空母艦。DoD：遼寧艦（與山東艦）現役作戰訓練。",
+      "notes_en": "CV-16 Liaoning. Operational with Shandong per DoD.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "航空母艦（滑躍）",
+      "form_en": "Aircraft carrier (ski-jump)",
+      "aliases": [
+        "遼寧艦",
+        "001",
+        "CV-16"
+      ]
+    },
+    "type-055": {
+      "us_designation": "Renhai-class / Type 055",
+      "dod_class": "Cruiser / large destroyer (USN often cruiser)",
+      "notes_zh": "大型水面作戰艦。美軍／美方文獻常稱 Renhai 級巡洋艦（cruisers），112 單元垂發；公開討論可發射反艦、對陸、防空、反潛等多型導彈，含 YJ-21 試射報導。",
+      "notes_en": "Renhai class. US analyses often classify as cruiser; 112 VLS; multi-mission including reported YJ-21 tests.",
+      "source_authority": [
+        "DoD CMPR 2025",
+        "US Naval War College / open US naval analyses"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "大型導彈驅逐艦／巡洋艦（Renhai 級）",
+      "form_en": "Renhai-class cruiser / large multi-mission combatant",
+      "aliases": [
+        "055",
+        "南昌艦級",
+        "Renhai",
+        "Renhai-class"
+      ]
+    },
+    "type-052d": {
+      "us_designation": "Luyang III-class / Type 052D",
+      "dod_class": "Guided-missile destroyer (DDG)",
+      "notes_zh": "導彈驅逐艦。美方艦級名 Luyang III；PLAN 主力區域防空／多用途驅逐艦。",
+      "notes_en": "Luyang III-class DDG. Mainstay PLAN multi-mission destroyer.",
+      "source_authority": [
+        "US Navy open ship-class nomenclature",
+        "DoD CMPR context"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "導彈驅逐艦（DDG，Luyang III 級）",
+      "form_en": "Guided-missile destroyer (Luyang III)",
+      "aliases": [
+        "052D",
+        "昆明艦級",
+        "Luyang III"
+      ]
+    },
+    "type-052c": {
+      "us_designation": "Luyang II-class / Type 052C",
+      "dod_class": "Guided-missile destroyer (DDG)",
+      "notes_zh": "導彈驅逐艦。美方艦級名 Luyang II。",
+      "notes_en": "Luyang II-class DDG.",
+      "source_authority": [
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "導彈驅逐艦（Luyang II 級）",
+      "form_en": "DDG (Luyang II)",
+      "aliases": [
+        "052C",
+        "蘭州艦級",
+        "Luyang II"
+      ]
+    },
+    "type-054a": {
+      "us_designation": "Jiangkai II-class / Type 054A",
+      "dod_class": "Frigate (FFG)",
+      "notes_zh": "導彈護衛艦。美方艦級名 Jiangkai II；DoD 對照 054B 為新一代、大於 054A。",
+      "notes_en": "Jiangkai II FFG. DoD: Type 054B is larger next-gen vs 054A.",
+      "source_authority": [
+        "DoD CMPR 2025",
+        "US ship-class nomenclature"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "導彈護衛艦（FFG，Jiangkai II 級）",
+      "form_en": "Guided-missile frigate (Jiangkai II)",
+      "aliases": [
+        "054A",
+        "Jiangkai II"
+      ]
+    },
+    "type-054b": {
+      "us_designation": "Type 054B",
+      "dod_class": "Frigate (FFG)",
+      "notes_zh": "新一代護衛艦。DoD：2025 初服役首艦；大於 054A，火力增強，可搭載 Z-20 級通用直升機。",
+      "notes_en": "Next-gen frigate. DoD: first commissioned early 2025; larger than 054A; Z-20 capable.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "導彈護衛艦（新一代）",
+      "form_en": "Next-generation frigate"
+    },
+    "type-056a": {
+      "us_designation": "Jiangdao-class / Type 056A",
+      "dod_class": "Corvette (FS)",
+      "notes_zh": "輕型護衛艦／輕護衛（美方 Jiangdao 級）。反潛加強型 056A。",
+      "notes_en": "Jiangdao-class corvette; 056A ASW-oriented.",
+      "source_authority": [
+        "US ship-class nomenclature"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "輕型護衛艦（Corvette）",
+      "form_en": "Corvette (Jiangdao class)",
+      "aliases": [
+        "056A",
+        "江島級",
+        "Jiangdao"
+      ]
+    },
+    "type-075": {
+      "us_designation": "Yushen-class / Type 075 LHD",
+      "dod_class": "Landing Helicopter Dock (LHD)",
+      "notes_zh": "兩棲攻擊艦（LHD）。美方艦級名常作 Yushen。",
+      "notes_en": "LHD. US open nomenclature often Yushen class.",
+      "source_authority": [
+        "US open naval analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "兩棲攻擊艦（LHD）",
+      "form_en": "Landing Helicopter Dock (LHD)",
+      "aliases": [
+        "075",
+        "海南艦級",
+        "Yushen"
+      ]
+    },
+    "type-076": {
+      "us_designation": "Type 076 LHA/LHD (UAV-capable)",
+      "dod_class": "Amphibious assault ship with EMALS",
+      "notes_zh": "兩棲攻擊艦。DoD：2024 年底下水首艘 076，具備電磁彈射，可能搭載 UAV。",
+      "notes_en": "DoD: first Type 076 launched late 2024 with EMALS; likely UAV-centric air ops.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "兩棲攻擊艦（電磁彈射／無人機）",
+      "form_en": "Amphibious assault ship (EMALS/UAV)"
+    },
+    "type-071": {
+      "us_designation": "Yuzhao-class / Type 071 LPD",
+      "dod_class": "Landing Platform Dock (LPD)",
+      "notes_zh": "船塢登陸艦（LPD）。美方艦級名 Yuzhao。",
+      "notes_en": "LPD. US nomenclature Yuzhao class.",
+      "source_authority": [
+        "US open naval analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "船塢登陸艦（LPD）",
+      "form_en": "Landing Platform Dock (LPD)",
+      "aliases": [
+        "071",
+        "崑崙山級",
+        "Yuzhao"
+      ]
+    },
+    "type-094": {
+      "us_designation": "Jin-class / Type 094 SSBN",
+      "dod_class": "Ballistic missile submarine (SSBN)",
+      "notes_zh": "彈道飛彈核潛艦。美方艦級名 Jin；FAS／DoD：升級 JL-3。",
+      "notes_en": "Jin-class SSBN. Upgrading to JL-3 per FAS/DoD open reporting.",
+      "source_authority": [
+        "DoD CMPR 2025",
+        "FAS 2024"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "彈道飛彈核潛艦（SSBN，Jin 級）",
+      "form_en": "SSBN (Jin class)",
+      "aliases": [
+        "094",
+        "晉級",
+        "Jin-class"
+      ]
+    },
+    "type-093": {
+      "us_designation": "Shang-class / Type 093 SSN",
+      "dod_class": "Nuclear attack submarine (SSN)",
+      "notes_zh": "攻擊核潛艦。美方艦級名 Shang。",
+      "notes_en": "Shang-class SSN.",
+      "source_authority": [
+        "US open naval analyses"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "攻擊核潛艦（SSN，Shang 級）",
+      "form_en": "Nuclear-powered attack submarine (Shang class)",
+      "aliases": [
+        "093",
+        "商級",
+        "Shang-class"
+      ]
+    },
+    "type-093b": {
+      "us_designation": "Shang III / Type 093B",
+      "dod_class": "SSN (improved)",
+      "notes_zh": "攻擊核潛艦改進型。美方公開討論 093B／巡航導彈能力相關。",
+      "notes_en": "Improved Shang-class SSN in open US naval discussion.",
+      "source_authority": [
+        "US open naval analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "攻擊核潛艦（改進型）",
+      "form_en": "Improved SSN"
+    },
+    "type-039a": {
+      "us_designation": "Yuan-class / Type 039A/041",
+      "dod_class": "Diesel-electric submarine (SSK, AIP)",
+      "notes_zh": "AIP 柴電潛艦。美方艦級名 Yuan。DoD 亦提及出口 Yuan 級進度。",
+      "notes_en": "Yuan-class AIP SSK. DoD notes export Yuan delivery status in CMPR.",
+      "source_authority": [
+        "DoD CMPR 2025",
+        "US ship-class nomenclature"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "AIP 柴電潛艦（SSK，Yuan 級）",
+      "form_en": "AIP diesel-electric submarine (Yuan class)",
+      "aliases": [
+        "039A",
+        "041",
+        "元級",
+        "Yuan-class"
+      ]
+    },
+    "type-039": {
+      "us_designation": "Song-class / Type 039",
+      "dod_class": "Diesel-electric submarine (SSK)",
+      "notes_zh": "柴電潛艦。美方艦級名 Song。",
+      "notes_en": "Song-class SSK.",
+      "source_authority": [
+        "US ship-class nomenclature"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "柴電潛艦（Song 級）",
+      "form_en": "Diesel-electric submarine (Song class)",
+      "aliases": [
+        "039",
+        "宋級",
+        "Song-class"
+      ]
+    },
+    "type-035": {
+      "us_designation": "Ming-class / Type 035",
+      "dod_class": "Diesel-electric submarine (legacy)",
+      "notes_zh": "舊式柴電潛艦。美方艦級名 Ming。",
+      "notes_en": "Ming-class legacy SSK.",
+      "source_authority": [
+        "US ship-class nomenclature"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "柴電潛艦（舊式，Ming 級）",
+      "form_en": "Legacy SSK (Ming class)"
+    },
+    "pcl-181": {
+      "us_designation": "PCL-181 (export SH-15 related)",
+      "dod_class": "Wheeled self-propelled howitzer",
+      "caliber": "155 mm",
+      "notes_zh": "輪式自走榴彈砲。DoD 2025：PLAA 部署 PCL-181 輪式自走榴彈砲；出口型常稱 SH-15。",
+      "notes_en": "Wheeled SPH. DoD: PLAA fielded PCL-181; export often SH-15.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "輪式自走榴彈砲（155mm）",
+      "form_en": "Wheeled self-propelled howitzer (155 mm)",
+      "subcategory": "truck_howitzer"
+    },
+    "phl-16": {
+      "us_designation": "PHL-16 / PCH-191 / AR-3",
+      "dod_class": "Modular MLRS",
+      "notes_zh": "模組化多管火箭系統。DoD 2025 明文：PHL-16／PCH-191／AR-3 模組火箭。",
+      "notes_en": "Modular MLRS. DoD explicitly: PHL-16/PCH-191/AR-3.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "模組化多管火箭系統（MLRS）",
+      "form_en": "Modular multiple rocket launcher system",
+      "aliases": [
+        "16式",
+        "PCL-191",
+        "PCH-191",
+        "AR-3",
+        "PHL-16"
+      ]
+    },
+    "ztz-99a": {
+      "us_designation": "Type 99A / ZTZ-99A",
+      "dod_class": "Main battle tank (MBT)",
+      "notes_zh": "主戰坦克。美方／ODIN 風格常作 Type 99A MBT；第三代主力。",
+      "notes_en": "MBT. Type 99A in US/ODIN-style nomenclature.",
+      "source_authority": [
+        "ODIN WEG style",
+        "US open ground-force analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "主戰坦克（MBT）",
+      "form_en": "Main Battle Tank (MBT)"
+    },
+    "ztq-15": {
+      "us_designation": "Type 15 / ZTQ-15",
+      "dod_class": "Light tank",
+      "notes_zh": "輕型坦克。美方公開文獻 Type 15 light tank（高原／複雜地形）。",
+      "notes_en": "Type 15 light tank in US open sources.",
+      "source_authority": [
+        "US open ground-force analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "輕型坦克",
+      "form_en": "Light tank"
+    },
+    "zbd-04a": {
+      "us_designation": "ZBD-04A IFV",
+      "dod_class": "Infantry fighting vehicle (IFV)",
+      "notes_zh": "履帶式步兵戰車（IFV）。",
+      "notes_en": "Tracked IFV.",
+      "source_authority": [
+        "ODIN WEG style"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "步兵戰車（IFV）",
+      "form_en": "Infantry Fighting Vehicle (IFV)"
+    },
+    "zbd-05": {
+      "us_designation": "ZBD-05 AAAV",
+      "dod_class": "Amphibious IFV",
+      "notes_zh": "高速兩棲步兵戰車。陸戰隊／兩棲合成旅關鍵裝備（美方兩棲評估常引用 05 車族）。",
+      "notes_en": "High-speed amphibious IFV; PLANMC/PLAA amphib brigades.",
+      "source_authority": [
+        "DoD CMPR amphibious context",
+        "US open analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "兩棲步兵戰車",
+      "form_en": "Amphibious infantry fighting vehicle"
+    },
+    "hq-9": {
+      "us_designation": "HQ-9 / HHQ-9 (naval)",
+      "dod_class": "Long-range SAM",
+      "notes_zh": "遠程地對空／艦對空飛彈系統。",
+      "notes_en": "Long-range SAM; naval HHQ-9.",
+      "source_authority": [
+        "US open air-defense analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "遠程防空飛彈系統（SAM）",
+      "form_en": "Long-range surface-to-air missile system"
+    },
+    "hq-22": {
+      "us_designation": "HQ-22 (export FK-3)",
+      "dod_class": "Medium/long-range SAM",
+      "notes_zh": "中遠程防空飛彈。DoD：出口型 FK-3 為 HQ-22 出口型。",
+      "notes_en": "SAM. DoD: FK-3 is export HQ-22.",
+      "source_authority": [
+        "DoD CMPR 2025"
+      ],
+      "source_tier": "US_DoD",
+      "form_zh": "中遠程防空飛彈系統",
+      "form_en": "Medium- to long-range SAM"
+    },
+    "s-400": {
+      "us_designation": "S-400 (imported)",
+      "dod_class": "Long-range SAM (Russian)",
+      "notes_zh": "進口俄製遠程防空系統。",
+      "notes_en": "Imported Russian long-range SAM.",
+      "source_authority": [
+        "DoD CMPR historical",
+        "US open analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "遠程防空飛彈系統（進口）",
+      "form_en": "Imported long-range SAM",
+      "origin": "Russia",
+      "origin_zh": "俄羅斯"
+    },
+    "qbz-191": {
+      "us_designation": "QBZ-191",
+      "dod_class": "Assault rifle",
+      "notes_zh": "5.8mm 突擊步槍（制式換裝序列）。",
+      "notes_en": "5.8 mm assault rifle; modern PLA service rifle family.",
+      "source_authority": [
+        "US open small-arms analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "突擊步槍",
+      "form_en": "Assault rifle"
+    },
+    "type-051b": {
+      "us_designation": "Luhai-class / Type 051B (DDG)",
+      "dod_class": "Guided-missile destroyer (DDG)",
+      "notes_zh": "導彈驅逐艦（單艦 167 深圳）。1990 年代末服役，現代化後換裝 HHQ-16 垂發。美方艦級名 Luhai。",
+      "notes_en": "Luhai-class DDG (single ship, Shenzhen 167). Modernized with HHQ-16 VLS. US class name Luhai.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "導彈驅逐艦（DDG，Luhai 級）",
+      "form_en": "Guided-missile destroyer (Luhai class)",
+      "aliases": [
+        "051B",
+        "深圳艦",
+        "Luhai"
+      ]
+    },
+    "type-051c": {
+      "us_designation": "Luzhou-class / Type 051C (DDG)",
+      "dod_class": "Guided-missile destroyer (DDG)",
+      "notes_zh": "導彈驅逐艦（2 艘：115 瀋陽、116 石家莊）。裝俄製 S-300FM（Rif-M）艦載遠程防空。美方艦級名 Luzhou。",
+      "notes_en": "Luzhou-class DDG (2 hulls). Russian S-300FM/Rif-M area-defense SAM. US class name Luzhou.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "導彈驅逐艦（DDG，Luzhou 級）",
+      "form_en": "Guided-missile destroyer (Luzhou class)",
+      "aliases": [
+        "051C",
+        "Luzhou"
+      ]
+    },
+    "type-052b": {
+      "us_designation": "Luyang I-class / Type 052B (DDG)",
+      "dod_class": "Guided-missile destroyer (DDG)",
+      "notes_zh": "導彈驅逐艦（2 艘：168 廣州、169 武漢）。俄製 Shtil（SA-N-12）防空、YJ-83 反艦。美方艦級名 Luyang I。",
+      "notes_en": "Luyang I-class DDG (2 hulls). Russian Shtil/SA-N-12 SAM, YJ-83 ASCM. US class name Luyang I.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "導彈驅逐艦（DDG，Luyang I 級）",
+      "form_en": "Guided-missile destroyer (Luyang I class)",
+      "aliases": [
+        "052B",
+        "廣州艦",
+        "Luyang I"
+      ]
+    },
+    "type-052dl": {
+      "us_designation": "Luyang III (Mod)-class / Type 052DL (DDG)",
+      "dod_class": "Guided-missile destroyer (DDG)",
+      "notes_zh": "052D 延伸甲板改良型（加長機庫、新型雷達），64 單元垂發＋130mm 主砲。美方仍歸 Luyang III（改）系列。",
+      "notes_en": "Stretched 052D variant (longer hangar, new radar); 64 VLS + 130mm gun. US groups under Luyang III (Mod).",
+      "source_authority": [
+        "US Navy open ship-class nomenclature",
+        "DoD CMPR context"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "導彈驅逐艦（DDG，Luyang III 改／延伸型）",
+      "form_en": "Guided-missile destroyer (Luyang III Mod)",
+      "aliases": [
+        "052DL",
+        "Luyang III Mod"
+      ]
+    },
+    "sovremenny": {
+      "us_designation": "Sovremenny-class / Project 956EM (DDG)",
+      "dod_class": "Guided-missile destroyer (DDG, Russian-built)",
+      "notes_zh": "向俄採購 4 艘。SS-N-22 Sunburn（3M80 Moskit）超音速反艦飛彈為其標誌武裝。美方／NATO 名 Sovremenny。",
+      "notes_en": "4 ships purchased from Russia. Signature SS-N-22 Sunburn (3M80 Moskit) supersonic ASCM. US/NATO name Sovremenny.",
+      "source_authority": [
+        "US/NATO open naval nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "導彈驅逐艦（俄製，Sovremenny 級）",
+      "form_en": "Guided-missile destroyer (Sovremenny class)",
+      "aliases": [
+        "956E",
+        "956EM",
+        "現代級",
+        "Sovremenny"
+      ]
+    },
+    "type-053h3": {
+      "us_designation": "Jiangwei II-class / Type 053H3 (FFG)",
+      "dod_class": "Guided-missile frigate (FFG)",
+      "notes_zh": "舊型導彈護衛艦。YJ-83 反艦、HQ-7 近程防空。美方艦級名 Jiangwei II。",
+      "notes_en": "Older guided-missile frigate. YJ-83 ASCM, HQ-7 point-defense SAM. US class name Jiangwei II.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "導彈護衛艦（FFG，Jiangwei II 級）",
+      "form_en": "Guided-missile frigate (Jiangwei II class)",
+      "aliases": [
+        "053H3",
+        "Jiangwei II"
+      ]
+    },
+    "type-054": {
+      "us_designation": "Jiangkai I-class / Type 054 (FFG)",
+      "dod_class": "Guided-missile frigate (FFG)",
+      "notes_zh": "054A 之前型（2 艘：525 馬鞍山、526 溫州）。美方艦級名 Jiangkai I。",
+      "notes_en": "Predecessor of 054A (2 hulls). US class name Jiangkai I.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "導彈護衛艦（FFG，Jiangkai I 級）",
+      "form_en": "Guided-missile frigate (Jiangkai I class)",
+      "aliases": [
+        "054",
+        "Jiangkai I"
+      ]
+    },
+    "type-056": {
+      "us_designation": "Jiangdao-class / Type 056 (Corvette/FFL)",
+      "dod_class": "Corvette (FFL)",
+      "notes_zh": "輕型護衛艦基本型；反潛強化型為 056A。多數 056/056A 已移交中國海警。美方艦級名 Jiangdao。",
+      "notes_en": "Base corvette; ASW variant is 056A. Many transferred to China Coast Guard. US class name Jiangdao.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "輕型護衛艦（Corvette，Jiangdao 級）",
+      "form_en": "Corvette (Jiangdao class)",
+      "aliases": [
+        "056",
+        "Jiangdao"
+      ]
+    },
+    "type-022": {
+      "us_designation": "Houbei-class / Type 022 (PGGF missile boat)",
+      "dod_class": "Guided-missile patrol boat (PTG/PGGF)",
+      "notes_zh": "雙體穿浪飛彈快艇，8×YJ-83 反艦飛彈；近岸快速突擊。美方艦級名 Houbei。",
+      "notes_en": "Wave-piercing catamaran missile boat, 8×YJ-83 ASCM. US class name Houbei.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "飛彈快艇（雙體穿浪，Houbei 級）",
+      "form_en": "Fast missile catamaran (Houbei class)",
+      "aliases": [
+        "022",
+        "Houbei"
+      ]
+    },
+    "type-072a": {
+      "us_designation": "Yuting II-class / Type 072A (LST)",
+      "dod_class": "Tank landing ship (LST)",
+      "notes_zh": "大型戰車登陸艦，兩棲運輸主力之一。美方艦級名 Yuting II。",
+      "notes_en": "Tank landing ship; mainstay amphibious lift. US class name Yuting II.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "戰車登陸艦（LST，Yuting II 級）",
+      "form_en": "Tank landing ship (Yuting II class)",
+      "aliases": [
+        "072A",
+        "Yuting II"
+      ]
+    },
+    "type-726": {
+      "us_designation": "Yuyi-class / Type 726 (LCAC)",
+      "dod_class": "Air-cushion landing craft (LCAC)",
+      "notes_zh": "071/075 艦載氣墊登陸艇，運載主戰坦克搶灘。美方艦級名 Yuyi。",
+      "notes_en": "Air-cushion landing craft carried by 071/075; delivers MBTs to beach. US class name Yuyi.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "氣墊登陸艇（LCAC，Yuyi 級）",
+      "form_en": "Air-cushion landing craft (Yuyi class)",
+      "aliases": [
+        "726",
+        "Yuyi"
+      ]
+    },
+    "type-091": {
+      "us_designation": "Han-class / Type 091 (SSN)",
+      "dod_class": "Nuclear-powered attack submarine (SSN)",
+      "notes_zh": "中國第一代攻擊核潛艦，多數已退役。美方艦級名 Han。",
+      "notes_en": "China's first-generation SSN, mostly retired. US class name Han.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "攻擊核潛艦（SSN，Han 級，舊式）",
+      "form_en": "Nuclear-powered attack submarine (Han class)",
+      "aliases": [
+        "091",
+        "漢級",
+        "Han"
+      ]
+    },
+    "kilo": {
+      "us_designation": "Kilo-class / Project 877/636 (SSK)",
+      "dod_class": "Diesel-electric attack submarine (SSK, Russian-built)",
+      "notes_zh": "向俄採購 12 艘；636M 型可發射 3M-54E Klub（SS-N-27）反艦飛彈。NATO 名 Kilo。",
+      "notes_en": "12 boats purchased from Russia; 636M carries 3M-54E Klub (SS-N-27) ASCM. NATO name Kilo.",
+      "source_authority": [
+        "US/NATO open naval nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "柴電潛艦（俄製，Kilo 級）",
+      "form_en": "Diesel-electric attack submarine (Kilo class)",
+      "aliases": [
+        "877",
+        "636",
+        "基洛級",
+        "Kilo"
+      ]
+    },
+    "type-901": {
+      "us_designation": "Fuyu-class / Type 901 (AOE)",
+      "dod_class": "Fast combat support ship (AOE)",
+      "notes_zh": "航母戰鬥群快速綜合補給艦，滿載約 4.5 萬噸級。美方艦級名 Fuyu。",
+      "notes_en": "Fast combat support ship for carrier groups, ~45,000 t full load. US class name Fuyu.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "快速綜合補給艦（AOE，Fuyu 級）",
+      "form_en": "Fast combat support ship (Fuyu class)",
+      "aliases": [
+        "901",
+        "Fuyu"
+      ]
+    },
+    "type-903a": {
+      "us_designation": "Fuchi II-class / Type 903A (AOR)",
+      "dod_class": "Replenishment oiler (AOR)",
+      "notes_zh": "遠洋綜合補給艦，護航／遠海部署主力補給。美方艦級名 Fuchi（II）。",
+      "notes_en": "Ocean-going replenishment oiler. US class name Fuchi (II).",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "綜合補給艦（AOR，Fuchi II 級）",
+      "form_en": "Replenishment oiler (Fuchi II class)",
+      "aliases": [
+        "903A",
+        "Fuchi II"
+      ]
+    },
+    "type-815a": {
+      "us_designation": "Dongdiao-class / Type 815A (AGI)",
+      "dod_class": "Intelligence collection ship (AGI)",
+      "notes_zh": "電子情報偵察艦，常抵近他國演習／試射區蒐情。美方艦級名 Dongdiao。",
+      "notes_en": "Electronic intelligence collection ship (AGI). US class name Dongdiao.",
+      "source_authority": [
+        "ONI PLA Navy Recognition & Identification Guide",
+        "US Navy open ship-class nomenclature"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "電子偵察艦（AGI，Dongdiao 級）",
+      "form_en": "Intelligence collection ship (Dongdiao class)",
+      "aliases": [
+        "815A",
+        "Dongdiao"
+      ]
+    },
+    "type-730": {
+      "us_designation": "Type 730 CIWS (H/PJ-12)",
+      "dod_class": "Close-in weapon system (30mm 7-barrel Gatling)",
+      "caliber": "30mm × 7 管",
+      "notes_zh": "艦載近迫武器系統，7 管 30mm 轉管砲，攔截反艦飛彈與飛機。內部代號 H/PJ-12。",
+      "notes_en": "Shipborne CIWS, 30mm 7-barrel Gatling, anti-missile/anti-aircraft. Internal H/PJ-12.",
+      "source_authority": [
+        "US Navy open naval-gun analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "近迫武器系統（CIWS，30mm 七管）",
+      "form_en": "Close-in weapon system (30mm, 7-barrel)",
+      "aliases": [
+        "730",
+        "H/PJ-12"
+      ]
+    },
+    "type-1130": {
+      "us_designation": "Type 1130 CIWS (H/PJ-11)",
+      "dod_class": "Close-in weapon system (30mm 11-barrel Gatling)",
+      "caliber": "30mm × 11 管",
+      "notes_zh": "艦載近迫武器系統，11 管 30mm 轉管砲，射速更高；055／054A／航母使用。內部代號 H/PJ-11。",
+      "notes_en": "Shipborne CIWS, 30mm 11-barrel Gatling, higher rate of fire; on 055/054A/carriers. Internal H/PJ-11.",
+      "source_authority": [
+        "US Navy open naval-gun analyses"
+      ],
+      "source_tier": "US_open",
+      "form_zh": "近迫武器系統（CIWS，30mm 十一管）",
+      "form_en": "Close-in weapon system (30mm, 11-barrel)",
+      "aliases": [
+        "1130",
+        "H/PJ-11"
+      ]
+    },
+    "j-10a": {
+      "us_designation": "J-10A (Vigorous Dragon)",
+      "dod_class": "Multirole fighter (4th-gen)",
+      "form_zh": "多用途戰鬥機（第4代）",
+      "form_en": "Multirole fighter (4th-gen)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "單發多用途戰鬥機，PLAAF 主力。DoD CMPR 以 J-10 稱之。",
+      "notes_en": "J-10A (Vigorous Dragon). Multirole fighter (4th-gen)."
+    },
+    "j-10b": {
+      "us_designation": "J-10B",
+      "dod_class": "Multirole fighter (4th-gen)",
+      "form_zh": "多用途戰鬥機（第4代）",
+      "form_en": "Multirole fighter (4th-gen)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "J-10 改良型，DSI 進氣道／被動相位陣列雷達。",
+      "notes_en": "J-10B. Multirole fighter (4th-gen)."
+    },
+    "j-11a": {
+      "us_designation": "J-11A (Flanker; Su-27SK derivative)",
+      "dod_class": "Air-superiority fighter",
+      "form_zh": "空優戰鬥機（Flanker）",
+      "form_en": "Air-superiority fighter",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "Su-27SK 授權／組裝型；NATO 代號 Flanker。",
+      "notes_en": "J-11A (Flanker; Su-27SK derivative). Air-superiority fighter."
+    },
+    "j-11b": {
+      "us_designation": "J-11B (Flanker)",
+      "dod_class": "Air-superiority fighter",
+      "form_zh": "空優戰鬥機（Flanker）",
+      "form_en": "Air-superiority fighter",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "國產化 Flanker，換裝國產發動機／雷達。",
+      "notes_en": "J-11B (Flanker). Air-superiority fighter."
+    },
+    "j-11bg": {
+      "us_designation": "J-11BG (Flanker, upgraded)",
+      "dod_class": "Air-superiority fighter",
+      "form_zh": "空優戰鬥機（Flanker，升級）",
+      "form_en": "Air-superiority fighter",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "J-11B 升級型，AESA 雷達＋PL-15。",
+      "notes_en": "J-11BG (Flanker, upgraded). Air-superiority fighter."
+    },
+    "su-30mkk": {
+      "us_designation": "Flanker-G (Su-30MKK)",
+      "dod_class": "Multirole fighter (Russian-built)",
+      "form_zh": "多用途戰鬥機（俄製）",
+      "form_en": "Multirole fighter (Russian-built)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "向俄採購雙座多用途 Flanker；NATO Flanker-G。",
+      "notes_en": "Flanker-G (Su-30MKK). Multirole fighter (Russian-built)."
+    },
+    "su-30mk2": {
+      "us_designation": "Flanker (Su-30MK2)",
+      "dod_class": "Multirole/maritime-strike fighter (Russian-built)",
+      "form_zh": "多用途／對海打擊戰鬥機（俄製）",
+      "form_en": "Multirole/maritime-strike fighter (Russian-built)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "海軍航空兵 Su-30MK2，對海打擊。",
+      "notes_en": "Flanker (Su-30MK2). Multirole/maritime-strike fighter (Russian-built)."
+    },
+    "su-35": {
+      "us_designation": "Flanker-E (Su-35S)",
+      "dod_class": "Multirole fighter (Russian-built)",
+      "form_zh": "多用途戰鬥機（俄製）",
+      "form_en": "Multirole fighter (Russian-built)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "向俄採購 24 架；NATO Flanker-E。",
+      "notes_en": "Flanker-E (Su-35S). Multirole fighter (Russian-built)."
+    },
+    "su-27ubk": {
+      "us_designation": "Flanker-C (Su-27UBK)",
+      "dod_class": "Two-seat conversion trainer/fighter",
+      "form_zh": "雙座教練／戰鬥機（Flanker）",
+      "form_en": "Two-seat conversion trainer/fighter",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "Su-27 雙座型；NATO Flanker-C。",
+      "notes_en": "Flanker-C (Su-27UBK). Two-seat conversion trainer/fighter."
+    },
+    "jh-7a": {
+      "us_designation": "JH-7A (Flounder)",
+      "dod_class": "Fighter-bomber",
+      "form_zh": "戰鬥轟炸機",
+      "form_en": "Fighter-bomber",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "雙發戰鬥轟炸機，對海／對地攻擊。",
+      "notes_en": "JH-7A (Flounder). Fighter-bomber."
+    },
+    "h-6h": {
+      "us_designation": "H-6H (Tu-16 Badger derivative)",
+      "dod_class": "Medium bomber (land-attack)",
+      "form_zh": "中型轟炸機（對地攻擊）",
+      "form_en": "Medium bomber (land-attack)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "H-6 系列，源自 Tu-16 Badger；掛載巡航飛彈。",
+      "notes_en": "H-6H (Tu-16 Badger derivative). Medium bomber (land-attack)."
+    },
+    "j-8f": {
+      "us_designation": "J-8F (Finback)",
+      "dod_class": "Interceptor",
+      "form_zh": "攔截機",
+      "form_en": "Interceptor",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "J-8II 系列末改型；NATO 代號 Finback。",
+      "notes_en": "J-8F (Finback). Interceptor."
+    },
+    "j-7": {
+      "us_designation": "J-7 (F-7; MiG-21 Fishbed derivative)",
+      "dod_class": "Lightweight fighter",
+      "form_zh": "輕型戰鬥機",
+      "form_en": "Lightweight fighter",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "MiG-21 衍生；出口稱 F-7；NATO Fishbed 族。",
+      "notes_en": "J-7 (F-7; MiG-21 Fishbed derivative). Lightweight fighter."
+    },
+    "kj-200": {
+      "us_designation": "KJ-200 (AEW&C)",
+      "dod_class": "Airborne early warning & control",
+      "form_zh": "空中預警管制機",
+      "form_en": "Airborne early warning & control",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "Y-8 平台平衡木雷達預警機。",
+      "notes_en": "KJ-200 (AEW&C). Airborne early warning & control."
+    },
+    "kj-2000": {
+      "us_designation": "KJ-2000 (Mainring AEW&C)",
+      "dod_class": "Airborne early warning & control",
+      "form_zh": "空中預警管制機",
+      "form_en": "Airborne early warning & control",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "Il-76 平台圓盤主動相位陣列預警機；美方代號 Mainring。",
+      "notes_en": "KJ-2000 (Mainring AEW&C). Airborne early warning & control."
+    },
+    "yy-20": {
+      "us_designation": "YU-20 / YY-20A (Y-20 tanker)",
+      "dod_class": "Aerial-refueling tanker",
+      "form_zh": "空中加油機",
+      "form_en": "Aerial-refueling tanker",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "Y-20 平台三點式空中加油機。",
+      "notes_en": "YU-20 / YY-20A (Y-20 tanker). Aerial-refueling tanker."
+    },
+    "y-9": {
+      "us_designation": "Y-9 (medium transport; Y-8/An-12 family)",
+      "dod_class": "Medium tactical transport",
+      "form_zh": "中型戰術運輸機",
+      "form_en": "Medium tactical transport",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "中型戰術運輸機，多種特種任務衍生。",
+      "notes_en": "Y-9 (medium transport; Y-8/An-12 family). Medium tactical transport."
+    },
+    "y-8": {
+      "us_designation": "Y-8 (An-12 Cub derivative)",
+      "dod_class": "Medium tactical transport",
+      "form_zh": "中型戰術運輸機",
+      "form_en": "Medium tactical transport",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "源自 An-12 Cub；運輸與特種任務母機。",
+      "notes_en": "Y-8 (An-12 Cub derivative). Medium tactical transport."
+    },
+    "y-8gx": {
+      "us_designation": "Y-8 'High-New'/GX special-mission series",
+      "dod_class": "Special-mission aircraft",
+      "form_zh": "特種任務機（電偵／反潛／預警）",
+      "form_en": "Special-mission aircraft",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "Y-8/9 高新工程特種任務機族。",
+      "notes_en": "Y-8 'High-New'/GX special-mission series. Special-mission aircraft."
+    },
+    "il-76": {
+      "us_designation": "Il-76 (Candid)",
+      "dod_class": "Heavy transport (Russian-built)",
+      "form_zh": "重型運輸機（俄製）",
+      "form_en": "Heavy transport (Russian-built)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "俄製戰略運輸機；NATO Candid。",
+      "notes_en": "Il-76 (Candid). Heavy transport (Russian-built)."
+    },
+    "il-78": {
+      "us_designation": "Il-78 (Midas)",
+      "dod_class": "Aerial-refueling tanker (Russian-built)",
+      "form_zh": "空中加油機（俄製）",
+      "form_en": "Aerial-refueling tanker (Russian-built)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "俄製加油機；NATO Midas。",
+      "notes_en": "Il-78 (Midas). Aerial-refueling tanker (Russian-built)."
+    },
+    "kq-200": {
+      "us_designation": "KQ-200 / Y-8Q ('High-New 6')",
+      "dod_class": "Maritime patrol/ASW aircraft",
+      "form_zh": "反潛巡邏機",
+      "form_en": "Maritime patrol/ASW aircraft",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "Y-8/9 平台固定翼反潛巡邏機。",
+      "notes_en": "KQ-200 / Y-8Q ('High-New 6'). Maritime patrol/ASW aircraft."
+    },
+    "y-9jz": {
+      "us_designation": "Y-9JZ (SIGINT/ELINT)",
+      "dod_class": "Electronic intelligence aircraft",
+      "form_zh": "電子偵察機",
+      "form_en": "Electronic intelligence aircraft",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "Y-9 平台電子情報偵察機。",
+      "notes_en": "Y-9JZ (SIGINT/ELINT). Electronic intelligence aircraft."
+    },
+    "jl-9": {
+      "us_designation": "JL-9 (Mountain Eagle)",
+      "dod_class": "Advanced jet trainer",
+      "form_zh": "高級教練機",
+      "form_en": "Advanced jet trainer",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "高級／艦載教練機（山鷹）。",
+      "notes_en": "JL-9 (Mountain Eagle). Advanced jet trainer."
+    },
+    "jl-10": {
+      "us_designation": "JL-10 / L-15 (Falcon)",
+      "dod_class": "Advanced jet trainer / LIFT",
+      "form_zh": "高級教練機（LIFT）",
+      "form_en": "Advanced jet trainer / LIFT",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "超音速高教機（獵鷹 L-15）。",
+      "notes_en": "JL-10 / L-15 (Falcon). Advanced jet trainer / LIFT."
+    },
+    "jl-8": {
+      "us_designation": "JL-8 / K-8 (Karakorum)",
+      "dod_class": "Basic/intermediate jet trainer",
+      "form_zh": "基礎／中級噴射教練機",
+      "form_en": "Basic/intermediate jet trainer",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "中巴合研 K-8 教練機。",
+      "notes_en": "JL-8 / K-8 (Karakorum). Basic/intermediate jet trainer."
+    },
+    "y-5": {
+      "us_designation": "Y-5 (An-2 Colt derivative)",
+      "dod_class": "Light utility/transport biplane",
+      "form_zh": "輕型運輸／通用雙翼機",
+      "form_en": "Light utility/transport biplane",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "An-2 Colt 衍生輕型運輸機。",
+      "notes_en": "Y-5 (An-2 Colt derivative). Light utility/transport biplane."
+    },
+    "y-7": {
+      "us_designation": "Y-7 (An-24 Coke derivative)",
+      "dod_class": "Light transport",
+      "form_zh": "輕型運輸機",
+      "form_en": "Light transport",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "An-24 Coke 衍生輕型運輸機。",
+      "notes_en": "Y-7 (An-24 Coke derivative). Light transport."
+    },
+    "z-20f": {
+      "us_designation": "Z-20F (naval ASW variant)",
+      "dod_class": "Medium ASW/utility helicopter",
+      "form_zh": "艦載反潛／通用直升機",
+      "form_en": "Medium ASW/utility helicopter",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "Z-20 海軍反潛型，UH-60 級中型直升機。",
+      "notes_en": "Z-20F (naval ASW variant). Medium ASW/utility helicopter."
+    },
+    "z-10": {
+      "us_designation": "Z-10",
+      "dod_class": "Attack helicopter",
+      "form_zh": "武裝直升機",
+      "form_en": "Attack helicopter",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "專用攻擊直升機，掛載 HJ-10 反戰車飛彈。",
+      "notes_en": "Z-10. Attack helicopter."
+    },
+    "z-19": {
+      "us_designation": "Z-19",
+      "dod_class": "Reconnaissance/attack helicopter",
+      "form_zh": "偵察／攻擊直升機",
+      "form_en": "Reconnaissance/attack helicopter",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "武裝偵察直升機（Z-9 衍生）。",
+      "notes_en": "Z-19. Reconnaissance/attack helicopter."
+    },
+    "z-9": {
+      "us_designation": "Z-9 (AS365 Dauphin derivative)",
+      "dod_class": "Light utility helicopter",
+      "form_zh": "輕型通用直升機",
+      "form_en": "Light utility helicopter",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "法製 AS365 Dauphin 授權生產。",
+      "notes_en": "Z-9 (AS365 Dauphin derivative). Light utility helicopter."
+    },
+    "z-9c": {
+      "us_designation": "Z-9C (naval variant)",
+      "dod_class": "Naval light helicopter (ASW/utility)",
+      "form_zh": "艦載輕型直升機",
+      "form_en": "Naval light helicopter (ASW/utility)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "Z-9 海軍型，反潛／通用。",
+      "notes_en": "Z-9C (naval variant). Naval light helicopter (ASW/utility)."
+    },
+    "z-8": {
+      "us_designation": "Z-8 (SA321 Super Frelon derivative)",
+      "dod_class": "Medium/heavy transport helicopter",
+      "form_zh": "中／重型運輸直升機",
+      "form_en": "Medium/heavy transport helicopter",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "法製 SA321 超級黃蜂衍生。",
+      "notes_en": "Z-8 (SA321 Super Frelon derivative). Medium/heavy transport helicopter."
+    },
+    "z-18": {
+      "us_designation": "Z-18 (transport; Z-8 derivative)",
+      "dod_class": "Transport helicopter",
+      "form_zh": "運輸直升機",
+      "form_en": "Transport helicopter",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "Z-8 大改運輸直升機。",
+      "notes_en": "Z-18 (transport; Z-8 derivative). Transport helicopter."
+    },
+    "z-18f": {
+      "us_designation": "Z-18F (ASW variant)",
+      "dod_class": "ASW helicopter",
+      "form_zh": "反潛直升機",
+      "form_en": "ASW helicopter",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "Z-18 反潛型，艦載。",
+      "notes_en": "Z-18F (ASW variant). ASW helicopter."
+    },
+    "mi-17": {
+      "us_designation": "Mi-17 (Hip)",
+      "dod_class": "Medium transport helicopter (Russian-built)",
+      "form_zh": "中型運輸直升機（俄製）",
+      "form_en": "Medium transport helicopter (Russian-built)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "俄製中型運輸直升機；NATO Hip。",
+      "notes_en": "Mi-17 (Hip). Medium transport helicopter (Russian-built)."
+    },
+    "mi-171": {
+      "us_designation": "Mi-171 (Hip)",
+      "dod_class": "Medium transport helicopter (Russian-built)",
+      "form_zh": "中型運輸直升機（俄製）",
+      "form_en": "Medium transport helicopter (Russian-built)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "Mi-8/17 系列；陸航主力運輸。",
+      "notes_en": "Mi-171 (Hip). Medium transport helicopter (Russian-built)."
+    },
+    "ka-28": {
+      "us_designation": "Ka-28 (Helix-A)",
+      "dod_class": "ASW helicopter (Russian-built)",
+      "form_zh": "反潛直升機（俄製）",
+      "form_en": "ASW helicopter (Russian-built)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "艦載反潛直升機；NATO Helix。",
+      "notes_en": "Ka-28 (Helix-A). ASW helicopter (Russian-built)."
+    },
+    "ka-31": {
+      "us_designation": "Ka-31 (Helix-B AEW)",
+      "dod_class": "Airborne early-warning helicopter (Russian-built)",
+      "form_zh": "艦載預警直升機（俄製）",
+      "form_en": "Airborne early-warning helicopter (Russian-built)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "艦載預警直升機；NATO Helix-B。",
+      "notes_en": "Ka-31 (Helix-B AEW). Airborne early-warning helicopter (Russian-built)."
+    },
+    "z-11": {
+      "us_designation": "Z-11 (AS350 derivative)",
+      "dod_class": "Light utility/scout helicopter",
+      "form_zh": "輕型通用／偵察直升機",
+      "form_en": "Light utility/scout helicopter",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "AS350 級輕型直升機。",
+      "notes_en": "Z-11 (AS350 derivative). Light utility/scout helicopter."
+    },
+    "ch-4": {
+      "us_designation": "CH-4 (Rainbow-4; MALE UAV)",
+      "dod_class": "Medium-altitude long-endurance UAV/UCAV",
+      "form_zh": "中空長航時察打一體無人機",
+      "form_en": "Medium-altitude long-endurance UAV/UCAV",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "彩虹-4，Reaper 級 MALE 察打無人機。",
+      "notes_en": "CH-4 (Rainbow-4; MALE UAV). Medium-altitude long-endurance UAV/UCAV."
+    },
+    "ch-5": {
+      "us_designation": "CH-5 (Rainbow-5; MALE UAV)",
+      "dod_class": "MALE UAV/UCAV",
+      "form_zh": "中空長航時察打一體無人機",
+      "form_en": "MALE UAV/UCAV",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "彩虹-5，大型 MALE 察打無人機。",
+      "notes_en": "CH-5 (Rainbow-5; MALE UAV). MALE UAV/UCAV."
+    },
+    "ch-7": {
+      "us_designation": "CH-7 (Rainbow-7; stealth UCAV, developmental)",
+      "dod_class": "Stealth UCAV (developmental)",
+      "form_zh": "匿蹤無人戰機（研發中）",
+      "form_en": "Stealth UCAV (developmental)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "彩虹-7 飛翼匿蹤 UCAV，研發／驗證階段。",
+      "notes_en": "CH-7 (Rainbow-7; stealth UCAV, developmental). Stealth UCAV (developmental)."
+    },
+    "wing-loong-1": {
+      "us_designation": "GJ-1 / Wing Loong I (Pterodactyl I)",
+      "dod_class": "MALE UAV/UCAV",
+      "form_zh": "中空長航時察打一體無人機",
+      "form_en": "MALE UAV/UCAV",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "翼龍-1／攻擊-1，MALE 察打無人機。",
+      "notes_en": "GJ-1 / Wing Loong I (Pterodactyl I). MALE UAV/UCAV."
+    },
+    "wing-loong-2": {
+      "us_designation": "GJ-2 / Wing Loong II",
+      "dod_class": "MALE UAV/UCAV",
+      "form_zh": "中空長航時察打一體無人機",
+      "form_en": "MALE UAV/UCAV",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "翼龍-2／攻擊-2，MALE 察打無人機。",
+      "notes_en": "GJ-2 / Wing Loong II. MALE UAV/UCAV."
+    },
+    "tb-001": {
+      "us_designation": "TB-001 (Twin-tailed Scorpion)",
+      "dod_class": "Long-endurance recon/strike UAV",
+      "form_zh": "長航時偵察／打擊無人機",
+      "form_en": "Long-endurance recon/strike UAV",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "雙尾蠍，長航時偵打無人機。",
+      "notes_en": "TB-001 (Twin-tailed Scorpion). Long-endurance recon/strike UAV."
+    },
+    "gj-11": {
+      "us_designation": "GJ-11 (Sharp Sword)",
+      "dod_class": "Stealth unmanned combat aerial vehicle (UCAV)",
+      "form_zh": "匿蹤無人攻擊機（UCAV）",
+      "form_en": "Stealth unmanned combat aerial vehicle (UCAV)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "攻擊-11 利劍，飛翼匿蹤 UCAV，內置彈艙。",
+      "notes_en": "GJ-11 (Sharp Sword). Stealth unmanned combat aerial vehicle (UCAV)."
+    },
+    "wz-7": {
+      "us_designation": "WZ-7 (Soaring Dragon)",
+      "dod_class": "High-altitude long-endurance recon UAV",
+      "form_zh": "高空長航時偵察無人機",
+      "form_en": "High-altitude long-endurance recon UAV",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "無偵-7 翔龍，HALE 偵察無人機。",
+      "notes_en": "WZ-7 (Soaring Dragon). High-altitude long-endurance recon UAV."
+    },
+    "wz-8": {
+      "us_designation": "WZ-8 (Wuzhen-8)",
+      "dod_class": "Supersonic reconnaissance UAV",
+      "form_zh": "高速偵察無人機",
+      "form_en": "Supersonic reconnaissance UAV",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "無偵-8，火箭動力高速偵察無人機。",
+      "notes_en": "WZ-8 (Wuzhen-8). Supersonic reconnaissance UAV."
+    },
+    "bzk-005": {
+      "us_designation": "BZK-005",
+      "dod_class": "Medium-altitude reconnaissance UAV",
+      "form_zh": "中空偵察無人機",
+      "form_en": "Medium-altitude reconnaissance UAV",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "中空長航時偵察無人機。",
+      "notes_en": "BZK-005. Medium-altitude reconnaissance UAV."
+    },
+    "asn-209": {
+      "us_designation": "ASN-209",
+      "dod_class": "Tactical reconnaissance UAV",
+      "form_zh": "戰術偵察無人機",
+      "form_en": "Tactical reconnaissance UAV",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "戰術級偵察／校射無人機。",
+      "notes_en": "ASN-209. Tactical reconnaissance UAV."
+    },
+    "wj-700": {
+      "us_designation": "WJ-700 (Falcon)",
+      "dod_class": "High-speed reconnaissance/strike UAV",
+      "form_zh": "高速偵察／打擊無人機",
+      "form_en": "High-speed reconnaissance/strike UAV",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "無偵／攻擊高速無人機（獵鷹）。",
+      "notes_en": "WJ-700 (Falcon). High-speed reconnaissance/strike UAV."
+    },
+    "ztz-99": {
+      "us_designation": "ZTZ-99 / Type 99",
+      "dod_class": "Main battle tank",
+      "form_zh": "主戰坦克（MBT）",
+      "form_en": "Main battle tank",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "第三代主戰坦克，125mm 滑膛砲。",
+      "notes_en": "ZTZ-99 / Type 99. Main battle tank."
+    },
+    "ztz-96": {
+      "us_designation": "ZTZ-96 / Type 96",
+      "dod_class": "Main battle tank",
+      "form_zh": "主戰坦克（MBT）",
+      "form_en": "Main battle tank",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "數量最多的主力 MBT，125mm 滑膛砲。",
+      "notes_en": "ZTZ-96 / Type 96. Main battle tank."
+    },
+    "ztz-96a": {
+      "us_designation": "ZTZ-96A / Type 96A",
+      "dod_class": "Main battle tank",
+      "form_zh": "主戰坦克（MBT）",
+      "form_en": "Main battle tank",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "96 改良型，強化裝甲／射控。",
+      "notes_en": "ZTZ-96A / Type 96A. Main battle tank."
+    },
+    "ztz-96b": {
+      "us_designation": "ZTZ-96B / Type 96B",
+      "dod_class": "Main battle tank",
+      "form_zh": "主戰坦克（MBT）",
+      "form_en": "Main battle tank",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "96 系列最新改型，機動性提升。",
+      "notes_en": "ZTZ-96B / Type 96B. Main battle tank."
+    },
+    "ztz-88": {
+      "us_designation": "Type 88 (ZTZ-88)",
+      "dod_class": "Main battle tank (second-line)",
+      "form_zh": "主戰坦克（二線）",
+      "form_en": "Main battle tank (second-line)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "第二代 MBT，105mm 線膛砲。",
+      "notes_en": "Type 88 (ZTZ-88). Main battle tank (second-line)."
+    },
+    "type-59d": {
+      "us_designation": "Type 59D",
+      "dod_class": "Main battle tank (upgraded, reserve)",
+      "form_zh": "主戰坦克（升級／後備）",
+      "form_en": "Main battle tank (upgraded, reserve)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "59 式深度改良，105mm 線膛＋ERA。",
+      "notes_en": "Type 59D. Main battle tank (upgraded, reserve)."
+    },
+    "type-62": {
+      "us_designation": "Type 62",
+      "dod_class": "Light tank (obsolete)",
+      "form_zh": "輕型坦克（舊式）",
+      "form_en": "Light tank (obsolete)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "南方水網／山地輕型坦克，多退居二線。",
+      "notes_en": "Type 62. Light tank (obsolete)."
+    },
+    "type-63a": {
+      "us_designation": "Type 63A",
+      "dod_class": "Amphibious light tank",
+      "form_zh": "水陸兩棲輕型坦克",
+      "form_en": "Amphibious light tank",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "水陸坦克，105mm 砲，陸戰隊舊裝備。",
+      "notes_en": "Type 63A. Amphibious light tank."
+    },
+    "zlt-05": {
+      "us_designation": "ZTD-05 / ZLT-05",
+      "dod_class": "Amphibious assault gun",
+      "form_zh": "兩棲突擊砲",
+      "form_en": "Amphibious assault gun",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "05 式兩棲突擊砲（ZTD-05 別名）。",
+      "notes_en": "ZTD-05 / ZLT-05. Amphibious assault gun."
+    },
+    "zbd-04": {
+      "us_designation": "ZBD-04 / Type 04",
+      "dod_class": "Infantry fighting vehicle (IFV)",
+      "form_zh": "步兵戰車（IFV）",
+      "form_en": "Infantry fighting vehicle (IFV)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "履帶式 IFV，100mm＋30mm 雙砲。",
+      "notes_en": "ZBD-04 / Type 04. Infantry fighting vehicle (IFV)."
+    },
+    "zbd-03": {
+      "us_designation": "ZBD-03 / Type 03",
+      "dod_class": "Airborne IFV",
+      "form_zh": "空降步兵戰車",
+      "form_en": "Airborne IFV",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "空降兵傘投 IFV，30mm 機砲。",
+      "notes_en": "ZBD-03 / Type 03. Airborne IFV."
+    },
+    "ztd-05": {
+      "us_designation": "ZTD-05 / Type 05",
+      "dod_class": "Amphibious assault gun (105mm)",
+      "form_zh": "兩棲突擊砲（105mm）",
+      "form_en": "Amphibious assault gun (105mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "陸戰隊兩棲突擊砲，105mm。",
+      "notes_en": "ZTD-05 / Type 05. Amphibious assault gun (105mm)."
+    },
+    "zbl-08": {
+      "us_designation": "ZBL-08 / Type 08 (8×8 APC)",
+      "dod_class": "Wheeled armored personnel carrier",
+      "form_zh": "輪式裝甲運兵車（8×8）",
+      "form_en": "Wheeled armored personnel carrier",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "08 式輪式族 APC 版本。",
+      "notes_en": "ZBL-08 / Type 08 (8×8 APC). Wheeled armored personnel carrier."
+    },
+    "zbd-08": {
+      "us_designation": "ZBD-08 / Type 08 (8×8 IFV)",
+      "dod_class": "Wheeled infantry fighting vehicle",
+      "form_zh": "輪式步兵戰車（8×8）",
+      "form_en": "Wheeled infantry fighting vehicle",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "08 式輪式族 IFV 版本，30mm 砲。",
+      "notes_en": "ZBD-08 / Type 08 (8×8 IFV). Wheeled infantry fighting vehicle."
+    },
+    "ztl-11": {
+      "us_designation": "ZTL-11 / Type 11 (105mm assault gun)",
+      "dod_class": "Wheeled fire-support/assault gun",
+      "form_zh": "輪式突擊砲（105mm）",
+      "form_en": "Wheeled fire-support/assault gun",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "08 式輪式族火力支援車，105mm。",
+      "notes_en": "ZTL-11 / Type 11 (105mm assault gun). Wheeled fire-support/assault gun."
+    },
+    "zsl-92": {
+      "us_designation": "ZSL-92 / WZ551 (Type 92)",
+      "dod_class": "Wheeled APC/IFV",
+      "form_zh": "輪式裝甲車（6×6）",
+      "form_en": "Wheeled APC/IFV",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "6×6 輪式裝甲車族，25／12.7mm。",
+      "notes_en": "ZSL-92 / WZ551 (Type 92). Wheeled APC/IFV."
+    },
+    "zsl-10": {
+      "us_designation": "ZSL-10 / Type 10 (wheeled)",
+      "dod_class": "Wheeled armored vehicle",
+      "form_zh": "輪式裝甲車",
+      "form_en": "Wheeled armored vehicle",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "輪式裝甲車。",
+      "notes_en": "ZSL-10 / Type 10 (wheeled). Wheeled armored vehicle."
+    },
+    "zsd-89": {
+      "us_designation": "ZSD-89 / Type 89",
+      "dod_class": "Tracked armored personnel carrier",
+      "form_zh": "履帶式裝甲輸送車",
+      "form_en": "Tracked armored personnel carrier",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式 APC，12.7mm。",
+      "notes_en": "ZSD-89 / Type 89. Tracked armored personnel carrier."
+    },
+    "zsd-63": {
+      "us_designation": "Type 63 (YW531)",
+      "dod_class": "Tracked APC (legacy)",
+      "form_zh": "履帶式裝甲輸送車（舊式）",
+      "form_en": "Tracked APC (legacy)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "第一代履帶式 APC，YW531 系。",
+      "notes_en": "Type 63 (YW531). Tracked APC (legacy)."
+    },
+    "type-86-ifv": {
+      "us_designation": "Type 86 (WZ501; BMP-1 derivative)",
+      "dod_class": "Tracked IFV (legacy)",
+      "form_zh": "履帶式步兵戰車（舊式）",
+      "form_en": "Tracked IFV (legacy)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "BMP-1 衍生，73mm 砲。",
+      "notes_en": "Type 86 (WZ501; BMP-1 derivative). Tracked IFV (legacy)."
+    },
+    "type-92b": {
+      "us_designation": "Type 92B (ZSL-92B)",
+      "dod_class": "Wheeled IFV",
+      "form_zh": "輪式步兵戰車",
+      "form_en": "Wheeled IFV",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "92 輪式族 IFV，30mm 砲塔。",
+      "notes_en": "Type 92B (ZSL-92B). Wheeled IFV."
+    },
+    "zbd-04a-at": {
+      "us_designation": "ZBD-04A ATGM carrier",
+      "dod_class": "ATGM carrier (IFV chassis)",
+      "form_zh": "反戰車飛彈車",
+      "form_en": "ATGM carrier (IFV chassis)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "04A 底盤反戰車飛彈車，紅箭系列。",
+      "notes_en": "ZBD-04A ATGM carrier. ATGM carrier (IFV chassis)."
+    },
+    "type-05-amphib-family": {
+      "us_designation": "Type 05 amphibious family (ZBD-05/ZTD-05)",
+      "dod_class": "Amphibious armored vehicle family",
+      "form_zh": "兩棲裝甲車族",
+      "form_en": "Amphibious armored vehicle family",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "陸戰隊 05 兩棲車族總覽。",
+      "notes_en": "Type 05 amphibious family (ZBD-05/ZTD-05). Amphibious armored vehicle family."
+    },
+    "pll-01": {
+      "us_designation": "PLL-01 (100mm assault gun)",
+      "dod_class": "Self-propelled assault gun",
+      "form_zh": "自行突擊砲（100mm）",
+      "form_en": "Self-propelled assault gun",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式突擊砲，100mm。",
+      "notes_en": "PLL-01 (100mm assault gun). Self-propelled assault gun."
+    },
+    "pll-09": {
+      "us_designation": "PLL-09 (122mm wheeled SPH)",
+      "dod_class": "Wheeled self-propelled howitzer",
+      "form_zh": "輪式自走榴彈砲（122mm）",
+      "form_en": "Wheeled self-propelled howitzer",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "8×8 輪式 122mm 自走榴彈砲。",
+      "notes_en": "PLL-09 (122mm wheeled SPH). Wheeled self-propelled howitzer."
+    },
+    "pll-05": {
+      "us_designation": "PLL-05 (120mm self-propelled gun-mortar)",
+      "dod_class": "Self-propelled gun-mortar (120mm)",
+      "form_zh": "自行迫榴砲（120mm）",
+      "form_en": "Self-propelled gun-mortar (120mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式 120mm 迫榴砲。",
+      "notes_en": "PLL-05 (120mm self-propelled gun-mortar). Self-propelled gun-mortar (120mm)."
+    },
+    "plz-05": {
+      "us_designation": "PLZ-05 (155mm SPH)",
+      "dod_class": "Self-propelled howitzer (155mm)",
+      "form_zh": "自走榴彈砲（155mm）",
+      "form_en": "Self-propelled howitzer (155mm)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "履帶式 155mm/52 倍徑自走榴彈砲。",
+      "notes_en": "PLZ-05 (155mm SPH). Self-propelled howitzer (155mm)."
+    },
+    "plz-07": {
+      "us_designation": "PLZ-07 (122mm SPH)",
+      "dod_class": "Self-propelled howitzer (122mm)",
+      "form_zh": "自走榴彈砲（122mm）",
+      "form_en": "Self-propelled howitzer (122mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式 122mm 自走榴彈砲。",
+      "notes_en": "PLZ-07 (122mm SPH). Self-propelled howitzer (122mm)."
+    },
+    "plz-89": {
+      "us_designation": "PLZ-89 (122mm SPH)",
+      "dod_class": "Self-propelled howitzer (122mm)",
+      "form_zh": "自走榴彈砲（122mm）",
+      "form_en": "Self-propelled howitzer (122mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "早期履帶式 122mm 自走榴彈砲。",
+      "notes_en": "PLZ-89 (122mm SPH). Self-propelled howitzer (122mm)."
+    },
+    "pcl-171": {
+      "us_designation": "PCL-171",
+      "dod_class": "Light wheeled artillery/utility vehicle",
+      "form_zh": "輕型車載火砲／載具",
+      "form_en": "Light wheeled artillery/utility vehicle",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "輕型車載平台（資料待補精確角色）。",
+      "notes_en": "PCL-171. Light wheeled artillery/utility vehicle."
+    },
+    "pcl-161": {
+      "us_designation": "PCL-161 (122mm truck-mounted howitzer)",
+      "dod_class": "Truck-mounted howitzer (122mm)",
+      "form_zh": "車載榴彈砲（122mm）",
+      "form_en": "Truck-mounted howitzer (122mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "卡車底盤 122mm 車載榴彈砲。",
+      "notes_en": "PCL-161 (122mm truck-mounted howitzer). Truck-mounted howitzer (122mm)."
+    },
+    "pcl-09": {
+      "us_designation": "PCL-09 (122mm truck howitzer)",
+      "dod_class": "Truck-mounted howitzer (122mm)",
+      "form_zh": "車載榴彈砲（122mm）",
+      "form_en": "Truck-mounted howitzer (122mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "卡車底盤 122mm 車載榴彈砲。",
+      "notes_en": "PCL-09 (122mm truck howitzer). Truck-mounted howitzer (122mm)."
+    },
+    "phl-03": {
+      "us_designation": "PHL-03 (300mm MLRS; BM-30 Smerch class)",
+      "dod_class": "Multiple rocket launcher (300mm)",
+      "form_zh": "多管火箭系統（300mm）",
+      "form_en": "Multiple rocket launcher (300mm)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "300mm 遠程多管火箭，Smerch 級。",
+      "notes_en": "PHL-03 (300mm MLRS; BM-30 Smerch class). Multiple rocket launcher (300mm)."
+    },
+    "phz-11": {
+      "us_designation": "PHZ-11 (122mm MLRS)",
+      "dod_class": "Multiple rocket launcher (122mm)",
+      "form_zh": "多管火箭系統（122mm）",
+      "form_en": "Multiple rocket launcher (122mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式 122mm 多管火箭。",
+      "notes_en": "PHZ-11 (122mm MLRS). Multiple rocket launcher (122mm)."
+    },
+    "phz-89": {
+      "us_designation": "PHZ-89 (122mm tracked MLRS)",
+      "dod_class": "Multiple rocket launcher (122mm)",
+      "form_zh": "多管火箭系統（122mm）",
+      "form_en": "Multiple rocket launcher (122mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式 122mm 多管火箭。",
+      "notes_en": "PHZ-89 (122mm tracked MLRS). Multiple rocket launcher (122mm)."
+    },
+    "phl-81": {
+      "us_designation": "PHL-81 (122mm MLRS)",
+      "dod_class": "Multiple rocket launcher (122mm)",
+      "form_zh": "多管火箭系統（122mm）",
+      "form_en": "Multiple rocket launcher (122mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "牽引／車載 122mm 40 管火箭。",
+      "notes_en": "PHL-81 (122mm MLRS). Multiple rocket launcher (122mm)."
+    },
+    "phz-10": {
+      "us_designation": "PHZ-10 (long-range MLRS)",
+      "dod_class": "Multiple rocket launcher",
+      "form_zh": "多管火箭系統",
+      "form_en": "Multiple rocket launcher",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "遠程多管火箭（舊稱）。",
+      "notes_en": "PHZ-10 (long-range MLRS). Multiple rocket launcher."
+    },
+    "type-90-mlrs": {
+      "us_designation": "Type 90 (122mm MLRS)",
+      "dod_class": "Multiple rocket launcher (122mm)",
+      "form_zh": "多管火箭系統（122mm）",
+      "form_en": "Multiple rocket launcher (122mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "122mm 40 管車載火箭砲。",
+      "notes_en": "Type 90 (122mm MLRS). Multiple rocket launcher (122mm)."
+    },
+    "a100": {
+      "us_designation": "A-100 (300mm MLRS)",
+      "dod_class": "Multiple rocket launcher (300mm)",
+      "form_zh": "多管火箭系統（300mm）",
+      "form_en": "Multiple rocket launcher (300mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "300mm 遠程多管火箭（出口／衍生）。",
+      "notes_en": "A-100 (300mm MLRS). Multiple rocket launcher (300mm)."
+    },
+    "sr5": {
+      "us_designation": "SR-5 (modular MLRS)",
+      "dod_class": "Multiple rocket launcher (122/220mm modular)",
+      "form_zh": "模組化多管火箭系統",
+      "form_en": "Multiple rocket launcher (122/220mm modular)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "122／220mm 模組化多管火箭（出口）。",
+      "notes_en": "SR-5 (modular MLRS). Multiple rocket launcher (122/220mm modular)."
+    },
+    "pgz-09": {
+      "us_designation": "PGZ-09 (35mm SPAAG)",
+      "dod_class": "Self-propelled anti-aircraft gun (35mm)",
+      "form_zh": "自行高砲（35mm）",
+      "form_en": "Self-propelled anti-aircraft gun (35mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式雙管 35mm 自行高砲。",
+      "notes_en": "PGZ-09 (35mm SPAAG). Self-propelled anti-aircraft gun (35mm)."
+    },
+    "pgz-95": {
+      "us_designation": "PGZ-95 (25mm SPAAG/SAM)",
+      "dod_class": "Self-propelled AAA/SAM (25mm)",
+      "form_zh": "彈砲合一自行防空（25mm）",
+      "form_en": "Self-propelled AAA/SAM (25mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "25mm 四管＋近程飛彈彈砲合一。",
+      "notes_en": "PGZ-95 (25mm SPAAG/SAM). Self-propelled AAA/SAM (25mm)."
+    },
+    "pgz-04a": {
+      "us_designation": "PGZ-04A (SPAAG)",
+      "dod_class": "Self-propelled anti-aircraft gun",
+      "form_zh": "自行高砲",
+      "form_en": "Self-propelled anti-aircraft gun",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "彈砲合一自行防空系統。",
+      "notes_en": "PGZ-04A (SPAAG). Self-propelled anti-aircraft gun."
+    },
+    "ld-2000": {
+      "us_designation": "LD-2000 (land-based CIWS; Type 730 derivative)",
+      "dod_class": "Ground-based close-in weapon system (30mm)",
+      "form_zh": "陸基近迫防空砲（30mm）",
+      "form_en": "Ground-based close-in weapon system (30mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "陸基型 730 近防砲，反火箭／飛彈。",
+      "notes_en": "LD-2000 (land-based CIWS; Type 730 derivative). Ground-based close-in weapon system (30mm)."
+    },
+    "type-83-sph": {
+      "us_designation": "Type 83 (152mm SPH)",
+      "dod_class": "Self-propelled howitzer (152mm, legacy)",
+      "form_zh": "自走加榴砲（152mm，舊式）",
+      "form_en": "Self-propelled howitzer (152mm, legacy)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式 152mm 自走加榴砲。",
+      "notes_en": "Type 83 (152mm SPH). Self-propelled howitzer (152mm, legacy)."
+    },
+    "type-66-152": {
+      "us_designation": "Type 66 (152mm towed gun-howitzer; D-20 derivative)",
+      "dod_class": "Towed gun-howitzer (152mm)",
+      "form_zh": "牽引式加榴砲（152mm）",
+      "form_en": "Towed gun-howitzer (152mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "蘇製 D-20 衍生 152mm 牽引加榴砲。",
+      "notes_en": "Type 66 (152mm towed gun-howitzer; D-20 derivative). Towed gun-howitzer (152mm)."
+    },
+    "pll-05-alt": {
+      "us_designation": "PLL-05 (120mm self-propelled mortar-howitzer)",
+      "dod_class": "Self-propelled mortar (120mm)",
+      "form_zh": "自行迫擊砲（120mm）",
+      "form_en": "Self-propelled mortar (120mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "120mm 自行迫榴砲相關（總覽）。",
+      "notes_en": "PLL-05 (120mm self-propelled mortar-howitzer). Self-propelled mortar (120mm)."
+    },
+    "cs-sm1": {
+      "us_designation": "CS/SM1 (120mm mortar system)",
+      "dod_class": "Mortar system (120mm)",
+      "form_zh": "迫擊砲系統（120mm）",
+      "form_en": "Mortar system (120mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "120mm 迫擊砲系統（出口／新型）。",
+      "notes_en": "CS/SM1 (120mm mortar system). Mortar system (120mm)."
+    },
+    "pcz-171": {
+      "us_designation": "PCZ-171 (assault-vehicle variant)",
+      "dod_class": "Light assault vehicle variant",
+      "form_zh": "突擊車變型",
+      "form_en": "Light assault vehicle variant",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "PCL/PCZ 系列突擊車變型。",
+      "notes_en": "PCZ-171 (assault-vehicle variant). Light assault vehicle variant."
+    },
+    "hq-17": {
+      "us_designation": "HQ-17 (Tor/SA-15 derivative SR-SAM)",
+      "dod_class": "Short-range surface-to-air missile",
+      "form_zh": "近程防空飛彈系統",
+      "form_en": "Short-range surface-to-air missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "履帶式近程防空，源自 Tor-M1（SA-15）。",
+      "notes_en": "HQ-17 (Tor/SA-15 derivative SR-SAM). Short-range surface-to-air missile."
+    },
+    "hq-17a": {
+      "us_designation": "HQ-17A",
+      "dod_class": "Short-range surface-to-air missile",
+      "form_zh": "近程防空飛彈系統",
+      "form_en": "Short-range surface-to-air missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "HQ-17 輪式／改良型。",
+      "notes_en": "HQ-17A. Short-range surface-to-air missile."
+    },
+    "hq-16": {
+      "us_designation": "HQ-16 (medium-range SAM)",
+      "dod_class": "Medium-range surface-to-air missile",
+      "form_zh": "中程防空飛彈",
+      "form_en": "Medium-range surface-to-air missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "中程垂直發射防空飛彈。",
+      "notes_en": "HQ-16 (medium-range SAM). Medium-range surface-to-air missile."
+    },
+    "hq-9b": {
+      "us_designation": "HQ-9B (long-range SAM)",
+      "dod_class": "Long-range surface-to-air missile",
+      "form_zh": "遠程防空飛彈",
+      "form_en": "Long-range surface-to-air missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "遠程防空飛彈，射程延伸型。",
+      "notes_en": "HQ-9B (long-range SAM). Long-range surface-to-air missile."
+    },
+    "hq-9a": {
+      "us_designation": "HQ-9A",
+      "dod_class": "Long-range surface-to-air missile",
+      "form_zh": "遠程防空飛彈",
+      "form_en": "Long-range surface-to-air missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "HQ-9 改良型遠程防空。",
+      "notes_en": "HQ-9A. Long-range surface-to-air missile."
+    },
+    "hq-7": {
+      "us_designation": "HQ-7 (Crotale derivative SR-SAM)",
+      "dod_class": "Short-range surface-to-air missile",
+      "form_zh": "近程防空飛彈",
+      "form_en": "Short-range surface-to-air missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "法製 Crotale 衍生近程防空。",
+      "notes_en": "HQ-7 (Crotale derivative SR-SAM). Short-range surface-to-air missile."
+    },
+    "hq-6": {
+      "us_designation": "HQ-6 (LY-60-based SR-SAM)",
+      "dod_class": "Short-range surface-to-air missile",
+      "form_zh": "近程防空飛彈",
+      "form_en": "Short-range surface-to-air missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "近程防空飛彈系統（陸基）。",
+      "notes_en": "HQ-6 (LY-60-based SR-SAM). Short-range surface-to-air missile."
+    },
+    "hq-10": {
+      "us_designation": "HHQ-10 / HQ-10 (naval point-defense SAM)",
+      "dod_class": "Naval point-defense missile",
+      "form_zh": "艦載近迫防空飛彈",
+      "form_en": "Naval point-defense missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "艦載滾轉彈體近迫防空（RAM 級）。",
+      "notes_en": "HHQ-10 / HQ-10 (naval point-defense SAM). Naval point-defense missile."
+    },
+    "hhq-9": {
+      "us_designation": "HHQ-9 (naval long-range SAM)",
+      "dod_class": "Naval long-range surface-to-air missile",
+      "form_zh": "艦載遠程防空飛彈",
+      "form_en": "Naval long-range surface-to-air missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "HQ-9 艦載型，052D／055 區域防空。",
+      "notes_en": "HHQ-9 (naval long-range SAM). Naval long-range surface-to-air missile."
+    },
+    "hhq-16": {
+      "us_designation": "HHQ-16 (naval medium-range SAM)",
+      "dod_class": "Naval medium-range surface-to-air missile",
+      "form_zh": "艦載中程防空飛彈",
+      "form_en": "Naval medium-range surface-to-air missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "HQ-16 艦載型，054A 垂發防空。",
+      "notes_en": "HHQ-16 (naval medium-range SAM). Naval medium-range surface-to-air missile."
+    },
+    "s-300": {
+      "us_designation": "S-300PMU-1/2 (SA-20 Gargoyle)",
+      "dod_class": "Long-range SAM (Russian-built)",
+      "form_zh": "遠程防空系統（俄製）",
+      "form_en": "Long-range SAM (Russian-built)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "向俄採購遠程防空；NATO SA-20。",
+      "notes_en": "S-300PMU-1/2 (SA-20 Gargoyle). Long-range SAM (Russian-built)."
+    },
+    "fb-6c": {
+      "us_designation": "FB-6C (short-range SAM)",
+      "dod_class": "Short-range SAM (vehicle/portable)",
+      "form_zh": "近程防空飛彈（車載／便攜）",
+      "form_en": "Short-range SAM (vehicle/portable)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "便攜彈上車近程防空系統。",
+      "notes_en": "FB-6C (short-range SAM). Short-range SAM (vehicle/portable)."
+    },
+    "fn-6": {
+      "us_designation": "FN-6 (MANPADS)",
+      "dod_class": "Man-portable air-defense system",
+      "form_zh": "便攜式防空飛彈（MANPADS）",
+      "form_en": "Man-portable air-defense system",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "第三代紅外 MANPADS。",
+      "notes_en": "FN-6 (MANPADS). Man-portable air-defense system."
+    },
+    "fn-16": {
+      "us_designation": "FN-16 (MANPADS)",
+      "dod_class": "Man-portable air-defense system",
+      "form_zh": "便攜式防空飛彈（MANPADS）",
+      "form_en": "Man-portable air-defense system",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "FN-6 改良型 MANPADS。",
+      "notes_en": "FN-16 (MANPADS). Man-portable air-defense system."
+    },
+    "qw-1": {
+      "us_designation": "QW-1 Vanguard (MANPADS)",
+      "dod_class": "Man-portable air-defense system",
+      "form_zh": "便攜式防空飛彈（MANPADS）",
+      "form_en": "Man-portable air-defense system",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "前衛-1 紅外 MANPADS。",
+      "notes_en": "QW-1 Vanguard (MANPADS). Man-portable air-defense system."
+    },
+    "qw-2": {
+      "us_designation": "QW-2 (MANPADS)",
+      "dod_class": "Man-portable air-defense system",
+      "form_zh": "便攜式防空飛彈（MANPADS）",
+      "form_en": "Man-portable air-defense system",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "前衛-2 紅外 MANPADS。",
+      "notes_en": "QW-2 (MANPADS). Man-portable air-defense system."
+    },
+    "hj-8": {
+      "us_designation": "HJ-8 (Red Arrow 8; TOW-class ATGM)",
+      "dod_class": "Anti-tank guided missile",
+      "form_zh": "反戰車飛彈",
+      "form_en": "Anti-tank guided missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "紅箭-8 有線導引 ATGM，TOW 級。",
+      "notes_en": "HJ-8 (Red Arrow 8; TOW-class ATGM). Anti-tank guided missile."
+    },
+    "hj-9": {
+      "us_designation": "HJ-9 (Red Arrow 9)",
+      "dod_class": "Anti-tank guided missile",
+      "form_zh": "反戰車飛彈",
+      "form_en": "Anti-tank guided missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "紅箭-9 重型 ATGM，車載。",
+      "notes_en": "HJ-9 (Red Arrow 9). Anti-tank guided missile."
+    },
+    "hj-10": {
+      "us_designation": "HJ-10 (Red Arrow 10)",
+      "dod_class": "Anti-tank guided missile (air-launched)",
+      "form_zh": "反戰車飛彈（空射）",
+      "form_en": "Anti-tank guided missile (air-launched)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "紅箭-10，Z-10 主要反裝甲武器。",
+      "notes_en": "HJ-10 (Red Arrow 10). Anti-tank guided missile (air-launched)."
+    },
+    "hj-12": {
+      "us_designation": "HJ-12 (Red Arrow 12; fire-and-forget ATGM)",
+      "dod_class": "Man-portable anti-tank guided missile",
+      "form_zh": "便攜式反戰車飛彈",
+      "form_en": "Man-portable anti-tank guided missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "紅箭-12 射後不理 ATGM，Javelin 級。",
+      "notes_en": "HJ-12 (Red Arrow 12; fire-and-forget ATGM). Man-portable anti-tank guided missile."
+    },
+    "akd-10": {
+      "us_designation": "AKD-10 (air-launched ATGM)",
+      "dod_class": "Air-launched anti-tank guided missile",
+      "form_zh": "空射反戰車飛彈",
+      "form_en": "Air-launched anti-tank guided missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "無人機／直升機空射反戰車飛彈。",
+      "notes_en": "AKD-10 (air-launched ATGM). Air-launched anti-tank guided missile."
+    },
+    "ba-9": {
+      "us_designation": "BA-9 (Blue Arrow 9; air-launched ATGM)",
+      "dod_class": "Air-launched anti-tank guided missile",
+      "form_zh": "空射反戰車飛彈",
+      "form_en": "Air-launched anti-tank guided missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "藍箭-9 空射反戰車飛彈。",
+      "notes_en": "BA-9 (Blue Arrow 9; air-launched ATGM). Air-launched anti-tank guided missile."
+    },
+    "pf-98": {
+      "us_designation": "PF-98 (120mm anti-tank rocket)",
+      "dod_class": "Anti-tank/multipurpose rocket launcher (120mm)",
+      "form_zh": "火箭筒（120mm）",
+      "form_en": "Anti-tank/multipurpose rocket launcher (120mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "120mm 班／連級反裝甲火箭。",
+      "notes_en": "PF-98 (120mm anti-tank rocket). Anti-tank/multipurpose rocket launcher (120mm)."
+    },
+    "pf-98a": {
+      "us_designation": "PF-98A (120mm rocket)",
+      "dod_class": "Anti-tank rocket launcher (120mm)",
+      "form_zh": "火箭筒（120mm）",
+      "form_en": "Anti-tank rocket launcher (120mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "PF-98 改良型。",
+      "notes_en": "PF-98A (120mm rocket). Anti-tank rocket launcher (120mm)."
+    },
+    "dzj-08": {
+      "us_designation": "DZJ-08 (individual multipurpose rocket)",
+      "dod_class": "Shoulder-fired multipurpose rocket",
+      "form_zh": "單兵多用途火箭",
+      "form_en": "Shoulder-fired multipurpose rocket",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "單兵多用途火箭（反工事／輕裝甲）。",
+      "notes_en": "DZJ-08 (individual multipurpose rocket). Shoulder-fired multipurpose rocket."
+    },
+    "type-69-rpg": {
+      "us_designation": "Type 69 (RPG-7 derivative, 40mm)",
+      "dod_class": "Anti-tank rocket launcher (40mm)",
+      "form_zh": "火箭筒（40mm）",
+      "form_en": "Anti-tank rocket launcher (40mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "RPG-7 衍生 40mm 火箭筒。",
+      "notes_en": "Type 69 (RPG-7 derivative, 40mm). Anti-tank rocket launcher (40mm)."
+    },
+    "qbz-95-1": {
+      "us_designation": "QBZ-95-1 (Type 95-1)",
+      "dod_class": "Bullpup assault rifle (5.8mm)",
+      "form_zh": "突擊步槍（5.8mm）",
+      "form_en": "Bullpup assault rifle (5.8mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "95 式改進型無托突擊步槍。",
+      "notes_en": "QBZ-95-1 (Type 95-1). Bullpup assault rifle (5.8mm)."
+    },
+    "qbz-95b": {
+      "us_designation": "QBZ-95B (carbine)",
+      "dod_class": "Bullpup carbine (5.8mm)",
+      "form_zh": "短突擊步槍（5.8mm）",
+      "form_en": "Bullpup carbine (5.8mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "95 式短管卡賓型。",
+      "notes_en": "QBZ-95B (carbine). Bullpup carbine (5.8mm)."
+    },
+    "qbz-03": {
+      "us_designation": "QBZ-03 (Type 03)",
+      "dod_class": "Assault rifle (5.8mm)",
+      "form_zh": "突擊步槍（5.8mm）",
+      "form_en": "Assault rifle (5.8mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "03 式有托突擊步槍。",
+      "notes_en": "QBZ-03 (Type 03). Assault rifle (5.8mm)."
+    },
+    "type-56-rifle": {
+      "us_designation": "Type 56 (AK/AKM derivative, 7.62×39)",
+      "dod_class": "Assault rifle (7.62×39mm)",
+      "form_zh": "突擊步槍（7.62×39mm）",
+      "form_en": "Assault rifle (7.62×39mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "AK/AKM 衍生，後備／民兵。",
+      "notes_en": "Type 56 (AK/AKM derivative, 7.62×39). Assault rifle (7.62×39mm)."
+    },
+    "type-81-rifle": {
+      "us_designation": "Type 81 (7.62×39)",
+      "dod_class": "Assault rifle (7.62×39mm)",
+      "form_zh": "突擊步槍（7.62×39mm）",
+      "form_en": "Assault rifle (7.62×39mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "81 式自動步槍，後備使用。",
+      "notes_en": "Type 81 (7.62×39). Assault rifle (7.62×39mm)."
+    },
+    "qbu-191": {
+      "us_designation": "QBU-191 (designated marksman rifle)",
+      "dod_class": "Designated marksman rifle (5.8mm)",
+      "form_zh": "精確射手步槍（5.8mm）",
+      "form_en": "Designated marksman rifle (5.8mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "191 槍族精確射手步槍。",
+      "notes_en": "QBU-191 (designated marksman rifle). Designated marksman rifle (5.8mm)."
+    },
+    "qbu-88": {
+      "us_designation": "QBU-88 (Type 88 DMR)",
+      "dod_class": "Designated marksman/sniper rifle (5.8mm)",
+      "form_zh": "精確射手／狙擊步槍（5.8mm）",
+      "form_en": "Designated marksman/sniper rifle (5.8mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "88 式半自動精確射手步槍。",
+      "notes_en": "QBU-88 (Type 88 DMR). Designated marksman/sniper rifle (5.8mm)."
+    },
+    "qbu-10": {
+      "us_designation": "QBU-10 (12.7mm anti-materiel rifle)",
+      "dod_class": "Anti-materiel rifle (12.7mm)",
+      "form_zh": "反器材步槍（12.7mm）",
+      "form_en": "Anti-materiel rifle (12.7mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "12.7mm 反器材／狙擊步槍。",
+      "notes_en": "QBU-10 (12.7mm anti-materiel rifle). Anti-materiel rifle (12.7mm)."
+    },
+    "qts-11": {
+      "us_designation": "QTS-11 (individual air-burst weapon system)",
+      "dod_class": "Integrated air-burst individual weapon",
+      "form_zh": "單兵綜合作戰系統",
+      "form_en": "Integrated air-burst individual weapon",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "5.8mm 步槍＋20mm 空爆榴彈綜合系統。",
+      "notes_en": "QTS-11 (individual air-burst weapon system). Integrated air-burst individual weapon."
+    },
+    "qsz-92": {
+      "us_designation": "QSZ-92 (Type 92 pistol)",
+      "dod_class": "Service pistol (9×19 / 5.8×21mm)",
+      "form_zh": "手槍",
+      "form_en": "Service pistol (9×19 / 5.8×21mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "92 式制式手槍。",
+      "notes_en": "QSZ-92 (Type 92 pistol). Service pistol (9×19 / 5.8×21mm)."
+    },
+    "qsw-06": {
+      "us_designation": "QSW-06 (suppressed pistol, 5.8×21)",
+      "dod_class": "Suppressed pistol (5.8×21mm)",
+      "form_zh": "微聲手槍（5.8×21mm）",
+      "form_en": "Suppressed pistol (5.8×21mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "05/06 式微聲手槍。",
+      "notes_en": "QSW-06 (suppressed pistol, 5.8×21). Suppressed pistol (5.8×21mm)."
+    },
+    "qcw-05": {
+      "us_designation": "QCW-05 (Type 05 SMG, 5.8×21)",
+      "dod_class": "Submachine gun (5.8×21mm)",
+      "form_zh": "衝鋒槍（5.8×21mm）",
+      "form_en": "Submachine gun (5.8×21mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "05 式微聲衝鋒槍。",
+      "notes_en": "QCW-05 (Type 05 SMG, 5.8×21). Submachine gun (5.8×21mm)."
+    },
+    "qcq-171": {
+      "us_designation": "QCQ-171 (SMG)",
+      "dod_class": "Submachine gun (5.8mm)",
+      "form_zh": "衝鋒槍（5.8mm）",
+      "form_en": "Submachine gun (5.8mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "171 槍族衝鋒槍。",
+      "notes_en": "QCQ-171 (SMG). Submachine gun (5.8mm)."
+    },
+    "type-79-smg": {
+      "us_designation": "Type 79 (7.62×25 SMG)",
+      "dod_class": "Submachine gun (7.62×25mm)",
+      "form_zh": "衝鋒槍（7.62×25mm）",
+      "form_en": "Submachine gun (7.62×25mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "79 式輕型衝鋒槍。",
+      "notes_en": "Type 79 (7.62×25 SMG). Submachine gun (7.62×25mm)."
+    },
+    "qjy-88": {
+      "us_designation": "QJY-88 (Type 88 GPMG, 5.8mm)",
+      "dod_class": "General-purpose machine gun (5.8mm)",
+      "form_zh": "通用機槍（5.8mm）",
+      "form_en": "General-purpose machine gun (5.8mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "88 式 5.8mm 通用機槍。",
+      "notes_en": "QJY-88 (Type 88 GPMG, 5.8mm). General-purpose machine gun (5.8mm)."
+    },
+    "qjy-201": {
+      "us_designation": "QJY-201 (GPMG, 5.8mm)",
+      "dod_class": "General-purpose machine gun (5.8mm)",
+      "form_zh": "通用機槍（5.8mm）",
+      "form_en": "General-purpose machine gun (5.8mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "新型班用／通用機槍。",
+      "notes_en": "QJY-201 (GPMG, 5.8mm). General-purpose machine gun (5.8mm)."
+    },
+    "qjz-89": {
+      "us_designation": "QJZ-89 (Type 89 HMG, 12.7mm)",
+      "dod_class": "Heavy machine gun (12.7mm)",
+      "form_zh": "重機槍（12.7mm）",
+      "form_en": "Heavy machine gun (12.7mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "89 式輕量化 12.7mm 重機槍。",
+      "notes_en": "QJZ-89 (Type 89 HMG, 12.7mm). Heavy machine gun (12.7mm)."
+    },
+    "qjz-171": {
+      "us_designation": "QJZ-171 (HMG, 12.7mm)",
+      "dod_class": "Heavy machine gun (12.7mm)",
+      "form_zh": "重機槍（12.7mm）",
+      "form_en": "Heavy machine gun (12.7mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "171 槍族 12.7mm 重機槍。",
+      "notes_en": "QJZ-171 (HMG, 12.7mm). Heavy machine gun (12.7mm)."
+    },
+    "type-67-mg": {
+      "us_designation": "Type 67 (7.62×54R GPMG)",
+      "dod_class": "General-purpose machine gun (7.62×54R)",
+      "form_zh": "通用機槍（7.62×54R）",
+      "form_en": "General-purpose machine gun (7.62×54R)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "67 式通用機槍。",
+      "notes_en": "Type 67 (7.62×54R GPMG). General-purpose machine gun (7.62×54R)."
+    },
+    "type-80-mg": {
+      "us_designation": "Type 80 (PKM-derivative GPMG, 7.62×54R)",
+      "dod_class": "General-purpose machine gun (7.62×54R)",
+      "form_zh": "通用機槍（7.62×54R）",
+      "form_en": "General-purpose machine gun (7.62×54R)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "PKM 衍生 80 式通用機槍。",
+      "notes_en": "Type 80 (PKM-derivative GPMG, 7.62×54R). General-purpose machine gun (7.62×54R)."
+    },
+    "qjg-02": {
+      "us_designation": "QJG-02 (14.5mm heavy/AA MG)",
+      "dod_class": "Heavy anti-aircraft machine gun (14.5mm)",
+      "form_zh": "高射機槍（14.5mm）",
+      "form_en": "Heavy anti-aircraft machine gun (14.5mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "14.5mm 單管高射／重機槍。",
+      "notes_en": "QJG-02 (14.5mm heavy/AA MG). Heavy anti-aircraft machine gun (14.5mm)."
+    },
+    "qlz-87": {
+      "us_designation": "QLZ-87 (35mm automatic grenade launcher)",
+      "dod_class": "Automatic grenade launcher (35mm)",
+      "form_zh": "自動榴彈發射器（35mm）",
+      "form_en": "Automatic grenade launcher (35mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "87 式 35mm 自動榴彈發射器。",
+      "notes_en": "QLZ-87 (35mm automatic grenade launcher). Automatic grenade launcher (35mm)."
+    },
+    "qlz-04": {
+      "us_designation": "QLZ-04 (35mm AGL)",
+      "dod_class": "Automatic grenade launcher (35mm)",
+      "form_zh": "自動榴彈發射器（35mm）",
+      "form_en": "Automatic grenade launcher (35mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "04 式 35mm 自動榴彈發射器。",
+      "notes_en": "QLZ-04 (35mm AGL). Automatic grenade launcher (35mm)."
+    },
+    "qlu-11": {
+      "us_designation": "QLU-11 (35mm precision grenade launcher)",
+      "dod_class": "Precision grenade launcher (35mm)",
+      "form_zh": "精確榴彈發射器（35mm）",
+      "form_en": "Precision grenade launcher (35mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "35mm 半自動精確榴彈發射器。",
+      "notes_en": "QLU-11 (35mm precision grenade launcher). Precision grenade launcher (35mm)."
+    },
+    "qlg-10": {
+      "us_designation": "QLG-10 (35mm under-barrel grenade launcher)",
+      "dod_class": "Under-barrel grenade launcher (35mm)",
+      "form_zh": "槍掛榴彈發射器（35mm）",
+      "form_en": "Under-barrel grenade launcher (35mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "191 槍族槍掛榴彈發射器。",
+      "notes_en": "QLG-10 (35mm under-barrel grenade launcher). Under-barrel grenade launcher (35mm)."
+    },
+    "type-91b-gl": {
+      "us_designation": "Type 91B (35mm rifle grenade)",
+      "dod_class": "Rifle grenade (35mm)",
+      "form_zh": "槍榴彈（35mm）",
+      "form_en": "Rifle grenade (35mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "91B 式槍口／槍掛榴彈。",
+      "notes_en": "Type 91B (35mm rifle grenade). Rifle grenade (35mm)."
+    },
+    "pp-87": {
+      "us_designation": "PP-87 (82mm mortar)",
+      "dod_class": "Mortar (82mm)",
+      "form_zh": "迫擊砲（82mm）",
+      "form_en": "Mortar (82mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "82mm 營級迫擊砲。",
+      "notes_en": "PP-87 (82mm mortar). Mortar (82mm)."
+    },
+    "pp-89": {
+      "us_designation": "PP-89 (100mm mortar)",
+      "dod_class": "Mortar (100mm)",
+      "form_zh": "迫擊砲（100mm）",
+      "form_en": "Mortar (100mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "100mm 迫擊砲。",
+      "notes_en": "PP-89 (100mm mortar). Mortar (100mm)."
+    },
+    "w86-120": {
+      "us_designation": "W86 (120mm mortar)",
+      "dod_class": "Mortar (120mm)",
+      "form_zh": "迫擊砲（120mm）",
+      "form_en": "Mortar (120mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "120mm 迫擊砲。",
+      "notes_en": "W86 (120mm mortar). Mortar (120mm)."
+    },
+    "yj-12b": {
+      "us_designation": "YJ-12B (coastal-defense ASCM variant)",
+      "dod_class": "Anti-ship cruise missile (coastal)",
+      "form_zh": "岸艦飛彈",
+      "form_en": "Anti-ship cruise missile (coastal)",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "YJ-12 岸置超音速反艦飛彈。",
+      "notes_en": "YJ-12B (coastal-defense ASCM variant). Anti-ship cruise missile (coastal)."
+    },
+    "yj-62": {
+      "us_designation": "YJ-62 (C-602; subsonic ASCM)",
+      "dod_class": "Anti-ship cruise missile",
+      "form_zh": "反艦飛彈",
+      "form_en": "Anti-ship cruise missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "亞音速遠程反艦飛彈，岸艦／艦載。",
+      "notes_en": "YJ-62 (C-602; subsonic ASCM). Anti-ship cruise missile."
+    },
+    "yj-6": {
+      "us_designation": "YJ-6 (C-601; Silkworm-derivative ASCM)",
+      "dod_class": "Anti-ship cruise missile (legacy, air-launched)",
+      "form_zh": "反艦飛彈（舊式，空射）",
+      "form_en": "Anti-ship cruise missile (legacy, air-launched)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "鷹擊-6 空射反艦飛彈，Silkworm 族。",
+      "notes_en": "YJ-6 (C-601; Silkworm-derivative ASCM). Anti-ship cruise missile (legacy, air-launched)."
+    },
+    "c-802a": {
+      "us_designation": "C-802A (YJ-83 export)",
+      "dod_class": "Anti-ship cruise missile (export)",
+      "form_zh": "反艦飛彈（出口）",
+      "form_en": "Anti-ship cruise missile (export)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "YJ-83 出口型反艦飛彈。",
+      "notes_en": "C-802A (YJ-83 export). Anti-ship cruise missile (export)."
+    },
+    "yj-18a": {
+      "us_designation": "YJ-18A (submarine-launched ASCM)",
+      "dod_class": "Submarine-launched anti-ship cruise missile",
+      "form_zh": "潛射反艦飛彈",
+      "form_en": "Submarine-launched anti-ship cruise missile",
+      "source_authority": [
+        "DoD China Military Power Report 2025 (CMPR)"
+      ],
+      "source_tier": "US_DoD",
+      "notes_zh": "YJ-18 潛射型，末端超音速。",
+      "notes_en": "YJ-18A (submarine-launched ASCM). Submarine-launched anti-ship cruise missile."
+    },
+    "cx-1": {
+      "us_designation": "CX-1 (supersonic ASCM, export)",
+      "dod_class": "Supersonic anti-ship cruise missile (export)",
+      "form_zh": "超音速反艦飛彈（出口）",
+      "form_en": "Supersonic anti-ship cruise missile (export)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "超音速反艦飛彈（出口展示）。",
+      "notes_en": "CX-1 (supersonic ASCM, export). Supersonic anti-ship cruise missile (export)."
+    },
+    "cm-401": {
+      "us_designation": "CM-401 (anti-ship ballistic missile, export)",
+      "dod_class": "Anti-ship ballistic missile (export)",
+      "form_zh": "反艦彈道飛彈（出口）",
+      "form_en": "Anti-ship ballistic missile (export)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "近程反艦彈道飛彈（出口）。",
+      "notes_en": "CM-401 (anti-ship ballistic missile, export). Anti-ship ballistic missile (export)."
+    },
+    "yj-91": {
+      "us_designation": "YJ-91 (Kh-31P derivative; ARM/AShM)",
+      "dod_class": "Anti-radiation/anti-ship missile",
+      "form_zh": "反輻射／反艦飛彈",
+      "form_en": "Anti-radiation/anti-ship missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "Kh-31 衍生，反輻射／反艦。",
+      "notes_en": "YJ-91 (Kh-31P derivative; ARM/AShM). Anti-radiation/anti-ship missile."
+    },
+    "ld-10": {
+      "us_designation": "LD-10 (anti-radiation missile; PL-12 derivative)",
+      "dod_class": "Anti-radiation missile",
+      "form_zh": "反輻射飛彈",
+      "form_en": "Anti-radiation missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "雷霆-10 反輻射飛彈。",
+      "notes_en": "LD-10 (anti-radiation missile; PL-12 derivative). Anti-radiation missile."
+    },
+    "pl-8": {
+      "us_designation": "PL-8 (Python-3 derivative SRAAM, IR)",
+      "dod_class": "Short-range air-to-air missile (IR)",
+      "form_zh": "空對空飛彈（近距，紅外）",
+      "form_en": "Short-range air-to-air missile (IR)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "霹靂-8，Python-3 衍生近距空對空。",
+      "notes_en": "PL-8 (Python-3 derivative SRAAM, IR). Short-range air-to-air missile (IR)."
+    },
+    "pl-5e": {
+      "us_designation": "PL-5E (SRAAM, IR)",
+      "dod_class": "Short-range air-to-air missile (IR)",
+      "form_zh": "空對空飛彈（近距，紅外）",
+      "form_en": "Short-range air-to-air missile (IR)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "霹靂-5E 紅外近距空對空。",
+      "notes_en": "PL-5E (SRAAM, IR). Short-range air-to-air missile (IR)."
+    },
+    "ty-90": {
+      "us_designation": "TY-90 (helicopter-launched SRAAM)",
+      "dod_class": "Short-range air-to-air missile (helicopter)",
+      "form_zh": "空對空飛彈（直升機）",
+      "form_en": "Short-range air-to-air missile (helicopter)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "天燕-90 直升機用近距空對空。",
+      "notes_en": "TY-90 (helicopter-launched SRAAM). Short-range air-to-air missile (helicopter)."
+    },
+    "kd-88": {
+      "us_designation": "KD-88 (air-launched land-attack missile)",
+      "dod_class": "Air-to-surface stand-off missile",
+      "form_zh": "空對地飛彈",
+      "form_en": "Air-to-surface stand-off missile",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "空地-88 空射對地攻擊飛彈。",
+      "notes_en": "KD-88 (air-launched land-attack missile). Air-to-surface stand-off missile."
+    },
+    "ls-6": {
+      "us_designation": "LS-6 (precision-guided glide bomb)",
+      "dod_class": "Precision-guided glide bomb",
+      "form_zh": "精確導引滑翔炸彈",
+      "form_en": "Precision-guided glide bomb",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "雷石-6 衛星／慣導滑翔炸彈。",
+      "notes_en": "LS-6 (precision-guided glide bomb). Precision-guided glide bomb."
+    },
+    "ft-series": {
+      "us_designation": "FT-series (precision-guided bombs)",
+      "dod_class": "Precision-guided bomb family",
+      "form_zh": "精確導引炸彈族",
+      "form_en": "Precision-guided bomb family",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "飛騰系列衛星導引炸彈。",
+      "notes_en": "FT-series (precision-guided bombs). Precision-guided bomb family."
+    },
+    "gb-series": {
+      "us_designation": "GB-series (precision-guided bombs)",
+      "dod_class": "Precision-guided bomb family",
+      "form_zh": "精確導引炸彈族",
+      "form_en": "Precision-guided bomb family",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "GB 系列滑翔／導引炸彈。",
+      "notes_en": "GB-series (precision-guided bombs). Precision-guided bomb family."
+    },
+    "yu-6": {
+      "us_designation": "Yu-6 (heavyweight torpedo)",
+      "dod_class": "Heavyweight submarine torpedo (533mm)",
+      "form_zh": "重型魚雷（533mm）",
+      "form_en": "Heavyweight submarine torpedo (533mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "533mm 線導／聲導重型魚雷。",
+      "notes_en": "Yu-6 (heavyweight torpedo). Heavyweight submarine torpedo (533mm)."
+    },
+    "yu-7": {
+      "us_designation": "Yu-7 (lightweight ASW torpedo)",
+      "dod_class": "Lightweight ASW torpedo (324mm)",
+      "form_zh": "輕型反潛魚雷（324mm）",
+      "form_en": "Lightweight ASW torpedo (324mm)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "324mm 反潛輕型魚雷。",
+      "notes_en": "Yu-7 (lightweight ASW torpedo). Lightweight ASW torpedo (324mm)."
+    },
+    "yu-10": {
+      "us_designation": "Yu-10 (torpedo)",
+      "dod_class": "Torpedo",
+      "form_zh": "魚雷",
+      "form_en": "Torpedo",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "魚-10 魚雷。",
+      "notes_en": "Yu-10 (torpedo). Torpedo."
+    },
+    "type-21-uniform": {
+      "us_designation": "Type 21 combat uniform/gear",
+      "dod_class": "Individual combat uniform / load-bearing gear",
+      "form_zh": "單兵作戰服／攜行具",
+      "form_en": "Individual combat uniform / load-bearing gear",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "21 式作戰服與攜行具。",
+      "notes_en": "Type 21 combat uniform/gear. Individual combat uniform / load-bearing gear."
+    },
+    "type-19-gear": {
+      "us_designation": "Type 19 individual load-bearing system",
+      "dod_class": "Individual equipment / body-armor system",
+      "form_zh": "單兵攜行／防護系統",
+      "form_en": "Individual equipment / body-armor system",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "19 式單兵攜行與防彈系統。",
+      "notes_en": "Type 19 individual load-bearing system. Individual equipment / body-armor system."
+    },
+    "type-07-uniform": {
+      "us_designation": "Type 07 uniform/camouflage",
+      "dod_class": "Service / camouflage uniform",
+      "form_zh": "制式軍服／迷彩",
+      "form_en": "Service / camouflage uniform",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "07 式軍服與數位迷彩。",
+      "notes_en": "Type 07 uniform/camouflage. Service / camouflage uniform."
+    },
+    "qgf-11": {
+      "us_designation": "QGF-11 helmet",
+      "dod_class": "Ballistic combat helmet",
+      "form_zh": "戰鬥頭盔",
+      "form_en": "Ballistic combat helmet",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "QGF-11 防彈頭盔。",
+      "notes_en": "QGF-11 helmet. Ballistic combat helmet."
+    },
+    "qgf-03": {
+      "us_designation": "QGF-03 helmet",
+      "dod_class": "Ballistic combat helmet",
+      "form_zh": "戰鬥頭盔",
+      "form_en": "Ballistic combat helmet",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "QGF-03 防彈頭盔。",
+      "notes_en": "QGF-03 helmet. Ballistic combat helmet."
+    },
+    "bbg011a": {
+      "us_designation": "BBG011A night-vision device",
+      "dod_class": "Night-vision device",
+      "form_zh": "夜視儀",
+      "form_en": "Night-vision device",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "單兵夜視器材。",
+      "notes_en": "BBG011A night-vision device. Night-vision device."
+    },
+    "gcl-111": {
+      "us_designation": "GCL-111 armored bridge-layer",
+      "dod_class": "Armored bridge-layer (engineer)",
+      "form_zh": "裝甲架橋車（工兵）",
+      "form_en": "Armored bridge-layer (engineer)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "坦克底盤機械化架橋車。",
+      "notes_en": "GCL-111 armored bridge-layer. Armored bridge-layer (engineer)."
+    },
+    "gcj-112": {
+      "us_designation": "GCJ-112 combat engineer vehicle series",
+      "dod_class": "Combat engineer vehicle",
+      "form_zh": "工程／工兵車系列",
+      "form_en": "Combat engineer vehicle",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "裝甲工程車系列。",
+      "notes_en": "GCJ-112 combat engineer vehicle series. Combat engineer vehicle."
+    },
+    "type-84-minelayer": {
+      "us_designation": "Type 84 (GBL-131) minelayer",
+      "dod_class": "Mine-laying vehicle (engineer)",
+      "form_zh": "布雷車（工兵）",
+      "form_en": "Mine-laying vehicle (engineer)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "履帶式火箭布雷車。",
+      "notes_en": "Type 84 (GBL-131) minelayer. Mine-laying vehicle (engineer)."
+    },
+    "mengshi": {
+      "us_designation": "EQ2050 Mengshi (Dongfeng; Humvee-class)",
+      "dod_class": "Light tactical vehicle",
+      "form_zh": "高機動戰術車",
+      "form_en": "Light tactical vehicle",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "猛士高機動輪式戰術車，HMMWV 級。",
+      "notes_en": "EQ2050 Mengshi (Dongfeng; Humvee-class). Light tactical vehicle."
+    },
+    "eq2058": {
+      "us_designation": "Mengshi III / EQ2058 (MSCV)",
+      "dod_class": "Light tactical vehicle (new-gen)",
+      "form_zh": "高機動戰術車（新一代）",
+      "form_en": "Light tactical vehicle (new-gen)",
+      "source_authority": [
+        "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
+      ],
+      "source_tier": "US_open",
+      "notes_zh": "猛士 III／新一代高機動戰術車。",
+      "notes_en": "Mengshi III / EQ2058 (MSCV). Light tactical vehicle (new-gen)."
+    }
+  },
+  "new_items": [
+    "df-27",
+    "df-11a",
+    "df-31b",
+    "hq-19",
+    "kj-3000",
+    "type-19-ifv",
+    "wz-9"
+  ]
+}

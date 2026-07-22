@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="解放軍武器、裝備、載具快速查找 — ODIN WEG 風格單機工具（繁體中文）" />
+  <title>解放軍武裝載具速查｜ODIN 風格</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="brand">
+        <h1>解放軍武器 · 裝備 · 載具速查</h1>
+        <div class="subtitle">裝備形式對齊美方權威（DoD CMPR／FAS／艦級命名）· ODIN WEG 欄位 · 繁中</div>
+        <div class="badge-row">
+          <span class="badge">資料庫 <strong id="totalCount">0</strong> 筆</span>
+          <span class="badge">美方核對標籤 · 本機縮圖</span>
+          <span class="badge">DoD CMPR 2025 · ODIN WEG · FAS</span>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button type="button" class="btn" id="btnImport">匯入 ODIN／JSON</button>
+        <button type="button" class="btn" id="btnExport">匯出 JSON</button>
+        <button type="button" class="btn" id="btnClearCustom">清除自訂</button>
+        <button type="button" class="btn btn-primary" id="btnHelp">使用說明</button>
+      </div>
+    </header>
+
+    <section class="search-panel">
+      <div class="search-row">
+        <div class="search-input-wrap">
+          <span class="icon" aria-hidden="true">⌕</span>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="搜尋型號、中英文名稱、標籤… 例如：99A、QBZ、紅旗、無人機"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button type="button" class="clear-btn" id="clearBtn" title="清除">✕</button>
+        </div>
+      </div>
+      <div class="filters" id="filters">
+        <button type="button" class="chip active" data-cat="all">全部</button>
+        <button type="button" class="chip" data-cat="weapon">武器</button>
+        <button type="button" class="chip" data-cat="equipment">裝備</button>
+        <button type="button" class="chip" data-cat="vehicle">載具</button>
+      </div>
+      <div class="filters branch-filters" id="branchFilters">
+        <span class="filter-label">軍種</span>
+        <button type="button" class="chip active" data-branch="all">全部</button>
+        <button type="button" class="chip" data-branch="陸軍">陸軍</button>
+        <button type="button" class="chip" data-branch="海軍">海軍</button>
+        <button type="button" class="chip" data-branch="空軍">空軍</button>
+        <button type="button" class="chip" data-branch="火箭軍">火箭軍</button>
+        <button type="button" class="chip" data-branch="通用">通用</button>
+      </div>
+      <div class="meta-row">
+        <span id="resultCount">共 0 筆</span>
+        <div class="sort-wrap">
+          <label for="sortSelect">排序</label>
+          <select id="sortSelect">
+            <option value="name">名稱（繁中）</option>
+            <option value="designation">型號</option>
+            <option value="category">分類</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <main class="main">
+      <div class="results" id="results" aria-live="polite"></div>
+      <aside class="detail-panel" id="detail"></aside>
+    </main>
+
+    <footer class="footer">
+      本工具為單機速查介面，內建資料來自公開來源並以 ODIN Worldwide Equipment Guide（WEG）常見欄位整理。
+      正式訓練與引用請以 ODIN 官方內容為準。按 <span class="kbd">/</span> 快速聚焦搜尋框。
+    </footer>
+  </div>
+
+  <!-- 匯入 -->
+  <div class="modal-backdrop" id="importModal" role="dialog" aria-modal="true">
+    <div class="modal">
+      <header>
+        <h3>匯入 ODIN／自訂 JSON</h3>
+        <button type="button" class="btn" data-close="importModal">關閉</button>
+      </header>
+      <div class="body">
+        <p>
+          可貼上 JSON，或選擇檔案。格式支援：<code>{ "items": [ {...} ] }</code> 或直接陣列。
+          欄位請對齊 <code>data/schema.example.json</code>。匯入資料會存在瀏覽器本機（localStorage）。
+        </p>
+        <p>
+          <input type="file" id="importFile" accept=".json,application/json" />
+        </p>
+        <p>
+          <label for="importMode">模式：</label>
+          <select id="importMode">
+            <option value="merge">合併（同 id 覆蓋）</option>
+            <option value="replace">覆蓋全部自訂資料</option>
+          </select>
+        </p>
+        <textarea id="importText" placeholder='{"items":[{"id":"example","name_zh":"範例","name_en":"Example","category":"weapon","designation":"EX-1"}]}'></textarea>
+        <div class="actions">
+          <button type="button" class="btn btn-primary" id="importConfirm">確認匯入</button>
+          <button type="button" class="btn" data-close="importModal">取消</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 說明 -->
+  <div class="modal-backdrop" id="helpModal" role="dialog" aria-modal="true">
+    <div class="modal">
+      <header>
+        <h3>使用說明</h3>
+        <button type="button" class="btn" data-close="helpModal">關閉</button>
+      </header>
+      <div class="body">
+        <ul class="help-list">
+          <li><strong>單機開啟：</strong>直接雙擊 <code>index.html</code>，或執行 <code>./start.sh</code> 以本機伺服器開啟。</li>
+          <li><strong>快速搜尋：</strong>支援中文名、英文名、型號（如 ZTZ-99A）、別名與標籤；多關鍵字以空白分隔（AND）。</li>
+          <li><strong>分類：</strong>武器／裝備／載具，對應步兵武器、系統裝備、坦克／飛機／艦艇等載具。</li>
+          <li><strong>軍種篩選：</strong>可依<strong>陸軍／海軍／空軍／火箭軍／通用</strong>過濾。歸類原則：艦艇潛艦與海航／陸戰隊＝海軍；戰機轟炸機與空降兵、戰略防空飛彈（HQ-9／S-300／S-400）＝空軍；陸射彈道／巡航飛彈＝火箭軍；潛射彈道飛彈（JL）＝海軍；步兵武器與單兵裝備跨軍種＝通用；其餘地面裝備＝陸軍。詳細服役單位見各條目「服役單位」欄。</li>
+          <li><strong>資料出處（引用）：</strong>諸元精修條目在詳情頁附<strong>可點擊出處連結</strong>（如 CSIS Missile Threat、FAS／DoD 中國軍力報告、ONI 艦級命名等）；尚未精修者標示「待補引用」。</li>
+          <li><strong>ODIN 整合：</strong>內建資料以 WEG 風格欄位呈現；可將你從 ODIN 整理的 JSON 匯入合併。每筆可加 <code>odin_url</code> 連到官方條目。</li>
+          <li><strong>繁中翻譯：</strong>介面與條目以繁體中文為主，英文名稱與備註並列。</li>
+          <li><strong>照片：</strong>多數條目附 Wikimedia／維基百科公開授權圖片（需連網載入）；缺圖顯示示意占位圖。</li>
+          <li><strong>資料位置：</strong>內建 <code>js/equipment-data.js</code>（可用 <code>tools/build_catalog.py</code> 重建）；匯入內容在瀏覽器 localStorage。</li>
+          <li><strong>美方權威核對：</strong>標「美方核對」者，裝備形式／美方型號／射程帶已對照 DoD《中國軍力報告》2025、FAS CSS 編號、美軍艦級公開命名等；其餘標「待核對」。</li>
+          <li><strong>ODIN：</strong>欄位結構對齊 Worldwide Equipment Guide；即時全文需可連 <code>odin.t2com.army.mil</code>。</li>
+          <li><strong>免責：</strong>僅供教育與訓練參考，非正式情報產品；正式引用請以 DoD／ODIN 原文為準。</li>
+        </ul>
+        <div class="actions">
+          <button type="button" class="btn btn-primary" data-close="helpModal">了解</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status"></div>
+
+  <script src="js/equipment-data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

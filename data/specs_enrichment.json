@@ -1,0 +1,3538 @@
+{
+  "meta": {
+    "title": "諸元精修層（分批擴充；附引用出處）",
+    "note": "覆蓋 range_m/caliber 等欄位並附 sources；apply 時於 patch 之後套用。批次1：火箭軍飛彈＋潛射彈道（CSIS Missile Threat／FAS-DoD CMPR 2024／MDAA）。",
+    "batch": "all branches; tail cleanup (2026-07-22 Claude)"
+  },
+  "items": {
+    "df-15b": {
+      "range_m": "600–900 km（DF-15 族；DF-15B >725 km，末端制導錐形彈頭）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：DF-15 (CSS-6)",
+          "url": "https://missilethreat.csis.org/missile/df-15/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "df-16": {
+      "range_m": "300–1,000 km（對陸攻擊 SRBM）",
+      "sources": [
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        },
+        {
+          "label": "CSIS Missile Threat：Missiles of China",
+          "url": "https://missilethreat.csis.org/country_tax/china/"
+        }
+      ]
+    },
+    "df-11a": {
+      "range_m": "300–1,000 km（對陸攻擊 SRBM）",
+      "sources": [
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        },
+        {
+          "label": "CSIS Missile Threat：Missiles of China",
+          "url": "https://missilethreat.csis.org/country_tax/china/"
+        }
+      ]
+    },
+    "df-17": {
+      "range_m": "1,800–2,500 km（MRBM＋高超音速滑翔體 DF-ZF；Mach 5–10）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：DF-17",
+          "url": "https://missilethreat.csis.org/missile/df-17/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "df-21a": {
+      "range_m": "約 2,150 km（MRBM，核彈頭）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：DF-21 (CSS-5)",
+          "url": "https://missilethreat.csis.org/missile/df-21/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "df-21d": {
+      "range_m": "1,450–1,550 km（反艦彈道飛彈 ASBM；末端機動，CEP≈20m）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：DF-21D (CSS-5 Mod 5)",
+          "url": "https://missilethreat.csis.org/missile/df-21/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "df-26": {
+      "range_m": "約 4,000 km（IRBM；模組化核／常規彈頭，含反艦型 DF-26B）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：DF-26",
+          "url": "https://missilethreat.csis.org/missile/dong-feng-26-df-26/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "df-31ag": {
+      "range_m": ">11,000 km（ICBM，公路機動 TEL，含突防誘餌）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：DF-31 (CSS-10)",
+          "url": "https://missilethreat.csis.org/missile/df-31/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "df-41": {
+      "range_m": "12,000–15,000 km（ICBM；MIRV 可達 10 個彈頭）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：DF-41 (CSS-20)",
+          "url": "https://missilethreat.csis.org/missile/df-41/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "df-5c": {
+      "range_m": "12,000+ km（ICBM，發射井；MIRV 多彈頭）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：DF-5 (CSS-4)",
+          "url": "https://missilethreat.csis.org/missile/df-5/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "jl-2": {
+      "range_m": "8,000–9,000 km（潛射彈道飛彈 SLBM，094 型核潛艦攜行）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：JL-2 (CSS-N-14)",
+          "url": "https://missilethreat.csis.org/missile/jl-2/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "jl-3": {
+      "range_m": "約 10,000 km（潛射彈道飛彈 SLBM，CSS-N-20；094／未來 096 型）",
+      "sources": [
+        {
+          "label": "Missile Defense Advocacy Alliance：JL-3",
+          "url": "https://www.missiledefenseadvocacy.org/missile-threat-and-proliferation/todays-missile-threat/china/jl-3/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "cj-10": {
+      "range_m": "約 1,500 km（陸射巡航飛彈 GLCM／LACM）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：Missiles of China",
+          "url": "https://missilethreat.csis.org/country_tax/china/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "df-100": {
+      "range_m": "約 2,000 km（陸射高超音速巡航飛彈，公開估計）",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：Missiles of China",
+          "url": "https://missilethreat.csis.org/country_tax/china/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "type-001": {
+      "weight_kg": "滿載約 60,900 噸",
+      "length_mm": "306.4 m",
+      "caliber": "STOBAR 滑躍甲板（無彈射）",
+      "capacity": "約 40 架艦載機（含 24 架 J-15）",
+      "sources": [
+        {
+          "label": "維基百科：遼寧號航空母艦",
+          "url": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Liaoning"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "約 2,000（含航空聯隊）",
+      "mobility": "蒸汽輪機；約 30 節"
+    },
+    "type-002": {
+      "weight_kg": "滿載約 60,000–70,000 噸",
+      "length_mm": "305 m",
+      "caliber": "STOBAR 滑躍甲板",
+      "capacity": "40+ 架（含 36 架 J-15）",
+      "sources": [
+        {
+          "label": "維基百科：山東號航空母艦",
+          "url": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "mobility": "蒸汽輪機；約 30 節"
+    },
+    "type-003": {
+      "weight_kg": "滿載約 80,000–85,000 噸",
+      "length_mm": "316 m",
+      "caliber": "電磁彈射（EMALS）平甲板",
+      "capacity": "50+ 架（J-35／J-15T／KJ-600／Z-20）",
+      "sources": [
+        {
+          "label": "維基百科：福建號航空母艦",
+          "url": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Fujian"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "mobility": "蒸汽輪機；四軸"
+    },
+    "type-055": {
+      "weight_kg": "滿載約 12,000–13,000 噸",
+      "length_mm": "180 m",
+      "caliber": "130mm H/PJ-45 主砲",
+      "capacity": "112 垂發（64前/48後）：HHQ-9／YJ-18A／YJ-21／CJ-10",
+      "sources": [
+        {
+          "label": "維基百科：055型驅逐艦",
+          "url": "https://en.wikipedia.org/wiki/Type_055_destroyer"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "300+",
+      "mobility": "COGAG 4×QC-280；30 節"
+    },
+    "type-052d": {
+      "weight_kg": "滿載約 7,500 噸",
+      "length_mm": "156 m",
+      "caliber": "130mm H/PJ-45",
+      "capacity": "64 垂發（32前/32後）：HHQ-9／YJ-18／CJ-10",
+      "sources": [
+        {
+          "label": "維基百科：052D型驅逐艦",
+          "url": "https://en.wikipedia.org/wiki/Type_052D_destroyer"
+        }
+      ],
+      "crew": "280"
+    },
+    "type-052dl": {
+      "weight_kg": "滿載約 7,700 噸",
+      "length_mm": "162 m",
+      "caliber": "130mm H/PJ-45",
+      "capacity": "64 垂發（延伸機庫、新雷達）",
+      "sources": [
+        {
+          "label": "維基百科：052D／052DL型驅逐艦",
+          "url": "https://en.wikipedia.org/wiki/Type_052D_destroyer"
+        }
+      ],
+      "crew": "280"
+    },
+    "type-052c": {
+      "weight_kg": "滿載約 7,000 噸",
+      "length_mm": "155 m",
+      "caliber": "100mm H/PJ-87",
+      "capacity": "48 垂發 HHQ-9＋8×YJ-62 反艦",
+      "sources": [
+        {
+          "label": "維基百科：052C型驅逐艦",
+          "url": "https://en.wikipedia.org/wiki/Type_052C_destroyer"
+        }
+      ],
+      "crew": "280"
+    },
+    "sovremenny": {
+      "weight_kg": "滿載約 7,940 噸",
+      "length_mm": "156.5 m",
+      "caliber": "AK-130 130mm 雙聯裝艦砲",
+      "capacity": "8×SS-N-22 Sunburn（3M80 Moskit）超音速反艦",
+      "sources": [
+        {
+          "label": "維基百科：現代級驅逐艦",
+          "url": "https://en.wikipedia.org/wiki/Sovremenny-class_destroyer"
+        }
+      ],
+      "mobility": "蒸汽輪機"
+    },
+    "type-054a": {
+      "weight_kg": "滿載約 3,963 噸",
+      "length_mm": "134 m",
+      "caliber": "76mm H/PJ-26",
+      "capacity": "32 垂發 H/AKJ-16：HHQ-16／Yu-8＋2×2 YJ-83",
+      "sources": [
+        {
+          "label": "維基百科：054A型護衛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_054A_frigate"
+        }
+      ],
+      "mobility": "CODAD；2 軸"
+    },
+    "type-054b": {
+      "weight_kg": "滿載約 5,500–6,000 噸",
+      "length_mm": "約 150 m",
+      "caliber": "100mm H/PJ-87B",
+      "capacity": "32 垂發：HHQ-16／Yu-8",
+      "sources": [
+        {
+          "label": "維基百科：054B型護衛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_054B_frigate"
+        }
+      ],
+      "mobility": "CODAD 4×柴油機；2 軸"
+    },
+    "type-056a": {
+      "weight_kg": "滿載約 1,500 噸",
+      "length_mm": "90 m",
+      "caliber": "76mm H/PJ-26",
+      "capacity": "4×YJ-83＋8 聯 HHQ-10；反潛（拖曳/變深聲納＋324mm 魚雷）",
+      "sources": [
+        {
+          "label": "維基百科：056型輕型護衛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_056_corvette"
+        }
+      ]
+    },
+    "type-056": {
+      "weight_kg": "滿載約 1,500 噸",
+      "length_mm": "90 m",
+      "caliber": "76mm H/PJ-26",
+      "capacity": "4×YJ-83＋8 聯 HHQ-10",
+      "sources": [
+        {
+          "label": "維基百科：056型輕型護衛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_056_corvette"
+        }
+      ]
+    },
+    "type-022": {
+      "weight_kg": "滿載約 228 噸",
+      "length_mm": "42.6 m",
+      "caliber": "穿浪雙體；30mm AK-630",
+      "capacity": "8×YJ-83 反艦飛彈",
+      "sources": [
+        {
+          "label": "維基百科：022型飛彈快艇",
+          "url": "https://en.wikipedia.org/wiki/Type_022_missile_boat"
+        }
+      ],
+      "mobility": "40 節"
+    },
+    "type-094": {
+      "weight_kg": "水下約 11,000 噸",
+      "length_mm": "137 m",
+      "caliber": "12 具 SLBM 發射管",
+      "capacity": "12×JL-2／JL-3 潛射彈道飛彈",
+      "sources": [
+        {
+          "label": "維基百科：094型核潛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_094_submarine"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "mobility": "核動力，單軸"
+    },
+    "type-093": {
+      "weight_kg": "水下約 6,675 噸",
+      "length_mm": "108.5 m",
+      "caliber": "6×533mm 魚雷管",
+      "capacity": "Yu-3/4/6 魚雷＋YJ-18",
+      "sources": [
+        {
+          "label": "維基百科：093型核潛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_093_submarine"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "mobility": "壓水反應爐"
+    },
+    "type-093b": {
+      "weight_kg": "水下約 6,700–7,000 噸",
+      "length_mm": "110 m",
+      "caliber": "6×533mm＋24 垂發",
+      "capacity": "YJ-18 巡航飛彈；泵噴推進",
+      "sources": [
+        {
+          "label": "維基百科：093型核潛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_093_submarine"
+        }
+      ],
+      "mobility": "壓水反應爐（泵噴）"
+    },
+    "type-039a": {
+      "weight_kg": "水下約 3,600 噸",
+      "length_mm": "77.6 m",
+      "caliber": "6×533mm 魚雷管",
+      "capacity": "Yu-6 魚雷＋YJ-18；AIP（斯特林）",
+      "sources": [
+        {
+          "label": "維基百科：039A型潛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_039A_submarine"
+        }
+      ],
+      "mobility": "柴電＋AIP"
+    },
+    "type-039": {
+      "weight_kg": "水下約 2,250 噸",
+      "length_mm": "74.9 m",
+      "caliber": "6×533mm 魚雷管",
+      "capacity": "魚雷＋YJ-8 潛射反艦",
+      "sources": [
+        {
+          "label": "維基百科：039型潛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_039_submarine"
+        }
+      ],
+      "mobility": "柴電，單軸"
+    },
+    "type-091": {
+      "weight_kg": "水下約 5,100–5,600 噸",
+      "length_mm": "98–106 m",
+      "caliber": "6×533mm 魚雷管",
+      "capacity": "魚雷；核動力（部分已除役）",
+      "sources": [
+        {
+          "label": "維基百科：091型核潛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_091_submarine"
+        }
+      ],
+      "mobility": "核動力"
+    },
+    "kilo": {
+      "weight_kg": "水下約 3,075–3,950 噸",
+      "length_mm": "72.6–73.8 m",
+      "caliber": "6×533mm 魚雷管（可攜 18 枚）",
+      "capacity": "636M：Kalibr/Club（3M-54E）反艦飛彈",
+      "sources": [
+        {
+          "label": "維基百科：基洛級潛艦",
+          "url": "https://en.wikipedia.org/wiki/Kilo-class_submarine"
+        }
+      ],
+      "mobility": "柴電"
+    },
+    "type-071": {
+      "weight_kg": "滿載約 25,000 噸",
+      "length_mm": "210 m",
+      "caliber": "船塢登陸艦（LPD）",
+      "capacity": "600–800 兵員＋約 60 輛裝甲車＋4×726 LCAC＋Z-8",
+      "sources": [
+        {
+          "label": "維基百科：071型船塢登陸艦",
+          "url": "https://en.wikipedia.org/wiki/Type_071_amphibious_transport_dock"
+        }
+      ]
+    },
+    "type-075": {
+      "weight_kg": "滿載約 40,000+ 噸",
+      "length_mm": "232 m",
+      "caliber": "兩棲攻擊艦（LHD）",
+      "capacity": "約 28 架直升機＋2–3×726 LCAC＋800 兵員",
+      "sources": [
+        {
+          "label": "維基百科：075型兩棲攻擊艦",
+          "url": "https://en.wikipedia.org/wiki/Type_075_landing_helicopter_dock"
+        }
+      ]
+    },
+    "type-076": {
+      "weight_kg": "滿載約 50,000 噸",
+      "length_mm": "252–260 m",
+      "caliber": "兩棲攻擊艦＋電磁彈射",
+      "capacity": "可彈射固定翼 UAV（WZ-7／GJ-11）＋艉部塢艙",
+      "sources": [
+        {
+          "label": "維基百科：076型兩棲攻擊艦",
+          "url": "https://en.wikipedia.org/wiki/Type_076_landing_helicopter_dock"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "type-901": {
+      "weight_kg": "滿載約 45,000 噸",
+      "length_mm": "240 m",
+      "caliber": "快速綜合補給艦（AOE）",
+      "capacity": "多站液貨／乾貨補給，支援航母戰鬥群",
+      "sources": [
+        {
+          "label": "維基百科：901型綜合補給艦",
+          "url": "https://en.wikipedia.org/wiki/Type_901_fast_combat_support_ship"
+        }
+      ],
+      "mobility": "25 節"
+    },
+    "type-815a": {
+      "weight_kg": "滿載約 6,000 噸",
+      "length_mm": "130 m",
+      "caliber": "電子偵察艦（AGI）",
+      "capacity": "信號情報蒐集＋彈道飛彈追蹤",
+      "sources": [
+        {
+          "label": "維基百科：815型電子偵察艦",
+          "url": "https://en.wikipedia.org/wiki/Type_815_spy_ship"
+        }
+      ]
+    },
+    "type-052b": {
+      "weight_kg": "滿載約 7,000 噸",
+      "length_mm": "155 m",
+      "caliber": "100mm H/PJ-87",
+      "capacity": "48×Shtil-1（SA-N-12）SAM＋16×YJ-83",
+      "sources": [
+        {
+          "label": "維基百科：052B型驅逐艦",
+          "url": "https://en.wikipedia.org/wiki/Type_052B_destroyer"
+        }
+      ],
+      "crew": "280"
+    },
+    "type-051c": {
+      "weight_kg": "滿載約 7,100 噸",
+      "length_mm": "155 m",
+      "caliber": "100mm H/PJ-87",
+      "capacity": "48×S-300FM（SA-N-20）＋8×YJ-83",
+      "sources": [
+        {
+          "label": "維基百科：051C型驅逐艦",
+          "url": "https://en.wikipedia.org/wiki/Type_051C_destroyer"
+        }
+      ]
+    },
+    "type-051b": {
+      "weight_kg": "滿載約 6,096 噸",
+      "length_mm": "154 m",
+      "caliber": "100mm H/PJ-33B",
+      "capacity": "現代化後：HHQ-16 32 垂發＋16×YJ-12（原 YJ-83）",
+      "sources": [
+        {
+          "label": "維基百科：深圳號驅逐艦（051B）",
+          "url": "https://en.wikipedia.org/wiki/Type_051B_destroyer"
+        }
+      ]
+    },
+    "type-053h3": {
+      "weight_kg": "滿載約 2,393 噸",
+      "length_mm": "112 m",
+      "caliber": "100mm H/PJ-33B（雙管）",
+      "capacity": "8×YJ-83＋8 聯 HQ-7（部分升級 HQ-10）",
+      "sources": [
+        {
+          "label": "維基百科：053H3型護衛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_053H3_frigate"
+        }
+      ]
+    },
+    "type-054": {
+      "weight_kg": "滿載約 3,900 噸",
+      "length_mm": "134 m",
+      "caliber": "100mm Type 210",
+      "capacity": "8 聯 HQ-7（含 16 枚）＋2×4 YJ-83；共 2 艘",
+      "sources": [
+        {
+          "label": "維基百科：054型護衛艦",
+          "url": "https://en.wikipedia.org/wiki/Type_054_frigate"
+        }
+      ]
+    },
+    "type-035": {
+      "weight_kg": "水下約 2,110 噸",
+      "length_mm": "76 m",
+      "caliber": "8×533mm 魚雷管（6 首／2 尾）",
+      "capacity": "魚雷；柴電（多數改型仍服役）",
+      "sources": [
+        {
+          "label": "維基百科：035型潛艦（明級）",
+          "url": "https://en.wikipedia.org/wiki/Type_035_submarine"
+        }
+      ],
+      "mobility": "柴電"
+    },
+    "type-903a": {
+      "weight_kg": "滿載約 23,369 噸",
+      "length_mm": "178.5 m",
+      "caliber": "綜合補給艦（AOR）",
+      "capacity": "每舷 2 液貨＋1 乾貨橫向補給站＋艉補給；遠海支援",
+      "sources": [
+        {
+          "label": "維基百科：903型補給艦",
+          "url": "https://en.wikipedia.org/wiki/Type_903_replenishment_ship"
+        }
+      ],
+      "mobility": "19 節"
+    },
+    "type-072a": {
+      "weight_kg": "滿載約 4,237 噸",
+      "length_mm": "120 m",
+      "caliber": "戰車登陸艦（LST）",
+      "capacity": "約 200 兵員＋10 輛坦克＋2 LCVP",
+      "sources": [
+        {
+          "label": "維基百科：072型登陸艦",
+          "url": "https://en.wikipedia.org/wiki/Type_072_landing_ship"
+        }
+      ]
+    },
+    "j-20": {
+      "range_m": "作戰半徑約 2,000 km",
+      "caliber": "內置彈艙 PL-15／PL-10；側艙近距 PL-10",
+      "capacity": "外掛可達 8×PL-15（犧牲匿蹤）",
+      "mobility": "Mach 2.0；WS-10C／WS-15",
+      "sensors": "第五代匿蹤戰機；升限約 17,000 m",
+      "sources": [
+        {
+          "label": "維基百科：殲-20",
+          "url": "https://en.wikipedia.org/wiki/Chengdu_J-20"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "1"
+    },
+    "j-20s": {
+      "range_m": "作戰半徑約 2,000 km",
+      "caliber": "內置彈艙 PL-15／PL-10",
+      "capacity": "雙座；有人-無人協同（MUM-T）／戰場管理",
+      "mobility": "Mach 2.0；WS-10C／WS-15",
+      "sensors": "第五代雙座型（2025 公開）",
+      "sources": [
+        {
+          "label": "維基百科：殲-20",
+          "url": "https://en.wikipedia.org/wiki/Chengdu_J-20"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "2"
+    },
+    "j-16": {
+      "range_m": "作戰半徑約 1,500 km（航程 ~3,000 km）",
+      "caliber": "30mm GSh-30-1；PL-15/PL-10/PL-12、YJ-12/YJ-83K、KD-88",
+      "capacity": "12 個外掛點",
+      "mobility": "Mach 2；2×WS-10B",
+      "sensors": "4.5 代雙座多用途打擊戰機",
+      "sources": [
+        {
+          "label": "維基百科：殲-16",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-16"
+        }
+      ],
+      "crew": "2"
+    },
+    "j-16d": {
+      "range_m": "作戰半徑約 1,500 km",
+      "caliber": "電子作戰吊艙（翼尖）；取消 IRST／機砲",
+      "capacity": "SEAD／電子壓制",
+      "mobility": "Mach 2；2×WS-10B",
+      "sensors": "J-16 電戰型（SEAD）",
+      "sources": [
+        {
+          "label": "維基百科：殲-16",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-16"
+        }
+      ],
+      "crew": "2"
+    },
+    "j-10a": {
+      "range_m": "多用途；航程級距同族",
+      "caliber": "GSh-23 23mm；PL-8／PL-12",
+      "capacity": "11 個外掛點、5,600 kg",
+      "mobility": "Mach 1.8；AL-31FN",
+      "sensors": "第四代多用途戰機",
+      "sources": [
+        {
+          "label": "維基百科：殲-10",
+          "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+        }
+      ],
+      "crew": "1"
+    },
+    "j-10b": {
+      "range_m": "多用途",
+      "caliber": "23mm；PL-8／PL-12",
+      "capacity": "DSI 進氣道、被動相位陣列雷達",
+      "mobility": "Mach 1.8；AL-31FN",
+      "sensors": "第四代改良",
+      "sources": [
+        {
+          "label": "維基百科：殲-10",
+          "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+        }
+      ],
+      "crew": "1"
+    },
+    "j-10c": {
+      "range_m": "作戰半徑約 1,240 km",
+      "caliber": "23mm；PL-10／PL-15",
+      "capacity": "11 個外掛點、5,600 kg",
+      "mobility": "Mach 1.8；WS-10B",
+      "sensors": "4.5 代多用途戰機（AESA）",
+      "sources": [
+        {
+          "label": "維基百科：殲-10",
+          "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+        }
+      ],
+      "crew": "1"
+    },
+    "j-11a": {
+      "range_m": "航程約 3,530 km",
+      "caliber": "30mm GSh-30-1；R-27／R-77／PL-12",
+      "capacity": "10 個外掛點",
+      "mobility": "Mach 2.35；AL-31",
+      "sensors": "空優戰機（Su-27SK 衍生）",
+      "sources": [
+        {
+          "label": "維基百科：殲-11",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
+        }
+      ],
+      "crew": "1"
+    },
+    "j-11b": {
+      "range_m": "航程約 3,530 km",
+      "caliber": "30mm GSh-30-1（150 發）；PL-15／PL-12／PL-10",
+      "capacity": "10 個外掛點",
+      "mobility": "Mach 2.35；WS-10A",
+      "sensors": "國產化空優戰機",
+      "sources": [
+        {
+          "label": "維基百科：殲-11",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
+        }
+      ],
+      "crew": "1"
+    },
+    "j-11bg": {
+      "range_m": "航程約 3,530 km",
+      "caliber": "30mm；PL-15",
+      "capacity": "AESA 雷達升級",
+      "mobility": "Mach 2.35；WS-10",
+      "sensors": "J-11B 升級型",
+      "sources": [
+        {
+          "label": "維基百科：殲-11",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
+        }
+      ],
+      "crew": "1"
+    },
+    "su-30mkk": {
+      "range_m": "航程約 3,000 km",
+      "caliber": "30mm GSh-30-1；R-77／R-27／R-73、Kh-29／Kh-59",
+      "capacity": "雙座多用途；解放軍約 73 架",
+      "mobility": "Mach 2；2×AL-31F",
+      "sensors": "俄製雙座多用途戰機",
+      "sources": [
+        {
+          "label": "維基百科：Su-30MKK",
+          "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-30MKK"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "2"
+    },
+    "su-30mk2": {
+      "range_m": "航程約 3,000 km",
+      "caliber": "30mm；Kh-31A 反艦、R-77",
+      "capacity": "海航對海打擊；約 24 架",
+      "mobility": "Mach 2；2×AL-31F",
+      "sensors": "俄製對海打擊戰機",
+      "sources": [
+        {
+          "label": "維基百科：Su-30MKK",
+          "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-30MKK"
+        }
+      ],
+      "crew": "2"
+    },
+    "su-35": {
+      "range_m": "可發射 300 km 級遠程空對空飛彈",
+      "caliber": "30mm；R-77／R-73、可掛 Oniks 反艦",
+      "capacity": "超機動、有限超音速巡航；約 24 架",
+      "mobility": "Mach 2.25；2×AL-41F1S（向量推力）",
+      "sensors": "4.5 代超機動戰機",
+      "sources": [
+        {
+          "label": "維基百科：Su-35",
+          "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-35"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "1"
+    },
+    "su-27ubk": {
+      "range_m": "航程級距同 Flanker",
+      "caliber": "30mm；R-27／R-73",
+      "capacity": "雙座教練／戰鬥",
+      "mobility": "Mach 2.35；2×AL-31",
+      "sensors": "Su-27 雙座型（Flanker-C）",
+      "sources": [
+        {
+          "label": "維基百科：Su-27",
+          "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+        }
+      ],
+      "crew": "2"
+    },
+    "j-35": {
+      "range_m": "作戰半徑約 1,250 km（空中加油 1,900 km）",
+      "caliber": "內置六掛點 PL-10／PL-15／PL-21＋反艦／精確武器",
+      "capacity": "艦載型：折翼、彈射桿、攔阻鉤",
+      "mobility": "Mach 1.8；WS-19",
+      "sensors": "第五代匿蹤艦載戰機；升限 16,000 m",
+      "sources": [
+        {
+          "label": "維基百科：殲-35",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-35"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "1"
+    },
+    "j-35a": {
+      "range_m": "作戰半徑約 1,250 km（加油 1,900 km）",
+      "caliber": "內置彈艙 PL-10／PL-15",
+      "capacity": "陸基空軍型",
+      "mobility": "Mach 1.8；WS-19",
+      "sensors": "第五代匿蹤戰機（陸基）",
+      "sources": [
+        {
+          "label": "維基百科：殲-35",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-35"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "1"
+    },
+    "jh-7a": {
+      "range_m": "作戰半徑約 900 km",
+      "caliber": "23mm GSh-23L；YJ-83K 反艦、YJ-91 反輻射",
+      "capacity": "最大載彈 9,000 kg",
+      "mobility": "Mach 1.52；2×WS-9",
+      "sensors": "戰鬥轟炸機（對海／對地）",
+      "sources": [
+        {
+          "label": "維基百科：殲轟-7",
+          "url": "https://en.wikipedia.org/wiki/Xian_JH-7"
+        }
+      ],
+      "crew": "2"
+    },
+    "j-8f": {
+      "range_m": "攔截／制空",
+      "caliber": "23mm Type 23-III；PL-5／PL-9／PL-11",
+      "capacity": "載彈約 5,000 kg",
+      "mobility": "Mach 2.2；2×WP-13B",
+      "sensors": "攔截機；升限 18,000 m",
+      "sources": [
+        {
+          "label": "維基百科：殲-8",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-8"
+        }
+      ],
+      "crew": "1"
+    },
+    "j-7": {
+      "range_m": "點防空／制空",
+      "caliber": "2×30mm Type 30-1；PL-5／PL-8",
+      "capacity": "載彈約 500 kg",
+      "mobility": "Mach 2；WP-13F",
+      "sensors": "輕型戰機（MiG-21 衍生）；升限 17,500 m",
+      "sources": [
+        {
+          "label": "維基百科：殲-7",
+          "url": "https://en.wikipedia.org/wiki/Chengdu_J-7"
+        }
+      ],
+      "crew": "1"
+    },
+    "h-6k": {
+      "range_m": "作戰半徑約 3,500 km",
+      "caliber": "6×YJ-12 反艦 或 6–7 枚 CJ-10A/CJ-20 巡航飛彈",
+      "capacity": "最大載彈約 12,000 kg",
+      "mobility": "渦扇（D-30KP-2）",
+      "sensors": "戰略轟炸機（遠程巡航打擊）",
+      "sources": [
+        {
+          "label": "維基百科：轟-6",
+          "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "h-6j": {
+      "range_m": "作戰半徑約 3,500 km",
+      "caliber": "反艦飛彈（YJ-12 等）",
+      "capacity": "海航對海打擊型",
+      "mobility": "渦扇",
+      "sensors": "海軍轟炸機（對海打擊）",
+      "sources": [
+        {
+          "label": "維基百科：轟-6",
+          "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+        }
+      ]
+    },
+    "h-6n": {
+      "range_m": "空中受油延伸",
+      "caliber": "1×空射彈道飛彈（JL-1/CH-AS-X-13）＋CJ-20/KD-20",
+      "capacity": "戰略／核打擊，可空中受油",
+      "mobility": "渦扇",
+      "sensors": "戰略轟炸機（空射彈道／核）",
+      "sources": [
+        {
+          "label": "維基百科：轟-6",
+          "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "h-6h": {
+      "range_m": "對地巡航打擊",
+      "caliber": "2×陸攻巡航飛彈（CJ-10／DH-10）",
+      "capacity": "無內置彈艙",
+      "mobility": "渦扇",
+      "sensors": "巡航飛彈載機",
+      "sources": [
+        {
+          "label": "維基百科：轟-6",
+          "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+        }
+      ]
+    },
+    "kj-2000": {
+      "range_m": "對戰機探測約 470 km；彈道飛彈約 1,200 km",
+      "caliber": "三面 AESA 相位陣列（360°）",
+      "capacity": "可同時追蹤 60–100 目標；滯空 ~7h40m",
+      "mobility": "Il-76 平台",
+      "sensors": "空中預警管制機（美方代號 Mainring）",
+      "sources": [
+        {
+          "label": "維基百科：空警-2000",
+          "url": "https://en.wikipedia.org/wiki/KJ-2000"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ],
+      "crew": "10+"
+    },
+    "kj-500": {
+      "range_m": "最大航程 5,700 km（滯空 12h）",
+      "caliber": "三面 AESA 相位陣列（360°）",
+      "capacity": "偵測戰機約 470 km；MTOW 77 噸",
+      "mobility": "極速 550 km/h；Y-9 平台",
+      "sensors": "空中預警管制機（AEW&C）",
+      "sources": [
+        {
+          "label": "維基百科：空警-500",
+          "url": "https://en.wikipedia.org/wiki/KJ-500"
+        }
+      ],
+      "crew": "多名操作員"
+    },
+    "y-20": {
+      "range_m": "7,800 km（載 2 型油箱）／轉場 10,000 km",
+      "caliber": "戰略運輸",
+      "capacity": "最大載重 66 噸",
+      "mobility": "Mach 0.75；4×WS-20",
+      "sensors": "戰略運輸機；升限 13,000 m",
+      "sources": [
+        {
+          "label": "維基百科：運-20",
+          "url": "https://en.wikipedia.org/wiki/Xian_Y-20"
+        }
+      ]
+    },
+    "yy-20": {
+      "range_m": "同 Y-20 平台航程",
+      "caliber": "空中加油機",
+      "capacity": "可載約 90 噸燃油（2022 服役）",
+      "mobility": "Y-20 平台；4×WS-20",
+      "sensors": "戰略空中加油機",
+      "sources": [
+        {
+          "label": "維基百科：運-20",
+          "url": "https://en.wikipedia.org/wiki/Xian_Y-20"
+        }
+      ]
+    },
+    "y-9": {
+      "range_m": "2,200 km（載 15 噸）／轉場 5,700 km",
+      "caliber": "戰術運輸",
+      "capacity": "20 噸 或 106 名傘兵",
+      "mobility": "560 km/h；4×WJ-6C 渦槳；滯空 10.5h",
+      "sensors": "中型戰術運輸機",
+      "sources": [
+        {
+          "label": "維基百科：運-9",
+          "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
+        }
+      ]
+    },
+    "y-8": {
+      "range_m": "航程級距同 Y-8/Y-9 族",
+      "caliber": "戰術運輸／特種母機",
+      "capacity": "約 20 噸",
+      "mobility": "4×渦槳（An-12 衍生）",
+      "sensors": "中型運輸機",
+      "sources": [
+        {
+          "label": "維基百科：運-9",
+          "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
+        }
+      ]
+    },
+    "y-8gx": {
+      "range_m": "特種任務",
+      "caliber": "電偵／反潛／預警／心戰／電子反制",
+      "capacity": "高新工程系列：GX-6 KQ-200／GX-8 Y-9JZ／GX-10 KJ-500…",
+      "mobility": "Y-8／Y-9 平台",
+      "sensors": "特種任務機族",
+      "sources": [
+        {
+          "label": "維基百科：運-9",
+          "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
+        }
+      ]
+    },
+    "il-76": {
+      "range_m": "約 5,000 km",
+      "caliber": "戰略運輸",
+      "capacity": "載重約 40 噸；PLAAF 約 26 架",
+      "mobility": "4×PS-90／D-30 渦扇",
+      "sensors": "重型戰略運輸機（Candid）",
+      "sources": [
+        {
+          "label": "維基百科：Il-76",
+          "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+        }
+      ]
+    },
+    "il-78": {
+      "range_m": "同 Il-76 平台",
+      "caliber": "空中加油機",
+      "capacity": "PLAAF 約 3 架",
+      "mobility": "Il-76 平台",
+      "sensors": "戰略加油機（Midas）",
+      "sources": [
+        {
+          "label": "維基百科：Il-76",
+          "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+        }
+      ]
+    },
+    "y-9jz": {
+      "range_m": "同 Y-9 平台",
+      "caliber": "電子情報偵察（GX-8）",
+      "capacity": "ELINT 蒐情",
+      "mobility": "Y-9 平台",
+      "sensors": "電子偵察機",
+      "sources": [
+        {
+          "label": "維基百科：運-9",
+          "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
+        }
+      ]
+    },
+    "kq-200": {
+      "range_m": "同 Y-9 平台",
+      "caliber": "固定翼反潛（GX-6）",
+      "capacity": "反潛巡邏／磁異偵測",
+      "mobility": "Y-9 平台",
+      "sensors": "海上巡邏／反潛機",
+      "sources": [
+        {
+          "label": "維基百科：運-9",
+          "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
+        }
+      ]
+    },
+    "jl-10": {
+      "range_m": "先進教練／LIFT",
+      "caliber": "9 掛點 3,500 kg；SD-10／PL-8、LS-6",
+      "capacity": "超音速高教／輕攻擊",
+      "mobility": "Mach 1.4；2×AI-222K",
+      "sensors": "超音速高級教練機（獵鷹 L-15）",
+      "sources": [
+        {
+          "label": "維基百科：教練-10／L-15",
+          "url": "https://en.wikipedia.org/wiki/Hongdu_L-15"
+        }
+      ],
+      "crew": "2"
+    },
+    "jl-8": {
+      "range_m": "2,250 km",
+      "caliber": "教練／輕攻擊",
+      "capacity": "MTOW 4,330 kg",
+      "mobility": "Mach 0.75；WS-11",
+      "sensors": "中級噴射教練機（K-8）；升限 13,000 m",
+      "sources": [
+        {
+          "label": "維基百科：教練-8／K-8",
+          "url": "https://en.wikipedia.org/wiki/Hongdu_JL-8"
+        }
+      ],
+      "crew": "2"
+    },
+    "gj-11": {
+      "range_m": "匿蹤深入打擊（作戰半徑機密）",
+      "caliber": "2 內置彈艙、載彈 2,000 kg",
+      "capacity": "全長 12.2m／翼展 14.4m；GJ-21 艦載型研發中",
+      "mobility": "單台渦扇（貴州）",
+      "sensors": "匿蹤無人戰機（利劍）；J-20 忠誠僚機",
+      "sources": [
+        {
+          "label": "維基百科：攻擊-11",
+          "url": "https://en.wikipedia.org/wiki/Hongdu_GJ-11"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "wz-7": {
+      "range_m": "航程 7,000 km／作戰半徑 2,000 km",
+      "caliber": "偵察（可為反艦／巡航飛彈提供目標）",
+      "capacity": "升限 18,000m；滯空 10h；翼展 24.86m",
+      "mobility": "巡航 750 km/h；連翼設計",
+      "sensors": "高空長航時偵察無人機（翔龍）",
+      "sources": [
+        {
+          "label": "維基百科：無偵-7 翔龍",
+          "url": "https://en.wikipedia.org/wiki/Guizhou_Soar_Dragon"
+        }
+      ]
+    },
+    "wz-8": {
+      "range_m": "戰略偵察（東亞縱深）",
+      "caliber": "光電／合成孔徑雷達偵察",
+      "capacity": "由 H-6M／N 空射；2×YF50 火箭發動機",
+      "mobility": "Mach 3（高超音速）",
+      "sensors": "高速偵察無人機",
+      "sources": [
+        {
+          "label": "維基百科：無偵-8",
+          "url": "https://en.wikipedia.org/wiki/WZ-8"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "ch-4": {
+      "range_m": "偵察滯空 30h／打擊 12h",
+      "caliber": "AR-1／AR-2／AKD-10、FT/GB 導引炸彈",
+      "capacity": "酬載 250–345 kg",
+      "mobility": "中空長航時；螺旋槳",
+      "sensors": "察打一體無人機（彩虹-4）",
+      "sources": [
+        {
+          "label": "維基百科：彩虹無人機",
+          "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+        }
+      ]
+    },
+    "ch-5": {
+      "range_m": "航程約 10,000 km；偵察滯空 60h",
+      "caliber": "AR-1／AR-2，最多 16 枚",
+      "capacity": "酬載 1,000 kg；升限 9–12 km",
+      "mobility": "中空長航時；螺旋槳",
+      "sensors": "大型察打一體無人機（彩虹-5）",
+      "sources": [
+        {
+          "label": "維基百科：彩虹無人機",
+          "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+        }
+      ]
+    },
+    "wing-loong-1": {
+      "range_m": "滯空 20h",
+      "caliber": "FT/GB 炸彈、AKD-10 反戰車飛彈",
+      "capacity": "酬載 200 kg；升限 5,000m",
+      "mobility": "中空長航時；螺旋槳",
+      "sensors": "察打一體無人機（翼龍-1／GJ-1）",
+      "sources": [
+        {
+          "label": "維基百科：翼龍無人機",
+          "url": "https://en.wikipedia.org/wiki/CAIG_Wing_Loong"
+        }
+      ]
+    },
+    "wing-loong-2": {
+      "range_m": "長航時察打（航程/滯空提升）",
+      "caliber": "最多 12 枚空對面飛彈",
+      "capacity": "翼龍-1 升級型",
+      "mobility": "中空長航時；螺旋槳",
+      "sensors": "察打一體無人機（翼龍-2／GJ-2）",
+      "sources": [
+        {
+          "label": "維基百科：翼龍無人機",
+          "url": "https://en.wikipedia.org/wiki/CAIG_Wing_Loong"
+        }
+      ]
+    },
+    "tb-001": {
+      "range_m": "航程 6,000 km；滯空 35h",
+      "caliber": "4 掛點；AR-4、FT-7／FT-9、250kg 雷射導引炸彈",
+      "capacity": "酬載 1,200 kg；MTOW 2,800 kg；升限 8,000m",
+      "mobility": "2×渦輪增壓活塞（雙尾樑）",
+      "sensors": "長航時察打無人機（雙尾蠍）",
+      "sources": [
+        {
+          "label": "GlobalSecurity：TB-001 Twin-tailed Scorpion",
+          "url": "https://www.globalsecurity.org/military/world/china/tb001.htm"
+        }
+      ]
+    },
+    "hq-9": {
+      "range_m": "射程約 120 km",
+      "caliber": "遠程防空飛彈",
+      "capacity": "半主動雷達導引；地面戰略防空",
+      "sensors": "遠程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-9",
+          "url": "https://en.wikipedia.org/wiki/HQ-9"
+        }
+      ]
+    },
+    "hq-9a": {
+      "range_m": "射程約 120 km（改良型）",
+      "caliber": "遠程防空飛彈",
+      "capacity": "半主動雷達導引（2001 服役）",
+      "sensors": "遠程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-9",
+          "url": "https://en.wikipedia.org/wiki/HQ-9"
+        }
+      ]
+    },
+    "hq-9b": {
+      "range_m": "射程可達 260 km",
+      "caliber": "遠程防空飛彈",
+      "capacity": "半主動雷達＋被動紅外導引",
+      "sensors": "遠程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-9",
+          "url": "https://en.wikipedia.org/wiki/HQ-9"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "hq-16": {
+      "range_m": "40 km（HQ-16A）／70 km（B）／160 km（FE）",
+      "caliber": "中程防空飛彈",
+      "capacity": "半主動雷達導引；每發射車 6 彈",
+      "sensors": "中程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-16",
+          "url": "https://en.wikipedia.org/wiki/HQ-16"
+        }
+      ]
+    },
+    "hhq-16": {
+      "range_m": "艦載中程防空（HQ-16 艦載型）",
+      "caliber": "中程防空飛彈（艦載）",
+      "capacity": "054A 垂直發射",
+      "sensors": "艦載中程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-16",
+          "url": "https://en.wikipedia.org/wiki/HQ-16"
+        }
+      ]
+    },
+    "hq-17": {
+      "range_m": "射程 1.5–20 km；高度 10m–10km",
+      "caliber": "近程防空飛彈（Tor 衍生）",
+      "capacity": "半主動雷達／光電；每車 8 彈；Mach 3",
+      "sensors": "近程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-17",
+          "url": "https://en.wikipedia.org/wiki/HQ-17"
+        }
+      ]
+    },
+    "hq-17a": {
+      "range_m": "射程 1.5–20 km（輪式型）",
+      "caliber": "近程防空飛彈",
+      "capacity": "輪式底盤；每車 8 彈",
+      "sensors": "近程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-17",
+          "url": "https://en.wikipedia.org/wiki/HQ-17"
+        }
+      ]
+    },
+    "s-300": {
+      "range_m": "48N6 約 200 km 級（進口 SA-20）",
+      "caliber": "遠程防空飛彈（俄製）",
+      "capacity": "井/車載垂發；半主動雷達",
+      "sensors": "遠程 SAM",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：S-400 Triumf",
+          "url": "https://missilethreat.csis.org/defsys/s-400-triumf/"
+        }
+      ]
+    },
+    "s-400": {
+      "range_m": "最遠 400 km（40N6）／250 km（48N6）",
+      "caliber": "遠程防空系統（俄製，SA-21）",
+      "capacity": "向俄採購 6 個營；多型攔截彈",
+      "sensors": "遠程 SAM",
+      "sources": [
+        {
+          "label": "CSIS Missile Threat：S-400 Triumf",
+          "url": "https://missilethreat.csis.org/defsys/s-400-triumf/"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "pl-15": {
+      "range_m": "180–300 km（出口 PL-15E 145 km）",
+      "caliber": "超視距空對空飛彈",
+      "capacity": "主動 AESA 導引頭；>Mach 5",
+      "sensors": "BVR 空對空",
+      "sources": [
+        {
+          "label": "維基百科：霹靂-15",
+          "url": "https://en.wikipedia.org/wiki/PL-15"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "pl-12": {
+      "range_m": "70–100 km（出口 SD-10 60–70）",
+      "caliber": "超視距空對空飛彈",
+      "capacity": "資料鏈中段＋主動雷達末端；>Mach 4",
+      "sensors": "BVR 空對空",
+      "sources": [
+        {
+          "label": "維基百科：霹靂-12",
+          "url": "https://en.wikipedia.org/wiki/PL-12"
+        }
+      ]
+    },
+    "pl-10": {
+      "range_m": "近距高離軸（±90°）",
+      "caliber": "近距空對空飛彈（成像紅外）",
+      "capacity": "頭盔瞄準、發射後鎖定 LOAL",
+      "sensors": "近距空對空",
+      "sources": [
+        {
+          "label": "維基百科：霹靂-10",
+          "url": "https://en.wikipedia.org/wiki/PL-10"
+        }
+      ]
+    },
+    "yj-83": {
+      "range_m": "180 km（YJ-83K 空射 180／KH 230）",
+      "caliber": "反艦飛彈",
+      "capacity": "巡航 Mach 0.9、末端 Mach 1.4；190kg 戰鬥部；艦/空/岸射",
+      "sensors": "亞音速掠海反艦",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-83",
+          "url": "https://en.wikipedia.org/wiki/YJ-83"
+        }
+      ]
+    },
+    "c-802a": {
+      "range_m": "180 km（YJ-83 出口型）",
+      "caliber": "反艦飛彈（出口）",
+      "capacity": "亞音速掠海；慣性＋主動雷達",
+      "sensors": "亞音速反艦",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-83",
+          "url": "https://en.wikipedia.org/wiki/YJ-83"
+        }
+      ]
+    },
+    "yj-18": {
+      "range_m": "約 540 km",
+      "caliber": "反艦巡航飛彈",
+      "capacity": "末端 Mach 2.5–3.0 衝刺；140–300kg 戰鬥部；艦/潛射",
+      "sensors": "次音速+超音速末端",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-18",
+          "url": "https://en.wikipedia.org/wiki/YJ-18"
+        }
+      ]
+    },
+    "yj-18a": {
+      "range_m": "約 540 km（艦載垂發，2015 服役）",
+      "caliber": "反艦巡航飛彈（艦載）",
+      "capacity": "末端超音速衝刺",
+      "sensors": "次音速+超音速末端",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-18",
+          "url": "https://en.wikipedia.org/wiki/YJ-18"
+        }
+      ]
+    },
+    "yj-12": {
+      "range_m": "460–500 km",
+      "caliber": "超音速反艦飛彈",
+      "capacity": "Mach 2.5–4；205–500kg 戰鬥部；空/艦/岸；北斗＋主動雷達",
+      "sensors": "超音速反艦",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-12",
+          "url": "https://en.wikipedia.org/wiki/YJ-12"
+        }
+      ]
+    },
+    "yj-12b": {
+      "range_m": "約 460 km（岸置型）",
+      "caliber": "岸艦超音速飛彈",
+      "capacity": "Mach 2.5–4；岸防 TEL",
+      "sensors": "超音速反艦（岸防）",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-12",
+          "url": "https://en.wikipedia.org/wiki/YJ-12"
+        }
+      ]
+    },
+    "hq-7": {
+      "range_m": "8–15 km（依目標速度）",
+      "caliber": "近程防空飛彈（Crotale 衍生）",
+      "capacity": "指令／紅外導引；HHQ-7 艦載型",
+      "sensors": "近程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-7",
+          "url": "https://en.wikipedia.org/wiki/HQ-7"
+        }
+      ]
+    },
+    "hq-22": {
+      "range_m": "170 km（出口 FK-3 100km）",
+      "caliber": "中遠程防空飛彈",
+      "capacity": "半主動雷達／無線電指令；Mach 6；HQ-2 替代",
+      "sensors": "中遠程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-22",
+          "url": "https://en.wikipedia.org/wiki/HQ-22"
+        }
+      ]
+    },
+    "hj-10": {
+      "range_m": "10 km（延伸型 25 km）",
+      "caliber": "反戰車飛彈",
+      "capacity": "光纖＋電視／紅外導引；48kg HEAT；ZBD-04A 等載台",
+      "sensors": "重型 ATGM",
+      "sources": [
+        {
+          "label": "維基百科：紅箭-10",
+          "url": "https://en.wikipedia.org/wiki/HJ-10"
+        }
+      ]
+    },
+    "akd-10": {
+      "range_m": "空射反戰車（Z-10；類 AGM-114 Hellfire）",
+      "caliber": "空射反戰車飛彈",
+      "capacity": "雷射／毫米波導引；直升機/UAV",
+      "sensors": "空射 ATGM",
+      "sources": [
+        {
+          "label": "維基百科：紅箭-10",
+          "url": "https://en.wikipedia.org/wiki/HJ-10"
+        }
+      ]
+    },
+    "yj-62": {
+      "range_m": "YJ-62 400 km（出口 C-602 280／CM-602G 陸攻 290）",
+      "caliber": "反艦巡航飛彈",
+      "capacity": "Mach 0.6–0.8；210kg 戰鬥部；岸/艦射；北斗＋主動雷達",
+      "sensors": "亞音速遠程反艦",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-62",
+          "url": "https://en.wikipedia.org/wiki/YJ-62"
+        }
+      ]
+    },
+    "pl-17": {
+      "range_m": "約 400 km（300–500 km）",
+      "caliber": "超遠程空對空飛彈",
+      "capacity": "反預警機/加油機；主動雷達＋紅外＋被動＋資料鏈；Mach 4+；J-20/J-16",
+      "sensors": "超遠程 AAM",
+      "sources": [
+        {
+          "label": "維基百科：霹靂-17",
+          "url": "https://en.wikipedia.org/wiki/PL-17"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "hj-8": {
+      "range_m": "4 km（8B 5.3／8H 6 km）",
+      "caliber": "反戰車飛彈",
+      "capacity": "SACLOS 有線導引；HEAT 穿深 800–1100mm",
+      "sensors": "有線 ATGM",
+      "sources": [
+        {
+          "label": "維基百科：紅箭-8",
+          "url": "https://en.wikipedia.org/wiki/HJ-8"
+        }
+      ]
+    },
+    "fn-6": {
+      "range_m": "0.5–6 km；高度 15–3,800m",
+      "caliber": "便攜式防空飛彈（MANPADS）",
+      "capacity": "多元被動紅外導引",
+      "sensors": "MANPADS",
+      "sources": [
+        {
+          "label": "維基百科：飛弩-6",
+          "url": "https://en.wikipedia.org/wiki/FN-6"
+        }
+      ]
+    },
+    "fn-16": {
+      "range_m": "0.5–6.5 km；高度 10–4,500m",
+      "caliber": "便攜式防空飛彈（MANPADS）",
+      "capacity": "雙色紅外/紫外（IR/UV）成像導引，抗干擾",
+      "sensors": "MANPADS",
+      "sources": [
+        {
+          "label": "維基百科：飛弩-6",
+          "url": "https://en.wikipedia.org/wiki/FN-6"
+        }
+      ]
+    },
+    "yu-6": {
+      "range_m": "射程 >45 km；速度 >65 節",
+      "caliber": "重型魚雷（533mm）",
+      "capacity": "主/被動聲導＋尾流＋線導；Otto II 燃料；潛射",
+      "sensors": "重型魚雷",
+      "sources": [
+        {
+          "label": "維基百科：魚-6魚雷",
+          "url": "https://en.wikipedia.org/wiki/Yu-6_torpedo"
+        }
+      ]
+    },
+    "pl-8": {
+      "range_m": "近距（約 20 km 級）",
+      "caliber": "近距空對空飛彈（紅外）",
+      "capacity": "Python-3 衍生；紅外導引",
+      "sensors": "近距 AAM",
+      "sources": [
+        {
+          "label": "維基百科：霹靂-8",
+          "url": "https://en.wikipedia.org/wiki/PL-8"
+        }
+      ]
+    },
+    "pl-5e": {
+      "range_m": "近距紅外空對空",
+      "caliber": "近距空對空飛彈（紅外）",
+      "capacity": "紅外導引，可頭盔瞄準",
+      "sensors": "近距 AAM",
+      "sources": [
+        {
+          "label": "維基百科：霹靂-5",
+          "url": "https://en.wikipedia.org/wiki/PL-5"
+        }
+      ]
+    },
+    "hj-12": {
+      "range_m": "4,000 m（日）／2,000 m（夜）",
+      "caliber": "反戰車飛彈（射後不理）",
+      "capacity": "紅外成像＋電視雙模；串聯 HEAT 穿深 ~1,100mm；頂攻",
+      "sensors": "便攜 ATGM（頂攻）",
+      "sources": [
+        {
+          "label": "維基百科：紅箭-12",
+          "url": "https://en.wikipedia.org/wiki/HJ-12"
+        }
+      ]
+    },
+    "cm-401": {
+      "range_m": "最遠 290 km",
+      "caliber": "反艦彈道飛彈（出口）",
+      "capacity": "Mach 4–6；跳躍-滑翔彈道、末端機動；主動雷達",
+      "sensors": "超音速反艦彈道",
+      "sources": [
+        {
+          "label": "維基百科：CM-401",
+          "url": "https://en.wikipedia.org/wiki/CM-401"
+        }
+      ]
+    },
+    "ls-6": {
+      "range_m": "滑翔投放（依高度數十 km）",
+      "caliber": "精確導引滑翔炸彈",
+      "capacity": "衛星／慣性導引；50/100/250/500 kg 系列＋滑翔翼",
+      "sensors": "精確滑翔炸彈",
+      "sources": [
+        {
+          "label": "維基百科：雷石-6",
+          "url": "https://en.wikipedia.org/wiki/LS-6"
+        }
+      ]
+    },
+    "ty-90": {
+      "range_m": "0.5–8 km",
+      "caliber": "近距空對空飛彈（直升機）",
+      "capacity": "紅外成像導引；3kg 戰鬥部專打旋翼；Mach 2+；升限 6km",
+      "sensors": "直升機空戰 AAM",
+      "sources": [
+        {
+          "label": "維基百科：天燕-90",
+          "url": "https://en.wikipedia.org/wiki/TY-90"
+        }
+      ]
+    },
+    "kd-88": {
+      "range_m": "200 km",
+      "caliber": "空對地飛彈",
+      "capacity": "Mach 0.85；電視／紅外成像導引；JH-7A/J-16/J-10C；YJ-83 衍生",
+      "sensors": "空射對地/對海",
+      "sources": [
+        {
+          "label": "維基百科：空地-88",
+          "url": "https://en.wikipedia.org/wiki/KD-88"
+        }
+      ]
+    },
+    "yj-91": {
+      "range_m": "15–120 km",
+      "caliber": "反輻射／反艦飛彈",
+      "capacity": "Mach 3.5；被動反輻射（Kh-31 衍生）；87–90kg 戰鬥部；空射",
+      "sensors": "超音速反輻射/反艦",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-91",
+          "url": "https://en.wikipedia.org/wiki/YJ-91"
+        }
+      ]
+    },
+    "hj-9": {
+      "range_m": "100 m–5.5 km",
+      "caliber": "重型反戰車飛彈",
+      "capacity": "雷射駕束／SACLOS；穿深 ~1,200mm RHA；車/直升機載",
+      "sensors": "重型 ATGM",
+      "sources": [
+        {
+          "label": "維基百科：紅箭-9",
+          "url": "https://en.wikipedia.org/wiki/HJ-9"
+        }
+      ]
+    },
+    "qw-1": {
+      "range_m": "0.5–5 km；高度 30–4,000m",
+      "caliber": "便攜式防空飛彈（MANPADS）",
+      "capacity": "紅外導引（氨冷探測器）",
+      "sensors": "MANPADS",
+      "sources": [
+        {
+          "label": "維基百科：前衛-1",
+          "url": "https://en.wikipedia.org/wiki/QW-1_Vanguard"
+        }
+      ]
+    },
+    "qw-2": {
+      "range_m": "0.5–6 km；高度 10–4,000m",
+      "caliber": "便攜式防空飛彈（MANPADS）",
+      "capacity": "紅外全向攻擊、抗干擾",
+      "sensors": "MANPADS",
+      "sources": [
+        {
+          "label": "維基百科：前衛-1／前衛-2",
+          "url": "https://en.wikipedia.org/wiki/QW-1_Vanguard"
+        }
+      ]
+    },
+    "yu-7": {
+      "range_m": "14.1 km；速度 >45 節",
+      "caliber": "輕型反潛魚雷（324mm）",
+      "capacity": "主/被動聲導；45kg 成形裝藥；艦/直升機投放（A244/S 衍生）",
+      "sensors": "反潛輕型魚雷",
+      "sources": [
+        {
+          "label": "維基百科：魚-7魚雷",
+          "url": "https://en.wikipedia.org/wiki/Yu-7_torpedo"
+        }
+      ]
+    },
+    "hhq-9": {
+      "range_m": "艦載遠程防空（HQ-9 艦載型，~200km 級）",
+      "caliber": "艦載遠程防空飛彈",
+      "capacity": "052C/D、055 垂發區域防空",
+      "sensors": "艦載遠程 SAM",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-9",
+          "url": "https://en.wikipedia.org/wiki/HQ-9"
+        }
+      ]
+    },
+    "cj-20": {
+      "range_m": "約 1,500–2,000 km（公開估計）",
+      "caliber": "空射陸攻巡航飛彈",
+      "capacity": "H-6K/H-6N 載機；長劍-10 空射型",
+      "sensors": "空射 LACM",
+      "sources": [
+        {
+          "label": "維基百科：轟-6",
+          "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "ztz-99": {
+      "weight_kg": "基本型約 52 噸（99A 55 噸）",
+      "caliber": "125mm ZPT-98 滑膛砲（自動裝彈）",
+      "crew": "3",
+      "range_m": "公路約 65–76 km/h",
+      "mobility": "V12 渦輪柴油 1,200–1,500hp",
+      "armor": "複合裝甲＋ERA",
+      "sources": [
+        {
+          "label": "維基百科：99式坦克",
+          "url": "https://en.wikipedia.org/wiki/Type_99_tank"
+        }
+      ]
+    },
+    "ztz-99a": {
+      "weight_kg": "約 55 噸",
+      "caliber": "125mm ZPT-98 滑膛砲（42 發，自動裝彈）",
+      "crew": "3",
+      "range_m": "公路 76 km/h、越野 54 km/h",
+      "mobility": "V12 雙渦輪柴油 1,500hp",
+      "armor": "模組複合＋Relikt 三代 ERA＋主動防禦＋雷射自衛 LSDW(4km)",
+      "sources": [
+        {
+          "label": "維基百科：99式坦克",
+          "url": "https://en.wikipedia.org/wiki/Type_99_tank"
+        }
+      ]
+    },
+    "ztz-96": {
+      "weight_kg": "約 41 噸",
+      "caliber": "125mm 滑膛砲（可射砲射 ATGM）",
+      "crew": "3",
+      "range_m": "公路 65 km/h",
+      "mobility": "12V150ZLC 730hp",
+      "armor": "複合裝甲",
+      "sources": [
+        {
+          "label": "維基百科：96式坦克",
+          "url": "https://en.wikipedia.org/wiki/Type_96_tank"
+        }
+      ]
+    },
+    "ztz-96a": {
+      "weight_kg": "約 42.8 噸",
+      "caliber": "125mm 滑膛砲",
+      "crew": "3",
+      "range_m": "公路 65 km/h",
+      "mobility": "12V150ZLD 865hp",
+      "armor": "複合＋ERA",
+      "sources": [
+        {
+          "label": "維基百科：96式坦克",
+          "url": "https://en.wikipedia.org/wiki/Type_96_tank"
+        }
+      ]
+    },
+    "ztz-96b": {
+      "weight_kg": "約 43 噸",
+      "caliber": "125mm 滑膛砲",
+      "crew": "3",
+      "range_m": "公路 74 km/h",
+      "mobility": "8V150HB 1,000hp；液氣懸吊",
+      "armor": "複合＋ERA",
+      "sources": [
+        {
+          "label": "維基百科：96式坦克",
+          "url": "https://en.wikipedia.org/wiki/Type_96_tank"
+        }
+      ]
+    },
+    "ztq-15": {
+      "weight_kg": "33–36 噸",
+      "caliber": "105mm 線膛砲（38 發，自動裝彈）",
+      "crew": "3",
+      "range_m": "高原/山地/水網作戰；Y-20 可空運 2 輛",
+      "mobility": "1,000hp 電控柴油＋全自動變速",
+      "armor": "模組化裝甲",
+      "sources": [
+        {
+          "label": "維基百科：15式輕坦",
+          "url": "https://en.wikipedia.org/wiki/Type_15_tank"
+        }
+      ]
+    },
+    "zbd-04": {
+      "weight_kg": "約 20 噸",
+      "caliber": "100mm 線膛砲＋30mm ZPT-99 機砲",
+      "crew": "3＋7 兵",
+      "range_m": "公路 65 km/h、浮渡 20 km/h",
+      "mobility": "440kW 柴油",
+      "armor": "可掛 HJ-8／HJ-10 反戰車飛彈",
+      "sources": [
+        {
+          "label": "維基百科：ZBD-04",
+          "url": "https://en.wikipedia.org/wiki/ZBD-04"
+        }
+      ]
+    },
+    "zbd-04a": {
+      "weight_kg": "約 24 噸",
+      "caliber": "100mm 砲＋30mm 機砲",
+      "crew": "3＋7 兵",
+      "range_m": "公路 75 km/h、浮渡 6–8 km/h",
+      "mobility": "500kW 柴油",
+      "armor": "強化裝甲（取消噴水推進）",
+      "sources": [
+        {
+          "label": "維基百科：ZBD-04",
+          "url": "https://en.wikipedia.org/wiki/ZBD-04"
+        }
+      ]
+    },
+    "zbd-04a-at": {
+      "weight_kg": "04A 底盤（反戰車飛彈車）",
+      "caliber": "紅箭系列反戰車飛彈",
+      "crew": "3+",
+      "range_m": "公路 75 km/h",
+      "mobility": "500kW 柴油",
+      "armor": "IFV 底盤 ATGM 載車",
+      "sources": [
+        {
+          "label": "維基百科：ZBD-04",
+          "url": "https://en.wikipedia.org/wiki/ZBD-04"
+        }
+      ]
+    },
+    "zbd-05": {
+      "weight_kg": "約 26.5 噸",
+      "caliber": "30mm ZPT-99 機砲＋HJ-73C 反戰車飛彈",
+      "crew": "3＋8 兵",
+      "range_m": "浮渡 28–30 km/h（滑水艇體）",
+      "mobility": "水噴推進",
+      "armor": "陸戰隊兩棲步戰車（世界最快兩棲車之一）",
+      "sources": [
+        {
+          "label": "維基百科：05式兩棲車",
+          "url": "https://en.wikipedia.org/wiki/ZBD-05"
+        }
+      ]
+    },
+    "ztd-05": {
+      "weight_kg": "約 26.5 噸",
+      "caliber": "105mm ZPL-98A 線膛砲",
+      "crew": "4＋",
+      "range_m": "浮渡（滑水艇體）",
+      "mobility": "水噴推進",
+      "armor": "陸戰隊兩棲突擊砲",
+      "sources": [
+        {
+          "label": "維基百科：05式兩棲車",
+          "url": "https://en.wikipedia.org/wiki/ZBD-05"
+        }
+      ]
+    },
+    "plz-05": {
+      "weight_kg": "35–45 噸",
+      "caliber": "155mm/52 倍徑榴彈砲",
+      "crew": "4",
+      "range_m": "射程 39 km（ERFB-BB）／50 km（增程）／60 km（火箭增程）",
+      "mobility": "履帶自走",
+      "armor": "自走榴彈砲",
+      "sources": [
+        {
+          "label": "維基百科：PLZ-05",
+          "url": "https://en.wikipedia.org/wiki/PLZ-05"
+        }
+      ],
+      "rate_of_fire": "8–10 發/分"
+    },
+    "phl-03": {
+      "weight_kg": "約 43 噸",
+      "caliber": "300mm 12 管火箭",
+      "mobility": "8×8 卡車；60 km/h",
+      "armor": "火龍 140A 制導火箭；BRE 火箭族",
+      "sources": [
+        {
+          "label": "維基百科：PHL-03",
+          "url": "https://en.wikipedia.org/wiki/PHL-03"
+        }
+      ],
+      "crew": "4",
+      "range_m": "70–130 km（新型可達 160 km）"
+    },
+    "pcl-181": {
+      "weight_kg": "約 25 噸",
+      "caliber": "155mm/52 倍徑車載砲",
+      "mobility": "6×6 卡車；90 km/h",
+      "armor": "27 發彈艙、半自動裝填、自動射控",
+      "sources": [
+        {
+          "label": "維基百科：PCL-181",
+          "url": "https://en.wikipedia.org/wiki/PCL-181"
+        }
+      ],
+      "crew": "6",
+      "range_m": "20 km（火箭增程 53 km）",
+      "rate_of_fire": "4–6 發/分"
+    },
+    "zbl-08": {
+      "weight_kg": "約 21 噸（族 15–25 噸）",
+      "caliber": "30mm ZPT-99 機砲＋反戰車飛彈",
+      "mobility": "Deutz 440hp；100 km/h、航程 800km；兩棲水噴",
+      "armor": "Type 08 族 8×8 步戰車",
+      "sources": [
+        {
+          "label": "維基百科：08式輪式裝甲車族",
+          "url": "https://en.wikipedia.org/wiki/ZBL-08"
+        }
+      ],
+      "crew": "3＋7 兵"
+    },
+    "zbd-08": {
+      "weight_kg": "約 21 噸",
+      "caliber": "30mm ZPT-99 機砲＋反戰車飛彈",
+      "mobility": "8×8 兩棲；100 km/h",
+      "armor": "Type 08 族步兵戰車",
+      "sources": [
+        {
+          "label": "維基百科：08式輪式裝甲車族",
+          "url": "https://en.wikipedia.org/wiki/ZBL-08"
+        }
+      ],
+      "crew": "3＋7 兵"
+    },
+    "ztl-11": {
+      "weight_kg": "Type 08 8×8 底盤",
+      "caliber": "105mm 線膛砲（APFSDS／HE／HEAT）",
+      "mobility": "8×8 兩棲；100 km/h",
+      "armor": "輪式突擊砲（火力支援）",
+      "sources": [
+        {
+          "label": "維基百科：08式輪式裝甲車族",
+          "url": "https://en.wikipedia.org/wiki/ZBL-08"
+        }
+      ],
+      "crew": "3+"
+    },
+    "zsl-10": {
+      "weight_kg": "Type 08 8×8 底盤",
+      "caliber": "QJC-88 12.7mm 重機槍（開放式）",
+      "mobility": "8×8 兩棲",
+      "armor": "輪式裝甲運兵車",
+      "sources": [
+        {
+          "label": "維基百科：08式輪式裝甲車族",
+          "url": "https://en.wikipedia.org/wiki/ZBL-08"
+        }
+      ],
+      "crew": "3＋11 兵"
+    },
+    "pgz-09": {
+      "weight_kg": "PLZ-05 履帶底盤",
+      "caliber": "2×35mm PG99（合計 1,100 發/分）＋紅外飛彈",
+      "mobility": "8V150 800hp；55 km/h",
+      "armor": "搜索雷達 20km＋追蹤雷達數位射控",
+      "sources": [
+        {
+          "label": "維基百科：PGZ-09",
+          "url": "https://en.wikipedia.org/wiki/PGZ-09"
+        }
+      ],
+      "crew": "3",
+      "range_m": "有效射程 5 km"
+    },
+    "type-59d": {
+      "weight_kg": "約 36 噸",
+      "caliber": "105mm ZPL-94（62 倍徑）",
+      "mobility": "12150L V12 520hp",
+      "armor": "爆反裝甲＋穩定射控＋夜視",
+      "sources": [
+        {
+          "label": "維基百科：59式坦克",
+          "url": "https://en.wikipedia.org/wiki/Type_59_tank"
+        }
+      ],
+      "crew": "4",
+      "range_m": "可砲射 ATGM 至 5,500m"
+    },
+    "mengshi": {
+      "weight_kg": "CSK-181 全重約 8 噸",
+      "caliber": "依變型（機槍／榴彈／飛彈）",
+      "mobility": "4×4；載重 1,800kg",
+      "armor": "CSK-131/141/181 族；181 具防雷（JLTV 級）",
+      "sources": [
+        {
+          "label": "維基百科：猛士",
+          "url": "https://en.wikipedia.org/wiki/Dongfeng_Mengshi"
+        }
+      ],
+      "crew": "2＋8 兵"
+    },
+    "eq2058": {
+      "weight_kg": "新一代高機動戰術車",
+      "caliber": "依任務模組",
+      "mobility": "4×4／6×6 高機動",
+      "armor": "猛士 III／新一代（CTL-181 系）",
+      "sources": [
+        {
+          "label": "維基百科：猛士",
+          "url": "https://en.wikipedia.org/wiki/Dongfeng_Mengshi"
+        }
+      ]
+    },
+    "z-10": {
+      "weight_kg": "MTOW 約 7,200 kg",
+      "caliber": "23mm PX-10A 機砲；HJ-8/9/10、AKD-10 反戰車；TY-90 空對空；火箭",
+      "crew": "2（縱列）",
+      "range_m": "極速 300 km/h；升限 6,400m",
+      "mobility": "2×WZ-9C 渦軸（各 1,600shp）",
+      "sensors": "專用武裝直升機",
+      "sources": [
+        {
+          "label": "維基百科：直-10",
+          "url": "https://en.wikipedia.org/wiki/CAIC_Z-10"
+        }
+      ]
+    },
+    "z-19": {
+      "weight_kg": "輕型武裝直升機",
+      "caliber": "HJ-8 反戰車、TY-90 空對空、火箭/槍砲吊艙",
+      "crew": "2（縱列）",
+      "range_m": "極速 280 km/h；航程 700km；升限 6,000m",
+      "mobility": "2×WZ-8C 渦軸",
+      "sensors": "偵察/攻擊直升機（Z-9 衍生，毫米波雷達）",
+      "sources": [
+        {
+          "label": "維基百科：直-19",
+          "url": "https://en.wikipedia.org/wiki/Harbin_Z-19"
+        }
+      ]
+    },
+    "z-20": {
+      "weight_kg": "MTOW 約 10,000 kg",
+      "caliber": "通用運輸（可掛短翼武器）",
+      "crew": "2＋12–15 兵 或 1,500kg 貨",
+      "range_m": "極速 360 km/h；升限 6,000m；可 4,000m 以上作業",
+      "mobility": "2×WZ-10 渦軸",
+      "sensors": "中型通用直升機（UH-60 級）",
+      "sources": [
+        {
+          "label": "維基百科：直-20",
+          "url": "https://en.wikipedia.org/wiki/Harbin_Z-20"
+        }
+      ]
+    },
+    "z-20f": {
+      "weight_kg": "MTOW 約 10,000 kg",
+      "caliber": "反潛（雷達、魚雷、吊放聲納）",
+      "crew": "2+",
+      "range_m": "艦載反潛",
+      "mobility": "2×WZ-10 渦軸",
+      "sensors": "艦載反潛直升機",
+      "sources": [
+        {
+          "label": "維基百科：直-20",
+          "url": "https://en.wikipedia.org/wiki/Harbin_Z-20"
+        }
+      ]
+    },
+    "z-8": {
+      "weight_kg": "MTOW 約 13.8 噸",
+      "caliber": "運輸（武裝變型）",
+      "crew": "可載 27 名乘員",
+      "range_m": "航程約 900km",
+      "mobility": "三發渦軸（SA321 衍生）",
+      "sensors": "中/重型運輸直升機",
+      "sources": [
+        {
+          "label": "維基百科：直-8",
+          "url": "https://en.wikipedia.org/wiki/Changhe_Z-8"
+        }
+      ]
+    },
+    "z-18": {
+      "weight_kg": "Z-8 大改",
+      "caliber": "運輸",
+      "crew": "運輸/兵員",
+      "range_m": "高原強化",
+      "mobility": "三發渦軸",
+      "sensors": "運輸直升機（高原型）",
+      "sources": [
+        {
+          "label": "維基百科：直-8",
+          "url": "https://en.wikipedia.org/wiki/Changhe_Z-8"
+        }
+      ]
+    },
+    "z-18f": {
+      "weight_kg": "Z-8 大改",
+      "caliber": "反潛（吊放聲納、魚雷）",
+      "crew": "2+",
+      "range_m": "艦載反潛",
+      "mobility": "三發渦軸",
+      "sensors": "艦載反潛直升機",
+      "sources": [
+        {
+          "label": "維基百科：直-8",
+          "url": "https://en.wikipedia.org/wiki/Changhe_Z-8"
+        }
+      ]
+    },
+    "z-9": {
+      "weight_kg": "AS365 Dauphin 授權生產",
+      "caliber": "通用/偵察/反戰車（依型）",
+      "crew": "2+",
+      "range_m": "輕型通用",
+      "mobility": "2×渦軸",
+      "sensors": "輕型通用直升機",
+      "sources": [
+        {
+          "label": "維基百科：直-9",
+          "url": "https://en.wikipedia.org/wiki/Harbin_Z-9"
+        }
+      ]
+    },
+    "z-9c": {
+      "weight_kg": "Z-9 海軍型",
+      "caliber": "反潛/通用（雷達、魚雷）",
+      "crew": "2+",
+      "range_m": "艦載",
+      "mobility": "2×渦軸",
+      "sensors": "艦載輕型直升機",
+      "sources": [
+        {
+          "label": "維基百科：直-9",
+          "url": "https://en.wikipedia.org/wiki/Harbin_Z-9"
+        }
+      ]
+    },
+    "z-11": {
+      "weight_kg": "AS350 級輕型",
+      "caliber": "偵察/通用/輕武裝",
+      "crew": "1–2",
+      "range_m": "輕型",
+      "mobility": "單渦軸",
+      "sensors": "輕型通用/偵察直升機",
+      "sources": [
+        {
+          "label": "維基百科：直-11",
+          "url": "https://en.wikipedia.org/wiki/Changhe_Z-11"
+        }
+      ]
+    },
+    "mi-17": {
+      "weight_kg": "俄製中型（Mi-8/17 系列）",
+      "caliber": "運輸（可掛火箭/槍砲）",
+      "crew": "3＋約 24 兵",
+      "range_m": "中型運輸；陸航主力",
+      "mobility": "2×渦軸",
+      "sensors": "中型運輸直升機（Hip）",
+      "sources": [
+        {
+          "label": "維基百科：Mi-17",
+          "url": "https://en.wikipedia.org/wiki/Mil_Mi-17"
+        }
+      ]
+    },
+    "j-15": {
+      "weight_kg": "MTOW 級（Flanker 艦載）",
+      "caliber": "12 掛點 6,500kg；PL-15/12/10、YJ-83K 反艦",
+      "crew": "1",
+      "range_m": "Mach 2.17；作戰半徑約 1,270 km",
+      "mobility": "2×AL-31F／WS-10B",
+      "sensors": "艦載多用途戰機（STOBAR，遼寧/山東）",
+      "sources": [
+        {
+          "label": "維基百科：殲-15",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
+        }
+      ]
+    },
+    "j-15t": {
+      "weight_kg": "Flanker 艦載（強化起落架）",
+      "caliber": "PL-15/YJ-83K 等",
+      "crew": "1",
+      "range_m": "Mach 2.17；半徑 1,270 km+",
+      "mobility": "2×WS-10B",
+      "sensors": "彈射型艦載戰機（CATOBAR，福建）",
+      "sources": [
+        {
+          "label": "維基百科：殲-15",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
+        }
+      ]
+    },
+    "j-15d": {
+      "weight_kg": "Flanker 艦載電戰",
+      "caliber": "電戰吊艙",
+      "crew": "2",
+      "range_m": "艦載電子作戰",
+      "mobility": "2×WS-10B",
+      "sensors": "艦載電戰機",
+      "sources": [
+        {
+          "label": "維基百科：殲-15",
+          "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
+        }
+      ]
+    },
+    "ka-28": {
+      "weight_kg": "MTOW 約 12,000 kg",
+      "caliber": "魚雷／深水炸彈；雷達、吊放聲納/磁探",
+      "crew": "3",
+      "range_m": "艦載反潛",
+      "mobility": "共軸雙旋翼渦軸",
+      "sensors": "艦載反潛直升機（Ka-27PL 出口型）",
+      "sources": [
+        {
+          "label": "維基百科：Ka-27／Ka-28",
+          "url": "https://en.wikipedia.org/wiki/Kamov_Ka-27"
+        }
+      ]
+    },
+    "ka-31": {
+      "weight_kg": "Ka-27 家族",
+      "caliber": "預警雷達（旋轉天線）",
+      "crew": "2+",
+      "range_m": "艦載預警",
+      "mobility": "共軸雙旋翼渦軸",
+      "sensors": "艦載預警直升機（Helix-B）",
+      "sources": [
+        {
+          "label": "維基百科：Ka-27／Ka-28",
+          "url": "https://en.wikipedia.org/wiki/Kamov_Ka-27"
+        }
+      ]
+    },
+    "kj-600": {
+      "weight_kg": "艦載固定翼預警機",
+      "caliber": "雷達預警",
+      "crew": "4–6",
+      "range_m": "福建艦電磁彈射起降",
+      "mobility": "雙渦槳",
+      "sensors": "艦載預警機（E-2 級）",
+      "sources": [
+        {
+          "label": "維基百科：空警-600",
+          "url": "https://en.wikipedia.org/wiki/KJ-600"
+        }
+      ]
+    },
+    "qbz-191": {
+      "caliber": "5.8×42mm",
+      "weight_kg": "3.1 kg（空匣）",
+      "range_m": "有效 400–600m",
+      "rate_of_fire": "約 750 發/分",
+      "capacity": "30 發彈匣（可用 75 發彈鼓）",
+      "sources": [
+        {
+          "label": "維基百科：QBZ-191",
+          "url": "https://en.wikipedia.org/wiki/QBZ-191"
+        }
+      ]
+    },
+    "qcq-171": {
+      "caliber": "5.8×42mm",
+      "weight_kg": "191 槍族短型",
+      "range_m": "近戰/巷戰",
+      "rate_of_fire": "約 750 發/分",
+      "capacity": "30/75 發；卡賓/衝鋒型",
+      "sources": [
+        {
+          "label": "維基百科：QBZ-191",
+          "url": "https://en.wikipedia.org/wiki/QBZ-191"
+        }
+      ]
+    },
+    "qbu-191": {
+      "caliber": "5.8×42mm",
+      "weight_kg": "191 槍族精確射手型",
+      "range_m": "有效 800m",
+      "rate_of_fire": "半自動",
+      "capacity": "浮動槍管、延伸護木",
+      "sources": [
+        {
+          "label": "維基百科：QBZ-191",
+          "url": "https://en.wikipedia.org/wiki/QBZ-191"
+        }
+      ]
+    },
+    "qjy-201": {
+      "caliber": "5.8×42mm",
+      "weight_kg": "191 系統通用機槍",
+      "range_m": "有效 800m 級",
+      "rate_of_fire": "中高射速",
+      "capacity": "彈鏈/彈鼓供彈",
+      "sources": [
+        {
+          "label": "維基百科：QBZ-191",
+          "url": "https://en.wikipedia.org/wiki/QBZ-191"
+        }
+      ]
+    },
+    "qlg-10": {
+      "caliber": "35mm 榴彈",
+      "weight_kg": "191 槍掛榴彈發射器",
+      "range_m": "有效 300–400m",
+      "rate_of_fire": "單發",
+      "capacity": "槍掛式",
+      "sources": [
+        {
+          "label": "維基百科：QBZ-191",
+          "url": "https://en.wikipedia.org/wiki/QBZ-191"
+        }
+      ]
+    },
+    "qbz-95-1": {
+      "caliber": "5.8×42mm DBP10",
+      "weight_kg": "改良型（加長加重槍管）",
+      "range_m": "有效 400m",
+      "rate_of_fire": "約 650 發/分",
+      "capacity": "30/75 發；無托",
+      "sources": [
+        {
+          "label": "維基百科：QBZ-95",
+          "url": "https://en.wikipedia.org/wiki/QBZ-95"
+        }
+      ]
+    },
+    "qbz-95b": {
+      "caliber": "5.8×42mm",
+      "weight_kg": "短卡賓（海軍/巷戰）",
+      "range_m": "近戰",
+      "rate_of_fire": "約 650 發/分",
+      "capacity": "30 發；無托、無刺刀/榴彈",
+      "sources": [
+        {
+          "label": "維基百科：QBZ-95",
+          "url": "https://en.wikipedia.org/wiki/QBZ-95"
+        }
+      ]
+    },
+    "type-56-rifle": {
+      "caliber": "7.62×39mm",
+      "weight_kg": "約 3.8 kg",
+      "range_m": "有效 300–400m",
+      "rate_of_fire": "約 650 發/分",
+      "capacity": "20–40 發；AK/AKM 衍生",
+      "sources": [
+        {
+          "label": "維基百科：56式自動步槍",
+          "url": "https://en.wikipedia.org/wiki/Type_56_assault_rifle"
+        }
+      ]
+    },
+    "type-81-rifle": {
+      "caliber": "7.62×39mm",
+      "weight_kg": "約 3.4 kg",
+      "range_m": "有效 400m",
+      "rate_of_fire": "約 650 發/分；導氣式",
+      "capacity": "30 發；後備/民兵",
+      "sources": [
+        {
+          "label": "維基百科：81式自動步槍",
+          "url": "https://en.wikipedia.org/wiki/Type_81_assault_rifle"
+        }
+      ]
+    },
+    "qbz-03": {
+      "caliber": "5.8×42mm",
+      "weight_kg": "約 3.5 kg",
+      "range_m": "有效 400m",
+      "rate_of_fire": "約 650 發/分",
+      "capacity": "30 發；有托",
+      "sources": [
+        {
+          "label": "維基百科：QBZ-03",
+          "url": "https://en.wikipedia.org/wiki/QBZ-03"
+        }
+      ]
+    },
+    "qbu-88": {
+      "caliber": "5.8×42mm",
+      "weight_kg": "約 4.1 kg",
+      "range_m": "有效 800m",
+      "rate_of_fire": "半自動",
+      "capacity": "10 發；精確射手/狙擊",
+      "sources": [
+        {
+          "label": "維基百科：88式狙擊步槍",
+          "url": "https://en.wikipedia.org/wiki/QBU-88"
+        }
+      ]
+    },
+    "qbu-10": {
+      "caliber": "12.7×108mm",
+      "weight_kg": "反器材步槍",
+      "range_m": "有效約 1,500m",
+      "rate_of_fire": "半自動",
+      "capacity": "5 發；反器材/遠程狙擊",
+      "sources": [
+        {
+          "label": "維基百科：QBU-10",
+          "url": "https://en.wikipedia.org/wiki/QBU-10"
+        }
+      ]
+    },
+    "qts-11": {
+      "caliber": "5.8mm 步槍＋20mm 空爆榴彈",
+      "weight_kg": "單兵綜合作戰系統",
+      "range_m": "榴彈空爆對掩體後目標",
+      "rate_of_fire": "—",
+      "capacity": "彈道計算＋光電火控",
+      "sources": [
+        {
+          "label": "維基百科：QTS-11",
+          "url": "https://en.wikipedia.org/wiki/QTS-11"
+        }
+      ]
+    },
+    "qsz-92": {
+      "caliber": "5.8×21mm 或 9×19mm",
+      "weight_kg": "760 g",
+      "range_m": "有效約 50m",
+      "rate_of_fire": "半自動",
+      "capacity": "15 發(9mm)/20 發(5.8mm)",
+      "sources": [
+        {
+          "label": "維基百科：QSZ-92",
+          "url": "https://en.wikipedia.org/wiki/QSZ-92"
+        }
+      ]
+    },
+    "qsw-06": {
+      "caliber": "5.8×21mm",
+      "weight_kg": "微聲手槍",
+      "range_m": "有效約 50m",
+      "rate_of_fire": "半自動",
+      "capacity": "一體式消音",
+      "sources": [
+        {
+          "label": "維基百科：QSW-06",
+          "url": "https://en.wikipedia.org/wiki/QSW-06"
+        }
+      ]
+    },
+    "qcw-05": {
+      "caliber": "5.8×21mm",
+      "weight_kg": "微聲衝鋒槍",
+      "range_m": "有效約 200m",
+      "rate_of_fire": "約 800 發/分",
+      "capacity": "50 發；一體消音",
+      "sources": [
+        {
+          "label": "維基百科：05式微聲衝鋒槍",
+          "url": "https://en.wikipedia.org/wiki/QCW-05"
+        }
+      ]
+    },
+    "type-79-smg": {
+      "caliber": "7.62×25mm",
+      "weight_kg": "輕型衝鋒槍",
+      "range_m": "有效約 200m",
+      "rate_of_fire": "約 1,000 發/分",
+      "capacity": "20 發",
+      "sources": [
+        {
+          "label": "維基百科：79式衝鋒槍",
+          "url": "https://en.wikipedia.org/wiki/Type_79_submachine_gun"
+        }
+      ]
+    },
+    "qjy-88": {
+      "caliber": "5.8×42mm",
+      "weight_kg": "通用機槍",
+      "range_m": "有效 800m",
+      "rate_of_fire": "約 650–700 發/分",
+      "capacity": "彈鏈供彈",
+      "sources": [
+        {
+          "label": "維基百科：88式通用機槍",
+          "url": "https://en.wikipedia.org/wiki/QJY-88"
+        }
+      ]
+    },
+    "qjz-89": {
+      "caliber": "12.7×108mm",
+      "weight_kg": "17.5 kg（含腳架 26 kg）",
+      "range_m": "有效 1,500m",
+      "rate_of_fire": "450–600 發/分",
+      "capacity": "彈鏈；「輕量化重機槍」",
+      "sources": [
+        {
+          "label": "維基百科：QJZ-89",
+          "url": "https://en.wikipedia.org/wiki/QJZ-89"
+        }
+      ]
+    },
+    "qjz-171": {
+      "caliber": "12.7×108mm",
+      "weight_kg": "新一代重機槍",
+      "range_m": "有效 1,500m 級",
+      "rate_of_fire": "中射速",
+      "capacity": "彈鏈；輕量化",
+      "sources": [
+        {
+          "label": "維基百科：QJZ-89",
+          "url": "https://en.wikipedia.org/wiki/QJZ-89"
+        }
+      ]
+    },
+    "type-67-mg": {
+      "caliber": "7.62×54mmR",
+      "weight_kg": "通用機槍",
+      "range_m": "有效 800m",
+      "rate_of_fire": "約 650 發/分",
+      "capacity": "彈鏈",
+      "sources": [
+        {
+          "label": "維基百科：67式機槍",
+          "url": "https://en.wikipedia.org/wiki/Type_67_machine_gun"
+        }
+      ]
+    },
+    "type-80-mg": {
+      "caliber": "7.62×54mmR",
+      "weight_kg": "通用機槍（PKM 衍生）",
+      "range_m": "有效 800–1,000m",
+      "rate_of_fire": "約 700 發/分",
+      "capacity": "彈鏈",
+      "sources": [
+        {
+          "label": "維基百科：80式通用機槍",
+          "url": "https://en.wikipedia.org/wiki/Type_80_machine_gun"
+        }
+      ]
+    },
+    "qjg-02": {
+      "caliber": "14.5×114mm",
+      "weight_kg": "單管高射機槍",
+      "range_m": "有效約 1,000–2,000m",
+      "rate_of_fire": "單管",
+      "capacity": "對空/對輕裝甲",
+      "sources": [
+        {
+          "label": "維基百科：QJG-02",
+          "url": "https://en.wikipedia.org/wiki/QJG-02"
+        }
+      ]
+    },
+    "qlz-87": {
+      "caliber": "35×32mmSR 榴彈",
+      "weight_kg": "12 kg（含腳架 20 kg）",
+      "range_m": "有效 600m（腳架最遠 1,750m）",
+      "rate_of_fire": "480 發/分",
+      "capacity": "彈鼓；氣動",
+      "sources": [
+        {
+          "label": "維基百科：QLZ-87",
+          "url": "https://en.wikipedia.org/wiki/QLZ-87"
+        }
+      ]
+    },
+    "qlz-04": {
+      "caliber": "35mm 榴彈",
+      "weight_kg": "自動榴彈發射器（較輕）",
+      "range_m": "有效 600m 級",
+      "rate_of_fire": "自動",
+      "capacity": "彈鼓",
+      "sources": [
+        {
+          "label": "維基百科：QLZ-87",
+          "url": "https://en.wikipedia.org/wiki/QLZ-87"
+        }
+      ]
+    },
+    "qlu-11": {
+      "caliber": "35mm 榴彈",
+      "weight_kg": "精確/半自動榴彈發射器",
+      "range_m": "有效 600m+",
+      "rate_of_fire": "半自動",
+      "capacity": "彈匣；精確射控",
+      "sources": [
+        {
+          "label": "維基百科：QLU-11",
+          "url": "https://en.wikipedia.org/wiki/QLU-11"
+        }
+      ]
+    },
+    "type-91b-gl": {
+      "caliber": "35mm 槍榴彈",
+      "weight_kg": "槍口/槍掛榴彈",
+      "range_m": "有效 300–400m",
+      "rate_of_fire": "單發",
+      "capacity": "91B 式",
+      "sources": [
+        {
+          "label": "維基百科：91式槍族",
+          "url": "https://en.wikipedia.org/wiki/QBZ-95"
+        }
+      ]
+    },
+    "pf-98": {
+      "caliber": "120mm 火箭（串聯 HEAT，穿深 ~800mm RHA）",
+      "weight_kg": "發射器 10 kg",
+      "range_m": "HEAT 800m／熱壓 1,800–2,000m",
+      "capacity": "反戰車/熱壓/HEI 多用途火箭",
+      "sources": [
+        {
+          "label": "維基百科：PF-98",
+          "url": "https://en.wikipedia.org/wiki/PF-98"
+        }
+      ]
+    },
+    "pf-98a": {
+      "caliber": "120mm 火箭",
+      "weight_kg": "發射器 7 kg（輕量化）",
+      "range_m": "HEAT 800m／熱壓 2,000m",
+      "capacity": "PF-98 輕量化型（2006）",
+      "sources": [
+        {
+          "label": "維基百科：PF-98",
+          "url": "https://en.wikipedia.org/wiki/PF-98"
+        }
+      ]
+    },
+    "phl-16": {
+      "caliber": "300／370mm 模組（另 750mm 戰術飛彈）",
+      "weight_kg": "WS2400 8×8（45t）",
+      "range_m": "BRE3 130km／BRE8 280km／FD480 500km",
+      "capacity": "每箱模組異種裝填；3 人",
+      "sources": [
+        {
+          "label": "維基百科：PHL-16/PCH-191",
+          "url": "https://en.wikipedia.org/wiki/PHL-16"
+        }
+      ]
+    },
+    "plz-07": {
+      "caliber": "122mm 榴彈砲",
+      "weight_kg": "約 24.5 噸",
+      "range_m": "18km／底排 22km／火箭增程 27km",
+      "capacity": "6–8 發/分；ZBD-04 底盤；5 人",
+      "sources": [
+        {
+          "label": "維基百科：PLZ-07",
+          "url": "https://en.wikipedia.org/wiki/PLZ-07"
+        }
+      ]
+    },
+    "zsl-92": {
+      "caliber": "25mm ZPT-90 機砲（92B 為 30mm）",
+      "weight_kg": "12.5–15.8 噸",
+      "range_m": "6×6 兩棲",
+      "capacity": "3＋9 兵（APC 型 11 兵）",
+      "sources": [
+        {
+          "label": "維基百科：ZSL-92／WZ551",
+          "url": "https://en.wikipedia.org/wiki/ZSL-92"
+        }
+      ]
+    },
+    "type-92b": {
+      "caliber": "30mm ZPT-99 機砲",
+      "weight_kg": "ZSL-92 步戰型",
+      "range_m": "6×6 兩棲",
+      "capacity": "輪式步兵戰車",
+      "sources": [
+        {
+          "label": "維基百科：ZSL-92／WZ551",
+          "url": "https://en.wikipedia.org/wiki/ZSL-92"
+        }
+      ]
+    },
+    "type-62": {
+      "caliber": "85mm Type 62-85TC 線膛砲",
+      "weight_kg": "約 21 噸",
+      "range_m": "南方山地/水網作戰",
+      "capacity": "4 人；430hp 輕型坦克",
+      "sources": [
+        {
+          "label": "維基百科：62式輕坦",
+          "url": "https://en.wikipedia.org/wiki/Type_62_light_tank"
+        }
+      ]
+    },
+    "pgz-95": {
+      "caliber": "4×25mm Type 87 機砲＋QW-2 飛彈",
+      "weight_kg": "22.5 噸",
+      "range_m": "砲 2,500m／飛彈 6,000m",
+      "capacity": "CLC-1 搜索雷達 11km；3 人",
+      "sources": [
+        {
+          "label": "維基百科：PGZ-95",
+          "url": "https://en.wikipedia.org/wiki/PGZ-95"
+        }
+      ]
+    },
+    "plz-89": {
+      "caliber": "122mm 榴彈砲",
+      "mobility": "履帶自走",
+      "range_m": "約 18–22 km",
+      "capacity": "早期履帶式自走榴彈砲",
+      "sources": [
+        {
+          "label": "維基百科：PLZ-89",
+          "url": "https://en.wikipedia.org/wiki/Type_89_self-propelled_howitzer"
+        }
+      ]
+    },
+    "pll-09": {
+      "caliber": "122mm 榴彈砲",
+      "mobility": "8×8 輪式自走",
+      "range_m": "約 18–27 km",
+      "capacity": "輪式自走榴彈砲",
+      "sources": [
+        {
+          "label": "維基百科：PLL-09",
+          "url": "https://en.wikipedia.org/wiki/PLL-09"
+        }
+      ]
+    },
+    "type-90-mlrs": {
+      "caliber": "122mm 40 管火箭",
+      "mobility": "車載",
+      "range_m": "約 20–40 km",
+      "capacity": "122mm 多管火箭",
+      "sources": [
+        {
+          "label": "維基百科：Type 90 MLRS",
+          "url": "https://en.wikipedia.org/wiki/Type_90_multiple_rocket_launcher"
+        }
+      ]
+    },
+    "a100": {
+      "caliber": "300mm 10 管火箭",
+      "mobility": "8×8 車載",
+      "range_m": "約 50–120 km",
+      "capacity": "300mm 遠程火箭（出口/衍生）",
+      "sources": [
+        {
+          "label": "維基百科：A100 MLRS",
+          "url": "https://en.wikipedia.org/wiki/A100_multiple_rocket_launcher"
+        }
+      ]
+    },
+    "type-83-sph": {
+      "caliber": "152mm 加榴砲",
+      "mobility": "履帶自走",
+      "range_m": "約 17–22 km",
+      "capacity": "履帶式 152mm 自走加榴砲",
+      "sources": [
+        {
+          "label": "維基百科：83式自走砲",
+          "url": "https://en.wikipedia.org/wiki/Type_83_self-propelled_howitzer"
+        }
+      ]
+    },
+    "type-66-152": {
+      "caliber": "152mm 加榴砲",
+      "mobility": "牽引",
+      "range_m": "約 17 km",
+      "capacity": "蘇製 D-20 衍生牽引加榴砲",
+      "sources": [
+        {
+          "label": "維基百科：66式加榴砲",
+          "url": "https://en.wikipedia.org/wiki/Type_66_152_mm_howitzer"
+        }
+      ]
+    },
+    "zsd-89": {
+      "caliber": "12.7mm 重機槍",
+      "mobility": "履帶裝甲輸送車",
+      "range_m": "—",
+      "capacity": "履帶式 APC（YW534）",
+      "sources": [
+        {
+          "label": "維基百科：89式裝甲車",
+          "url": "https://en.wikipedia.org/wiki/Type_89_armoured_personnel_carrier"
+        }
+      ]
+    },
+    "type-86-ifv": {
+      "caliber": "73mm 低壓砲＋機槍",
+      "mobility": "履帶步戰車",
+      "range_m": "—",
+      "capacity": "BMP-1 衍生（WZ501）",
+      "sources": [
+        {
+          "label": "維基百科：86式步兵戰車",
+          "url": "https://en.wikipedia.org/wiki/Type_86_infantry_fighting_vehicle"
+        }
+      ]
+    },
+    "type-69-rpg": {
+      "caliber": "40mm 火箭筒",
+      "mobility": "單兵",
+      "range_m": "有效約 300m",
+      "capacity": "RPG-7 衍生反戰車火箭",
+      "sources": [
+        {
+          "label": "維基百科：69式火箭筒",
+          "url": "https://en.wikipedia.org/wiki/Type_69_RPG"
+        }
+      ]
+    },
+    "pp-87": {
+      "caliber": "82mm 迫擊砲",
+      "mobility": "營級",
+      "range_m": "約 5–6 km",
+      "capacity": "82mm 迫擊砲",
+      "sources": [
+        {
+          "label": "維基百科：PP-87",
+          "url": "https://en.wikipedia.org/wiki/PP-87"
+        }
+      ]
+    },
+    "w86-120": {
+      "caliber": "120mm 迫擊砲",
+      "mobility": "營/旅級",
+      "range_m": "約 7–9 km",
+      "capacity": "120mm 迫擊砲",
+      "sources": [
+        {
+          "label": "維基百科：W86 迫擊砲",
+          "url": "https://en.wikipedia.org/wiki/W86_mortar"
+        }
+      ]
+    },
+    "yj-21": {
+      "caliber": "約 1,500 km（宣稱）",
+      "mobility": "高超音速反艦飛彈",
+      "range_m": "Mach 6 巡航／末端 Mach 10；055 垂發、H-6K/J-10C 空射（KD-21）",
+      "capacity": "高超音速反艦",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-21",
+          "url": "https://en.wikipedia.org/wiki/YJ-21"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "type-730": {
+      "caliber": "30mm 七管轉管砲",
+      "mobility": "近迫武器系統（CIWS）",
+      "range_m": "5,800 發/分；有效 3–5 km",
+      "capacity": "近迫防禦（反飛彈）",
+      "sources": [
+        {
+          "label": "維基百科：Type 730/1130 CIWS",
+          "url": "https://en.wikipedia.org/wiki/Type_1130_CIWS"
+        }
+      ]
+    },
+    "type-1130": {
+      "caliber": "30mm 十一管轉管砲",
+      "mobility": "近迫武器系統（CIWS）",
+      "range_m": "10,000+ 發/分；有效 3–5 km；055/054A/航母",
+      "capacity": "近迫防禦（反飛彈）",
+      "sources": [
+        {
+          "label": "維基百科：Type 730/1130 CIWS",
+          "url": "https://en.wikipedia.org/wiki/Type_1130_CIWS"
+        }
+      ]
+    },
+    "df-27": {
+      "caliber": "5,000–8,000 km",
+      "mobility": "中遠程彈道飛彈（IRBM）＋高超音速滑翔",
+      "range_m": "可能具反艦能力；研發/部署中",
+      "capacity": "IRBM＋HGV",
+      "sources": [
+        {
+          "label": "維基百科：東風-27",
+          "url": "https://en.wikipedia.org/wiki/DF-27"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "type-63a": {
+      "caliber": "105mm 線膛砲（雙穩）",
+      "mobility": "水陸兩棲輕型坦克",
+      "range_m": "約 20 噸；浮渡 14 km/h；陸戰隊（漸由 ZTD-05 取代）",
+      "capacity": "4 人兩棲輕坦",
+      "sources": [
+        {
+          "label": "維基百科：63A式水陸坦克",
+          "url": "https://en.wikipedia.org/wiki/Type_63A"
+        }
+      ]
+    },
+    "kj-200": {
+      "caliber": "Y-8 平台",
+      "mobility": "空中預警管制機（AEW&C）",
+      "range_m": "JY-06 有源相位陣列（平衡木）；2007 服役",
+      "capacity": "戰術預警機",
+      "sources": [
+        {
+          "label": "維基百科：空警-200",
+          "url": "https://en.wikipedia.org/wiki/KJ-200"
+        }
+      ]
+    },
+    "ztz-88": {
+      "caliber": "105mm 線膛砲",
+      "mobility": "第二代主戰坦克",
+      "range_m": "約 38 噸；4 人；二線",
+      "capacity": "MBT（Type 80/88 族）",
+      "sources": [
+        {
+          "label": "維基百科：Type 80／88 坦克",
+          "url": "https://en.wikipedia.org/wiki/Type_80/88_main_battle_tank"
+        }
+      ]
+    },
+    "df-31b": {
+      "caliber": "ICBM",
+      "mobility": "公路機動洲際彈道飛彈",
+      "range_m": "射程 >11,000 km",
+      "capacity": "DF-31 改進型",
+      "sources": [
+        {
+          "label": "維基百科：東風-31",
+          "url": "https://en.wikipedia.org/wiki/DF-31"
+        }
+      ]
+    },
+    "hq-10": {
+      "caliber": "近迫防空飛彈",
+      "mobility": "艦載點防禦飛彈（RAM 級）",
+      "range_m": "有效約 9 km；紅外導引",
+      "capacity": "24/18 聯裝艦載近防",
+      "sources": [
+        {
+          "label": "維基百科：海紅旗-10",
+          "url": "https://en.wikipedia.org/wiki/HQ-10"
+        }
+      ]
+    },
+    "yj-6": {
+      "caliber": "空射反艦飛彈",
+      "mobility": "亞音速反艦（C-601 族）",
+      "range_m": "舊式，H-6 掛載",
+      "capacity": "Silkworm 衍生空射反艦",
+      "sources": [
+        {
+          "label": "維基百科：鷹擊-6",
+          "url": "https://en.wikipedia.org/wiki/YJ-6"
+        }
+      ]
+    },
+    "pll-05": {
+      "caliber": "120mm 迫榴砲",
+      "mobility": "履帶自行迫榴砲",
+      "range_m": "約 8.5 km",
+      "capacity": "車載 120mm 迫榴砲",
+      "sources": [
+        {
+          "label": "維基百科：PLL-05",
+          "url": "https://en.wikipedia.org/wiki/PLL-05"
+        }
+      ]
+    },
+    "pcl-161": {
+      "caliber": "122mm 車載榴彈砲",
+      "mobility": "卡車底盤",
+      "range_m": "約 18–27 km",
+      "capacity": "車載 122mm 榴彈砲",
+      "sources": [
+        {
+          "label": "維基百科：PCL-161",
+          "url": "https://en.wikipedia.org/wiki/PCL-161"
+        }
+      ]
+    },
+    "pcl-09": {
+      "caliber": "122mm 車載榴彈砲",
+      "mobility": "卡車底盤",
+      "range_m": "約 18–27 km",
+      "capacity": "車載 122mm 榴彈砲",
+      "sources": [
+        {
+          "label": "維基百科：PCL-09",
+          "url": "https://en.wikipedia.org/wiki/PCL-09"
+        }
+      ]
+    },
+    "phz-11": {
+      "caliber": "122mm 40 管火箭",
+      "mobility": "履帶自走",
+      "range_m": "約 20–40 km",
+      "capacity": "履帶式多管火箭",
+      "sources": [
+        {
+          "label": "維基百科：PHZ-11",
+          "url": "https://en.wikipedia.org/wiki/PHZ-11"
+        }
+      ]
+    },
+    "phl-81": {
+      "caliber": "122mm 40 管火箭",
+      "mobility": "牽引/車載",
+      "range_m": "約 20–40 km",
+      "capacity": "81 式 122mm 火箭砲",
+      "sources": [
+        {
+          "label": "維基百科：81式火箭砲",
+          "url": "https://en.wikipedia.org/wiki/Type_81_122_mm_multiple_rocket_launcher"
+        }
+      ]
+    },
+    "pgz-04a": {
+      "caliber": "25mm 機砲＋飛彈",
+      "mobility": "彈砲合一自行防空",
+      "range_m": "砲 2.5km／飛彈 6km",
+      "capacity": "履帶自行防空",
+      "sources": [
+        {
+          "label": "維基百科：PGZ-04A",
+          "url": "https://en.wikipedia.org/wiki/PGZ-04A"
+        }
+      ]
+    },
+    "sr5": {
+      "caliber": "122／220mm 模組火箭",
+      "mobility": "8×8 車載模組化",
+      "range_m": "122mm ~40km／220mm ~70km",
+      "capacity": "模組化多管火箭（出口）",
+      "sources": [
+        {
+          "label": "維基百科：SR5 MLRS",
+          "url": "https://en.wikipedia.org/wiki/SR5_multiple_rocket_launcher"
+        }
+      ]
+    },
+    "ld-2000": {
+      "caliber": "30mm 七管轉管砲",
+      "mobility": "陸基近迫防空（730 陸基型）",
+      "range_m": "反火箭/巡航；有效 3–4 km",
+      "capacity": "陸基 CIWS",
+      "sources": [
+        {
+          "label": "維基百科：LD-2000",
+          "url": "https://en.wikipedia.org/wiki/Type_730_CIWS"
+        }
+      ]
+    },
+    "dzj-08": {
+      "caliber": "單兵多用途火箭",
+      "mobility": "肩射火箭",
+      "range_m": "有效約 400m",
+      "capacity": "反工事/輕裝甲",
+      "sources": [
+        {
+          "label": "維基百科：DZJ-08",
+          "url": "https://en.wikipedia.org/wiki/DZJ-08"
+        }
+      ]
+    },
+    "pp-89": {
+      "caliber": "100mm 迫擊砲",
+      "mobility": "連/營級",
+      "range_m": "約 4–6 km",
+      "capacity": "100mm 迫擊砲",
+      "sources": [
+        {
+          "label": "維基百科：PP-89",
+          "url": "https://en.wikipedia.org/wiki/PP-89"
+        }
+      ]
+    },
+    "zsd-63": {
+      "caliber": "12.7mm 重機槍",
+      "mobility": "履帶裝甲輸送車",
+      "range_m": "第一代 APC（YW531）",
+      "capacity": "舊式履帶 APC",
+      "sources": [
+        {
+          "label": "維基百科：63式裝甲車",
+          "url": "https://en.wikipedia.org/wiki/Type_63_armoured_personnel_carrier"
+        }
+      ]
+    },
+    "type-19-ifv": {
+      "caliber": "30mm 機砲＋反戰車飛彈",
+      "mobility": "輪式步兵戰車",
+      "range_m": "8×8；新一代",
+      "capacity": "解放軍陸軍輪式 IFV",
+      "sources": [
+        {
+          "label": "維基百科：Type 19 IFV",
+          "url": "https://en.wikipedia.org/wiki/ZBL-19"
+        }
+      ]
+    },
+    "bzk-005": {
+      "caliber": "中空長航時偵察 UAV",
+      "mobility": "偵察無人機",
+      "range_m": "滯空長；戰略偵察",
+      "capacity": "MALE 偵察 UAV",
+      "sources": [
+        {
+          "label": "維基百科：BZK-005",
+          "url": "https://en.wikipedia.org/wiki/BZK-005"
+        }
+      ]
+    },
+    "asn-209": {
+      "caliber": "戰術偵察 UAV",
+      "mobility": "偵察/校射無人機",
+      "range_m": "戰術級",
+      "capacity": "戰術偵察 UAV",
+      "sources": [
+        {
+          "label": "維基百科：ASN-209",
+          "url": "https://en.wikipedia.org/wiki/ASN-209"
+        }
+      ]
+    },
+    "wj-700": {
+      "caliber": "高速偵打 UAV",
+      "mobility": "偵察/打擊無人機",
+      "range_m": "高空高速；可掛飛彈",
+      "capacity": "高速察打 UAV（獵鷹）",
+      "sources": [
+        {
+          "label": "維基百科：WJ-700",
+          "url": "https://en.wikipedia.org/wiki/WJ-700"
+        }
+      ]
+    },
+    "ch-7": {
+      "caliber": "匿蹤 UCAV（研發中）",
+      "mobility": "飛翼匿蹤無人戰機",
+      "range_m": "高空長航時；驗證階段",
+      "capacity": "匿蹤 UCAV",
+      "sources": [
+        {
+          "label": "維基百科：彩虹-7",
+          "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+        }
+      ]
+    },
+    "y-5": {
+      "caliber": "輕型運輸/傘訓",
+      "mobility": "雙翼運輸機",
+      "range_m": "An-2 Colt 衍生",
+      "capacity": "輕型運輸機",
+      "sources": [
+        {
+          "label": "維基百科：運-5",
+          "url": "https://en.wikipedia.org/wiki/Shijiazhuang_Y-5"
+        }
+      ]
+    },
+    "y-7": {
+      "caliber": "輕型運輸",
+      "mobility": "雙渦槳運輸機",
+      "range_m": "An-24 Coke 衍生",
+      "capacity": "輕型運輸機",
+      "sources": [
+        {
+          "label": "維基百科：運-7",
+          "url": "https://en.wikipedia.org/wiki/Xian_Y-7"
+        }
+      ]
+    },
+    "jl-9": {
+      "caliber": "高級教練機",
+      "mobility": "超音速教練/艦載教練",
+      "range_m": "Mach 1.05 級",
+      "capacity": "高教機（山鷹）",
+      "sources": [
+        {
+          "label": "維基百科：教練-9",
+          "url": "https://en.wikipedia.org/wiki/Guizhou_JL-9"
+        }
+      ]
+    },
+    "zbd-03": {
+      "caliber": "30mm 機砲",
+      "mobility": "空降步兵戰車",
+      "range_m": "可傘投；空降兵",
+      "capacity": "空降 IFV",
+      "sources": [
+        {
+          "label": "維基百科：ZBD-03",
+          "url": "https://en.wikipedia.org/wiki/ZBD-03"
+        }
+      ]
+    },
+    "kj-3000": {
+      "caliber": "Y-20B 平台",
+      "mobility": "空中預警管制機（AEW&C）",
+      "range_m": "旋轉罩雙面 AESA；兼 COMINT/ELINT",
+      "capacity": "下一代大型預警機（研發/測試）",
+      "sources": [
+        {
+          "label": "維基百科：空警-3000",
+          "url": "https://en.wikipedia.org/wiki/KJ-3000"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "hq-19": {
+      "caliber": "反彈道飛彈/反衛星",
+      "mobility": "陸基動能攔截（THAAD 級）",
+      "range_m": "射程 3,000 km；攔截高度 200 km；速度 10 km/s",
+      "capacity": "中段/末段外大氣層攔截；HQ-9 衍生",
+      "sources": [
+        {
+          "label": "維基百科：紅旗-19",
+          "url": "https://en.wikipedia.org/wiki/HQ-19"
+        },
+        {
+          "label": "FAS／DoD China Military Power Report 2024",
+          "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+        }
+      ]
+    },
+    "type-726": {
+      "caliber": "氣墊登陸艇（LCAC）",
+      "mobility": "071／075 塢艙釋放",
+      "range_m": "可搭載 1 輛主戰坦克搶灘",
+      "capacity": "高速兩棲登陸艇（Yuyi 級）",
+      "sources": [
+        {
+          "label": "維基百科：075型兩棲攻擊艦",
+          "url": "https://en.wikipedia.org/wiki/Type_075_landing_helicopter_dock"
+        }
+      ]
+    },
+    "wz-9": {
+      "caliber": "高空反匿蹤偵察 UAV",
+      "mobility": "雙體/大型無人機",
+      "range_m": "反匿蹤雷達；高空長航時",
+      "capacity": "神鷹（Divine Eagle）偵察無人機",
+      "sources": [
+        {
+          "label": "維基百科：WZ-9 神鷹",
+          "url": "https://en.wikipedia.org/wiki/WZ-9"
+        }
+      ]
+    },
+    "ld-10": {
+      "caliber": "反輻射飛彈",
+      "mobility": "空射",
+      "range_m": "壓制敵防空雷達；PL-12 衍生",
+      "capacity": "反輻射飛彈（雷霆-10）",
+      "sources": [
+        {
+          "label": "維基百科：LD-10",
+          "url": "https://en.wikipedia.org/wiki/LD-10"
+        }
+      ]
+    },
+    "ft-series": {
+      "caliber": "精確導引炸彈族",
+      "mobility": "空投",
+      "range_m": "衛星/慣性導引；50–500kg 級",
+      "capacity": "飛騰系列精確炸彈",
+      "sources": [
+        {
+          "label": "維基百科：彩虹無人機（FT/GB 武器）",
+          "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+        }
+      ]
+    },
+    "gb-series": {
+      "caliber": "精確導引炸彈族",
+      "mobility": "空投",
+      "range_m": "衛星/雷射導引滑翔炸彈",
+      "capacity": "GB 系列精確炸彈",
+      "sources": [
+        {
+          "label": "維基百科：彩虹無人機（FT/GB 武器）",
+          "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+        }
+      ]
+    },
+    "ba-9": {
+      "caliber": "空射反戰車飛彈",
+      "mobility": "直升機/UAV",
+      "range_m": "雷射導引；藍箭-9",
+      "capacity": "空射反戰車飛彈",
+      "sources": [
+        {
+          "label": "維基百科：藍箭-7／藍箭-9",
+          "url": "https://en.wikipedia.org/wiki/Blue_Arrow_7"
+        }
+      ]
+    },
+    "cx-1": {
+      "caliber": "超音速反艦飛彈（出口）",
+      "mobility": "艦/岸射",
+      "range_m": "超音速掠海；出口展示",
+      "capacity": "出口型超音速反艦飛彈",
+      "sources": [
+        {
+          "label": "維基百科：CX-1",
+          "url": "https://en.wikipedia.org/wiki/CX-1_(missile)"
+        }
+      ]
+    },
+    "yu-10": {
+      "caliber": "重型魚雷（533mm）",
+      "mobility": "潛射",
+      "range_m": "線導＋聲導；反艦/反潛",
+      "capacity": "重型魚雷（魚-10）",
+      "sources": [
+        {
+          "label": "維基百科：魚-6/魚-10 魚雷",
+          "url": "https://en.wikipedia.org/wiki/Yu-6_torpedo"
+        }
+      ]
+    },
+    "phz-89": {
+      "caliber": "122mm 40 管火箭",
+      "mobility": "履帶自走",
+      "range_m": "約 20–40 km",
+      "capacity": "早期履帶式多管火箭（Type 89）",
+      "sources": [
+        {
+          "label": "維基百科：PHZ-89",
+          "url": "https://en.wikipedia.org/wiki/PHZ-89"
+        }
+      ]
+    },
+    "pcl-171": {
+      "caliber": "車載平台",
+      "mobility": "輕型車載/突擊",
+      "range_m": "—",
+      "capacity": "PCL/PCZ 系列輕型車",
+      "sources": [
+        {
+          "label": "維基百科：PCL-181 族",
+          "url": "https://en.wikipedia.org/wiki/PCL-181"
+        }
+      ]
+    },
+    "pll-01": {
+      "caliber": "100mm 突擊砲",
+      "mobility": "履帶自走",
+      "range_m": "—",
+      "capacity": "履帶式 100mm 突擊砲",
+      "sources": [
+        {
+          "label": "維基百科：PTL-02／突擊砲",
+          "url": "https://en.wikipedia.org/wiki/PTL-02"
+        }
+      ]
+    },
+    "gcl-111": {
+      "caliber": "裝甲架橋車",
+      "mobility": "坦克底盤",
+      "range_m": "機械化架橋",
+      "capacity": "工兵架橋車",
+      "sources": [
+        {
+          "label": "維基百科：軍用架橋車",
+          "url": "https://en.wikipedia.org/wiki/Armoured_vehicle-launched_bridge"
+        }
+      ]
+    },
+    "type-84-minelayer": {
+      "caliber": "履帶布雷車",
+      "mobility": "火箭布雷",
+      "range_m": "快速布設地雷",
+      "capacity": "工兵布雷車",
+      "sources": [
+        {
+          "label": "維基百科：布雷車",
+          "url": "https://en.wikipedia.org/wiki/Minelayer"
+        }
+      ]
+    },
+    "type-07-uniform": {
+      "caliber": "07 式制式軍服",
+      "mobility": "單兵",
+      "range_m": "2007 換裝；數位迷彩（07 式）",
+      "capacity": "制式軍服與迷彩",
+      "sources": [
+        {
+          "label": "維基百科：解放軍軍服",
+          "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
+        }
+      ]
+    },
+    "type-21-uniform": {
+      "caliber": "21 式作戰服",
+      "mobility": "單兵",
+      "range_m": "新一代作戰服與攜行具",
+      "capacity": "作戰服/攜行具",
+      "sources": [
+        {
+          "label": "維基百科：解放軍軍服",
+          "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
+        }
+      ]
+    },
+    "type-19-gear": {
+      "caliber": "19 式單兵攜行/防護",
+      "mobility": "單兵",
+      "range_m": "攜行具＋防彈系統",
+      "capacity": "單兵攜行/防護系統",
+      "sources": [
+        {
+          "label": "維基百科：解放軍軍服",
+          "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
+        }
+      ]
+    },
+    "qgf-03": {
+      "caliber": "QGF-03 頭盔",
+      "mobility": "單兵",
+      "range_m": "芳綸複合材料防彈頭盔",
+      "capacity": "戰鬥頭盔",
+      "sources": [
+        {
+          "label": "維基百科：解放軍軍服",
+          "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
+        }
+      ]
+    },
+    "qgf-11": {
+      "caliber": "QGF-11 頭盔",
+      "mobility": "單兵",
+      "range_m": "新型防彈頭盔（含配掛系統）",
+      "capacity": "戰鬥頭盔",
+      "sources": [
+        {
+          "label": "維基百科：解放軍軍服",
+          "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+# 備份快照（本機用，不發佈）
+js/*.bak*
+*.bak
+*.bak.*
+
+# Python 快取
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# 內部作業筆記（本機協作用，不公開）
+PROJECT_NOTES.md
+
+# 系統
+.DS_Store
