@@ -320,7 +320,8 @@ a {
   }
 
   /* 詳情改為由下滑出的全螢幕覆蓋層，點清單即刻可用，免捲到最底 */
-  .detail-panel {
+  /* 用 body 前綴提高特異性，蓋過後段 .detail-panel{position:sticky} */
+  body .detail-panel {
     position: fixed;
     inset: 0;
     z-index: 300;
