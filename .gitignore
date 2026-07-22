@@ -16,3 +16,6 @@ PROJECT_NOTES.md
 
 # 抓圖日誌
 tools/img_fetch.log
+
+# 產生的離線單檔（可用 tools/build_offline.py 重生，不入 git）
+*離線版.html
