@@ -414,7 +414,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "mobility": "壓水反應爐"
+      "mobility": "壓水反應爐",
+      "image": "assets/images/type-093.png"
     },
     "type-093b": {
       "weight_kg": "水下約 6,700–7,000 噸",
@@ -427,7 +428,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_093_submarine"
         }
       ],
-      "mobility": "壓水反應爐（泵噴）"
+      "mobility": "壓水反應爐（泵噴）",
+      "image": "assets/images/type-093b.png"
     },
     "type-039a": {
       "weight_kg": "水下約 3,600 噸",
@@ -618,7 +620,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_035_submarine"
         }
       ],
-      "mobility": "柴電"
+      "mobility": "柴電",
+      "image": "assets/images/type-035.png"
     },
     "type-903a": {
       "weight_kg": "滿載約 23,369 噸",
@@ -791,7 +794,8 @@
           "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
         }
       ],
-      "crew": "1"
+      "crew": "1",
+      "image": "assets/images/j-11bg.jpg"
     },
     "su-30mkk": {
       "range_m": "航程約 3,000 km",
@@ -1283,7 +1287,8 @@
           "label": "GlobalSecurity：TB-001 Twin-tailed Scorpion",
           "url": "https://www.globalsecurity.org/military/world/china/tb001.htm"
         }
-      ]
+      ],
+      "image": "assets/images/tb-001.jpg"
     },
     "hq-9": {
       "range_m": "射程約 120 km",
@@ -2032,7 +2037,8 @@
           "url": "https://en.wikipedia.org/wiki/ZBL-08"
         }
       ],
-      "crew": "3＋7 兵"
+      "crew": "3＋7 兵",
+      "image": "assets/images/zbd-08.jpg"
     },
     "ztl-11": {
       "weight_kg": "Type 08 8×8 底盤",
@@ -2791,7 +2797,8 @@
           "label": "維基百科：62式輕坦",
           "url": "https://en.wikipedia.org/wiki/Type_62_light_tank"
         }
-      ]
+      ],
+      "image": "assets/images/type-62.jpg"
     },
     "pgz-95": {
       "caliber": "4×25mm Type 87 機砲＋QW-2 飛彈",
@@ -3030,7 +3037,8 @@
           "label": "維基百科：Type 80／88 坦克",
           "url": "https://en.wikipedia.org/wiki/Type_80/88_main_battle_tank"
         }
-      ]
+      ],
+      "image": "assets/images/ztz-88.jpg"
     },
     "df-31b": {
       "caliber": "ICBM",
@@ -3102,7 +3110,8 @@
           "label": "維基百科：PCL-09",
           "url": "https://en.wikipedia.org/wiki/PCL-09"
         }
-      ]
+      ],
+      "image": "assets/images/pcl-09.png"
     },
     "phz-11": {
       "caliber": "122mm 40 管火箭",

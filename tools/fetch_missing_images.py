@@ -35,18 +35,24 @@ def medialist_image(title):
     title = resolve_redirect(title)
     u = "https://en.wikipedia.org/api/rest_v1/page/media-list/" + urllib.parse.quote(title.replace(" ", "_"), safe="")
     d = json.load(GET(u))
+    svg_fallback = None  # 只有側視線圖時的退路（維基會轉成 PNG）
     for it in d.get("items", []):
         if it.get("type") != "image" or not it.get("showInGallery", True):
             continue
         ttl = (it.get("title") or "").lower()
-        if any(k in ttl for k in SKIP) or ttl.endswith(".svg"):
+        if any(k in ttl for k in SKIP):
             continue
         srcs = it.get("srcset") or []
         if not srcs:
             continue
         src = srcs[-1]["src"]  # 取最大倍率
-        return ("https:" + src) if src.startswith("//") else src
-    return None
+        src = ("https:" + src) if src.startswith("//") else src
+        if ttl.endswith(".svg"):
+            if svg_fallback is None:
+                svg_fallback = src
+            continue
+        return src  # 優先真實照片
+    return svg_fallback
 
 def search_title(query):
     u = ("https://en.wikipedia.org/w/api.php?action=query&list=search&format=json"
