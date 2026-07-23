@@ -19,3 +19,6 @@ tools/img_fetch.log
 
 # 產生的離線單檔（可用 tools/build_offline.py 重生，不入 git）
 *離線版.html
+
+# 缺圖工作清單（本機用）
+缺圖清單.txt
