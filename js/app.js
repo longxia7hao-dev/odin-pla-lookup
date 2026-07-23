@@ -130,6 +130,11 @@
       odin_url: item.odin_url || "",
       image: item.image || item.image_url || item.photo || "",
       image_remote: item.image_remote || "",
+      image_caption: item.image_caption || "",
+      image_credit: item.image_credit || "",
+      image_license: item.image_license || "",
+      image_source_url: item.image_source_url || "",
+      image_license_url: item.image_license_url || "",
       wiki: item.wiki || "",
       source: item.source || "built-in",
       us_designation: item.us_designation || "",
@@ -388,6 +393,34 @@
             .join("")
         : '<span class="muted">尚未附引用連結（諸元精修批次會逐筆補上）</span>';
 
+    const imageSourceUrl = safeUrl(item.image_source_url);
+    const imageLicenseUrl = safeUrl(item.image_license_url);
+    const imageMetaParts = [];
+    if (item.image_caption) {
+      imageMetaParts.push(
+        `<span class="photo-caption">${escapeHtml(item.image_caption)}</span>`
+      );
+    }
+    if (item.image_credit) {
+      const credit = `照片：${escapeHtml(item.image_credit)}`;
+      imageMetaParts.push(
+        imageSourceUrl
+          ? `<a href="${escapeAttr(imageSourceUrl)}" target="_blank" rel="noopener">${credit}</a>`
+          : `<span>${credit}</span>`
+      );
+    }
+    if (item.image_license) {
+      const license = escapeHtml(item.image_license);
+      imageMetaParts.push(
+        imageLicenseUrl
+          ? `<a href="${escapeAttr(imageLicenseUrl)}" target="_blank" rel="noopener">${license}</a>`
+          : `<span>${license}</span>`
+      );
+    }
+    const imageCreditBlock = imageMetaParts.length
+      ? `<div class="detail-photo-meta">${imageMetaParts.join("")}</div>`
+      : "";
+
     const specs = [
       ["軍種", item.branch || "—"],
       ["裝備形式（中）", formZh],
@@ -423,6 +456,7 @@
       <div class="detail-photo">
         ${imgHtml(item, "detail-img")}
       </div>
+      ${imageCreditBlock}
       <div class="detail-header">
         <span class="cat-label ${item.category}">${CATEGORY_LABELS[item.category]} · ${escapeHtml(formZh)}</span>
         ${item.branch ? `<span class="branch-badge branch-${escapeAttr(item.branch)}">${escapeHtml(item.branch)}</span>` : ""}

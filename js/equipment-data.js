@@ -2959,7 +2959,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "AFV",
     "wiki": "Type 08 vehicle",
-    "image": "",
+    "image": "assets/images/ztl-11.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -2976,7 +2976,12 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：08式輪式裝甲車族",
         "url": "https://en.wikipedia.org/wiki/ZBL-08"
       }
-    ]
+    ],
+    "image_caption": "中國人民革命軍事博物館展示的 ZTL-11 輪式裝甲突擊車",
+    "image_credit": "Tyg728 / Wikimedia Commons",
+    "image_license": "CC BY-SA 4.0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:ZTL-11_Assault_Vehicle_20170919.jpg",
+    "image_license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "pll-09",
@@ -3783,7 +3788,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "Type 89 MLRS",
-    "image": "",
+    "image": "assets/images/phz-89.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -3800,7 +3805,12 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：PHZ-89",
         "url": "https://en.wikipedia.org/wiki/PHZ-89"
       }
-    ]
+    ],
+    "image_caption": "1999 年國慶閱兵中的 PHZ-89／89 式履帶多管火箭",
+    "image_credit": "王小朋友 / Wikimedia Commons",
+    "image_license": "CC BY-SA 3.0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:50th_anniversary_of_PRC_4.jpg",
+    "image_license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   {
     "id": "phl-81",
@@ -7720,7 +7730,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "UAV",
     "wiki": "CASC CH-5",
-    "image": "",
+    "image": "assets/images/ch-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_DoD",
     "source_authority": [
@@ -7737,7 +7747,12 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：彩虹無人機",
         "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
       }
-    ]
+    ],
+    "image_caption": "2022 珠海航展展示的 CH-5 無人機",
+    "image_credit": "Infinty 0 / Wikimedia Commons",
+    "image_license": "CC BY-SA 4.0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:CH-5_at_Airshow_China_Zhuhai_2022.jpg",
+    "image_license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "wing-loong-2",
@@ -9584,7 +9599,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "PL-12",
-    "image": "",
+    "image": "assets/images/pl-12.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "PL-12 / SD-10 (export)",
     "dod_class": "BVR AAM",
@@ -9601,7 +9616,12 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：霹靂-12",
         "url": "https://en.wikipedia.org/wiki/PL-12"
       }
-    ]
+    ],
+    "image_caption": "PL-12AE 外銷展示型（PL-12 家族）",
+    "image_credit": "Z3144228 / Wikimedia Commons",
+    "image_license": "CC0 1.0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:PL-12AE_air-to-air_missile.jpg",
+    "image_license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   {
     "id": "pl-17",
@@ -9688,7 +9708,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "PL-8",
-    "image": "",
+    "image": "assets/images/pl-8.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -9705,7 +9725,11 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：霹靂-8",
         "url": "https://en.wikipedia.org/wiki/PL-8"
       }
-    ]
+    ],
+    "image_caption": "解放軍空軍 J-10A 掛載的 PL-8 近距空對空飛彈",
+    "image_credit": "中華民國國防部 / Wikimedia Commons",
+    "image_license": "政府網站資料開放宣告（須署名）",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:PL-8_missile_carried_by_PLAAF_J-10A.jpg"
   },
   {
     "id": "pl-5e",
@@ -12697,7 +12721,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "Type 90 multiple rocket launcher",
-    "image": "",
+    "image": "assets/images/type-90-mlrs.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -12714,7 +12738,12 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：Type 90 MLRS",
         "url": "https://en.wikipedia.org/wiki/Type_90_multiple_rocket_launcher"
       }
-    ]
+    ],
+    "image_caption": "秘魯陸軍 Type 90B 122mm 多管火箭系統",
+    "image_credit": "Galeria del Ministerio de Defensa del Perú / Wikimedia Commons",
+    "image_license": "CC BY 2.0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:Type_90B_Peru.jpg",
+    "image_license_url": "https://creativecommons.org/licenses/by/2.0/"
   },
   {
     "id": "type-83-sph",
@@ -13672,7 +13701,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Munitions",
     "wiki": "LS-6",
-    "image": "",
+    "image": "assets/images/ls-6.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -13689,7 +13718,12 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：雷石-6",
         "url": "https://en.wikipedia.org/wiki/LS-6"
       }
-    ]
+    ],
+    "image_caption": "2024 珠海航展 FTC-2000G 與 LS-6 系列展示彈",
+    "image_credit": "Z3144228 / Wikimedia Commons",
+    "image_license": "CC0 1.0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:FTC-2000G_in_Zhuhai_airshow_2024.jpg",
+    "image_license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   {
     "id": "ft-series",

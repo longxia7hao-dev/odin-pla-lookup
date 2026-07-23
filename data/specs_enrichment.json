@@ -1243,6 +1243,12 @@
       "capacity": "酬載 1,000 kg；升限 9–12 km",
       "mobility": "中空長航時；螺旋槳",
       "sensors": "大型察打一體無人機（彩虹-5）",
+      "image": "assets/images/ch-5.jpg",
+      "image_caption": "2022 珠海航展展示的 CH-5 無人機",
+      "image_credit": "Infinty 0 / Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:CH-5_at_Airshow_China_Zhuhai_2022.jpg",
+      "image_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "sources": [
         {
           "label": "維基百科：彩虹無人機",
@@ -1427,6 +1433,12 @@
       "caliber": "超視距空對空飛彈",
       "capacity": "資料鏈中段＋主動雷達末端；>Mach 4",
       "sensors": "BVR 空對空",
+      "image": "assets/images/pl-12.jpg",
+      "image_caption": "PL-12AE 外銷展示型（PL-12 家族）",
+      "image_credit": "Z3144228 / Wikimedia Commons",
+      "image_license": "CC0 1.0",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:PL-12AE_air-to-air_missile.jpg",
+      "image_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "sources": [
         {
           "label": "維基百科：霹靂-12",
@@ -1647,6 +1659,11 @@
       "caliber": "近距空對空飛彈（紅外）",
       "capacity": "Python-3 衍生；紅外導引",
       "sensors": "近距 AAM",
+      "image": "assets/images/pl-8.jpg",
+      "image_caption": "解放軍空軍 J-10A 掛載的 PL-8 近距空對空飛彈",
+      "image_credit": "中華民國國防部 / Wikimedia Commons",
+      "image_license": "政府網站資料開放宣告（須署名）",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:PL-8_missile_carried_by_PLAAF_J-10A.jpg",
       "sources": [
         {
           "label": "維基百科：霹靂-8",
@@ -1695,6 +1712,12 @@
       "caliber": "精確導引滑翔炸彈",
       "capacity": "衛星／慣性導引；50/100/250/500 kg 系列＋滑翔翼",
       "sensors": "精確滑翔炸彈",
+      "image": "assets/images/ls-6.jpg",
+      "image_caption": "2024 珠海航展 FTC-2000G 與 LS-6 系列展示彈",
+      "image_credit": "Z3144228 / Wikimedia Commons",
+      "image_license": "CC0 1.0",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:FTC-2000G_in_Zhuhai_airshow_2024.jpg",
+      "image_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "sources": [
         {
           "label": "維基百科：雷石-6",
@@ -2048,6 +2071,12 @@
       "caliber": "105mm 線膛砲（APFSDS／HE／HEAT）",
       "mobility": "8×8 兩棲；100 km/h",
       "armor": "輪式突擊砲（火力支援）",
+      "image": "assets/images/ztl-11.jpg",
+      "image_caption": "中國人民革命軍事博物館展示的 ZTL-11 輪式裝甲突擊車",
+      "image_credit": "Tyg728 / Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:ZTL-11_Assault_Vehicle_20170919.jpg",
+      "image_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "sources": [
         {
           "label": "維基百科：08式輪式裝甲車族",
@@ -2847,6 +2876,12 @@
       "mobility": "車載",
       "range_m": "約 20–40 km",
       "capacity": "122mm 多管火箭",
+      "image": "assets/images/type-90-mlrs.jpg",
+      "image_caption": "秘魯陸軍 Type 90B 122mm 多管火箭系統",
+      "image_credit": "Galeria del Ministerio de Defensa del Perú / Wikimedia Commons",
+      "image_license": "CC BY 2.0",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Type_90B_Peru.jpg",
+      "image_license_url": "https://creativecommons.org/licenses/by/2.0/",
       "sources": [
         {
           "label": "維基百科：Type 90 MLRS",
@@ -3462,6 +3497,12 @@
       "mobility": "履帶自走",
       "range_m": "約 20–40 km",
       "capacity": "早期履帶式多管火箭（Type 89）",
+      "image": "assets/images/phz-89.jpg",
+      "image_caption": "1999 年國慶閱兵中的 PHZ-89／89 式履帶多管火箭",
+      "image_credit": "王小朋友 / Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:50th_anniversary_of_PRC_4.jpg",
+      "image_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
       "sources": [
         {
           "label": "維基百科：PHZ-89",
