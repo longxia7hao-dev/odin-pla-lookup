@@ -1,21 +1,21 @@
 :root {
-  --bg: #0b1220;
-  --bg-elevated: #121a2b;
-  --bg-card: #162033;
-  --bg-hover: #1c2a42;
-  --border: #2a3a55;
-  --border-strong: #3d5478;
-  --text: #e8eef8;
-  --text-muted: #9aadc8;
-  --text-dim: #6d829f;
-  --accent: #3d9cfd;
-  --accent-soft: rgba(61, 156, 253, 0.15);
-  --weapon: #ef6b6b;
+  --bg: #160a0d;
+  --bg-elevated: #241216;
+  --bg-card: #2c161b;
+  --bg-hover: #3a1e24;
+  --border: #4d2831;
+  --border-strong: #6f3a45;
+  --text: #f6e9ec;
+  --text-muted: #d0a3ab;
+  --text-dim: #a06f78;
+  --accent: #e2474f;
+  --accent-soft: rgba(226, 71, 79, 0.16);
+  --weapon: #ff8f6b;
   --equipment: #6bcb8f;
   --vehicle: #f0b429;
-  --focus: #5eb1ff;
+  --focus: #ff6b73;
   --danger: #ff6b6b;
-  --shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+  --shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
   --radius: 12px;
   --font: "Segoe UI", "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", sans-serif;
   --mono: "SF Mono", "Menlo", "Consolas", monospace;
@@ -40,8 +40,8 @@ body {
 
 body {
   background-image:
-    radial-gradient(ellipse 80% 50% at 10% -10%, rgba(61, 156, 253, 0.12), transparent),
-    radial-gradient(ellipse 60% 40% at 100% 0%, rgba(240, 180, 41, 0.06), transparent);
+    radial-gradient(ellipse 80% 50% at 10% -10%, rgba(226, 71, 79, 0.14), transparent),
+    radial-gradient(ellipse 60% 40% at 100% 0%, rgba(150, 22, 30, 0.10), transparent);
 }
 
 button,
@@ -576,7 +576,7 @@ a {
 .detail-header {
   padding: 18px 18px 12px;
   border-bottom: 1px solid var(--border);
-  background: linear-gradient(180deg, rgba(61, 156, 253, 0.08), transparent);
+  background: linear-gradient(180deg, rgba(226, 71, 79, 0.1), transparent);
 }
 
 .detail-header .cat-label {
