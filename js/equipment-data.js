@@ -27055,53 +27055,6 @@ window.EQUIPMENT_DATA = [
     "branch": "火箭軍"
   },
   {
-    "id": "mi-171",
-    "name_zh": "米-171 中型運輸直升機",
-    "name_en": "Mil Mi-171",
-    "designation": "Mi-171",
-    "aliases": [
-      "Mi-171",
-      "米171"
-    ],
-    "category": "vehicle",
-    "subcategory": "helicopter",
-    "origin": "China",
-    "origin_zh": "中國",
-    "service": "陸軍",
-    "service_zh": "陸軍",
-    "caliber": "—",
-    "crew": "機組 3＋24 兵",
-    "weight_kg": "最大起飛約 13,000 kg",
-    "length_mm": "—",
-    "range_m": "航程約 590 km",
-    "rate_of_fire": "—",
-    "capacity": "運兵/物資、可外掛武器",
-    "armor": "—",
-    "mobility": "中型運輸直升機（俄製）",
-    "sensors": "—",
-    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
-    "notes_en": "",
-    "tags": [
-      "直升機",
-      "運輸",
-      "俄製"
-    ],
-    "odin_hint": "",
-    "form_zh": "中型運輸直升機",
-    "form_en": "",
-    "wiki": "Mil Mi-8",
-    "image": "assets/images/mi-171.jpg",
-    "odin_url": "https://odin.t2com.army.mil/WEG",
-    "sources": [
-      {
-        "label": "維基百科：Mil Mi-8",
-        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
-      }
-    ],
-    "authority_verified": true,
-    "branch": "陸軍"
-  },
-  {
     "id": "type-59g",
     "name_zh": "59G式改進坦克",
     "name_en": "Type 59G",
@@ -27611,6 +27564,1490 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：Dongfeng Mengshi",
         "url": "https://en.wikipedia.org/wiki/Dongfeng_Mengshi"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "mi-171",
+    "name_zh": "米-171 中型運輸直升機",
+    "name_en": "Mil Mi-171",
+    "designation": "Mi-171",
+    "aliases": [
+      "Mi-171",
+      "米171"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組 3＋24 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 590 km",
+    "rate_of_fire": "—",
+    "capacity": "運兵/物資、可外掛武器",
+    "armor": "—",
+    "mobility": "中型運輸直升機（俄製）",
+    "sensors": "—",
+    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機",
+    "form_en": "",
+    "wiki": "Mil Mi-8",
+    "image": "assets/images/mi-171.jpg",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-8",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-54-122",
+    "name_zh": "54式122毫米榴彈炮",
+    "name_en": "Type 54 122mm howitzer",
+    "designation": "Type 54",
+    "aliases": [
+      "54式",
+      "M-30"
+    ],
+    "category": "weapon",
+    "subcategory": "artillery_towed",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "122mm 榴彈砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 11.8 km",
+    "rate_of_fire": "—",
+    "capacity": "蘇聯 M-30 仿製牽引榴彈砲",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "54式 122mm 牽引榴彈砲（M-30 仿製），已退役。",
+    "notes_en": "",
+    "tags": [
+      "火砲",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引榴彈砲（122mm）",
+    "form_en": "",
+    "wiki": "Type 54 122 mm howitzer",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 54 122 mm howitzer",
+        "url": "https://en.wikipedia.org/wiki/Type_54_122_mm_howitzer"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-60-122",
+    "name_zh": "60式122毫米加農炮",
+    "name_en": "Type 60 122mm gun",
+    "designation": "Type 60",
+    "aliases": [
+      "60式",
+      "D-74"
+    ],
+    "category": "weapon",
+    "subcategory": "artillery_towed",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "122mm 加農砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 24 km",
+    "rate_of_fire": "—",
+    "capacity": "蘇聯 D-74 仿製遠程加農砲",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "60式 122mm 牽引加農砲（D-74 仿製），已退役。",
+    "notes_en": "",
+    "tags": [
+      "火砲",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引加農砲（122mm）",
+    "form_en": "",
+    "wiki": "Type 60 122 mm cannon",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 60 122 mm cannon",
+        "url": "https://en.wikipedia.org/wiki/Type_60_122_mm_cannon"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-59-130",
+    "name_zh": "59式130毫米加農炮",
+    "name_en": "Type 59 130mm gun",
+    "designation": "Type 59-130",
+    "aliases": [
+      "59式130",
+      "M-46"
+    ],
+    "category": "weapon",
+    "subcategory": "artillery_towed",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "130mm 加農砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 27 km（增程更遠）",
+    "rate_of_fire": "—",
+    "capacity": "蘇聯 M-46 仿製遠程加農砲",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "59式 130mm 遠程加農砲（M-46 仿製）。",
+    "notes_en": "",
+    "tags": [
+      "火砲",
+      "遠程"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引加農砲（130mm）",
+    "form_en": "",
+    "wiki": "Type 59 130 mm cannon",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 59 130 mm cannon",
+        "url": "https://en.wikipedia.org/wiki/Type_59_130_mm_cannon"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-86-122",
+    "name_zh": "86式122毫米榴彈炮",
+    "name_en": "Type 86 122mm howitzer",
+    "designation": "Type 86-122",
+    "aliases": [
+      "86式122",
+      "D-30"
+    ],
+    "category": "weapon",
+    "subcategory": "artillery_towed",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "122mm 榴彈砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 15.3 km（底排更遠）",
+    "rate_of_fire": "—",
+    "capacity": "D-30 系 122mm 牽引榴彈砲",
+    "armor": "—",
+    "mobility": "牽引（三腳架 360°）",
+    "sensors": "—",
+    "notes_zh": "86式 122mm 牽引榴彈砲（D-30 系），營團級主力。",
+    "notes_en": "",
+    "tags": [
+      "火砲"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引榴彈砲（122mm）",
+    "form_en": "",
+    "wiki": "122 mm howitzer D-30",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：122 mm howitzer D-30",
+        "url": "https://en.wikipedia.org/wiki/122_mm_howitzer_D-30"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-83-152-towed",
+    "name_zh": "83式152毫米加榴炮（牽引）",
+    "name_en": "Type 83 152mm towed",
+    "designation": "Type 83-152",
+    "aliases": [
+      "83式152牽引"
+    ],
+    "category": "weapon",
+    "subcategory": "artillery_towed",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "152mm 加榴砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 22 km",
+    "rate_of_fire": "—",
+    "capacity": "國產 152mm 牽引加榴砲",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "83式 152mm 牽引加榴砲。",
+    "notes_en": "",
+    "tags": [
+      "火砲"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引加榴砲（152mm）",
+    "form_en": "",
+    "wiki": "Type 83 152 mm gun-howitzer",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 83 152 mm gun-howitzer",
+        "url": "https://en.wikipedia.org/wiki/Type_83_152_mm_gun-howitzer"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "pll-01-155",
+    "name_zh": "01式155毫米加榴炮",
+    "name_en": "PLL-01 / WA021 155mm",
+    "designation": "PLL-01",
+    "aliases": [
+      "01式",
+      "PLL-01",
+      "WA021"
+    ],
+    "category": "weapon",
+    "subcategory": "artillery_towed",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "155mm/45 加榴砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 39 km（增程）",
+    "rate_of_fire": "—",
+    "capacity": "155mm 牽引加榴砲（可射增程/精確彈）",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "01式 155mm 牽引加榴砲（WA021 相關）。",
+    "notes_en": "",
+    "tags": [
+      "火砲",
+      "155mm"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引加榴砲（155mm）",
+    "form_en": "",
+    "wiki": "Type 89 155 mm howitzer",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 89 155 mm howitzer",
+        "url": "https://en.wikipedia.org/wiki/Type_89_155_mm_howitzer"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-63-107",
+    "name_zh": "63式107毫米火箭炮",
+    "name_en": "Type 63 107mm MRL",
+    "designation": "Type 63-107",
+    "aliases": [
+      "63式107",
+      "107火箭炮"
+    ],
+    "category": "vehicle",
+    "subcategory": "mlrs",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "107mm×12 管",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 8.5 km",
+    "rate_of_fire": "—",
+    "capacity": "12 管輕型火箭炮、可拆解人力搬運，廣泛外銷",
+    "armor": "—",
+    "mobility": "牽引/車載/單管",
+    "sensors": "—",
+    "notes_zh": "63式 107mm 火箭炮，輕便可拆解，全球廣泛使用/外銷。",
+    "notes_en": "",
+    "tags": [
+      "火箭砲",
+      "107mm"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型多管火箭炮（107mm）",
+    "form_en": "",
+    "wiki": "Type 63 multiple rocket launcher",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 63 multiple rocket launcher",
+        "url": "https://en.wikipedia.org/wiki/Type_63_multiple_rocket_launcher"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-81-122",
+    "name_zh": "81式122毫米火箭炮",
+    "name_en": "Type 81 122mm MRL",
+    "designation": "Type 81-122",
+    "aliases": [
+      "81式122"
+    ],
+    "category": "vehicle",
+    "subcategory": "mlrs",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "122mm×40 管",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 20–40 km",
+    "rate_of_fire": "—",
+    "capacity": "40 聯裝 122mm 卡車火箭炮",
+    "armor": "—",
+    "mobility": "車載",
+    "sensors": "—",
+    "notes_zh": "81式 122mm 多管火箭炮（40 管，BM-21 系）。",
+    "notes_en": "",
+    "tags": [
+      "火箭砲",
+      "122mm"
+    ],
+    "odin_hint": "",
+    "form_zh": "122mm 多管火箭炮（81式）",
+    "form_en": "",
+    "wiki": "Type 81 122 mm MRL",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 81 122 mm MRL",
+        "url": "https://en.wikipedia.org/wiki/Type_81_122_mm_MRL"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-83-273",
+    "name_zh": "83式273毫米火箭炮",
+    "name_en": "Type 83 273mm MRL",
+    "designation": "Type 83-273",
+    "aliases": [
+      "83式273"
+    ],
+    "category": "vehicle",
+    "subcategory": "mlrs",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "273mm×4 管",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 40 km",
+    "rate_of_fire": "—",
+    "capacity": "重型遠程火箭炮（早期）",
+    "armor": "—",
+    "mobility": "履帶車載",
+    "sensors": "—",
+    "notes_zh": "83式 273mm 遠程重型火箭炮，早期型，已退役。",
+    "notes_en": "",
+    "tags": [
+      "火箭砲",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "重型遠程火箭炮（273mm）",
+    "form_en": "",
+    "wiki": "Type 83 273 mm MRL",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 83 273 mm MRL",
+        "url": "https://en.wikipedia.org/wiki/Type_83_273_mm_MRL"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-82-130",
+    "name_zh": "82式130毫米火箭炮",
+    "name_en": "Type 82 130mm MRL",
+    "designation": "Type 82-130",
+    "aliases": [
+      "82式130"
+    ],
+    "category": "vehicle",
+    "subcategory": "mlrs",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "130mm×30 管",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 10 km",
+    "rate_of_fire": "—",
+    "capacity": "30 聯裝 130mm 火箭炮",
+    "armor": "—",
+    "mobility": "車載",
+    "sensors": "—",
+    "notes_zh": "82式 130mm 多管火箭炮，已退役。",
+    "notes_en": "",
+    "tags": [
+      "火箭砲",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "130mm 多管火箭炮（82式）",
+    "form_en": "",
+    "wiki": "Type 82 130 mm MRL",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 82 130 mm MRL",
+        "url": "https://en.wikipedia.org/wiki/Type_82_130_mm_MRL"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "ar1-mlrs",
+    "name_zh": "AR1／AR1A外銷300毫米火箭炮",
+    "name_en": "AR1/AR1A 300mm MRL",
+    "designation": "AR1",
+    "aliases": [
+      "AR1",
+      "AR1A"
+    ],
+    "category": "vehicle",
+    "subcategory": "mlrs",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "300mm×8/10 管",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 70–130 km",
+    "rate_of_fire": "—",
+    "capacity": "PHL-03 系外銷型、精確制導火箭",
+    "armor": "—",
+    "mobility": "8×8 車載",
+    "sensors": "—",
+    "notes_zh": "AR1/AR1A 外銷 300mm 遠程精確火箭炮。",
+    "notes_en": "",
+    "tags": [
+      "火箭砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "遠程精確火箭炮（AR1）",
+    "form_en": "",
+    "wiki": "AR1A MLRS",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：AR1A MLRS",
+        "url": "https://en.wikipedia.org/wiki/AR1A_MLRS"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "ar3-mlrs",
+    "name_zh": "AR3模組化遠程火箭炮",
+    "name_en": "AR3 modular MRL",
+    "designation": "AR3",
+    "aliases": [
+      "AR3"
+    ],
+    "category": "vehicle",
+    "subcategory": "mlrs",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "300/370mm 模組",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 70–280 km（依彈種）",
+    "rate_of_fire": "—",
+    "capacity": "箱式模組、可換 300/370mm，精確打擊",
+    "armor": "—",
+    "mobility": "8×8 車載",
+    "sensors": "—",
+    "notes_zh": "AR3 模組化遠程火箭炮（可射 370mm 及戰術飛彈），外銷。",
+    "notes_en": "",
+    "tags": [
+      "火箭砲",
+      "外銷",
+      "模組化"
+    ],
+    "odin_hint": "",
+    "form_zh": "模組化遠程火箭炮（AR3）",
+    "form_en": "",
+    "wiki": "AR3 MLRS",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：AR3 MLRS",
+        "url": "https://en.wikipedia.org/wiki/AR3_MLRS"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "wm-80",
+    "name_zh": "WM-80／WM-120火箭炮",
+    "name_en": "WM-80/WM-120 MRL",
+    "designation": "WM-80",
+    "aliases": [
+      "WM-80",
+      "WM-120"
+    ],
+    "category": "vehicle",
+    "subcategory": "mlrs",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "273/284mm",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 80–120 km",
+    "rate_of_fire": "—",
+    "capacity": "遠程火箭炮外銷型",
+    "armor": "—",
+    "mobility": "車載",
+    "sensors": "—",
+    "notes_zh": "WM-80／WM-120 外銷遠程火箭炮。",
+    "notes_en": "",
+    "tags": [
+      "火箭砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "遠程火箭炮（WM-80）",
+    "form_en": "",
+    "wiki": "WM-80",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：WM-80",
+        "url": "https://en.wikipedia.org/wiki/WM-80"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-70-122",
+    "name_zh": "70式122毫米自行火炮",
+    "name_en": "Type 70 122mm SPH",
+    "designation": "Type 70-122",
+    "aliases": [
+      "70式",
+      "70-1式"
+    ],
+    "category": "vehicle",
+    "subcategory": "sph",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "122mm 榴彈砲",
+    "crew": "—",
+    "weight_kg": "約 15.4 噸",
+    "length_mm": "—",
+    "range_m": "射程約 11.8 km",
+    "rate_of_fire": "—",
+    "capacity": "63式 APC 底盤 122mm 自行榴彈砲（開放式）",
+    "armor": "—",
+    "mobility": "履帶自走",
+    "sensors": "—",
+    "notes_zh": "70式 122mm 履帶自行榴彈砲（早期），已退役。",
+    "notes_en": "",
+    "tags": [
+      "自走砲",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "自行榴彈砲（122mm，70式）",
+    "form_en": "",
+    "wiki": "Type 70 self-propelled howitzer",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 70 self-propelled howitzer",
+        "url": "https://en.wikipedia.org/wiki/Type_70_self-propelled_howitzer"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-85-122",
+    "name_zh": "85式122毫米自行火炮",
+    "name_en": "Type 85 122mm SPH",
+    "designation": "Type 85-122",
+    "aliases": [
+      "85式122"
+    ],
+    "category": "vehicle",
+    "subcategory": "sph",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "122mm 榴彈砲",
+    "crew": "—",
+    "weight_kg": "約 16.5 噸",
+    "length_mm": "—",
+    "range_m": "射程約 15 km",
+    "rate_of_fire": "—",
+    "capacity": "履帶 122mm 自行榴彈砲",
+    "armor": "—",
+    "mobility": "履帶自走",
+    "sensors": "—",
+    "notes_zh": "85式 122mm 履帶自行榴彈砲。",
+    "notes_en": "",
+    "tags": [
+      "自走砲"
+    ],
+    "odin_hint": "",
+    "form_zh": "自行榴彈砲（122mm，85式）",
+    "form_en": "",
+    "wiki": "Type 85 self-propelled howitzer",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 85 self-propelled howitzer",
+        "url": "https://en.wikipedia.org/wiki/Type_85_self-propelled_howitzer"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "plz-05a",
+    "name_zh": "05A式155毫米自行加榴炮",
+    "name_en": "PLZ-05A",
+    "designation": "PLZ-05A",
+    "aliases": [
+      "05A式",
+      "PLZ-05A"
+    ],
+    "category": "vehicle",
+    "subcategory": "sph",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "155mm/52 加榴砲",
+    "crew": "—",
+    "weight_kg": "約 35 噸",
+    "length_mm": "—",
+    "range_m": "射程 39 km（RA 50/火箭增程 60 km）",
+    "rate_of_fire": "—",
+    "capacity": "PLZ-05 改進型、火控/自動化提升",
+    "armor": "—",
+    "mobility": "履帶自走",
+    "sensors": "—",
+    "notes_zh": "05A 式 155mm 自行加榴砲（PLZ-05 改進）。",
+    "notes_en": "",
+    "tags": [
+      "自走砲",
+      "155mm"
+    ],
+    "odin_hint": "",
+    "form_zh": "自行加榴砲（155mm，05A）",
+    "form_en": "",
+    "wiki": "PLZ-05",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PLZ-05",
+        "url": "https://en.wikipedia.org/wiki/PLZ-05"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "sh1-155",
+    "name_zh": "SH1式155毫米輪式自行炮",
+    "name_en": "SH1 155mm wheeled",
+    "designation": "SH1",
+    "aliases": [
+      "SH1"
+    ],
+    "category": "vehicle",
+    "subcategory": "truck_howitzer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "155mm/52",
+    "crew": "—",
+    "weight_kg": "約 22 噸",
+    "length_mm": "—",
+    "range_m": "射程約 53 km（增程）",
+    "rate_of_fire": "—",
+    "capacity": "6×6 車載 155mm 加榴砲（外銷）",
+    "armor": "—",
+    "mobility": "6×6 卡車",
+    "sensors": "—",
+    "notes_zh": "SH1 外銷 155mm 車載加榴砲。",
+    "notes_en": "",
+    "tags": [
+      "車載砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "車載加榴砲（155mm，SH1）",
+    "form_en": "",
+    "wiki": "SH1 (howitzer)",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：SH1 (howitzer)",
+        "url": "https://en.wikipedia.org/wiki/SH1_(howitzer)"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "sh2-122",
+    "name_zh": "SH2式122毫米輪式自行炮",
+    "name_en": "SH2 122mm wheeled",
+    "designation": "SH2",
+    "aliases": [
+      "SH2"
+    ],
+    "category": "vehicle",
+    "subcategory": "truck_howitzer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "122mm",
+    "crew": "—",
+    "weight_kg": "約 12 噸",
+    "length_mm": "—",
+    "range_m": "射程約 27 km",
+    "rate_of_fire": "—",
+    "capacity": "6×6 車載 122mm 榴彈砲（外銷）",
+    "armor": "—",
+    "mobility": "6×6 卡車",
+    "sensors": "—",
+    "notes_zh": "SH2 外銷 122mm 車載榴彈砲。",
+    "notes_en": "",
+    "tags": [
+      "車載砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "車載榴彈砲（122mm，SH2）",
+    "form_en": "",
+    "wiki": "SH2 (howitzer)",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：SH2 (howitzer)",
+        "url": "https://en.wikipedia.org/wiki/SH2_(howitzer)"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "sh5-105",
+    "name_zh": "SH5式105毫米輪式自行炮",
+    "name_en": "SH5 105mm wheeled",
+    "designation": "SH5",
+    "aliases": [
+      "SH5"
+    ],
+    "category": "vehicle",
+    "subcategory": "truck_howitzer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "105mm",
+    "crew": "—",
+    "weight_kg": "約 8 噸",
+    "length_mm": "—",
+    "range_m": "射程約 18 km",
+    "rate_of_fire": "—",
+    "capacity": "6×6 輕型車載 105mm 榴彈砲（外銷）",
+    "armor": "—",
+    "mobility": "6×6 卡車",
+    "sensors": "—",
+    "notes_zh": "SH5 外銷 105mm 輕型車載榴彈砲。",
+    "notes_en": "",
+    "tags": [
+      "車載砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型車載榴彈砲（105mm，SH5）",
+    "form_en": "",
+    "wiki": "SH5 (howitzer)",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：SH5 (howitzer)",
+        "url": "https://en.wikipedia.org/wiki/SH5_(howitzer)"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-67-82",
+    "name_zh": "67式82毫米迫擊炮",
+    "name_en": "Type 67 82mm mortar",
+    "designation": "Type 67-82",
+    "aliases": [
+      "67式82"
+    ],
+    "category": "weapon",
+    "subcategory": "mortar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "82mm 迫擊砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 3 km",
+    "rate_of_fire": "—",
+    "capacity": "連級 82mm 迫擊砲",
+    "armor": "—",
+    "mobility": "人力/車載",
+    "sensors": "—",
+    "notes_zh": "67式 82mm 迫擊砲。",
+    "notes_en": "",
+    "tags": [
+      "迫擊砲"
+    ],
+    "odin_hint": "",
+    "form_zh": "82mm 迫擊砲（67式）",
+    "form_en": "",
+    "wiki": "Type 67 mortar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 67 mortar",
+        "url": "https://en.wikipedia.org/wiki/Type_67_mortar"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-87-82",
+    "name_zh": "87式82毫米迫擊炮",
+    "name_en": "Type 87 82mm mortar",
+    "designation": "Type 87-82",
+    "aliases": [
+      "87式82"
+    ],
+    "category": "weapon",
+    "subcategory": "mortar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "82mm 迫擊砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 5.7 km",
+    "rate_of_fire": "—",
+    "capacity": "現代化輕量 82mm 迫擊砲",
+    "armor": "—",
+    "mobility": "人力/車載",
+    "sensors": "—",
+    "notes_zh": "87式 82mm 迫擊砲，輕量化。",
+    "notes_en": "",
+    "tags": [
+      "迫擊砲"
+    ],
+    "odin_hint": "",
+    "form_zh": "82mm 迫擊砲（87式）",
+    "form_en": "",
+    "wiki": "Type 87 mortar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 87 mortar",
+        "url": "https://en.wikipedia.org/wiki/Type_87_mortar"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-64-120",
+    "name_zh": "64式120毫米迫擊炮",
+    "name_en": "Type 64 120mm mortar",
+    "designation": "Type 64-120",
+    "aliases": [
+      "64式120"
+    ],
+    "category": "weapon",
+    "subcategory": "mortar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "120mm 迫擊砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 5.7 km",
+    "rate_of_fire": "—",
+    "capacity": "營級 120mm 迫擊砲",
+    "armor": "—",
+    "mobility": "牽引/車載",
+    "sensors": "—",
+    "notes_zh": "64式 120mm 迫擊砲。",
+    "notes_en": "",
+    "tags": [
+      "迫擊砲"
+    ],
+    "odin_hint": "",
+    "form_zh": "120mm 迫擊砲（64式）",
+    "form_en": "",
+    "wiki": "Type 64 mortar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 64 mortar",
+        "url": "https://en.wikipedia.org/wiki/Type_64_mortar"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-56-160",
+    "name_zh": "56式160毫米迫擊炮",
+    "name_en": "Type 56 160mm mortar",
+    "designation": "Type 56-160",
+    "aliases": [
+      "56式160"
+    ],
+    "category": "weapon",
+    "subcategory": "mortar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "160mm 迫擊砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 8 km",
+    "rate_of_fire": "—",
+    "capacity": "重型 160mm 迫擊砲（後裝）",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "56式 160mm 重型迫擊砲，已退役。",
+    "notes_en": "",
+    "tags": [
+      "迫擊砲",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "重型迫擊砲（160mm）",
+    "form_en": "",
+    "wiki": "M-160 mortar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：M-160 mortar",
+        "url": "https://en.wikipedia.org/wiki/M-160_mortar"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "sm4-120",
+    "name_zh": "SM4式120毫米自行迫擊炮",
+    "name_en": "NORINCO SM4 120mm",
+    "designation": "SM4",
+    "aliases": [
+      "SM4",
+      "CS/SM4"
+    ],
+    "category": "vehicle",
+    "subcategory": "mortar_sp",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "120mm 迫榴砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 9–13 km",
+    "rate_of_fire": "—",
+    "capacity": "4×4 車載自動裝填 120mm 迫榴（外銷）",
+    "armor": "—",
+    "mobility": "4×4 車載",
+    "sensors": "—",
+    "notes_zh": "SM4 外銷 120mm 車載自行迫榴砲。",
+    "notes_en": "",
+    "tags": [
+      "自行迫榴",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "車載自行迫榴砲（SM4）",
+    "form_en": "",
+    "wiki": "SM4 mortar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：SM4 mortar",
+        "url": "https://en.wikipedia.org/wiki/SM4_mortar"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-75-145",
+    "name_zh": "75式14.5毫米高射機槍",
+    "name_en": "Type 75 14.5mm AA",
+    "designation": "Type 75-14.5",
+    "aliases": [
+      "75式14.5"
+    ],
+    "category": "weapon",
+    "subcategory": "spaag",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "14.5mm 高射機槍",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "有效約 2,000 m",
+    "rate_of_fire": "—",
+    "capacity": "單/雙聯裝 14.5mm 牽引高射，對空/對地",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "75式 14.5mm 高射機槍（ZPU 系）。",
+    "notes_en": "",
+    "tags": [
+      "高射",
+      "牽引"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引高射機槍（14.5mm）",
+    "form_en": "",
+    "wiki": "Type 75 14.5 mm",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 75 14.5 mm",
+        "url": "https://en.wikipedia.org/wiki/Type_75_14.5_mm"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-85-23",
+    "name_zh": "85式23毫米高射炮",
+    "name_en": "Type 85 23mm AA",
+    "designation": "Type 85-23",
+    "aliases": [
+      "85式23",
+      "ZU-23"
+    ],
+    "category": "weapon",
+    "subcategory": "spaag",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "23mm 雙管高射砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "有效約 2,500 m",
+    "rate_of_fire": "—",
+    "capacity": "雙管 23mm 牽引高射砲",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "85式 23mm 雙管牽引高射砲（ZU-23 系）。",
+    "notes_en": "",
+    "tags": [
+      "高射",
+      "牽引"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引高射砲（23mm）",
+    "form_en": "",
+    "wiki": "ZU-23-2",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：ZU-23-2",
+        "url": "https://en.wikipedia.org/wiki/ZU-23-2"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-87-25",
+    "name_zh": "87式25毫米高射炮",
+    "name_en": "Type 87 25mm AA",
+    "designation": "Type 87-25",
+    "aliases": [
+      "87式25"
+    ],
+    "category": "weapon",
+    "subcategory": "spaag",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "25mm 雙管高射砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "有效約 2,500 m",
+    "rate_of_fire": "—",
+    "capacity": "雙管 25mm 牽引高射砲",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "87式 25mm 雙管牽引高射砲。",
+    "notes_en": "",
+    "tags": [
+      "高射",
+      "牽引"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引高射砲（25mm）",
+    "form_en": "",
+    "wiki": "Type 87 25 mm",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 87 25 mm",
+        "url": "https://en.wikipedia.org/wiki/Type_87_25_mm"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-59-57aa",
+    "name_zh": "59式57毫米高射炮",
+    "name_en": "Type 59 57mm AA",
+    "designation": "Type 59-57",
+    "aliases": [
+      "59式57",
+      "S-60"
+    ],
+    "category": "weapon",
+    "subcategory": "spaag",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "57mm 高射砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "有效約 6,000 m",
+    "rate_of_fire": "—",
+    "capacity": "S-60 系 57mm 牽引高射砲",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "59式 57mm 牽引高射砲（S-60 系），已退役。",
+    "notes_en": "",
+    "tags": [
+      "高射",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引高射砲（57mm）",
+    "form_en": "",
+    "wiki": "AZP S-60",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：AZP S-60",
+        "url": "https://en.wikipedia.org/wiki/AZP_S-60"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-59-100aa",
+    "name_zh": "59式100毫米高射炮",
+    "name_en": "Type 59 100mm AA",
+    "designation": "Type 59-100",
+    "aliases": [
+      "59式100",
+      "KS-19"
+    ],
+    "category": "weapon",
+    "subcategory": "spaag",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "100mm 高射砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "有效約 12,000 m",
+    "rate_of_fire": "—",
+    "capacity": "KS-19 系 100mm 大口徑牽引高射砲",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "59式 100mm 牽引高射砲（KS-19 系），已退役。",
+    "notes_en": "",
+    "tags": [
+      "高射",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引高射砲（100mm）",
+    "form_en": "",
+    "wiki": "KS-19",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：KS-19",
+        "url": "https://en.wikipedia.org/wiki/KS-19"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "pgz-07",
+    "name_zh": "07式35毫米自行高炮",
+    "name_en": "PGZ-07 35mm SPAA",
+    "designation": "PGZ-07",
+    "aliases": [
+      "07式",
+      "PGZ-07"
+    ],
+    "category": "weapon",
+    "subcategory": "spaag",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "2×35mm 機砲",
+    "crew": "—",
+    "weight_kg": "約 32 噸",
+    "length_mm": "—",
+    "range_m": "有效約 4,000 m",
+    "rate_of_fire": "—",
+    "capacity": "雙 35mm 履帶自行高炮，搜索/跟蹤雷達",
+    "armor": "—",
+    "mobility": "履帶自走",
+    "sensors": "—",
+    "notes_zh": "07式 35mm 雙管履帶自行高炮，野戰防空主力。",
+    "notes_en": "",
+    "tags": [
+      "自行高砲",
+      "35mm"
+    ],
+    "odin_hint": "",
+    "form_zh": "自行高射砲（35mm，07式）",
+    "form_en": "",
+    "wiki": "PGZ-07",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PGZ-07",
+        "url": "https://en.wikipedia.org/wiki/PGZ-07"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-90-35aa",
+    "name_zh": "90式35毫米牽引高炮",
+    "name_en": "Type 90 35mm towed AA",
+    "designation": "Type 90-35",
+    "aliases": [
+      "90式35"
+    ],
+    "category": "weapon",
+    "subcategory": "spaag",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "2×35mm 高射砲",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "有效約 4,000 m",
+    "rate_of_fire": "—",
+    "capacity": "雙 35mm 牽引高射砲（歐瑞康技術），配火控雷達",
+    "armor": "—",
+    "mobility": "牽引",
+    "sensors": "—",
+    "notes_zh": "90式 35mm 雙管牽引高射砲。",
+    "notes_en": "",
+    "tags": [
+      "高射",
+      "牽引"
+    ],
+    "odin_hint": "",
+    "form_zh": "牽引高射砲（35mm，90式）",
+    "form_en": "",
+    "wiki": "Oerlikon GDF",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Oerlikon GDF",
+        "url": "https://en.wikipedia.org/wiki/Oerlikon_GDF"
       }
     ],
     "branch_hint": "陸軍",
