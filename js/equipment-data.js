@@ -24671,53 +24671,6 @@ window.EQUIPMENT_DATA = [
     "branch": "空軍"
   },
   {
-    "id": "mi-171",
-    "name_zh": "米-171 中型運輸直升機",
-    "name_en": "Mil Mi-171",
-    "designation": "Mi-171",
-    "aliases": [
-      "Mi-171",
-      "米171"
-    ],
-    "category": "vehicle",
-    "subcategory": "helicopter",
-    "origin": "China",
-    "origin_zh": "中國",
-    "service": "陸軍",
-    "service_zh": "陸軍",
-    "caliber": "—",
-    "crew": "機組 3＋24 兵",
-    "weight_kg": "最大起飛約 13,000 kg",
-    "length_mm": "—",
-    "range_m": "航程約 590 km",
-    "rate_of_fire": "—",
-    "capacity": "運兵/物資、可外掛武器",
-    "armor": "—",
-    "mobility": "中型運輸直升機（俄製）",
-    "sensors": "—",
-    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
-    "notes_en": "",
-    "tags": [
-      "直升機",
-      "運輸",
-      "俄製"
-    ],
-    "odin_hint": "",
-    "form_zh": "中型運輸直升機",
-    "form_en": "",
-    "wiki": "Mil Mi-8",
-    "image": "assets/images/mi-171.jpg",
-    "odin_url": "https://odin.t2com.army.mil/WEG",
-    "sources": [
-      {
-        "label": "維基百科：Mil Mi-8",
-        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
-      }
-    ],
-    "authority_verified": true,
-    "branch": "陸軍"
-  },
-  {
     "id": "z-5",
     "name_zh": "直-5直升機",
     "name_en": "Harbin Z-5 (Mi-4)",
@@ -26112,5 +26065,1036 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍"
+  },
+  {
+    "id": "mi-171",
+    "name_zh": "米-171 中型運輸直升機",
+    "name_en": "Mil Mi-171",
+    "designation": "Mi-171",
+    "aliases": [
+      "Mi-171",
+      "米171"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組 3＋24 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 590 km",
+    "rate_of_fire": "—",
+    "capacity": "運兵/物資、可外掛武器",
+    "armor": "—",
+    "mobility": "中型運輸直升機（俄製）",
+    "sensors": "—",
+    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機",
+    "form_en": "",
+    "wiki": "Mil Mi-8",
+    "image": "assets/images/mi-171.jpg",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-8",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "df-1",
+    "name_zh": "東風-1彈道導彈",
+    "name_en": "DF-1 SRBM",
+    "designation": "DF-1",
+    "aliases": [
+      "東風1",
+      "DF-1",
+      "R-2"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 550–590 km",
+    "rate_of_fire": "—",
+    "capacity": "液體燃料近程彈道導彈（蘇聯 R-2 仿製），歷史起點",
+    "armor": "—",
+    "mobility": "陣地發射",
+    "sensors": "—",
+    "notes_zh": "東風-1，中國第一型彈道導彈（R-2 仿製），已退役。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "歷史"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程彈道導彈（歷史）",
+    "form_en": "",
+    "wiki": "DF-1 (missile)",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-1 (missile)",
+        "url": "https://en.wikipedia.org/wiki/DF-1_(missile)"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-2",
+    "name_zh": "東風-2中程彈道導彈",
+    "name_en": "DF-2 / CSS-1",
+    "designation": "DF-2",
+    "aliases": [
+      "東風2",
+      "CSS-1"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 1,250 km",
+    "rate_of_fire": "—",
+    "capacity": "液體燃料，中國第一型國產中程彈道導彈（曾核試載具）",
+    "armor": "—",
+    "mobility": "陣地發射",
+    "sensors": "—",
+    "notes_zh": "東風-2，首型國產中程彈道導彈，已退役。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "歷史"
+    ],
+    "odin_hint": "",
+    "form_zh": "中程彈道導彈（歷史）",
+    "form_en": "",
+    "wiki": "DF-2",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-2",
+        "url": "https://en.wikipedia.org/wiki/DF-2"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-5",
+    "name_zh": "東風-5洲際彈道導彈",
+    "name_en": "DF-5 / CSS-4",
+    "designation": "DF-5",
+    "aliases": [
+      "東風5",
+      "CSS-4"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 12,000 km",
+    "rate_of_fire": "—",
+    "capacity": "液體燃料井射洲際導彈、單彈頭",
+    "armor": "—",
+    "mobility": "固定發射井",
+    "sensors": "—",
+    "notes_zh": "東風-5，中國第一型洲際彈道導彈（液體、井射）。",
+    "notes_en": "",
+    "tags": [
+      "ICBM",
+      "洲際"
+    ],
+    "odin_hint": "",
+    "form_zh": "洲際彈道導彈（DF-5）",
+    "form_en": "",
+    "wiki": "DF-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-5",
+        "url": "https://en.wikipedia.org/wiki/DF-5"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-5a",
+    "name_zh": "東風-5A洲際彈道導彈",
+    "name_en": "DF-5A / CSS-4 Mod 2",
+    "designation": "DF-5A",
+    "aliases": [
+      "東風5A"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 13,000 km",
+    "rate_of_fire": "—",
+    "capacity": "增程與精度改進、單彈頭",
+    "armor": "—",
+    "mobility": "固定發射井",
+    "sensors": "—",
+    "notes_zh": "東風-5A，增程改進型洲際導彈。",
+    "notes_en": "",
+    "tags": [
+      "ICBM",
+      "洲際"
+    ],
+    "odin_hint": "",
+    "form_zh": "洲際彈道導彈（DF-5A）",
+    "form_en": "",
+    "wiki": "DF-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-5",
+        "url": "https://en.wikipedia.org/wiki/DF-5"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-5b",
+    "name_zh": "東風-5B洲際彈道導彈",
+    "name_en": "DF-5B / CSS-4 Mod 3",
+    "designation": "DF-5B",
+    "aliases": [
+      "東風5B"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 13,000 km",
+    "rate_of_fire": "—",
+    "capacity": "分導多彈頭（MIRV），閱兵公開",
+    "armor": "—",
+    "mobility": "固定發射井",
+    "sensors": "—",
+    "notes_zh": "東風-5B，具分導多彈頭（MIRV）的井射洲際導彈。",
+    "notes_en": "",
+    "tags": [
+      "ICBM",
+      "MIRV"
+    ],
+    "odin_hint": "",
+    "form_zh": "洲際彈道導彈（DF-5B/MIRV）",
+    "form_en": "",
+    "wiki": "DF-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-5",
+        "url": "https://en.wikipedia.org/wiki/DF-5"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-12",
+    "name_zh": "東風-12／M20近程彈道導彈",
+    "name_en": "DF-12 / M20",
+    "designation": "DF-12",
+    "aliases": [
+      "東風12",
+      "M20",
+      "CSS-X-15"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 280–420 km",
+    "rate_of_fire": "—",
+    "capacity": "固體近程精確彈道導彈，外銷名 M20",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "東風-12（外銷 M20）近程精確彈道導彈。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "近程"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程彈道導彈（DF-12/M20）",
+    "form_en": "",
+    "wiki": "M20 (missile)",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：M20 (missile)",
+        "url": "https://en.wikipedia.org/wiki/M20_(missile)"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-15",
+    "name_zh": "東風-15近程彈道導彈",
+    "name_en": "DF-15 / CSS-6",
+    "designation": "DF-15",
+    "aliases": [
+      "東風15",
+      "CSS-6",
+      "M9"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 600 km",
+    "rate_of_fire": "—",
+    "capacity": "固體近程彈道導彈基本型",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "東風-15，固體近程彈道導彈基型。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "近程"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程彈道導彈（DF-15）",
+    "form_en": "",
+    "wiki": "DF-15",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-15",
+        "url": "https://en.wikipedia.org/wiki/DF-15"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-15a",
+    "name_zh": "東風-15A近程彈道導彈",
+    "name_en": "DF-15A / CSS-6 Mod 2",
+    "designation": "DF-15A",
+    "aliases": [
+      "東風15A"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 900 km",
+    "rate_of_fire": "—",
+    "capacity": "增程與改進制導",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "東風-15A，增程改進型。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "近程"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程彈道導彈（DF-15A）",
+    "form_en": "",
+    "wiki": "DF-15",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-15",
+        "url": "https://en.wikipedia.org/wiki/DF-15"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-15c",
+    "name_zh": "東風-15C鑽地彈道導彈",
+    "name_en": "DF-15C penetrator",
+    "designation": "DF-15C",
+    "aliases": [
+      "東風15C"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 700 km",
+    "rate_of_fire": "—",
+    "capacity": "鑽地/侵徹彈頭，攻堅地下目標",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "東風-15C，鑽地侵徹彈頭型。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "鑽地"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程彈道導彈（DF-15C鑽地）",
+    "form_en": "",
+    "wiki": "DF-15",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-15",
+        "url": "https://en.wikipedia.org/wiki/DF-15"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-21",
+    "name_zh": "東風-21中程彈道導彈",
+    "name_en": "DF-21 / CSS-5",
+    "designation": "DF-21",
+    "aliases": [
+      "東風21",
+      "CSS-5"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 1,750 km",
+    "rate_of_fire": "—",
+    "capacity": "固體中程彈道導彈基型，核常兼備",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "東風-21，固體中程彈道導彈基型（衍生 21A/C/D）。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "中程"
+    ],
+    "odin_hint": "",
+    "form_zh": "中程彈道導彈（DF-21）",
+    "form_en": "",
+    "wiki": "DF-21",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-21",
+        "url": "https://en.wikipedia.org/wiki/DF-21"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-31",
+    "name_zh": "東風-31洲際彈道導彈",
+    "name_en": "DF-31 / CSS-10",
+    "designation": "DF-31",
+    "aliases": [
+      "東風31",
+      "CSS-10"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 7,200 km",
+    "rate_of_fire": "—",
+    "capacity": "固體公路機動洲際導彈基型、單彈頭",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "東風-31，固體公路機動洲際彈道導彈基型。",
+    "notes_en": "",
+    "tags": [
+      "ICBM",
+      "機動"
+    ],
+    "odin_hint": "",
+    "form_zh": "洲際彈道導彈（DF-31）",
+    "form_en": "",
+    "wiki": "DF-31",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-31",
+        "url": "https://en.wikipedia.org/wiki/DF-31"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-31a",
+    "name_zh": "東風-31A洲際彈道導彈",
+    "name_en": "DF-31A / CSS-10 Mod 2",
+    "designation": "DF-31A",
+    "aliases": [
+      "東風31A"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 11,000 km",
+    "rate_of_fire": "—",
+    "capacity": "增程公路機動洲際導彈",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "東風-31A，增程機動洲際彈道導彈。",
+    "notes_en": "",
+    "tags": [
+      "ICBM",
+      "機動"
+    ],
+    "odin_hint": "",
+    "form_zh": "洲際彈道導彈（DF-31A）",
+    "form_en": "",
+    "wiki": "DF-31",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-31",
+        "url": "https://en.wikipedia.org/wiki/DF-31"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-61",
+    "name_zh": "東風-61彈道導彈（研發中）",
+    "name_en": "DF-61 (reported)",
+    "designation": "DF-61",
+    "aliases": [
+      "東風61"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "洲際級（推測）",
+    "rate_of_fire": "—",
+    "capacity": "新型彈道導彈，公開代號報導（諸元不明）",
+    "armor": "—",
+    "mobility": "公路機動（推測）",
+    "sensors": "—",
+    "notes_zh": "東風-61 新型彈道導彈，公開報導，諸元未詳。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "研發中"
+    ],
+    "odin_hint": "",
+    "form_zh": "新型彈道導彈（DF-61）",
+    "form_en": "",
+    "wiki": "DF-61",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-61",
+        "url": "https://en.wikipedia.org/wiki/DF-61"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "cj-10a",
+    "name_zh": "長劍-10A巡航導彈",
+    "name_en": "CJ-10A LACM",
+    "designation": "CJ-10A",
+    "aliases": [
+      "長劍10A",
+      "CJ-10A"
+    ],
+    "category": "weapon",
+    "subcategory": "cruise",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 1,500–2,500 km",
+    "rate_of_fire": "—",
+    "capacity": "陸基遠程對地巡航導彈改進型，抗干擾提升",
+    "armor": "—",
+    "mobility": "公路機動箱式 TEL",
+    "sensors": "—",
+    "notes_zh": "長劍-10A，陸基遠程巡航導彈改進型。",
+    "notes_en": "",
+    "tags": [
+      "巡航飛彈",
+      "對地"
+    ],
+    "odin_hint": "",
+    "form_zh": "陸基巡航導彈（CJ-10A）",
+    "form_en": "",
+    "wiki": "CJ-10",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CJ-10",
+        "url": "https://en.wikipedia.org/wiki/CJ-10"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "hn-1",
+    "name_zh": "紅鳥-1巡航導彈",
+    "name_en": "Hongniao HN-1",
+    "designation": "HN-1",
+    "aliases": [
+      "紅鳥1",
+      "HN-1"
+    ],
+    "category": "weapon",
+    "subcategory": "cruise",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 600 km",
+    "rate_of_fire": "—",
+    "capacity": "早期陸攻巡航導彈",
+    "armor": "—",
+    "mobility": "機動/多平台",
+    "sensors": "—",
+    "notes_zh": "紅鳥-1 早期對地巡航導彈，已退役。",
+    "notes_en": "",
+    "tags": [
+      "巡航飛彈",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "巡航導彈（紅鳥-1）",
+    "form_en": "",
+    "wiki": "Hong Niao",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Hong Niao",
+        "url": "https://en.wikipedia.org/wiki/Hong_Niao"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "hn-2",
+    "name_zh": "紅鳥-2巡航導彈",
+    "name_en": "Hongniao HN-2",
+    "designation": "HN-2",
+    "aliases": [
+      "紅鳥2",
+      "HN-2"
+    ],
+    "category": "weapon",
+    "subcategory": "cruise",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 1,500 km",
+    "rate_of_fire": "—",
+    "capacity": "紅鳥系改進型",
+    "armor": "—",
+    "mobility": "機動/多平台",
+    "sensors": "—",
+    "notes_zh": "紅鳥-2 對地巡航導彈改進型，已退役。",
+    "notes_en": "",
+    "tags": [
+      "巡航飛彈",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "巡航導彈（紅鳥-2）",
+    "form_en": "",
+    "wiki": "Hong Niao",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Hong Niao",
+        "url": "https://en.wikipedia.org/wiki/Hong_Niao"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "hn-3",
+    "name_zh": "紅鳥-3巡航導彈",
+    "name_en": "Hongniao HN-3",
+    "designation": "HN-3",
+    "aliases": [
+      "紅鳥3",
+      "HN-3"
+    ],
+    "category": "weapon",
+    "subcategory": "cruise",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 3,000 km",
+    "rate_of_fire": "—",
+    "capacity": "遠程對地巡航導彈",
+    "armor": "—",
+    "mobility": "機動/多平台",
+    "sensors": "—",
+    "notes_zh": "紅鳥-3 遠程對地巡航導彈。",
+    "notes_en": "",
+    "tags": [
+      "巡航飛彈"
+    ],
+    "odin_hint": "",
+    "form_zh": "巡航導彈（紅鳥-3）",
+    "form_en": "",
+    "wiki": "Hong Niao",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Hong Niao",
+        "url": "https://en.wikipedia.org/wiki/Hong_Niao"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "df-zf",
+    "name_zh": "東風乘波體高超音速滑翔器（DF-ZF）",
+    "name_en": "DF-ZF / WU-14 HGV",
+    "designation": "DF-ZF",
+    "aliases": [
+      "DF-ZF",
+      "WU-14",
+      "乘波體"
+    ],
+    "category": "weapon",
+    "subcategory": "hypersonic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "配彈道助推＋滑翔段機動",
+    "rate_of_fire": "—",
+    "capacity": "助推-滑翔高超音速載具，DF-17 戰鬥部技術相關",
+    "armor": "—",
+    "mobility": "Mach 5–10 高超音速滑翔",
+    "sensors": "—",
+    "notes_zh": "東風-ZF（WU-14）高超音速滑翔載具，可高速機動突防。",
+    "notes_en": "",
+    "tags": [
+      "高超音速",
+      "滑翔器"
+    ],
+    "odin_hint": "",
+    "form_zh": "高超音速滑翔載具（DF-ZF）",
+    "form_en": "",
+    "wiki": "DF-ZF",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：DF-ZF",
+        "url": "https://en.wikipedia.org/wiki/DF-ZF"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "cm-400akg",
+    "name_zh": "CM-400AKG高超音速空射導彈",
+    "name_en": "CM-400AKG",
+    "designation": "CM-400AKG",
+    "aliases": [
+      "CM-400AKG"
+    ],
+    "category": "weapon",
+    "subcategory": "hypersonic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 240 km",
+    "rate_of_fire": "—",
+    "capacity": "空射高速對地/對艦打擊、末端 Mach 4–5.5（外銷，JF-17 掛載）",
+    "armor": "—",
+    "mobility": "空射高速",
+    "sensors": "—",
+    "notes_zh": "CM-400AKG 空射高速打擊導彈（外銷型）。",
+    "notes_en": "",
+    "tags": [
+      "高超音速",
+      "空射",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "空射高速導彈（CM-400AKG）",
+    "form_en": "",
+    "wiki": "CM-400AKG",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CM-400AKG",
+        "url": "https://en.wikipedia.org/wiki/CM-400AKG"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "bp-12a",
+    "name_zh": "BP-12A外銷近程彈道導彈",
+    "name_en": "BP-12A / P12",
+    "designation": "BP-12A",
+    "aliases": [
+      "BP-12A",
+      "P12"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 280 km",
+    "rate_of_fire": "—",
+    "capacity": "固體近程精確彈道導彈（外銷）",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "BP-12A 近程精確彈道導彈外銷型。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程彈道導彈（BP-12A）",
+    "form_en": "",
+    "wiki": "BP-12A",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：BP-12A",
+        "url": "https://en.wikipedia.org/wiki/BP-12A"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
+  },
+  {
+    "id": "b611",
+    "name_zh": "B611／B611M近程導彈",
+    "name_en": "B611 / B611M",
+    "designation": "B611",
+    "aliases": [
+      "B611",
+      "B611M"
+    ],
+    "category": "weapon",
+    "subcategory": "ballistic",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "火箭軍",
+    "service_zh": "火箭軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 260 km",
+    "rate_of_fire": "—",
+    "capacity": "近程彈道/準彈道導彈（外銷）",
+    "armor": "—",
+    "mobility": "公路機動 TEL",
+    "sensors": "—",
+    "notes_zh": "B611／B611M 近程彈道導彈外銷系統。",
+    "notes_en": "",
+    "tags": [
+      "彈道飛彈",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程彈道導彈（B611）",
+    "form_en": "",
+    "wiki": "B611 (missile)",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：B611 (missile)",
+        "url": "https://en.wikipedia.org/wiki/B611_(missile)"
+      }
+    ],
+    "branch_hint": "火箭軍",
+    "authority_verified": true,
+    "branch": "火箭軍"
   }
 ];
