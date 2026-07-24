@@ -23170,5 +23170,1551 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍"
+  },
+  {
+    "id": "j-5",
+    "name_zh": "殲-5戰鬥機",
+    "name_en": "Shenyang J-5 (MiG-17)",
+    "designation": "J-5",
+    "aliases": [
+      "殲5",
+      "MiG-17",
+      "Fresco"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "3×23/37mm 機砲",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 640 km",
+    "rate_of_fire": "—",
+    "capacity": "早期噴射戰鬥機（米格-17 仿製）",
+    "armor": "—",
+    "mobility": "Mach 0.99；渦噴-5",
+    "sensors": "—",
+    "notes_zh": "殲-5 米格-17 仿製，中國第一代噴射戰鬥機，已退役。",
+    "notes_en": "",
+    "tags": [
+      "戰鬥機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "噴射戰鬥機（米格-17）",
+    "form_en": "",
+    "wiki": "Shenyang J-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-5",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-5"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-6",
+    "name_zh": "殲-6戰鬥機",
+    "name_en": "Shenyang J-6 (MiG-19)",
+    "designation": "J-6",
+    "aliases": [
+      "殲6",
+      "MiG-19",
+      "Farmer"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "3×30mm 機砲",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 640 km",
+    "rate_of_fire": "—",
+    "capacity": "PL-2 近距彈；大量裝備後退役（部分改靶機）",
+    "armor": "—",
+    "mobility": "Mach 1.35；2×渦噴-6",
+    "sensors": "—",
+    "notes_zh": "殲-6 米格-19 仿製，產量極大，已退役。",
+    "notes_en": "",
+    "tags": [
+      "戰鬥機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "超音速戰鬥機（米格-19）",
+    "form_en": "",
+    "wiki": "Shenyang J-6",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-6",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-6"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-8",
+    "name_zh": "殲-8戰鬥機",
+    "name_en": "Shenyang J-8 (Finback)",
+    "designation": "J-8",
+    "aliases": [
+      "殲8",
+      "Finback"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "30mm 機砲",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "早期高空高速截擊（機頭進氣）",
+    "armor": "—",
+    "mobility": "Mach 2.2；2×渦噴-7",
+    "sensors": "—",
+    "notes_zh": "殲-8 首型，雙發高空高速截擊機，已退役。",
+    "notes_en": "",
+    "tags": [
+      "截擊機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "高空截擊機（殲-8）",
+    "form_en": "",
+    "wiki": "Shenyang J-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-8",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-8"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-8ii",
+    "name_zh": "殲-8II戰鬥機",
+    "name_en": "Shenyang J-8II",
+    "designation": "J-8II",
+    "aliases": [
+      "殲8II",
+      "Finback-B"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "23mm 機砲",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "側進氣改型，PL-5/PL-8",
+    "armor": "—",
+    "mobility": "Mach 2.2；2×渦噴-13",
+    "sensors": "—",
+    "notes_zh": "殲-8II 側進氣改型，仍少量二線。",
+    "notes_en": "",
+    "tags": [
+      "截擊機"
+    ],
+    "odin_hint": "",
+    "form_zh": "截擊戰鬥機（殲-8II）",
+    "form_en": "",
+    "wiki": "Shenyang J-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-8",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-8"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-8h",
+    "name_zh": "殲-8H戰鬥機",
+    "name_en": "Shenyang J-8H",
+    "designation": "J-8H",
+    "aliases": [
+      "殲8H"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "23mm 機砲",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "航電/雷達改進，PL-12 中距彈",
+    "armor": "—",
+    "mobility": "Mach 2.2；2×渦噴-13B",
+    "sensors": "—",
+    "notes_zh": "殲-8H 航電與武備改進型。",
+    "notes_en": "",
+    "tags": [
+      "截擊機"
+    ],
+    "odin_hint": "",
+    "form_zh": "截擊戰鬥機（殲-8H）",
+    "form_en": "",
+    "wiki": "Shenyang J-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-8",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-8"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-10ce",
+    "name_zh": "殲-10CE外銷型",
+    "name_en": "Chengdu J-10CE",
+    "designation": "J-10CE",
+    "aliases": [
+      "殲10CE",
+      "J-10CE"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "23mm 機砲",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 1,240 km",
+    "rate_of_fire": "—",
+    "capacity": "AESA＋PL-15E，外銷（巴基斯坦）",
+    "armor": "—",
+    "mobility": "Mach 1.8；WS-10B",
+    "sensors": "—",
+    "notes_zh": "殲-10C 外銷型，巴基斯坦等採用。",
+    "notes_en": "",
+    "tags": [
+      "戰鬥機",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "多用途戰機（殲-10CE）",
+    "form_en": "",
+    "wiki": "Chengdu J-10",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Chengdu J-10",
+        "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-11bs",
+    "name_zh": "殲-11BS雙座型",
+    "name_en": "Shenyang J-11BS",
+    "designation": "J-11BS",
+    "aliases": [
+      "殲11BS"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "30mm 機砲",
+    "crew": "2",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "航程約 3,530 km",
+    "rate_of_fire": "—",
+    "capacity": "殲-11B 雙座作戰教練型",
+    "armor": "—",
+    "mobility": "Mach 2.35；2×WS-10A",
+    "sensors": "—",
+    "notes_zh": "殲-11B 雙座作戰教練型。",
+    "notes_en": "",
+    "tags": [
+      "戰鬥機",
+      "雙座"
+    ],
+    "odin_hint": "",
+    "form_zh": "雙座空優戰機（殲-11BS）",
+    "form_en": "",
+    "wiki": "Shenyang J-11",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-11",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-15s",
+    "name_zh": "殲-15S雙座艦載機",
+    "name_en": "Shenyang J-15S",
+    "designation": "J-15S",
+    "aliases": [
+      "殲15S"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "30mm 機砲",
+    "crew": "2",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 1,000 km",
+    "rate_of_fire": "—",
+    "capacity": "雙座艦載作戰/教練",
+    "armor": "—",
+    "mobility": "Mach 2.4；2×WS-10",
+    "sensors": "—",
+    "notes_zh": "殲-15 雙座艦載型。",
+    "notes_en": "",
+    "tags": [
+      "艦載機",
+      "雙座"
+    ],
+    "odin_hint": "",
+    "form_zh": "雙座艦載戰機（殲-15S）",
+    "form_en": "",
+    "wiki": "Shenyang J-15",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-15",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "j-20a",
+    "name_zh": "殲-20A改進型",
+    "name_en": "Chengdu J-20A",
+    "designation": "J-20A",
+    "aliases": [
+      "殲20A"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "內置彈艙 PL-15/PL-10",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 2,000 km",
+    "rate_of_fire": "—",
+    "capacity": "換發/航電改進批次（WS-15）",
+    "armor": "—",
+    "mobility": "Mach 2.0；WS-15",
+    "sensors": "—",
+    "notes_zh": "殲-20 改進批次（換 WS-15、航電升級）。",
+    "notes_en": "",
+    "tags": [
+      "匿蹤",
+      "第五代"
+    ],
+    "odin_hint": "",
+    "form_zh": "第五代匿蹤戰機（殲-20A）",
+    "form_en": "",
+    "wiki": "Chengdu J-20",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Chengdu J-20",
+        "url": "https://en.wikipedia.org/wiki/Chengdu_J-20"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "fc-31",
+    "name_zh": "鶻鷹／FC-31驗證機",
+    "name_en": "Shenyang FC-31 Gyrfalcon",
+    "designation": "FC-31",
+    "aliases": [
+      "FC-31",
+      "J-31",
+      "鶻鷹"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "內置彈艙",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 1,200 km",
+    "rate_of_fire": "—",
+    "capacity": "中型雙發匿蹤，殲-35 前身/外銷原型",
+    "armor": "—",
+    "mobility": "Mach 1.8；2×發動機",
+    "sensors": "—",
+    "notes_zh": "FC-31 鶻鷹中型匿蹤驗證機，衍生殲-35。",
+    "notes_en": "",
+    "tags": [
+      "匿蹤",
+      "驗證機"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型匿蹤戰機（FC-31）",
+    "form_en": "",
+    "wiki": "Shenyang FC-31",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang FC-31",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_FC-31"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jh-7",
+    "name_zh": "殲轟-7飛豹",
+    "name_en": "Xian JH-7 Flounder",
+    "designation": "JH-7",
+    "aliases": [
+      "殲轟7",
+      "飛豹",
+      "Flounder"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_strike",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "23mm 機砲",
+    "crew": "2",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 900 km",
+    "rate_of_fire": "—",
+    "capacity": "YJ-8K 反艦、對地打擊（早期型）",
+    "armor": "—",
+    "mobility": "Mach 1.7；2×渦扇-9",
+    "sensors": "—",
+    "notes_zh": "殲轟-7 飛豹戰鬥轟炸機基型。",
+    "notes_en": "",
+    "tags": [
+      "攻擊機",
+      "反艦"
+    ],
+    "odin_hint": "",
+    "form_zh": "戰鬥轟炸機（飛豹）",
+    "form_en": "",
+    "wiki": "Xian JH-7",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Xian JH-7",
+        "url": "https://en.wikipedia.org/wiki/Xian_JH-7"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "h-5",
+    "name_zh": "轟-5轟炸機",
+    "name_en": "Harbin H-5 (Il-28)",
+    "designation": "H-5",
+    "aliases": [
+      "轟5",
+      "Il-28",
+      "Beagle"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_bomber",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "23mm 機砲",
+    "crew": "3",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 1,100 km",
+    "rate_of_fire": "—",
+    "capacity": "輕型轟炸（伊爾-28 仿製），已退役",
+    "armor": "—",
+    "mobility": "Mach 0.8；2×渦噴-5",
+    "sensors": "—",
+    "notes_zh": "轟-5 伊爾-28 仿製輕型轟炸機，已退役。",
+    "notes_en": "",
+    "tags": [
+      "轟炸機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型轟炸機（伊爾-28）",
+    "form_en": "",
+    "wiki": "Harbin H-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin H-5",
+        "url": "https://en.wikipedia.org/wiki/Harbin_H-5"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "h-6g",
+    "name_zh": "轟-6G海航型",
+    "name_en": "Xian H-6G",
+    "designation": "H-6G",
+    "aliases": [
+      "轟6G"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_bomber",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "4",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 1,800 km",
+    "rate_of_fire": "—",
+    "capacity": "海航電子戰/反艦支援型",
+    "armor": "—",
+    "mobility": "渦噴",
+    "sensors": "—",
+    "notes_zh": "轟-6G 海航電子戰/反艦支援型。",
+    "notes_en": "",
+    "tags": [
+      "轟炸機",
+      "海航"
+    ],
+    "odin_hint": "",
+    "form_zh": "海軍轟炸機（H-6G）",
+    "form_en": "",
+    "wiki": "Xian H-6",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Xian H-6",
+        "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "h-6m",
+    "name_zh": "轟-6M改進型",
+    "name_en": "Xian H-6M",
+    "designation": "H-6M",
+    "aliases": [
+      "轟6M"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_bomber",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "4",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 1,800 km",
+    "rate_of_fire": "—",
+    "capacity": "翼下掛架常規打擊改進型",
+    "armor": "—",
+    "mobility": "渦噴",
+    "sensors": "—",
+    "notes_zh": "轟-6M 常規打擊改進型。",
+    "notes_en": "",
+    "tags": [
+      "轟炸機"
+    ],
+    "odin_hint": "",
+    "form_zh": "轟炸機（H-6M）",
+    "form_en": "",
+    "wiki": "Xian H-6",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Xian H-6",
+        "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "h-20",
+    "name_zh": "轟-20戰略轟炸機",
+    "name_en": "Xian H-20 (reported)",
+    "designation": "H-20",
+    "aliases": [
+      "轟20",
+      "H-20"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_bomber",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "內置彈艙",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "洲際級（推測）",
+    "rate_of_fire": "—",
+    "capacity": "次世代匿蹤戰略轟炸機（飛翼，公開項目）",
+    "armor": "—",
+    "mobility": "次音速匿蹤（推測）",
+    "sensors": "—",
+    "notes_zh": "轟-20 次世代匿蹤戰略轟炸機，發展中，諸元推測。",
+    "notes_en": "",
+    "tags": [
+      "轟炸機",
+      "匿蹤",
+      "研發中"
+    ],
+    "odin_hint": "",
+    "form_zh": "匿蹤戰略轟炸機（轟-20）",
+    "form_en": "",
+    "wiki": "Xian H-20",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Xian H-20",
+        "url": "https://en.wikipedia.org/wiki/Xian_H-20"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jj-7",
+    "name_zh": "殲教-7",
+    "name_en": "Guizhou JJ-7 / FT-7",
+    "designation": "JJ-7",
+    "aliases": [
+      "殲教7",
+      "JJ-7",
+      "FT-7"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_trainer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "機砲",
+    "crew": "2",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "殲-7 雙座高級教練（含外銷 FT-7）",
+    "armor": "—",
+    "mobility": "Mach 2；渦噴-13",
+    "sensors": "—",
+    "notes_zh": "殲教-7 殲-7 雙座高級教練機。",
+    "notes_en": "",
+    "tags": [
+      "教練機"
+    ],
+    "odin_hint": "",
+    "form_zh": "高級教練機（殲教-7）",
+    "form_en": "",
+    "wiki": "Guizhou JL-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Guizhou JL-9",
+        "url": "https://en.wikipedia.org/wiki/Guizhou_JL-9"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "cj-6",
+    "name_zh": "初教-6",
+    "name_en": "Nanchang CJ-6",
+    "designation": "CJ-6",
+    "aliases": [
+      "初教6",
+      "CJ-6",
+      "Yak-18 based"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_trainer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "航程約 690 km",
+    "rate_of_fire": "—",
+    "capacity": "活塞初級教練機，廣泛使用/外銷",
+    "armor": "—",
+    "mobility": "活塞螺旋槳",
+    "sensors": "—",
+    "notes_zh": "初教-6 活塞初級教練機，服役數十年、大量外銷。",
+    "notes_en": "",
+    "tags": [
+      "教練機",
+      "初級"
+    ],
+    "odin_hint": "",
+    "form_zh": "初級教練機（初教-6）",
+    "form_en": "",
+    "wiki": "Nanchang CJ-6",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Nanchang CJ-6",
+        "url": "https://en.wikipedia.org/wiki/Nanchang_CJ-6"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "hyj-7",
+    "name_zh": "轟教-7",
+    "name_en": "Xian HYJ-7 bomber trainer",
+    "designation": "HYJ-7",
+    "aliases": [
+      "轟教7",
+      "HYJ-7"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_trainer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "轟炸/領航訓練機",
+    "armor": "—",
+    "mobility": "運-7 平台",
+    "sensors": "—",
+    "notes_zh": "轟教-7 轟炸/領航訓練機。",
+    "notes_en": "",
+    "tags": [
+      "教練機"
+    ],
+    "odin_hint": "",
+    "form_zh": "轟炸領航訓練機（轟教-7）",
+    "form_en": "",
+    "wiki": "Xian H-6",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Xian H-6",
+        "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "y-20b",
+    "name_zh": "運-20B改進型",
+    "name_en": "Xian Y-20B",
+    "designation": "Y-20B",
+    "aliases": [
+      "運20B"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_transport",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "7,800 km 級",
+    "rate_of_fire": "—",
+    "capacity": "換國產渦扇（WS-20）改進型",
+    "armor": "—",
+    "mobility": "4×WS-20",
+    "sensors": "—",
+    "notes_zh": "運-20B 換裝國產 WS-20 發動機的改進型。",
+    "notes_en": "",
+    "tags": [
+      "運輸機",
+      "戰略"
+    ],
+    "odin_hint": "",
+    "form_zh": "戰略運輸機（運-20B）",
+    "form_en": "",
+    "wiki": "Xian Y-20",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Xian Y-20",
+        "url": "https://en.wikipedia.org/wiki/Xian_Y-20"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "y-11",
+    "name_zh": "運-11運輸機",
+    "name_en": "Harbin Y-11",
+    "designation": "Y-11",
+    "aliases": [
+      "運11"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_transport",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "航程約 995 km",
+    "rate_of_fire": "—",
+    "capacity": "輕型雙發運輸/通用（舊式）",
+    "armor": "—",
+    "mobility": "活塞雙發",
+    "sensors": "—",
+    "notes_zh": "運-11 輕型運輸機，舊式。",
+    "notes_en": "",
+    "tags": [
+      "運輸機",
+      "輕型",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型運輸機（運-11）",
+    "form_en": "",
+    "wiki": "Harbin Y-11",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Y-11",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Y-11"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "tu-154md",
+    "name_zh": "圖-154M/D特種機",
+    "name_en": "Tupolev Tu-154M/D",
+    "designation": "Tu-154M/D",
+    "aliases": [
+      "圖154",
+      "Tu-154MD"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "電子偵察/合成孔徑雷達校射等特種改裝",
+    "armor": "—",
+    "mobility": "3 發噴射客機平台",
+    "sensors": "—",
+    "notes_zh": "圖-154M/D 電子偵察特種機（客機改裝）。",
+    "notes_en": "",
+    "tags": [
+      "電子偵察",
+      "特種機"
+    ],
+    "odin_hint": "",
+    "form_zh": "電子偵察特種機（圖-154）",
+    "form_en": "",
+    "wiki": "Tupolev Tu-154",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Tupolev Tu-154",
+        "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-154"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "kj-1",
+    "name_zh": "空警-1預警機",
+    "name_en": "KJ-1 (Tu-4 based)",
+    "designation": "KJ-1",
+    "aliases": [
+      "空警1",
+      "KJ-1"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_aew",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "圖-4 改早期預警試驗機（歷史）",
+    "armor": "—",
+    "mobility": "圖-4 平台",
+    "sensors": "—",
+    "notes_zh": "空警-1，中國最早的預警試驗機（圖-4 改），歷史型。",
+    "notes_en": "",
+    "tags": [
+      "預警機",
+      "歷史"
+    ],
+    "odin_hint": "",
+    "form_zh": "早期預警試驗機（空警-1）",
+    "form_en": "",
+    "wiki": "KJ-1",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：KJ-1",
+        "url": "https://en.wikipedia.org/wiki/KJ-1"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "zdk-03",
+    "name_zh": "ZDK-03預警機",
+    "name_en": "ZDK-03 Karakoram Eagle",
+    "designation": "ZDK-03",
+    "aliases": [
+      "ZDK-03",
+      "喀喇崑崙鷹"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_aew",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "運-8 平台圓盤 AESA，外銷巴基斯坦",
+    "armor": "—",
+    "mobility": "運-8 平台",
+    "sensors": "—",
+    "notes_zh": "ZDK-03 外銷型預警機（巴基斯坦）。",
+    "notes_en": "",
+    "tags": [
+      "預警機",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "空中預警機（ZDK-03）",
+    "form_en": "",
+    "wiki": "ZDK-03",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：ZDK-03",
+        "url": "https://en.wikipedia.org/wiki/ZDK-03"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "gx-1",
+    "name_zh": "高新1號電子偵察機（運-8CB）",
+    "name_en": "GX-1 / Y-8CB",
+    "designation": "GX-1",
+    "aliases": [
+      "高新1",
+      "Y-8CB"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "電子情報偵察（ELINT）",
+    "armor": "—",
+    "mobility": "運-8 平台",
+    "sensors": "—",
+    "notes_zh": "高新1號電子偵察機（運-8CB）。",
+    "notes_en": "",
+    "tags": [
+      "電子偵察",
+      "特種機"
+    ],
+    "odin_hint": "",
+    "form_zh": "電子偵察機（高新1）",
+    "form_en": "",
+    "wiki": "Shaanxi Y-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shaanxi Y-8",
+        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-8"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "gx-2",
+    "name_zh": "高新2號電子偵察機（運-8JB）",
+    "name_en": "GX-2 / Y-8JB",
+    "designation": "GX-2",
+    "aliases": [
+      "高新2",
+      "Y-8JB"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "海航電子情報偵察",
+    "armor": "—",
+    "mobility": "運-8 平台",
+    "sensors": "—",
+    "notes_zh": "高新2號海航電子偵察機（運-8JB）。",
+    "notes_en": "",
+    "tags": [
+      "電子偵察",
+      "海航"
+    ],
+    "odin_hint": "",
+    "form_zh": "電子偵察機（高新2）",
+    "form_en": "",
+    "wiki": "Shaanxi Y-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shaanxi Y-8",
+        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-8"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "gx-4",
+    "name_zh": "高新4號心理戰機（運-8XZ）",
+    "name_en": "GX-4 / Y-8XZ",
+    "designation": "GX-4",
+    "aliases": [
+      "高新4",
+      "Y-8XZ"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "心理戰廣播/通信對抗",
+    "armor": "—",
+    "mobility": "運-8 平台",
+    "sensors": "—",
+    "notes_zh": "高新4號心理戰/通信對抗機（運-8XZ）。",
+    "notes_en": "",
+    "tags": [
+      "特種機",
+      "心理戰"
+    ],
+    "odin_hint": "",
+    "form_zh": "心理戰機（高新4）",
+    "form_en": "",
+    "wiki": "Shaanxi Y-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shaanxi Y-8",
+        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-8"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "gx-5",
+    "name_zh": "高新5號指揮通信機（運-8T）",
+    "name_en": "GX-5 / Y-8T",
+    "designation": "GX-5",
+    "aliases": [
+      "高新5",
+      "Y-8T"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "空中指揮通信中繼",
+    "armor": "—",
+    "mobility": "運-8 平台",
+    "sensors": "—",
+    "notes_zh": "高新5號空中指揮通信機（運-8T）。",
+    "notes_en": "",
+    "tags": [
+      "特種機",
+      "指揮通信"
+    ],
+    "odin_hint": "",
+    "form_zh": "指揮通信機（高新5）",
+    "form_en": "",
+    "wiki": "Shaanxi Y-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shaanxi Y-8",
+        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-8"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "gx-7",
+    "name_zh": "高新7號電子偵察機（運-9DZ）",
+    "name_en": "GX-7 / Y-9DZ",
+    "designation": "GX-7",
+    "aliases": [
+      "高新7",
+      "Y-9DZ"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "運-9 平台電子偵察",
+    "armor": "—",
+    "mobility": "運-9 平台",
+    "sensors": "—",
+    "notes_zh": "高新7號電子偵察機（運-9DZ）。",
+    "notes_en": "",
+    "tags": [
+      "電子偵察",
+      "特種機"
+    ],
+    "odin_hint": "",
+    "form_zh": "電子偵察機（高新7）",
+    "form_en": "",
+    "wiki": "Shaanxi Y-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shaanxi Y-9",
+        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jz-8f",
+    "name_zh": "殲偵-8F偵察機",
+    "name_en": "Shenyang JZ-8F",
+    "designation": "JZ-8F",
+    "aliases": [
+      "殲偵8F",
+      "JZ-8F"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "殲-8F 戰術偵察改型",
+    "armor": "—",
+    "mobility": "Mach 2.2；2×渦噴-13",
+    "sensors": "—",
+    "notes_zh": "殲偵-8F 戰術偵察機。",
+    "notes_en": "",
+    "tags": [
+      "偵察機"
+    ],
+    "odin_hint": "",
+    "form_zh": "戰術偵察機（殲偵-8F）",
+    "form_en": "",
+    "wiki": "Shenyang J-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-8",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-8"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "pl-2",
+    "name_zh": "霹靂-2空對空飛彈",
+    "name_en": "PL-2 AAM",
+    "designation": "PL-2",
+    "aliases": [
+      "PL-2",
+      "霹靂2"
+    ],
+    "category": "weapon",
+    "subcategory": "aam",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "近距空對空",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "約 6 km",
+    "rate_of_fire": "—",
+    "capacity": "紅外導引（K-13/AA-2 衍生），早期型",
+    "armor": "—",
+    "mobility": "Mach 2.5",
+    "sensors": "—",
+    "notes_zh": "霹靂-2 早期紅外近距空對空飛彈，已退役。",
+    "notes_en": "",
+    "tags": [
+      "空對空",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "近距空對空飛彈（PL-2）",
+    "form_en": "",
+    "wiki": "PL-2",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PL-2",
+        "url": "https://en.wikipedia.org/wiki/PL-2"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "pl-5",
+    "name_zh": "霹靂-5空對空飛彈",
+    "name_en": "PL-5 AAM",
+    "designation": "PL-5",
+    "aliases": [
+      "PL-5",
+      "PL-5E",
+      "霹靂5"
+    ],
+    "category": "weapon",
+    "subcategory": "aam",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "近距空對空",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "約 18 km",
+    "rate_of_fire": "—",
+    "capacity": "紅外導引近距格鬥彈，多改進型",
+    "armor": "—",
+    "mobility": "Mach 2.5",
+    "sensors": "—",
+    "notes_zh": "霹靂-5 近距紅外空對空飛彈，PL-5E 可頭盔瞄準。",
+    "notes_en": "",
+    "tags": [
+      "空對空",
+      "近距"
+    ],
+    "odin_hint": "",
+    "form_zh": "近距空對空飛彈（PL-5）",
+    "form_en": "",
+    "wiki": "PL-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PL-5",
+        "url": "https://en.wikipedia.org/wiki/PL-5"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "kd-63",
+    "name_zh": "空地-63導彈",
+    "name_en": "KD-63 ALCM",
+    "designation": "KD-63",
+    "aliases": [
+      "KD-63",
+      "K/AKD-63"
+    ],
+    "category": "weapon",
+    "subcategory": "cruise",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "空地導彈",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "約 180–200 km",
+    "rate_of_fire": "—",
+    "capacity": "電視/數據鏈導引，轟-6 掛載對地打擊",
+    "armor": "—",
+    "mobility": "亞音速",
+    "sensors": "—",
+    "notes_zh": "空地-63 遠程空地導彈，轟-6 掛載。",
+    "notes_en": "",
+    "tags": [
+      "空地導彈"
+    ],
+    "odin_hint": "",
+    "form_zh": "空地導彈（KD-63）",
+    "form_en": "",
+    "wiki": "KD-63",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：KD-63",
+        "url": "https://en.wikipedia.org/wiki/KD-63"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "kd-20",
+    "name_zh": "空地-20巡航導彈",
+    "name_en": "KD-20 ALCM",
+    "designation": "KD-20",
+    "aliases": [
+      "KD-20",
+      "長劍-10 空射"
+    ],
+    "category": "weapon",
+    "subcategory": "cruise",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "空射巡航導彈",
+    "crew": "1",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "約 1,500–2,000 km",
+    "rate_of_fire": "—",
+    "capacity": "轟-6K 掛載遠程對地巡航打擊",
+    "armor": "—",
+    "mobility": "亞音速掠地",
+    "sensors": "—",
+    "notes_zh": "空地-20（長劍-10 空射型），轟-6K 遠程巡航打擊主力。",
+    "notes_en": "",
+    "tags": [
+      "巡航導彈",
+      "空射"
+    ],
+    "odin_hint": "",
+    "form_zh": "空射巡航導彈（KD-20）",
+    "form_en": "",
+    "wiki": "KD-20",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：KD-20",
+        "url": "https://en.wikipedia.org/wiki/KD-20"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
   }
 ];
