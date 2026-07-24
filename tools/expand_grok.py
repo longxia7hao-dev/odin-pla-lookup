@@ -826,9 +826,56 @@ GX7 = [
        mob="牽引",notes="90式 35mm 雙管牽引高射砲。",tags=["高射","牽引"],form="牽引高射砲（35mm，90式）",wiki="Oerlikon GDF"),
 ]
 
+# ===== GX8：陸軍反坦克/防空/工兵缺漏（Grok army_8 diff）=====
+GX8 = [
+    ar("hj-9a","紅箭-9A反坦克導彈","HJ-9A","HJ-9A","atgm",aliases=["HJ-9A","紅箭9A"],
+       caliber="重型反戰車飛彈",rng="射程約 5.5 km",cap="毫米波/雷射駕束制導改進、串聯 HEAT 穿深 >1,200mm",
+       mob="輪式發射車/車載",notes="紅箭-9A 重型反坦克飛彈改進型（毫米波制導）。",tags=["反戰車","重型"],form="重型反戰車飛彈（HJ-9A）",wiki="HJ-9"),
+    ar("pf-89a","89A式單兵火箭筒","PF-89A","PF-89A","atgm",aliases=["PF-89A"],
+       caliber="80mm 火箭",rng="有效約 400 m",cap="多用途戰鬥部（破甲/殺傷/縱火）一次性火箭",
+       mob="單兵",notes="89A 式單兵火箭筒（多用途彈頭改進）。",tags=["火箭筒","單兵"],form="單兵火箭筒（89A）",wiki="PF-89"),
+    ar("hn-5","紅纓-5便攜防空導彈","HN-5 / HongYing-5","HN-5","manpads",aliases=["HN-5","紅纓5","SA-7"],
+       caliber="便攜防空飛彈",rng="射程約 4.4 km；高度 50–2,300 m",cap="第一代紅外便攜防空（SA-7 衍生）",
+       mob="單兵肩射",notes="紅纓-5，中國第一代單兵便攜防空飛彈（SA-7 衍生），已退役。",tags=["MANPADS","舊式"],form="便攜防空飛彈（紅纓-5）",wiki="HN-5"),
+    ar("hn-6","紅纓-6便攜防空導彈","HN-6","HN-6","manpads",aliases=["HN-6","紅纓6"],
+       caliber="便攜防空飛彈",rng="射程約 6 km",cap="新型國產紅外成像便攜防空、抗干擾強",
+       mob="單兵肩射/車載",notes="紅纓-6 新型便攜防空飛彈。",tags=["MANPADS"],form="便攜防空飛彈（紅纓-6）",wiki="HN-6"),
+    ar("qw-1m","前衛-1M便攜防空導彈","QW-1M","QW-1M","manpads",aliases=["QW-1M","前衛1M"],
+       caliber="便攜防空飛彈",rng="射程約 5 km",cap="前衛-1 抗干擾改進型",
+       mob="單兵肩射",notes="前衛-1M 便攜防空飛彈（抗干擾改進）。",tags=["MANPADS"],form="便攜防空飛彈（前衛-1M）",wiki="QW-1 Vanguard"),
+    ar("qw-3","前衛-3便攜防空導彈","QW-3","QW-3","manpads",aliases=["QW-3","前衛3"],
+       caliber="便攜防空飛彈",rng="射程約 8 km",cap="半主動雷射制導，抗紅外干擾",
+       mob="單兵肩射/車載",notes="前衛-3 便攜防空飛彈（雷射制導）。",tags=["MANPADS"],form="便攜防空飛彈（前衛-3）",wiki="QW-3"),
+    ar("qw-18","前衛-18便攜防空導彈","QW-18","QW-18","manpads",aliases=["QW-18","前衛18"],
+       caliber="便攜防空飛彈",rng="射程約 5 km",cap="新型紅外便攜防空，全向攻擊",
+       mob="單兵肩射",notes="前衛-18 便攜防空飛彈。",tags=["MANPADS"],form="便攜防空飛彈（前衛-18）",wiki="QW-18"),
+    ar("hq-7b","紅旗-7B近程防空導彈","HQ-7B","HQ-7B","sam",aliases=["HQ-7B","紅旗7B"],
+       caliber="近程防空飛彈",rng="射程約 15 km",cap="紅旗-7 增程/抗干擾改進、輪式自行",
+       mob="輪式自行",notes="紅旗-7B 近程野戰防空飛彈改進型。",tags=["近程SAM"],form="近程防空飛彈（HQ-7B）",wiki="HQ-7"),
+    ar("hq-11","紅旗-11近程防空導彈","HQ-11 / FM-3000","HQ-11","sam",aliases=["HQ-11","FM-3000"],
+       caliber="近程防空飛彈",rng="射程約 3–25 km（依型）",cap="新型近程點防空、垂直發射公開型",
+       mob="車載垂發",notes="紅旗-11（FM-3000 相關）新型近程防空飛彈。",tags=["近程SAM"],form="近程防空飛彈（HQ-11）",wiki="HQ-11"),
+    ar("tor-m1","道爾-M1防空導彈（引進）","Tor-M1 / SA-15","Tor-M1","sam",aliases=["Tor-M1","道爾","SA-15"],
+       caliber="近程防空飛彈（俄製）",rng="射程約 12 km；高度 6 km",cap="履帶自行、垂直發射、伴隨野戰防空（引進）",
+       mob="履帶自行",notes="道爾-M1 俄製近程野戰防空系統（引進），HQ-17 技術參考。",tags=["近程SAM","俄製"],form="近程防空系統（道爾-M1）",wiki="Tor missile system"),
+    mk("fb-6a","FB-6A車載近程防空系統","FB-6A SHORAD","FB-6A","sam","陸軍",cat="vehicle",
+       aliases=["FB-6A"],caliber="近程防空飛彈",rng="射程約 6.5 km（FN-16 級）",
+       cap="輪式底盤四/六聯裝便攜彈、光電/雷達搜索",mob="4×4 輪式",branch_hint="陸軍",
+       notes="FB-6A 輕型輪式近程防空系統（車載便攜彈）。",tags=["近程SAM","車載"],form_zh="車載近程防空系統（FB-6A）",wiki="FB-6A"),
+    ar("type-84a-avlb","84A式坦克架橋車","Type 84A AVLB","Type 84A","bridge",aliases=["84A式架橋"],
+       weight="約 38 噸",crew="3",cap="剪刀/衝擊式車轍橋改進、跨距約 18–22 m",
+       mob="坦克底盤",notes="84A 式坦克架橋車（84 式改進）。",tags=["工兵","架橋"],form="架橋坦克（84A）",wiki="Type 84 bridgelayer"),
+    ar("type-653-arv","653式坦克搶修車","Type 653 ARV","Type 653","recovery",aliases=["653式","搶修車"],
+       weight="約 38 噸",crew="4",cap="59/69 底盤絞盤/吊臂/推土鏟，戰場拖救搶修",
+       mob="履帶裝甲底盤",notes="653 式裝甲搶修車（59/69 底盤）。",tags=["工兵","搶救"],form="裝甲搶修車（653）",wiki="Type 653 armoured recovery vehicle"),
+    ar("type-99-arv","99式坦克搶修車","Type 99 ARV","Type 99 ARV","recovery",aliases=["99式搶修車"],
+       weight="約 50 噸",crew="4",cap="99 式底盤重型搶修：大絞盤/吊臂/推鏟，拖救主戰坦克",
+       mob="99 式坦克底盤",notes="99 式裝甲搶修車，配套重型主戰坦克部隊。",tags=["工兵","搶救"],form="重型裝甲搶修車（99式）",wiki="Type 99 tank"),
+]
+
 if __name__ == "__main__":
     for name, b in [("GX1 海軍", GX1), ("GX2 海軍", GX2), ("GX3 空軍/海航", GX3),
                     ("GX4 直升機/UAV", GX4), ("GX5 火箭軍", GX5), ("GX6 陸軍裝甲", GX6),
-                    ("GX7 陸軍火砲", GX7)]:
+                    ("GX7 陸軍火砲", GX7), ("GX8 陸軍反坦克/防空/工兵", GX8)]:
         total, n = merge(b)
         print(f"{name}補漏：{n} 筆；累計 {total}")

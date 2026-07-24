@@ -14266,5 +14266,627 @@
       }
     ],
     "branch_hint": "陸軍"
+  },
+  {
+    "id": "hj-9a",
+    "name_zh": "紅箭-9A反坦克導彈",
+    "name_en": "HJ-9A",
+    "designation": "HJ-9A",
+    "aliases": [
+      "HJ-9A",
+      "紅箭9A"
+    ],
+    "category": "vehicle",
+    "subcategory": "atgm",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "重型反戰車飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 5.5 km",
+    "rate_of_fire": "—",
+    "capacity": "毫米波/雷射駕束制導改進、串聯 HEAT 穿深 >1,200mm",
+    "armor": "—",
+    "mobility": "輪式發射車/車載",
+    "sensors": "—",
+    "notes_zh": "紅箭-9A 重型反坦克飛彈改進型（毫米波制導）。",
+    "notes_en": "",
+    "tags": [
+      "反戰車",
+      "重型"
+    ],
+    "odin_hint": "",
+    "form_zh": "重型反戰車飛彈（HJ-9A）",
+    "form_en": "",
+    "wiki": "HJ-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：HJ-9",
+        "url": "https://en.wikipedia.org/wiki/HJ-9"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "pf-89a",
+    "name_zh": "89A式單兵火箭筒",
+    "name_en": "PF-89A",
+    "designation": "PF-89A",
+    "aliases": [
+      "PF-89A"
+    ],
+    "category": "vehicle",
+    "subcategory": "atgm",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "80mm 火箭",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "有效約 400 m",
+    "rate_of_fire": "—",
+    "capacity": "多用途戰鬥部（破甲/殺傷/縱火）一次性火箭",
+    "armor": "—",
+    "mobility": "單兵",
+    "sensors": "—",
+    "notes_zh": "89A 式單兵火箭筒（多用途彈頭改進）。",
+    "notes_en": "",
+    "tags": [
+      "火箭筒",
+      "單兵"
+    ],
+    "odin_hint": "",
+    "form_zh": "單兵火箭筒（89A）",
+    "form_en": "",
+    "wiki": "PF-89",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PF-89",
+        "url": "https://en.wikipedia.org/wiki/PF-89"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "hn-5",
+    "name_zh": "紅纓-5便攜防空導彈",
+    "name_en": "HN-5 / HongYing-5",
+    "designation": "HN-5",
+    "aliases": [
+      "HN-5",
+      "紅纓5",
+      "SA-7"
+    ],
+    "category": "vehicle",
+    "subcategory": "manpads",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "便攜防空飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 4.4 km；高度 50–2,300 m",
+    "rate_of_fire": "—",
+    "capacity": "第一代紅外便攜防空（SA-7 衍生）",
+    "armor": "—",
+    "mobility": "單兵肩射",
+    "sensors": "—",
+    "notes_zh": "紅纓-5，中國第一代單兵便攜防空飛彈（SA-7 衍生），已退役。",
+    "notes_en": "",
+    "tags": [
+      "MANPADS",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "便攜防空飛彈（紅纓-5）",
+    "form_en": "",
+    "wiki": "HN-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：HN-5",
+        "url": "https://en.wikipedia.org/wiki/HN-5"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "hn-6",
+    "name_zh": "紅纓-6便攜防空導彈",
+    "name_en": "HN-6",
+    "designation": "HN-6",
+    "aliases": [
+      "HN-6",
+      "紅纓6"
+    ],
+    "category": "vehicle",
+    "subcategory": "manpads",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "便攜防空飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 6 km",
+    "rate_of_fire": "—",
+    "capacity": "新型國產紅外成像便攜防空、抗干擾強",
+    "armor": "—",
+    "mobility": "單兵肩射/車載",
+    "sensors": "—",
+    "notes_zh": "紅纓-6 新型便攜防空飛彈。",
+    "notes_en": "",
+    "tags": [
+      "MANPADS"
+    ],
+    "odin_hint": "",
+    "form_zh": "便攜防空飛彈（紅纓-6）",
+    "form_en": "",
+    "wiki": "HN-6",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：HN-6",
+        "url": "https://en.wikipedia.org/wiki/HN-6"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "qw-1m",
+    "name_zh": "前衛-1M便攜防空導彈",
+    "name_en": "QW-1M",
+    "designation": "QW-1M",
+    "aliases": [
+      "QW-1M",
+      "前衛1M"
+    ],
+    "category": "vehicle",
+    "subcategory": "manpads",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "便攜防空飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 5 km",
+    "rate_of_fire": "—",
+    "capacity": "前衛-1 抗干擾改進型",
+    "armor": "—",
+    "mobility": "單兵肩射",
+    "sensors": "—",
+    "notes_zh": "前衛-1M 便攜防空飛彈（抗干擾改進）。",
+    "notes_en": "",
+    "tags": [
+      "MANPADS"
+    ],
+    "odin_hint": "",
+    "form_zh": "便攜防空飛彈（前衛-1M）",
+    "form_en": "",
+    "wiki": "QW-1 Vanguard",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QW-1 Vanguard",
+        "url": "https://en.wikipedia.org/wiki/QW-1_Vanguard"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "qw-3",
+    "name_zh": "前衛-3便攜防空導彈",
+    "name_en": "QW-3",
+    "designation": "QW-3",
+    "aliases": [
+      "QW-3",
+      "前衛3"
+    ],
+    "category": "vehicle",
+    "subcategory": "manpads",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "便攜防空飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 8 km",
+    "rate_of_fire": "—",
+    "capacity": "半主動雷射制導，抗紅外干擾",
+    "armor": "—",
+    "mobility": "單兵肩射/車載",
+    "sensors": "—",
+    "notes_zh": "前衛-3 便攜防空飛彈（雷射制導）。",
+    "notes_en": "",
+    "tags": [
+      "MANPADS"
+    ],
+    "odin_hint": "",
+    "form_zh": "便攜防空飛彈（前衛-3）",
+    "form_en": "",
+    "wiki": "QW-3",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QW-3",
+        "url": "https://en.wikipedia.org/wiki/QW-3"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "qw-18",
+    "name_zh": "前衛-18便攜防空導彈",
+    "name_en": "QW-18",
+    "designation": "QW-18",
+    "aliases": [
+      "QW-18",
+      "前衛18"
+    ],
+    "category": "vehicle",
+    "subcategory": "manpads",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "便攜防空飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 5 km",
+    "rate_of_fire": "—",
+    "capacity": "新型紅外便攜防空，全向攻擊",
+    "armor": "—",
+    "mobility": "單兵肩射",
+    "sensors": "—",
+    "notes_zh": "前衛-18 便攜防空飛彈。",
+    "notes_en": "",
+    "tags": [
+      "MANPADS"
+    ],
+    "odin_hint": "",
+    "form_zh": "便攜防空飛彈（前衛-18）",
+    "form_en": "",
+    "wiki": "QW-18",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QW-18",
+        "url": "https://en.wikipedia.org/wiki/QW-18"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "hq-7b",
+    "name_zh": "紅旗-7B近程防空導彈",
+    "name_en": "HQ-7B",
+    "designation": "HQ-7B",
+    "aliases": [
+      "HQ-7B",
+      "紅旗7B"
+    ],
+    "category": "vehicle",
+    "subcategory": "sam",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "近程防空飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 15 km",
+    "rate_of_fire": "—",
+    "capacity": "紅旗-7 增程/抗干擾改進、輪式自行",
+    "armor": "—",
+    "mobility": "輪式自行",
+    "sensors": "—",
+    "notes_zh": "紅旗-7B 近程野戰防空飛彈改進型。",
+    "notes_en": "",
+    "tags": [
+      "近程SAM"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程防空飛彈（HQ-7B）",
+    "form_en": "",
+    "wiki": "HQ-7",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：HQ-7",
+        "url": "https://en.wikipedia.org/wiki/HQ-7"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "hq-11",
+    "name_zh": "紅旗-11近程防空導彈",
+    "name_en": "HQ-11 / FM-3000",
+    "designation": "HQ-11",
+    "aliases": [
+      "HQ-11",
+      "FM-3000"
+    ],
+    "category": "vehicle",
+    "subcategory": "sam",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "近程防空飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 3–25 km（依型）",
+    "rate_of_fire": "—",
+    "capacity": "新型近程點防空、垂直發射公開型",
+    "armor": "—",
+    "mobility": "車載垂發",
+    "sensors": "—",
+    "notes_zh": "紅旗-11（FM-3000 相關）新型近程防空飛彈。",
+    "notes_en": "",
+    "tags": [
+      "近程SAM"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程防空飛彈（HQ-11）",
+    "form_en": "",
+    "wiki": "HQ-11",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：HQ-11",
+        "url": "https://en.wikipedia.org/wiki/HQ-11"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "tor-m1",
+    "name_zh": "道爾-M1防空導彈（引進）",
+    "name_en": "Tor-M1 / SA-15",
+    "designation": "Tor-M1",
+    "aliases": [
+      "Tor-M1",
+      "道爾",
+      "SA-15"
+    ],
+    "category": "vehicle",
+    "subcategory": "sam",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "近程防空飛彈（俄製）",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 12 km；高度 6 km",
+    "rate_of_fire": "—",
+    "capacity": "履帶自行、垂直發射、伴隨野戰防空（引進）",
+    "armor": "—",
+    "mobility": "履帶自行",
+    "sensors": "—",
+    "notes_zh": "道爾-M1 俄製近程野戰防空系統（引進），HQ-17 技術參考。",
+    "notes_en": "",
+    "tags": [
+      "近程SAM",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "近程防空系統（道爾-M1）",
+    "form_en": "",
+    "wiki": "Tor missile system",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Tor missile system",
+        "url": "https://en.wikipedia.org/wiki/Tor_missile_system"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "fb-6a",
+    "name_zh": "FB-6A車載近程防空系統",
+    "name_en": "FB-6A SHORAD",
+    "designation": "FB-6A",
+    "aliases": [
+      "FB-6A"
+    ],
+    "category": "vehicle",
+    "subcategory": "sam",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "近程防空飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "射程約 6.5 km（FN-16 級）",
+    "rate_of_fire": "—",
+    "capacity": "輪式底盤四/六聯裝便攜彈、光電/雷達搜索",
+    "armor": "—",
+    "mobility": "4×4 輪式",
+    "sensors": "—",
+    "notes_zh": "FB-6A 輕型輪式近程防空系統（車載便攜彈）。",
+    "notes_en": "",
+    "tags": [
+      "近程SAM",
+      "車載"
+    ],
+    "odin_hint": "",
+    "form_zh": "車載近程防空系統（FB-6A）",
+    "form_en": "",
+    "wiki": "FB-6A",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：FB-6A",
+        "url": "https://en.wikipedia.org/wiki/FB-6A"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "type-84a-avlb",
+    "name_zh": "84A式坦克架橋車",
+    "name_en": "Type 84A AVLB",
+    "designation": "Type 84A",
+    "aliases": [
+      "84A式架橋"
+    ],
+    "category": "vehicle",
+    "subcategory": "bridge",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "3",
+    "weight_kg": "約 38 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "剪刀/衝擊式車轍橋改進、跨距約 18–22 m",
+    "armor": "—",
+    "mobility": "坦克底盤",
+    "sensors": "—",
+    "notes_zh": "84A 式坦克架橋車（84 式改進）。",
+    "notes_en": "",
+    "tags": [
+      "工兵",
+      "架橋"
+    ],
+    "odin_hint": "",
+    "form_zh": "架橋坦克（84A）",
+    "form_en": "",
+    "wiki": "Type 84 bridgelayer",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 84 bridgelayer",
+        "url": "https://en.wikipedia.org/wiki/Type_84_bridgelayer"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "type-653-arv",
+    "name_zh": "653式坦克搶修車",
+    "name_en": "Type 653 ARV",
+    "designation": "Type 653",
+    "aliases": [
+      "653式",
+      "搶修車"
+    ],
+    "category": "vehicle",
+    "subcategory": "recovery",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "4",
+    "weight_kg": "約 38 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "59/69 底盤絞盤/吊臂/推土鏟，戰場拖救搶修",
+    "armor": "—",
+    "mobility": "履帶裝甲底盤",
+    "sensors": "—",
+    "notes_zh": "653 式裝甲搶修車（59/69 底盤）。",
+    "notes_en": "",
+    "tags": [
+      "工兵",
+      "搶救"
+    ],
+    "odin_hint": "",
+    "form_zh": "裝甲搶修車（653）",
+    "form_en": "",
+    "wiki": "Type 653 armoured recovery vehicle",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 653 armoured recovery vehicle",
+        "url": "https://en.wikipedia.org/wiki/Type_653_armoured_recovery_vehicle"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "type-99-arv",
+    "name_zh": "99式坦克搶修車",
+    "name_en": "Type 99 ARV",
+    "designation": "Type 99 ARV",
+    "aliases": [
+      "99式搶修車"
+    ],
+    "category": "vehicle",
+    "subcategory": "recovery",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "4",
+    "weight_kg": "約 50 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "99 式底盤重型搶修：大絞盤/吊臂/推鏟，拖救主戰坦克",
+    "armor": "—",
+    "mobility": "99 式坦克底盤",
+    "sensors": "—",
+    "notes_zh": "99 式裝甲搶修車，配套重型主戰坦克部隊。",
+    "notes_en": "",
+    "tags": [
+      "工兵",
+      "搶救"
+    ],
+    "odin_hint": "",
+    "form_zh": "重型裝甲搶修車（99式）",
+    "form_en": "",
+    "wiki": "Type 99 tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 99 tank",
+        "url": "https://en.wikipedia.org/wiki/Type_99_tank"
+      }
+    ],
+    "branch_hint": "陸軍"
   }
 ]
