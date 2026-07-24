@@ -918,8 +918,9 @@ GX9 = [
 # ===== GX10：通用步兵武器缺漏（Grok inf_10 diff，含誤判外手動補齊）=====
 def w(id, zh, en, desig, sub, *, aliases=None, caliber="—", weight="—", rng="—", rof="—",
       cap="—", notes="", tags=None, form="", wiki=""):
+    capacity = cap if rof in ("—", "") else (f"{cap}；射速 {rof}" if cap not in ("—", "") else f"射速 {rof}")
     return mk(id, zh, en, desig, sub, "通用", cat="weapon", aliases=aliases, caliber=caliber,
-              weight=weight, rng=rng, rate_of_fire=rof, capacity=cap, notes=notes,
+              weight=weight, rng=rng, cap=capacity, notes=notes,
               tags=tags or [], form_zh=form, wiki=wiki, branch_hint="通用")
 
 GX10 = [

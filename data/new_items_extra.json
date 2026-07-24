@@ -15626,5 +15626,978 @@
       }
     ],
     "branch_hint": "陸軍"
+  },
+  {
+    "id": "qbz-95",
+    "name_zh": "95式自動步槍",
+    "name_en": "QBZ-95",
+    "designation": "QBZ-95",
+    "aliases": [
+      "QBZ-95",
+      "95式"
+    ],
+    "category": "weapon",
+    "subcategory": "assault_rifle",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "5.8×42mm",
+    "crew": "—",
+    "weight_kg": "約 3.25 kg",
+    "length_mm": "—",
+    "range_m": "有效 400m",
+    "rate_of_fire": "—",
+    "capacity": "30 發彈匣、無托；射速 約 650 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "95式無托自動步槍基型，長期制式主力（衍生 95-1）。",
+    "notes_en": "",
+    "tags": [
+      "步槍",
+      "無托"
+    ],
+    "odin_hint": "",
+    "form_zh": "無托自動步槍（95式）",
+    "form_en": "",
+    "wiki": "QBZ-95",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QBZ-95",
+        "url": "https://en.wikipedia.org/wiki/QBZ-95"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-68-rifle",
+    "name_zh": "68式自動步槍",
+    "name_en": "Type 68",
+    "designation": "Type 68",
+    "aliases": [
+      "68式"
+    ],
+    "category": "weapon",
+    "subcategory": "assault_rifle",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "7.62×39mm",
+    "crew": "—",
+    "weight_kg": "約 3.5 kg",
+    "length_mm": "—",
+    "range_m": "有效 400m",
+    "rate_of_fire": "—",
+    "capacity": "15/30 發彈匣；射速 約 750 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "68式自動步槍，56 半自動與自動步槍結合的過渡型，已退役。",
+    "notes_en": "",
+    "tags": [
+      "步槍",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "自動步槍（68式）",
+    "form_en": "",
+    "wiki": "Type 68 rifle",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 68 rifle",
+        "url": "https://en.wikipedia.org/wiki/Type_68_rifle"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-cq",
+    "name_zh": "CQ 5.56毫米步槍",
+    "name_en": "Type CQ (AR-15 pattern)",
+    "designation": "Type CQ",
+    "aliases": [
+      "CQ",
+      "CQ-A",
+      "M16 仿製"
+    ],
+    "category": "weapon",
+    "subcategory": "assault_rifle",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "5.56×45mm NATO",
+    "crew": "—",
+    "weight_kg": "約 3.4 kg",
+    "length_mm": "—",
+    "range_m": "有效 400m",
+    "rate_of_fire": "—",
+    "capacity": "20/30 發彈匣；射速 約 800 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "CQ 步槍（AR-15/M16 仿製），外銷與準軍事使用。",
+    "notes_en": "",
+    "tags": [
+      "步槍",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "突擊步槍（CQ/AR-15 型）",
+    "form_en": "",
+    "wiki": "Norinco CQ",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Norinco CQ",
+        "url": "https://en.wikipedia.org/wiki/Norinco_CQ"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "qbz-192",
+    "name_zh": "192式短突擊步槍",
+    "name_en": "QBZ-192",
+    "designation": "QBZ-192",
+    "aliases": [
+      "QBZ-192",
+      "192式"
+    ],
+    "category": "weapon",
+    "subcategory": "carbine",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "5.8×42mm",
+    "crew": "—",
+    "weight_kg": "約 2.9 kg",
+    "length_mm": "—",
+    "range_m": "有效 300m",
+    "rate_of_fire": "—",
+    "capacity": "191 槍族短管卡賓、可摺疊托；射速 約 750 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "192式短突擊步槍（191 槍族短卡賓），巷戰/車組/特戰。",
+    "notes_en": "",
+    "tags": [
+      "卡賓",
+      "191槍族"
+    ],
+    "odin_hint": "",
+    "form_zh": "短突擊步槍（192式）",
+    "form_en": "",
+    "wiki": "QBZ-191",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QBZ-191",
+        "url": "https://en.wikipedia.org/wiki/QBZ-191"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-85-smg",
+    "name_zh": "85式衝鋒槍",
+    "name_en": "Type 85 SMG",
+    "designation": "Type 85 SMG",
+    "aliases": [
+      "85式衝鋒槍"
+    ],
+    "category": "weapon",
+    "subcategory": "smg",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "7.62×25mm",
+    "crew": "—",
+    "weight_kg": "約 1.9 kg",
+    "length_mm": "—",
+    "range_m": "有效 200m",
+    "rate_of_fire": "—",
+    "capacity": "30 發彈匣（79式簡化）；射速 約 780 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "85式衝鋒槍（79式簡化改進），特警/二線。",
+    "notes_en": "",
+    "tags": [
+      "衝鋒槍"
+    ],
+    "odin_hint": "",
+    "form_zh": "衝鋒槍（85式）",
+    "form_en": "",
+    "wiki": "Type 85 submachine gun",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 85 submachine gun",
+        "url": "https://en.wikipedia.org/wiki/Type_85_submachine_gun"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "js-9-smg",
+    "name_zh": "JS 9毫米衝鋒槍",
+    "name_en": "JS 9mm SMG",
+    "designation": "JS 9mm",
+    "aliases": [
+      "JS 9mm",
+      "CS/LS5"
+    ],
+    "category": "weapon",
+    "subcategory": "smg",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "9×19mm",
+    "crew": "—",
+    "weight_kg": "約 2.2 kg",
+    "length_mm": "—",
+    "range_m": "有效 100–150m",
+    "rate_of_fire": "—",
+    "capacity": "30 發彈匣、特警/特戰；射速 約 800 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "JS 9mm 衝鋒槍，公安特警與特戰使用。",
+    "notes_en": "",
+    "tags": [
+      "衝鋒槍",
+      "特戰"
+    ],
+    "odin_hint": "",
+    "form_zh": "9mm 衝鋒槍（JS）",
+    "form_en": "",
+    "wiki": "Chang Feng submachine gun",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Chang Feng submachine gun",
+        "url": "https://en.wikipedia.org/wiki/Chang_Feng_submachine_gun"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-56-lmg",
+    "name_zh": "56式班用機槍",
+    "name_en": "Type 56 LMG (RPD)",
+    "designation": "Type 56 LMG",
+    "aliases": [
+      "56式班機",
+      "RPD"
+    ],
+    "category": "weapon",
+    "subcategory": "mg",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "7.62×39mm",
+    "crew": "—",
+    "weight_kg": "約 7.4 kg",
+    "length_mm": "—",
+    "range_m": "有效 800m",
+    "rate_of_fire": "—",
+    "capacity": "100 發彈鏈/彈鼓（RPD 系）；射速 約 650 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "56式班用機槍（蘇聯 RPD 仿製），已退役。",
+    "notes_en": "",
+    "tags": [
+      "機槍",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "班用機槍（RPD 系）",
+    "form_en": "",
+    "wiki": "Type 56 light machine gun",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 56 light machine gun",
+        "url": "https://en.wikipedia.org/wiki/Type_56_light_machine_gun"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-81-lmg",
+    "name_zh": "81式班用機槍",
+    "name_en": "Type 81 LMG",
+    "designation": "Type 81 LMG",
+    "aliases": [
+      "81式班機"
+    ],
+    "category": "weapon",
+    "subcategory": "mg",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "7.62×39mm",
+    "crew": "—",
+    "weight_kg": "約 5.3 kg",
+    "length_mm": "—",
+    "range_m": "有效 800m",
+    "rate_of_fire": "—",
+    "capacity": "75 發彈鼓、81 槍族；射速 約 700 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "81式班用機槍（81 槍族），與 81 步槍通用。",
+    "notes_en": "",
+    "tags": [
+      "機槍",
+      "班用"
+    ],
+    "odin_hint": "",
+    "form_zh": "班用機槍（81式）",
+    "form_en": "",
+    "wiki": "Type 81 assault rifle",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 81 assault rifle",
+        "url": "https://en.wikipedia.org/wiki/Type_81_assault_rifle"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "qjs-161",
+    "name_zh": "161式班用機槍",
+    "name_en": "QJS-161",
+    "designation": "QJS-161",
+    "aliases": [
+      "QJS-161",
+      "161式班機"
+    ],
+    "category": "weapon",
+    "subcategory": "mg",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "5.8×42mm",
+    "crew": "—",
+    "weight_kg": "約 5 kg",
+    "length_mm": "—",
+    "range_m": "有效 800m",
+    "rate_of_fire": "—",
+    "capacity": "彈鏈/75 發彈鼓、新一代；射速 中高射速",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "161式班用機槍，191 槍族體系新一代班用機槍。",
+    "notes_en": "",
+    "tags": [
+      "機槍",
+      "班用"
+    ],
+    "odin_hint": "",
+    "form_zh": "班用機槍（161式）",
+    "form_en": "",
+    "wiki": "QBZ-191",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QBZ-191",
+        "url": "https://en.wikipedia.org/wiki/QBZ-191"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-85-hmg",
+    "name_zh": "85式12.7毫米高射機槍",
+    "name_en": "Type 85 HMG",
+    "designation": "Type 85 HMG",
+    "aliases": [
+      "85式高機"
+    ],
+    "category": "weapon",
+    "subcategory": "hmg",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "12.7×108mm",
+    "crew": "—",
+    "weight_kg": "約 18 kg（含架）",
+    "length_mm": "—",
+    "range_m": "有效 1,600m",
+    "rate_of_fire": "—",
+    "capacity": "彈鏈、77式簡化輕量化；射速 約 550 發/分",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "85式 12.7mm 高射機槍（77式簡化輕量化）。",
+    "notes_en": "",
+    "tags": [
+      "重機槍",
+      "高射"
+    ],
+    "odin_hint": "",
+    "form_zh": "12.7mm 高射機槍（85式）",
+    "form_en": "",
+    "wiki": "Type 85 heavy machine gun",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 85 heavy machine gun",
+        "url": "https://en.wikipedia.org/wiki/Type_85_heavy_machine_gun"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "qbu-141",
+    "name_zh": "141式狙擊步槍",
+    "name_en": "QBU-141",
+    "designation": "QBU-141",
+    "aliases": [
+      "QBU-141"
+    ],
+    "category": "weapon",
+    "subcategory": "dmr",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "5.8×42mm",
+    "crew": "—",
+    "weight_kg": "約 4.6 kg",
+    "length_mm": "—",
+    "range_m": "有效 800m",
+    "rate_of_fire": "—",
+    "capacity": "10 發彈匣、精確射手/狙擊；射速 半自動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "141式狙擊/精確射手步槍。",
+    "notes_en": "",
+    "tags": [
+      "狙擊",
+      "精確射手"
+    ],
+    "odin_hint": "",
+    "form_zh": "精確射手步槍（141式）",
+    "form_en": "",
+    "wiki": "QBU-88",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QBU-88",
+        "url": "https://en.wikipedia.org/wiki/QBU-88"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "qbu-202",
+    "name_zh": "202式狙擊步槍",
+    "name_en": "QBU-202",
+    "designation": "QBU-202",
+    "aliases": [
+      "QBU-202"
+    ],
+    "category": "weapon",
+    "subcategory": "dmr",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "7.62mm",
+    "crew": "—",
+    "weight_kg": "約 5 kg",
+    "length_mm": "—",
+    "range_m": "有效 800m+",
+    "rate_of_fire": "—",
+    "capacity": "新一代狙擊步槍；射速 栓動/半自動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "202式狙擊步槍，新一代狙擊槍族。",
+    "notes_en": "",
+    "tags": [
+      "狙擊"
+    ],
+    "odin_hint": "",
+    "form_zh": "狙擊步槍（202式）",
+    "form_en": "",
+    "wiki": "QBU-88",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QBU-88",
+        "url": "https://en.wikipedia.org/wiki/QBU-88"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "cs-lr4",
+    "name_zh": "CS/LR4狙擊步槍",
+    "name_en": "CS/LR4",
+    "designation": "CS/LR4",
+    "aliases": [
+      "CS/LR4"
+    ],
+    "category": "weapon",
+    "subcategory": "dmr",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "7.62×51mm NATO",
+    "crew": "—",
+    "weight_kg": "約 6.5 kg",
+    "length_mm": "—",
+    "range_m": "有效 800m",
+    "rate_of_fire": "—",
+    "capacity": "10 發彈匣、警用/部隊精確射擊；射速 栓動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "CS/LR4 栓動狙擊步槍，特警與部隊使用。",
+    "notes_en": "",
+    "tags": [
+      "狙擊",
+      "栓動"
+    ],
+    "odin_hint": "",
+    "form_zh": "栓動狙擊步槍（CS/LR4）",
+    "form_en": "",
+    "wiki": "CS/LR4",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CS/LR4",
+        "url": "https://en.wikipedia.org/wiki/CS/LR4"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "cs-lr3",
+    "name_zh": "CS/LR3狙擊步槍",
+    "name_en": "CS/LR3",
+    "designation": "CS/LR3",
+    "aliases": [
+      "CS/LR3"
+    ],
+    "category": "weapon",
+    "subcategory": "dmr",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "5.8×42mm",
+    "crew": "—",
+    "weight_kg": "約 5 kg",
+    "length_mm": "—",
+    "range_m": "有效 600m",
+    "rate_of_fire": "—",
+    "capacity": "精確射手型；射速 半自動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "CS/LR3 5.8mm 狙擊步槍。",
+    "notes_en": "",
+    "tags": [
+      "狙擊"
+    ],
+    "odin_hint": "",
+    "form_zh": "狙擊步槍（CS/LR3）",
+    "form_en": "",
+    "wiki": "CS/LR4",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CS/LR4",
+        "url": "https://en.wikipedia.org/wiki/CS/LR4"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "m99-amr",
+    "name_zh": "M99反器材步槍",
+    "name_en": "M99 anti-materiel rifle",
+    "designation": "M99",
+    "aliases": [
+      "M99"
+    ],
+    "category": "weapon",
+    "subcategory": "amr",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "12.7×108mm",
+    "crew": "—",
+    "weight_kg": "約 12 kg",
+    "length_mm": "—",
+    "range_m": "有效約 1,500m",
+    "rate_of_fire": "—",
+    "capacity": "5 發彈匣、反器材/遠程狙擊（外銷）；射速 半自動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "M99 12.7mm 反器材狙擊步槍（外銷型）。",
+    "notes_en": "",
+    "tags": [
+      "反器材",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "反器材步槍（M99）",
+    "form_en": "",
+    "wiki": "M99 rifle",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：M99 rifle",
+        "url": "https://en.wikipedia.org/wiki/M99_rifle"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-59-pistol",
+    "name_zh": "59式手槍",
+    "name_en": "Type 59 (Makarov)",
+    "designation": "Type 59",
+    "aliases": [
+      "59式",
+      "Makarov"
+    ],
+    "category": "weapon",
+    "subcategory": "pistol",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "9×18mm",
+    "crew": "—",
+    "weight_kg": "約 0.73 kg",
+    "length_mm": "—",
+    "range_m": "有效 50m",
+    "rate_of_fire": "—",
+    "capacity": "8 發彈匣（馬卡洛夫系）；射速 半自動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "59式手槍（蘇聯馬卡洛夫仿製），已退役。",
+    "notes_en": "",
+    "tags": [
+      "手槍",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "自衛手槍（馬卡洛夫系）",
+    "form_en": "",
+    "wiki": "Type 59 pistol",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 59 pistol",
+        "url": "https://en.wikipedia.org/wiki/Type_59_pistol"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-77-pistol",
+    "name_zh": "77式手槍",
+    "name_en": "Type 77 pistol",
+    "designation": "Type 77",
+    "aliases": [
+      "77式"
+    ],
+    "category": "weapon",
+    "subcategory": "pistol",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "7.62×17mm",
+    "crew": "—",
+    "weight_kg": "約 0.5 kg",
+    "length_mm": "—",
+    "range_m": "有效 50m",
+    "rate_of_fire": "—",
+    "capacity": "7 發彈匣、單手上膛；射速 半自動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "77式手槍，可單手上膛的輕型自衛手槍。",
+    "notes_en": "",
+    "tags": [
+      "手槍"
+    ],
+    "odin_hint": "",
+    "form_zh": "自衛手槍（77式）",
+    "form_en": "",
+    "wiki": "Type 77 pistol",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 77 pistol",
+        "url": "https://en.wikipedia.org/wiki/Type_77_pistol"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "qsz-92g",
+    "name_zh": "92G式手槍",
+    "name_en": "QSZ-92G",
+    "designation": "QSZ-92G",
+    "aliases": [
+      "QSZ-92G",
+      "92G"
+    ],
+    "category": "weapon",
+    "subcategory": "pistol",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "9×19mm",
+    "crew": "—",
+    "weight_kg": "約 0.76 kg",
+    "length_mm": "—",
+    "range_m": "有效 50m",
+    "rate_of_fire": "—",
+    "capacity": "15/20 發彈匣、92式改進型；射速 半自動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "92G式手槍（92式 9mm 改進型）。",
+    "notes_en": "",
+    "tags": [
+      "手槍"
+    ],
+    "odin_hint": "",
+    "form_zh": "半自動手槍（92G）",
+    "form_en": "",
+    "wiki": "QSZ-92",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QSZ-92",
+        "url": "https://en.wikipedia.org/wiki/QSZ-92"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "qx-04",
+    "name_zh": "QX-04手槍",
+    "name_en": "QX-04 pistol",
+    "designation": "QX-04",
+    "aliases": [
+      "QX-04"
+    ],
+    "category": "weapon",
+    "subcategory": "pistol",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "多口徑模組（9mm 等）",
+    "crew": "—",
+    "weight_kg": "約 0.7 kg",
+    "length_mm": "—",
+    "range_m": "有效 50m",
+    "rate_of_fire": "—",
+    "capacity": "模組化、新型軍警手槍；射速 半自動",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "QX-04 模組化手槍，新一代軍警手槍公開型。",
+    "notes_en": "",
+    "tags": [
+      "手槍",
+      "模組化"
+    ],
+    "odin_hint": "",
+    "form_zh": "模組化手槍（QX-04）",
+    "form_en": "",
+    "wiki": "QSZ-92",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：QSZ-92",
+        "url": "https://en.wikipedia.org/wiki/QSZ-92"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "pf-97",
+    "name_zh": "97式雲爆火箭筒",
+    "name_en": "PF-97",
+    "designation": "PF-97",
+    "aliases": [
+      "PF-97",
+      "93式改"
+    ],
+    "category": "weapon",
+    "subcategory": "at_rocket",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "93mm 雲爆火箭",
+    "crew": "—",
+    "weight_kg": "發射器約 9 kg",
+    "length_mm": "—",
+    "range_m": "有效約 800m",
+    "rate_of_fire": "—",
+    "capacity": "雲爆（溫壓）/殺傷彈頭；射速 單發",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "97式單兵雲爆（溫壓）火箭筒，攻堅/殺傷。",
+    "notes_en": "",
+    "tags": [
+      "火箭筒",
+      "雲爆"
+    ],
+    "odin_hint": "",
+    "form_zh": "單兵雲爆火箭筒（97式）",
+    "form_en": "",
+    "wiki": "PF-97",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PF-97",
+        "url": "https://en.wikipedia.org/wiki/PF-97"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-63-60",
+    "name_zh": "63式60毫米迫擊炮",
+    "name_en": "Type 63 60mm mortar",
+    "designation": "Type 63-60",
+    "aliases": [
+      "63式60迫"
+    ],
+    "category": "weapon",
+    "subcategory": "mortar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "60mm 迫擊砲",
+    "crew": "—",
+    "weight_kg": "約 12 kg",
+    "length_mm": "—",
+    "range_m": "射程約 1.5 km",
+    "rate_of_fire": "—",
+    "capacity": "連排級輕型迫擊砲；射速 快速",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "63式 60mm 迫擊砲，連排級輕型支援。",
+    "notes_en": "",
+    "tags": [
+      "迫擊砲",
+      "輕型"
+    ],
+    "odin_hint": "",
+    "form_zh": "60mm 迫擊砲（63式）",
+    "form_en": "",
+    "wiki": "Type 63 mortar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 63 mortar",
+        "url": "https://en.wikipedia.org/wiki/Type_63_mortar"
+      }
+    ],
+    "branch_hint": "通用"
+  },
+  {
+    "id": "type-90-60",
+    "name_zh": "90式60毫米迫擊炮",
+    "name_en": "Type 90 60mm mortar",
+    "designation": "Type 90-60",
+    "aliases": [
+      "90式60迫"
+    ],
+    "category": "weapon",
+    "subcategory": "mortar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "60mm 迫擊砲",
+    "crew": "—",
+    "weight_kg": "約 13 kg",
+    "length_mm": "—",
+    "range_m": "射程約 2.7 km",
+    "rate_of_fire": "—",
+    "capacity": "改進型輕型迫擊砲、可加長增程；射速 快速",
+    "armor": "—",
+    "mobility": "—",
+    "sensors": "—",
+    "notes_zh": "90式 60mm 迫擊砲，射程增大的連排級迫擊砲。",
+    "notes_en": "",
+    "tags": [
+      "迫擊砲",
+      "輕型"
+    ],
+    "odin_hint": "",
+    "form_zh": "60mm 迫擊砲（90式）",
+    "form_en": "",
+    "wiki": "Type 90 mortar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 90 mortar",
+        "url": "https://en.wikipedia.org/wiki/Type_90_mortar"
+      }
+    ],
+    "branch_hint": "通用"
   }
 ]
