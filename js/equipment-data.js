@@ -2513,45 +2513,44 @@ window.EQUIPMENT_DATA = [
   },
   {
     "id": "type-59d",
-    "name_zh": "59D式坦克",
-    "name_en": "Type 59D",
+    "name_zh": "59D式主戰坦克",
+    "name_en": "Type 59D MBT",
     "designation": "Type 59D",
     "aliases": [
-      "59改"
+      "59D式"
     ],
     "category": "vehicle",
     "subcategory": "mbt",
     "origin": "China",
     "origin_zh": "中國",
-    "service": "後備",
-    "service_zh": "後備",
+    "service": "陸軍",
+    "service_zh": "陸軍",
     "caliber": "105mm ZPL-94（62 倍徑）",
     "crew": "4",
     "weight_kg": "約 36 噸",
     "length_mm": "—",
     "range_m": "可砲射 ATGM 至 5,500m",
     "rate_of_fire": "—",
-    "capacity": "—",
+    "capacity": "105mm 砲、火控升級、砲射飛彈",
     "armor": "爆反裝甲＋穩定射控＋夜視",
     "mobility": "12150L V12 520hp",
     "sensors": "—",
-    "notes_zh": "59 式深度改良，105mm 線膛＋ERA。",
-    "notes_en": "Type 59D. Main battle tank (upgraded, reserve).",
+    "notes_zh": "59式深度現代化型，換 105mm 砲與 ERA。",
+    "notes_en": "",
     "tags": [
-      "坦克",
-      "舊式"
+      "坦克"
     ],
-    "odin_hint": "AFV",
+    "odin_hint": "",
     "wiki": "Type 59 tank",
-    "image": "assets/images/type-59d.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Type_59_tank_in_Military_Museum_of_the_Chinese_People%27s_Revolution_20180219.jpg/330px-Type_59_tank_in_Military_Museum_of_the_Chinese_People%27s_Revolution_20180219.jpg",
     "source_tier": "US_open",
     "source_authority": [
       "US/allied open-source military references (ODIN WEG-style / CSIS / Jane's)"
     ],
-    "form_zh": "主戰坦克（升級／後備）",
-    "form_en": "Main battle tank (upgraded, reserve)",
+    "form_zh": "主戰坦克（59 現代化）",
+    "form_en": "",
     "us_designation": "Type 59D",
     "dod_class": "Main battle tank (upgraded, reserve)",
     "authority_verified": true,
@@ -14364,5 +14363,2526 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/WZ-9"
       }
     ]
+  },
+  {
+    "id": "type-053h2g",
+    "name_zh": "053H2G型護衛艦（江衛I級）",
+    "name_en": "Type 053H2G Jiangwei I",
+    "designation": "Type 053H2G",
+    "aliases": [
+      "江衛I",
+      "Jiangwei I"
+    ],
+    "category": "vehicle",
+    "subcategory": "warship",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "100mm 雙聯裝砲",
+    "crew": "170",
+    "weight_kg": "滿載約 2,250 噸",
+    "length_mm": "112 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "6×YJ-83 反艦、HQ-61 防空、2×3 魚雷",
+    "armor": "—",
+    "mobility": "護衛艦（FFG）",
+    "sensors": "—",
+    "notes_zh": "江衛I級護衛艦，1990年代服役，反艦/防空/反潛。",
+    "notes_en": "",
+    "tags": [
+      "護衛艦",
+      "江衛"
+    ],
+    "odin_hint": "",
+    "form_zh": "飛彈護衛艦（江衛I級）",
+    "form_en": "",
+    "wiki": "Type 053 frigate",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 053 frigate",
+        "url": "https://en.wikipedia.org/wiki/Type_053_frigate"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-053h1g",
+    "name_zh": "053H1G型護衛艦（江湖V級）",
+    "name_en": "Type 053H1G Jianghu V",
+    "designation": "Type 053H1G",
+    "aliases": [
+      "江湖V",
+      "Jianghu V"
+    ],
+    "category": "vehicle",
+    "subcategory": "warship",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "2×100mm 砲",
+    "crew": "200",
+    "weight_kg": "滿載約 1,900 噸",
+    "length_mm": "103 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "8×YJ-83 反艦",
+    "armor": "—",
+    "mobility": "護衛艦（FF）",
+    "sensors": "—",
+    "notes_zh": "江湖V級護衛艦，近岸巡邏/護漁執法常見。",
+    "notes_en": "",
+    "tags": [
+      "護衛艦",
+      "江湖"
+    ],
+    "odin_hint": "",
+    "form_zh": "飛彈護衛艦（江湖V級）",
+    "form_en": "",
+    "wiki": "Type 053 frigate",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 053 frigate",
+        "url": "https://en.wikipedia.org/wiki/Type_053_frigate"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-053h",
+    "name_zh": "053H型護衛艦（江湖I級）",
+    "name_en": "Type 053H Jianghu I",
+    "designation": "Type 053H",
+    "aliases": [
+      "江湖I",
+      "Jianghu"
+    ],
+    "category": "vehicle",
+    "subcategory": "warship",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "2×100mm 砲",
+    "crew": "200",
+    "weight_kg": "滿載約 1,700 噸",
+    "length_mm": "103 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "SY-1／YJ-8 反艦",
+    "armor": "—",
+    "mobility": "護衛艦（FF，多已除役/外援）",
+    "sensors": "—",
+    "notes_zh": "江湖級護衛艦，早期主力，部分外援他國。",
+    "notes_en": "",
+    "tags": [
+      "護衛艦",
+      "江湖"
+    ],
+    "odin_hint": "",
+    "form_zh": "飛彈護衛艦（江湖I級）",
+    "form_en": "",
+    "wiki": "Type 053 frigate",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 053 frigate",
+        "url": "https://en.wikipedia.org/wiki/Type_053_frigate"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-037",
+    "name_zh": "037型獵潛艇（海南級）",
+    "name_en": "Type 037 Hainan-class",
+    "designation": "Type 037",
+    "aliases": [
+      "海南級",
+      "Hainan"
+    ],
+    "category": "vehicle",
+    "subcategory": "patrol_boat",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "4×57mm＋4×25mm",
+    "crew": "70",
+    "weight_kg": "滿載約 430 噸",
+    "length_mm": "58.8 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "反潛火箭深彈、深水炸彈",
+    "armor": "—",
+    "mobility": "近岸獵潛艇",
+    "sensors": "—",
+    "notes_zh": "海南級獵潛艇，近岸反潛/巡邏，數量多。",
+    "notes_en": "",
+    "tags": [
+      "獵潛艇",
+      "近岸"
+    ],
+    "odin_hint": "",
+    "form_zh": "近岸獵潛艇（SC）",
+    "form_en": "",
+    "wiki": "Hainan-class submarine chaser",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Hainan-class submarine chaser",
+        "url": "https://en.wikipedia.org/wiki/Hainan-class_submarine_chaser"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-037is",
+    "name_zh": "037IS型獵潛艇（海青級）",
+    "name_en": "Type 037IS Haiqing-class",
+    "designation": "Type 037IS",
+    "aliases": [
+      "海青級",
+      "Haiqing"
+    ],
+    "category": "vehicle",
+    "subcategory": "patrol_boat",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "2×2 37mm＋2×2 14.5mm",
+    "crew": "71",
+    "weight_kg": "滿載約 478 噸",
+    "length_mm": "62.8 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "反潛火箭深彈",
+    "armor": "—",
+    "mobility": "近岸獵潛艇",
+    "sensors": "—",
+    "notes_zh": "海青級獵潛艇，037 改良反潛型。",
+    "notes_en": "",
+    "tags": [
+      "獵潛艇",
+      "近岸"
+    ],
+    "odin_hint": "",
+    "form_zh": "近岸獵潛艇（SC）",
+    "form_en": "",
+    "wiki": "Hainan-class submarine chaser",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Hainan-class submarine chaser",
+        "url": "https://en.wikipedia.org/wiki/Hainan-class_submarine_chaser"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-062",
+    "name_zh": "062型砲艇（上海級）",
+    "name_en": "Type 062 Shanghai-class",
+    "designation": "Type 062",
+    "aliases": [
+      "上海級",
+      "Shanghai"
+    ],
+    "category": "vehicle",
+    "subcategory": "patrol_boat",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "2×2 37mm＋2×2 25mm",
+    "crew": "36",
+    "weight_kg": "滿載約 135 噸",
+    "length_mm": "38.8 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "近岸巡邏/砲擊",
+    "armor": "—",
+    "mobility": "近岸砲艇",
+    "sensors": "—",
+    "notes_zh": "上海級砲艇，近岸巡邏，產量極大、大量外援。",
+    "notes_en": "",
+    "tags": [
+      "砲艇",
+      "近岸"
+    ],
+    "odin_hint": "",
+    "form_zh": "近岸巡邏砲艇（PGB）",
+    "form_en": "",
+    "wiki": "Shanghai-class gunboat",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shanghai-class gunboat",
+        "url": "https://en.wikipedia.org/wiki/Shanghai-class_gunboat"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-021",
+    "name_zh": "021型飛彈快艇（黃蜂級）",
+    "name_en": "Type 021 Huangfeng-class",
+    "designation": "Type 021",
+    "aliases": [
+      "黃蜂級",
+      "Huangfeng",
+      "Osa"
+    ],
+    "category": "vehicle",
+    "subcategory": "patrol_boat",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "2×2 30mm",
+    "crew": "30",
+    "weight_kg": "滿載約 205 噸",
+    "length_mm": "38.6 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "4×SY-1／YJ-8 反艦飛彈",
+    "armor": "—",
+    "mobility": "飛彈快艇（PTG）",
+    "sensors": "—",
+    "notes_zh": "黃蜂級飛彈快艇（蘇聯 Osa 衍生），舊式，逐步由 022 取代。",
+    "notes_en": "",
+    "tags": [
+      "飛彈快艇"
+    ],
+    "odin_hint": "",
+    "form_zh": "飛彈快艇（PTG）",
+    "form_en": "",
+    "wiki": "Type 021-class missile boat",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 021-class missile boat",
+        "url": "https://en.wikipedia.org/wiki/Type_021-class_missile_boat"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-081",
+    "name_zh": "081型獵掃雷艦（渦藏級）",
+    "name_en": "Type 081 Wozang-class",
+    "designation": "Type 081",
+    "aliases": [
+      "渦藏級",
+      "Wozang"
+    ],
+    "category": "vehicle",
+    "subcategory": "minesweeper",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "1×2 25mm",
+    "crew": "—",
+    "weight_kg": "滿載約 575 噸",
+    "length_mm": "55 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "獵雷聲納、遙控獵雷具",
+    "armor": "—",
+    "mobility": "獵掃雷艦（MHC）",
+    "sensors": "—",
+    "notes_zh": "渦藏級獵掃雷艦，玻璃鋼艦體、遙控獵雷。",
+    "notes_en": "",
+    "tags": [
+      "掃雷",
+      "獵雷"
+    ],
+    "odin_hint": "",
+    "form_zh": "獵掃雷艦（MHC）",
+    "form_en": "",
+    "wiki": "Type 081 minesweeper",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 081 minesweeper",
+        "url": "https://en.wikipedia.org/wiki/Type_081_minesweeper"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-082",
+    "name_zh": "082型掃雷艦（渦掃級）",
+    "name_en": "Type 082 Wosao-class",
+    "designation": "Type 082",
+    "aliases": [
+      "渦掃級",
+      "Wosao"
+    ],
+    "category": "vehicle",
+    "subcategory": "minesweeper",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "2×2 25mm",
+    "crew": "—",
+    "weight_kg": "滿載約 400 噸",
+    "length_mm": "44.8 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "機械/電磁/聲掃雷具",
+    "armor": "—",
+    "mobility": "掃雷艦（MSC）",
+    "sensors": "—",
+    "notes_zh": "渦掃級掃雷艦，近岸掃雷。",
+    "notes_en": "",
+    "tags": [
+      "掃雷"
+    ],
+    "odin_hint": "",
+    "form_zh": "掃雷艦（MSC）",
+    "form_en": "",
+    "wiki": "Type 082 minesweeper",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 082 minesweeper",
+        "url": "https://en.wikipedia.org/wiki/Type_082_minesweeper"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-073",
+    "name_zh": "073型登陸艦（玉登級）",
+    "name_en": "Type 073 Yudeng-class",
+    "designation": "Type 073",
+    "aliases": [
+      "玉登級",
+      "Yudeng"
+    ],
+    "category": "vehicle",
+    "subcategory": "amphibious_ship",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "機砲",
+    "crew": "—",
+    "weight_kg": "滿載約 1,850 噸",
+    "length_mm": "87 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "約 500 噸裝載/戰車、兵員",
+    "armor": "—",
+    "mobility": "中型登陸艦（LSM）",
+    "sensors": "—",
+    "notes_zh": "玉登級中型登陸艦。",
+    "notes_en": "",
+    "tags": [
+      "登陸艦",
+      "兩棲"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型登陸艦（LSM）",
+    "form_en": "",
+    "wiki": "Type 073 landing ship",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 073 landing ship",
+        "url": "https://en.wikipedia.org/wiki/Type_073_landing_ship"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-074",
+    "name_zh": "074型登陸艦（玉北級）",
+    "name_en": "Type 074 Yubei-class",
+    "designation": "Type 074",
+    "aliases": [
+      "玉北級",
+      "Yubei"
+    ],
+    "category": "vehicle",
+    "subcategory": "amphibious_ship",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "機砲",
+    "crew": "—",
+    "weight_kg": "滿載約 800 噸",
+    "length_mm": "58.4 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "裝甲車/兵員登陸",
+    "armor": "—",
+    "mobility": "通用登陸艇（LCU）",
+    "sensors": "—",
+    "notes_zh": "玉北級通用登陸艇。",
+    "notes_en": "",
+    "tags": [
+      "登陸艇",
+      "兩棲"
+    ],
+    "odin_hint": "",
+    "form_zh": "通用登陸艇（LCU）",
+    "form_en": "",
+    "wiki": "Type 074 landing ship",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 074 landing ship",
+        "url": "https://en.wikipedia.org/wiki/Type_074_landing_ship"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-032",
+    "name_zh": "032型潛艇（清級）",
+    "name_en": "Type 032 Qing-class",
+    "designation": "Type 032",
+    "aliases": [
+      "清級",
+      "Qing"
+    ],
+    "category": "vehicle",
+    "subcategory": "submarine",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "魚雷/飛彈試射",
+    "crew": "88",
+    "weight_kg": "水下約 6,628 噸",
+    "length_mm": "92.6 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "潛射彈道/巡航飛彈試驗平台（JL-2／JL-3 試射）",
+    "armor": "—",
+    "mobility": "常規動力試驗潛艇",
+    "sensors": "—",
+    "notes_zh": "清級試驗潛艇，全球最大常規潛艇之一，用於潛射飛彈試驗。",
+    "notes_en": "",
+    "tags": [
+      "潛艇",
+      "試驗"
+    ],
+    "odin_hint": "",
+    "form_zh": "試驗潛艇（SSB test）",
+    "form_en": "",
+    "wiki": "Type 032 submarine",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 032 submarine",
+        "url": "https://en.wikipedia.org/wiki/Type_032_submarine"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-039c",
+    "name_zh": "039C型潛艇（元級改）",
+    "name_en": "Type 039C Yuan-class",
+    "designation": "Type 039C",
+    "aliases": [
+      "元級改",
+      "Yuan"
+    ],
+    "category": "vehicle",
+    "subcategory": "submarine",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "533mm 魚雷",
+    "crew": "—",
+    "weight_kg": "水下約 3,600 噸",
+    "length_mm": "77.6 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "YJ-18/YJ-82 潛射反艦、AIP 不依賴空氣推進",
+    "armor": "—",
+    "mobility": "常規動力攻擊潛艇（SSK/AIP）",
+    "sensors": "—",
+    "notes_zh": "元級最新改型，具匿蹤外形與 AIP。",
+    "notes_en": "",
+    "tags": [
+      "潛艇",
+      "AIP"
+    ],
+    "odin_hint": "",
+    "form_zh": "常規攻擊潛艇（AIP）",
+    "form_en": "",
+    "wiki": "Type 039A submarine",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 039A submarine",
+        "url": "https://en.wikipedia.org/wiki/Type_039A_submarine"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-092",
+    "name_zh": "092型戰略核潛艇（夏級）",
+    "name_en": "Type 092 Xia-class",
+    "designation": "Type 092",
+    "aliases": [
+      "夏級",
+      "Xia"
+    ],
+    "category": "vehicle",
+    "subcategory": "submarine",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "彈道飛彈",
+    "crew": "140",
+    "weight_kg": "水下約 8,000 噸",
+    "length_mm": "120 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "12×JL-1 潛射彈道飛彈",
+    "armor": "—",
+    "mobility": "彈道飛彈核潛艇（SSBN）",
+    "sensors": "—",
+    "notes_zh": "夏級，中國第一代戰略核潛艇（1艘）。",
+    "notes_en": "",
+    "tags": [
+      "核潛艇",
+      "SSBN"
+    ],
+    "odin_hint": "",
+    "form_zh": "彈道飛彈核潛艇（SSBN）",
+    "form_en": "",
+    "wiki": "Type 092 submarine",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 092 submarine",
+        "url": "https://en.wikipedia.org/wiki/Type_092_submarine"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-096",
+    "name_zh": "096型戰略核潛艇（唐級，研發中）",
+    "name_en": "Type 096 Tang-class",
+    "designation": "Type 096",
+    "aliases": [
+      "唐級",
+      "Tang"
+    ],
+    "category": "vehicle",
+    "subcategory": "submarine",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "彈道飛彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "JL-3 潛射洲際彈道飛彈（推測）",
+    "armor": "—",
+    "mobility": "次世代彈道飛彈核潛艇（SSBN，研發中）",
+    "sensors": "—",
+    "notes_zh": "唐級次世代 SSBN，發展中，諸元為外界推測。",
+    "notes_en": "",
+    "tags": [
+      "核潛艇",
+      "SSBN",
+      "研發中"
+    ],
+    "odin_hint": "",
+    "form_zh": "次世代彈道飛彈核潛艇（SSBN）",
+    "form_en": "",
+    "wiki": "Type 096 submarine",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 096 submarine",
+        "url": "https://en.wikipedia.org/wiki/Type_096_submarine"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-033",
+    "name_zh": "033型潛艇（羅密歐級）",
+    "name_en": "Type 033 Romeo-class",
+    "designation": "Type 033",
+    "aliases": [
+      "羅密歐級",
+      "Romeo"
+    ],
+    "category": "vehicle",
+    "subcategory": "submarine",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "533mm 魚雷",
+    "crew": "54",
+    "weight_kg": "水下約 1,712 噸",
+    "length_mm": "76.6 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "魚雷/水雷（舊式，多除役/訓練）",
+    "armor": "—",
+    "mobility": "常規動力潛艇（舊式）",
+    "sensors": "—",
+    "notes_zh": "羅密歐級（蘇聯衍生），舊式，多已退役或訓練用。",
+    "notes_en": "",
+    "tags": [
+      "潛艇",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "常規潛艇（舊式）",
+    "form_en": "",
+    "wiki": "Type 033 submarine",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 033 submarine",
+        "url": "https://en.wikipedia.org/wiki/Type_033_submarine"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-904",
+    "name_zh": "904型補給艦（大運級）",
+    "name_en": "Type 904 Dayun-class",
+    "designation": "Type 904",
+    "aliases": [
+      "大運級",
+      "Dayun"
+    ],
+    "category": "vehicle",
+    "subcategory": "replenishment",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "機砲",
+    "crew": "—",
+    "weight_kg": "滿載約 15,000 噸",
+    "length_mm": "156 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "島礁補給、乾貨/物資運輸",
+    "armor": "—",
+    "mobility": "島礁補給艦（AKS）",
+    "sensors": "—",
+    "notes_zh": "大運級島礁補給艦，南海島礁後勤。",
+    "notes_en": "",
+    "tags": [
+      "補給艦",
+      "後勤"
+    ],
+    "odin_hint": "",
+    "form_zh": "島礁補給艦（AKS）",
+    "form_en": "",
+    "wiki": "Type 904 replenishment ship",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 904 replenishment ship",
+        "url": "https://en.wikipedia.org/wiki/Type_904_replenishment_ship"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-905",
+    "name_zh": "905型補給艦（福清級）",
+    "name_en": "Type 905 Fuqing-class",
+    "designation": "Type 905",
+    "aliases": [
+      "福清級",
+      "Fuqing"
+    ],
+    "category": "vehicle",
+    "subcategory": "replenishment",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "機砲",
+    "crew": "130",
+    "weight_kg": "滿載約 21,750 噸",
+    "length_mm": "168.2 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "燃油/彈藥/乾貨橫向補給",
+    "armor": "—",
+    "mobility": "遠洋綜合補給艦（AOR，舊式）",
+    "sensors": "—",
+    "notes_zh": "福清級綜合補給艦，第一代遠洋補給艦。",
+    "notes_en": "",
+    "tags": [
+      "補給艦",
+      "AOR"
+    ],
+    "odin_hint": "",
+    "form_zh": "綜合補給艦（AOR）",
+    "form_en": "",
+    "wiki": "Fuqing-class tanker",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Fuqing-class tanker",
+        "url": "https://en.wikipedia.org/wiki/Fuqing-class_tanker"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-926",
+    "name_zh": "926型潛艇支援艦（大江級）",
+    "name_en": "Type 926 Dajiang-class",
+    "designation": "Type 926",
+    "aliases": [
+      "大江級",
+      "Dajiang"
+    ],
+    "category": "vehicle",
+    "subcategory": "auxiliary",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "機砲",
+    "crew": "—",
+    "weight_kg": "滿載約 9,500 噸",
+    "length_mm": "156 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "搭載 LR-7 深潛救生艇、潛艇救援",
+    "armor": "—",
+    "mobility": "潛艇支援/救援艦（ASR）",
+    "sensors": "—",
+    "notes_zh": "大江級潛艇支援艦，搭載深潛救生艇。",
+    "notes_en": "",
+    "tags": [
+      "潛艇救援",
+      "支援艦"
+    ],
+    "odin_hint": "",
+    "form_zh": "潛艇支援救援艦（ASR）",
+    "form_en": "",
+    "wiki": "Type 926 submarine support ship",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 926 submarine support ship",
+        "url": "https://en.wikipedia.org/wiki/Type_926_submarine_support_ship"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-920",
+    "name_zh": "920型醫院船（和平方舟）",
+    "name_en": "Type 920 Anwei-class (Peace Ark)",
+    "designation": "Type 920",
+    "aliases": [
+      "和平方舟",
+      "Peace Ark",
+      "岱山島"
+    ],
+    "category": "vehicle",
+    "subcategory": "hospital_ship",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "醫護 428",
+    "weight_kg": "滿載約 14,000 噸",
+    "length_mm": "178 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "300 床位、手術室、遠海醫療/人道救援",
+    "armor": "—",
+    "mobility": "醫院船（AH）",
+    "sensors": "—",
+    "notes_zh": "和平方舟醫院船，遠海醫療與人道任務，多次出訪。",
+    "notes_en": "",
+    "tags": [
+      "醫院船",
+      "人道"
+    ],
+    "odin_hint": "",
+    "form_zh": "醫院船（AH）",
+    "form_en": "",
+    "wiki": "Chinese hospital ship Peace Ark",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Chinese hospital ship Peace Ark",
+        "url": "https://en.wikipedia.org/wiki/Chinese_hospital_ship_Peace_Ark"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "yuanwang",
+    "name_zh": "遠望號測量船（航天測控）",
+    "name_en": "Yuanwang tracking ship",
+    "designation": "Yuanwang",
+    "aliases": [
+      "遠望",
+      "Yuanwang"
+    ],
+    "category": "vehicle",
+    "subcategory": "survey_ship",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "滿載約 25,000 噸",
+    "length_mm": "222 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "航天測控天線、飛彈/衛星彈道測量",
+    "armor": "—",
+    "mobility": "航天遠洋測量船",
+    "sensors": "—",
+    "notes_zh": "遠望系列航天測量船，支援衛星/飛彈測控。",
+    "notes_en": "",
+    "tags": [
+      "測量船",
+      "航天測控"
+    ],
+    "odin_hint": "",
+    "form_zh": "航天遠洋測量船",
+    "form_en": "",
+    "wiki": "Yuanwang",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Yuanwang",
+        "url": "https://en.wikipedia.org/wiki/Yuanwang"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-636a",
+    "name_zh": "636A型測量船",
+    "name_en": "Type 636A survey ship",
+    "designation": "Type 636A",
+    "aliases": [
+      "636A"
+    ],
+    "category": "vehicle",
+    "subcategory": "survey_ship",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "滿載約 5,900 噸",
+    "length_mm": "129.3 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "海洋/水文調查、聲納測繪",
+    "armor": "—",
+    "mobility": "海洋測量船（AGS）",
+    "sensors": "—",
+    "notes_zh": "636A 海洋綜合調查測量船。",
+    "notes_en": "",
+    "tags": [
+      "測量船",
+      "海洋調查"
+    ],
+    "odin_hint": "",
+    "form_zh": "海洋測量船（AGS）",
+    "form_en": "",
+    "wiki": "Type 636A survey ship",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 636A survey ship",
+        "url": "https://en.wikipedia.org/wiki/Type_636A_survey_ship"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-818",
+    "name_zh": "818型海警船（昭頭級）",
+    "name_en": "Type 818 Zhaotou-class CCG cutter",
+    "designation": "Type 818",
+    "aliases": [
+      "昭頭級",
+      "Zhaotou",
+      "海警2901",
+      "海警3901"
+    ],
+    "category": "vehicle",
+    "subcategory": "coast_guard",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海警",
+    "service_zh": "海警",
+    "caliber": "76mm 主砲＋副砲",
+    "crew": "—",
+    "weight_kg": "滿載約 12,000 噸",
+    "length_mm": "165 m",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "世界最大海警執法船（基於 054A 技術）",
+    "armor": "—",
+    "mobility": "大型海警執法船",
+    "sensors": "—",
+    "notes_zh": "昭頭級海警船，滿載萬噸，世界最大海上執法船。",
+    "notes_en": "",
+    "tags": [
+      "海警",
+      "執法"
+    ],
+    "odin_hint": "",
+    "form_zh": "大型海警巡防船（CG cutter）",
+    "form_en": "",
+    "wiki": "Zhaotou-class patrol vessel",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Zhaotou-class patrol vessel",
+        "url": "https://en.wikipedia.org/wiki/Zhaotou-class_patrol_vessel"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "type-718b",
+    "name_zh": "718B型海警船",
+    "name_en": "Type 718B CCG cutter",
+    "designation": "Type 718B",
+    "aliases": [
+      "718B"
+    ],
+    "category": "vehicle",
+    "subcategory": "coast_guard",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海警",
+    "service_zh": "海警",
+    "caliber": "76mm 主砲",
+    "crew": "—",
+    "weight_kg": "滿載約 4,000 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "遠海維權執法巡邏",
+    "armor": "—",
+    "mobility": "海警巡防船",
+    "sensors": "—",
+    "notes_zh": "718B 型海警巡防船。",
+    "notes_en": "",
+    "tags": [
+      "海警",
+      "執法"
+    ],
+    "odin_hint": "",
+    "form_zh": "海警巡防船（CG cutter）",
+    "form_en": "",
+    "wiki": "China Coast Guard",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：China Coast Guard",
+        "url": "https://en.wikipedia.org/wiki/China_Coast_Guard"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "z-8g",
+    "name_zh": "直-8G 通用運輸直升機",
+    "name_en": "Z-8G transport helicopter",
+    "designation": "Z-8G",
+    "aliases": [
+      "直8G"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組 3＋27 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "運兵/物資、可吊掛",
+    "armor": "—",
+    "mobility": "中型運輸直升機",
+    "sensors": "—",
+    "notes_zh": "直-8 系列通用運輸直升機。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機",
+    "form_en": "",
+    "wiki": "Harbin Z-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-8",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-8l",
+    "name_zh": "直-8L 大型運輸直升機",
+    "name_en": "Z-8L heavy transport helicopter",
+    "designation": "Z-8L",
+    "aliases": [
+      "直8L"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋大量兵員",
+    "weight_kg": "最大起飛約 15,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 900 km",
+    "rate_of_fire": "—",
+    "capacity": "加寬機身、可載輕型車輛",
+    "armor": "—",
+    "mobility": "大型運輸直升機",
+    "sensors": "—",
+    "notes_zh": "直-8 加寬機身重型運輸型。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸"
+    ],
+    "odin_hint": "",
+    "form_zh": "大型運輸直升機",
+    "form_en": "",
+    "wiki": "Harbin Z-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-8",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-9w",
+    "name_zh": "直-9W 武裝直升機",
+    "name_en": "Z-9W armed helicopter",
+    "designation": "Z-9W",
+    "aliases": [
+      "直9W"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter_attack",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 4,100 kg",
+    "length_mm": "—",
+    "range_m": "航程約 1,000 km",
+    "rate_of_fire": "—",
+    "capacity": "HJ-8 反戰車飛彈、火箭、機砲",
+    "armor": "—",
+    "mobility": "輕型武裝直升機",
+    "sensors": "—",
+    "notes_zh": "直-9 武裝偵察/攻擊型（海豚衍生）。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "武裝"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型武裝直升機",
+    "form_en": "",
+    "wiki": "Harbin Z-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-9",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-9"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-19e",
+    "name_zh": "直-19E 偵察攻擊直升機",
+    "name_en": "Z-19E scout/attack helicopter",
+    "designation": "Z-19E",
+    "aliases": [
+      "直19E"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter_attack",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 4,500 kg",
+    "length_mm": "—",
+    "range_m": "航程約 700 km",
+    "rate_of_fire": "—",
+    "capacity": "天燕-90 空對空、反戰車飛彈、火箭",
+    "armor": "—",
+    "mobility": "偵察/攻擊直升機",
+    "sensors": "—",
+    "notes_zh": "直-19 出口/改良型，串列雙座。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "偵攻"
+    ],
+    "odin_hint": "",
+    "form_zh": "偵察攻擊直升機",
+    "form_en": "",
+    "wiki": "Harbin Z-19",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-19",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-19"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-11wb",
+    "name_zh": "直-11WB 武裝偵察直升機",
+    "name_en": "Z-11WB armed scout",
+    "designation": "Z-11WB",
+    "aliases": [
+      "直11WB"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter_attack",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 2,200 kg",
+    "length_mm": "—",
+    "range_m": "航程約 600 km",
+    "rate_of_fire": "—",
+    "capacity": "輕型反戰車飛彈、機槍、火箭",
+    "armor": "—",
+    "mobility": "輕型武裝偵察直升機",
+    "sensors": "—",
+    "notes_zh": "直-11 武裝偵察型。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "武裝"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型武裝偵察直升機",
+    "form_en": "",
+    "wiki": "Changhe Z-11",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Changhe Z-11",
+        "url": "https://en.wikipedia.org/wiki/Changhe_Z-11"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "mi-171",
+    "name_zh": "米-171 中型運輸直升機",
+    "name_en": "Mil Mi-171",
+    "designation": "Mi-171",
+    "aliases": [
+      "Mi-171",
+      "米171"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組 3＋24 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 590 km",
+    "rate_of_fire": "—",
+    "capacity": "運兵/物資、可外掛武器",
+    "armor": "—",
+    "mobility": "中型運輸直升機（俄製）",
+    "sensors": "—",
+    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機",
+    "form_en": "",
+    "wiki": "Mil Mi-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-8",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-15",
+    "name_zh": "直-15 中型多用途直升機",
+    "name_en": "Z-15 (AC352)",
+    "designation": "Z-15",
+    "aliases": [
+      "AC352",
+      "直15"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋14 兵",
+    "weight_kg": "最大起飛約 7,500 kg",
+    "length_mm": "—",
+    "range_m": "航程約 850 km",
+    "rate_of_fire": "—",
+    "capacity": "運輸/搜救/多用途",
+    "armor": "—",
+    "mobility": "中型多用途直升機",
+    "sensors": "—",
+    "notes_zh": "直-15／AC352 中型直升機（與空巴 H175 同源）。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "多用途"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型多用途直升機",
+    "form_en": "",
+    "wiki": "Airbus Helicopters H175",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Airbus Helicopters H175",
+        "url": "https://en.wikipedia.org/wiki/Airbus_Helicopters_H175"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "q-5",
+    "name_zh": "強-5 攻擊機",
+    "name_en": "Nanchang Q-5",
+    "designation": "Q-5",
+    "aliases": [
+      "強5",
+      "A-5",
+      "Fantan"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_strike",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "2×23mm 機砲",
+    "crew": "1",
+    "weight_kg": "最大起飛約 12,000 kg",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 400 km",
+    "rate_of_fire": "—",
+    "capacity": "炸彈/火箭/近距空對空，載彈約 2,000 kg",
+    "armor": "—",
+    "mobility": "Mach 1.12；2×渦噴-6",
+    "sensors": "—",
+    "notes_zh": "強-5 對地攻擊機（MiG-19 衍生），已大量退役。",
+    "notes_en": "",
+    "tags": [
+      "攻擊機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "對地攻擊機",
+    "form_en": "",
+    "wiki": "Nanchang Q-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Nanchang Q-5",
+        "url": "https://en.wikipedia.org/wiki/Nanchang_Q-5"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-7e",
+    "name_zh": "殲-7E／G 戰鬥機",
+    "name_en": "Chengdu J-7E/G",
+    "designation": "J-7E",
+    "aliases": [
+      "殲7E",
+      "殲7G",
+      "J-7G"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "2×30mm",
+    "crew": "1",
+    "weight_kg": "最大起飛約 9,100 kg",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 600 km",
+    "rate_of_fire": "—",
+    "capacity": "PL-5／PL-8 近距空對空、火箭/炸彈",
+    "armor": "—",
+    "mobility": "Mach 2；渦噴-13（雙三角翼改良）",
+    "sensors": "—",
+    "notes_zh": "殲-7 後期改良型（雙三角翼、改良航電），逐步退役。",
+    "notes_en": "",
+    "tags": [
+      "戰鬥機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型戰鬥機（殲-7 後期型）",
+    "form_en": "",
+    "wiki": "Chengdu J-7",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Chengdu J-7",
+        "url": "https://en.wikipedia.org/wiki/Chengdu_J-7"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "j-8b",
+    "name_zh": "殲-8B 攔截機",
+    "name_en": "Shenyang J-8B",
+    "designation": "J-8B",
+    "aliases": [
+      "殲8B"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_fighter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "23mm 機砲",
+    "crew": "1",
+    "weight_kg": "最大起飛約 17,800 kg",
+    "length_mm": "—",
+    "range_m": "作戰半徑約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "PL-5／PL-8／PL-11、火箭",
+    "armor": "—",
+    "mobility": "Mach 2.2；2×渦噴-13",
+    "sensors": "—",
+    "notes_zh": "殲-8B 全天候攔截機，逐步退役/改偵察電戰。",
+    "notes_en": "",
+    "tags": [
+      "攔截機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "攔截戰鬥機（殲-8B）",
+    "form_en": "",
+    "wiki": "Shenyang J-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shenyang J-8",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ch-3",
+    "name_zh": "彩虹-3 察打無人機",
+    "name_en": "CASC CH-3",
+    "designation": "CH-3",
+    "aliases": [
+      "彩虹3",
+      "CH-3"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "無人",
+    "weight_kg": "最大起飛約 640 kg",
+    "length_mm": "—",
+    "range_m": "航程約 2,400 km／滯空 12h",
+    "rate_of_fire": "—",
+    "capacity": "AR-1 反戰車飛彈、FT 系列導引炸彈",
+    "armor": "—",
+    "mobility": "中空長航時；螺旋槳",
+    "sensors": "—",
+    "notes_zh": "彩虹-3 察打一體無人機，外銷多國。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "察打"
+    ],
+    "odin_hint": "",
+    "form_zh": "察打一體無人機（彩虹-3）",
+    "form_en": "",
+    "wiki": "CASC Rainbow",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CASC Rainbow",
+        "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "wing-loong-10",
+    "name_zh": "翼龍-10 高空長航時無人機",
+    "name_en": "Wing Loong-10 (Cloud Shadow)",
+    "designation": "WL-10",
+    "aliases": [
+      "雲影",
+      "Cloud Shadow",
+      "WZ-10 UAV"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "無人",
+    "weight_kg": "最大起飛約 3,200 kg",
+    "length_mm": "—",
+    "range_m": "航程約 4,000 km／升限 14,000 m",
+    "rate_of_fire": "—",
+    "capacity": "偵察/電子情報/精確打擊",
+    "armor": "—",
+    "mobility": "噴射動力、高空高速",
+    "sensors": "—",
+    "notes_zh": "翼龍-10（雲影）噴射高空無人機。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "高空"
+    ],
+    "odin_hint": "",
+    "form_zh": "高空長航時無人機（翼龍-10）",
+    "form_en": "",
+    "wiki": "Wing Loong 10",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Wing Loong 10",
+        "url": "https://en.wikipedia.org/wiki/Wing_Loong_10"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "wz-5",
+    "name_zh": "無偵-5 高空偵察無人機（舊式）",
+    "name_en": "WZ-5 recon drone",
+    "designation": "WZ-5",
+    "aliases": [
+      "無偵5",
+      "Chang Hong"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "無人",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "高空照相偵察（舊式）",
+    "armor": "—",
+    "mobility": "早期噴射偵察無人機",
+    "sensors": "—",
+    "notes_zh": "無偵-5 早期高空偵察無人機（長虹），歷史型。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "偵察",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "高空偵察無人機（舊式）",
+    "form_en": "",
+    "wiki": "Chengdu WZ-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Chengdu WZ-5",
+        "url": "https://en.wikipedia.org/wiki/Chengdu_WZ-5"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "asn-206",
+    "name_zh": "ASN-206 戰術無人機",
+    "name_en": "ASN-206 tactical UAV",
+    "designation": "ASN-206",
+    "aliases": [
+      "ASN-206"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "無人",
+    "weight_kg": "最大起飛約 222 kg",
+    "length_mm": "—",
+    "range_m": "航程約 150 km／滯空 8h",
+    "rate_of_fire": "—",
+    "capacity": "戰場偵察/砲兵校射/電子偵察",
+    "armor": "—",
+    "mobility": "活塞螺旋槳、彈射起飛",
+    "sensors": "—",
+    "notes_zh": "ASN-206 戰術偵察無人機（西工大）。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "戰術偵察"
+    ],
+    "odin_hint": "",
+    "form_zh": "戰術偵察無人機（ASN-206）",
+    "form_en": "",
+    "wiki": "ASN-206",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：ASN-206",
+        "url": "https://en.wikipedia.org/wiki/ASN-206"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "y-8g",
+    "name_zh": "運-8G 電子戰機",
+    "name_en": "Y-8G ECM aircraft",
+    "designation": "Y-8G",
+    "aliases": [
+      "運8G",
+      "GX-4"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "電子干擾/壓制（高新4號）",
+    "armor": "—",
+    "mobility": "Y-8 平台特種機",
+    "sensors": "—",
+    "notes_zh": "運-8G 電子戰/干擾機（高新工程）。",
+    "notes_en": "",
+    "tags": [
+      "電子戰",
+      "特種機"
+    ],
+    "odin_hint": "",
+    "form_zh": "電子戰機（Y-8 平台）",
+    "form_en": "",
+    "wiki": "Shaanxi Y-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shaanxi Y-8",
+        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "y-9g",
+    "name_zh": "運-9G 電子戰機",
+    "name_en": "Y-9G ECM aircraft",
+    "designation": "Y-9G",
+    "aliases": [
+      "運9G",
+      "高新12"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_recon",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "航程約 5,000 km",
+    "rate_of_fire": "—",
+    "capacity": "電子偵察/干擾",
+    "armor": "—",
+    "mobility": "Y-9 平台特種機",
+    "sensors": "—",
+    "notes_zh": "運-9G 電子戰機（高新工程）。",
+    "notes_en": "",
+    "tags": [
+      "電子戰",
+      "特種機"
+    ],
+    "odin_hint": "",
+    "form_zh": "電子戰機（Y-9 平台）",
+    "form_en": "",
+    "wiki": "Shaanxi Y-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Shaanxi Y-9",
+        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "kj-500a",
+    "name_zh": "空警-500A 預警機",
+    "name_en": "KJ-500A AEW&C",
+    "designation": "KJ-500A",
+    "aliases": [
+      "空警500A"
+    ],
+    "category": "vehicle",
+    "subcategory": "aircraft_aew",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "多名操作員",
+    "weight_kg": "MTOW 約 77 噸",
+    "length_mm": "—",
+    "range_m": "滯空約 12h",
+    "rate_of_fire": "—",
+    "capacity": "三面 AESA（360°）＋空中受油",
+    "armor": "—",
+    "mobility": "Y-9 平台預警機",
+    "sensors": "—",
+    "notes_zh": "空警-500A，加裝空中受油探管的改良型。",
+    "notes_en": "",
+    "tags": [
+      "預警機",
+      "AEW"
+    ],
+    "odin_hint": "",
+    "form_zh": "空中預警管制機（KJ-500A）",
+    "form_en": "",
+    "wiki": "KJ-500",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：KJ-500",
+        "url": "https://en.wikipedia.org/wiki/KJ-500"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "type-59",
+    "name_zh": "59式中型坦克",
+    "name_en": "Type 59 MBT",
+    "designation": "Type 59",
+    "aliases": [
+      "59式",
+      "WZ120"
+    ],
+    "category": "vehicle",
+    "subcategory": "mbt",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "100mm 線膛砲",
+    "crew": "4",
+    "weight_kg": "約 36 噸",
+    "length_mm": "—",
+    "range_m": "公路 50 km/h",
+    "rate_of_fire": "—",
+    "capacity": "蘇聯 T-54A 衍生，中國第一代主戰坦克",
+    "armor": "鑄造均質裝甲",
+    "mobility": "12150L V12 520hp",
+    "sensors": "—",
+    "notes_zh": "59式中型坦克，產量極大，衍生眾多，部分仍後備/訓練。",
+    "notes_en": "",
+    "tags": [
+      "坦克",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型坦克（T-54A 衍生）",
+    "form_en": "",
+    "wiki": "Type 59 tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 59 tank",
+        "url": "https://en.wikipedia.org/wiki/Type_59_tank"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-69",
+    "name_zh": "69式主戰坦克",
+    "name_en": "Type 69 MBT",
+    "designation": "Type 69",
+    "aliases": [
+      "69式",
+      "WZ121"
+    ],
+    "category": "vehicle",
+    "subcategory": "mbt",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "100mm 滑膛砲",
+    "crew": "4",
+    "weight_kg": "約 36.5 噸",
+    "length_mm": "—",
+    "range_m": "公路 50 km/h",
+    "rate_of_fire": "—",
+    "capacity": "59 式改良，大量外銷（兩伊戰爭）",
+    "armor": "鑄造裝甲",
+    "mobility": "12150L-7 580hp",
+    "sensors": "—",
+    "notes_zh": "69式主戰坦克，外銷量大，國內多退役。",
+    "notes_en": "",
+    "tags": [
+      "坦克",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "主戰坦克（69 式）",
+    "form_en": "",
+    "wiki": "Type 69 tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 69 tank",
+        "url": "https://en.wikipedia.org/wiki/Type_69_tank"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-79",
+    "name_zh": "79式主戰坦克",
+    "name_en": "Type 79 MBT",
+    "designation": "Type 79",
+    "aliases": [
+      "79式"
+    ],
+    "category": "vehicle",
+    "subcategory": "mbt",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "105mm 線膛砲",
+    "crew": "4",
+    "weight_kg": "約 37.5 噸",
+    "length_mm": "—",
+    "range_m": "公路 50 km/h",
+    "rate_of_fire": "—",
+    "capacity": "首用 105mm 線膛砲與火控",
+    "armor": "鑄造＋複合",
+    "mobility": "580hp 柴油",
+    "sensors": "—",
+    "notes_zh": "79式主戰坦克，69 改良、引進西方 105mm 砲技術。",
+    "notes_en": "",
+    "tags": [
+      "坦克",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "主戰坦克（79 式）",
+    "form_en": "",
+    "wiki": "Type 79 tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 79 tank",
+        "url": "https://en.wikipedia.org/wiki/Type_79_tank"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-80",
+    "name_zh": "80式主戰坦克",
+    "name_en": "Type 80 MBT",
+    "designation": "Type 80",
+    "aliases": [
+      "80式",
+      "ZTZ-80"
+    ],
+    "category": "vehicle",
+    "subcategory": "mbt",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "105mm 線膛砲",
+    "crew": "4",
+    "weight_kg": "約 38 噸",
+    "length_mm": "—",
+    "range_m": "公路 60 km/h",
+    "rate_of_fire": "—",
+    "capacity": "新底盤（六對負重輪）、現代火控",
+    "armor": "複合裝甲",
+    "mobility": "730hp 柴油",
+    "sensors": "—",
+    "notes_zh": "80式主戰坦克，第二代國產坦克起點，衍生 88/96 式。",
+    "notes_en": "",
+    "tags": [
+      "坦克"
+    ],
+    "odin_hint": "",
+    "form_zh": "主戰坦克（80 式）",
+    "form_en": "",
+    "wiki": "Type 80 tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 80 tank",
+        "url": "https://en.wikipedia.org/wiki/Type_80_tank"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "ptl-02",
+    "name_zh": "PTL-02 輪式突擊砲",
+    "name_en": "PTL-02 assault gun",
+    "designation": "PTL-02",
+    "aliases": [
+      "PTL02",
+      "100mm 輪突"
+    ],
+    "category": "vehicle",
+    "subcategory": "assault_gun",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "100mm 線膛砲",
+    "crew": "4",
+    "weight_kg": "約 19 噸",
+    "length_mm": "—",
+    "range_m": "公路 85 km/h",
+    "rate_of_fire": "—",
+    "capacity": "100mm 砲、反裝甲/火力支援",
+    "armor": "防輕武器/破片",
+    "mobility": "6×6 輪式",
+    "sensors": "—",
+    "notes_zh": "PTL-02 輪式突擊砲（WMZ551 底盤），快速反應部隊。",
+    "notes_en": "",
+    "tags": [
+      "突擊砲",
+      "輪式"
+    ],
+    "odin_hint": "",
+    "form_zh": "輪式突擊砲（100mm）",
+    "form_en": "",
+    "wiki": "PTL02",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PTL02",
+        "url": "https://en.wikipedia.org/wiki/PTL02"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "wz-523",
+    "name_zh": "WZ-523 輪式裝甲運兵車",
+    "name_en": "WZ-523 APC",
+    "designation": "WZ-523",
+    "aliases": [
+      "WZ523"
+    ],
+    "category": "vehicle",
+    "subcategory": "apc_wheeled",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "12.7mm 機槍",
+    "crew": "2＋10 兵",
+    "weight_kg": "約 11.5 噸",
+    "length_mm": "—",
+    "range_m": "公路 80 km/h",
+    "rate_of_fire": "—",
+    "capacity": "運兵/維穩/兩棲",
+    "armor": "鋼裝甲防輕武器",
+    "mobility": "6×6 兩棲",
+    "sensors": "—",
+    "notes_zh": "WZ-523 輪式裝甲運兵車，亦供武警維穩。",
+    "notes_en": "",
+    "tags": [
+      "裝甲車",
+      "輪式"
+    ],
+    "odin_hint": "",
+    "form_zh": "輪式裝甲運兵車（APC）",
+    "form_en": "",
+    "wiki": "WZ523",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：WZ523",
+        "url": "https://en.wikipedia.org/wiki/WZ523"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "plz-45",
+    "name_zh": "PLZ-45 155mm 自走榴彈砲",
+    "name_en": "PLZ-45 SPH",
+    "designation": "PLZ-45",
+    "aliases": [
+      "PLZ45"
+    ],
+    "category": "vehicle",
+    "subcategory": "sph",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "155mm/45 倍徑",
+    "crew": "5",
+    "weight_kg": "約 33 噸",
+    "length_mm": "—",
+    "range_m": "射程 39 km（底排增程）",
+    "rate_of_fire": "—",
+    "capacity": "外銷主力（科威特、沙烏地等）",
+    "armor": "鋼裝甲",
+    "mobility": "履帶自走",
+    "sensors": "—",
+    "notes_zh": "PLZ-45 外銷型 155mm 自走砲，成套彈藥/指揮系統。",
+    "notes_en": "",
+    "tags": [
+      "自走砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "自走榴彈砲（155mm，外銷）",
+    "form_en": "",
+    "wiki": "PLZ-45",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PLZ-45",
+        "url": "https://en.wikipedia.org/wiki/PLZ-45"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "plz-52",
+    "name_zh": "PLZ-52 155mm 自走榴彈砲",
+    "name_en": "PLZ-52 SPH",
+    "designation": "PLZ-52",
+    "aliases": [
+      "PLZ52"
+    ],
+    "category": "vehicle",
+    "subcategory": "sph",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "155mm/52 倍徑",
+    "crew": "5",
+    "weight_kg": "約 43 噸",
+    "length_mm": "—",
+    "range_m": "射程 53 km（火箭增程）",
+    "rate_of_fire": "—",
+    "capacity": "PLZ-05 外銷升級版",
+    "armor": "鋼裝甲",
+    "mobility": "履帶自走",
+    "sensors": "—",
+    "notes_zh": "PLZ-52 為 PLZ-05 的 52 倍徑外銷升級型，射程更遠。",
+    "notes_en": "",
+    "tags": [
+      "自走砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "自走榴彈砲（155mm/52）",
+    "form_en": "",
+    "wiki": "PLZ-52",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PLZ-52",
+        "url": "https://en.wikipedia.org/wiki/PLZ-52"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "sh-15",
+    "name_zh": "SH-15 155mm 車載榴彈砲",
+    "name_en": "SH-15 truck howitzer",
+    "designation": "SH-15",
+    "aliases": [
+      "SH15",
+      "PCL-181 外銷"
+    ],
+    "category": "vehicle",
+    "subcategory": "truck_howitzer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "155mm/52 倍徑",
+    "crew": "6",
+    "weight_kg": "約 22 噸",
+    "length_mm": "—",
+    "range_m": "射程 20 km（一般）/53 km（增程）",
+    "rate_of_fire": "—",
+    "capacity": "PCL-181 的外銷型（巴基斯坦等）",
+    "armor": "裝甲駕駛室",
+    "mobility": "6×6 卡車底盤",
+    "sensors": "—",
+    "notes_zh": "SH-15 車載榴彈砲，PCL-181 外銷版本。",
+    "notes_en": "",
+    "tags": [
+      "車載砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "車載榴彈砲（155mm）",
+    "form_en": "",
+    "wiki": "SH-15",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：SH-15",
+        "url": "https://en.wikipedia.org/wiki/SH-15"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "phl-11",
+    "name_zh": "PHL-11 122mm 火箭砲",
+    "name_en": "PHL-11 MLRS",
+    "designation": "PHL-11",
+    "aliases": [
+      "PHL11",
+      "Type 11"
+    ],
+    "category": "vehicle",
+    "subcategory": "mlrs",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "122mm×40 管",
+    "crew": "—",
+    "weight_kg": "約 22 噸",
+    "length_mm": "—",
+    "range_m": "射程 20–40 km",
+    "rate_of_fire": "—",
+    "capacity": "40 聯裝 122mm、模組快速再裝填",
+    "armor": "裝甲駕駛室",
+    "mobility": "6×6 車載、模組化裝填",
+    "sensors": "—",
+    "notes_zh": "PHL-11 模組化 122mm 火箭砲。",
+    "notes_en": "",
+    "tags": [
+      "火箭砲",
+      "122mm"
+    ],
+    "odin_hint": "",
+    "form_zh": "122mm 多管火箭砲",
+    "form_en": "",
+    "wiki": "PHL-11",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：PHL-11",
+        "url": "https://en.wikipedia.org/wiki/PHL-11"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "gsl-131",
+    "name_zh": "GSL-131 掃雷破障車",
+    "name_en": "GSL-131 mine-clearing vehicle",
+    "designation": "GSL-131",
+    "aliases": [
+      "GSL131"
+    ],
+    "category": "vehicle",
+    "subcategory": "engineer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "約 30 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "掃雷犁/爆破掃雷索、開闢通路",
+    "armor": "裝甲",
+    "mobility": "履帶（99/96 底盤）",
+    "sensors": "—",
+    "notes_zh": "GSL-131 裝甲掃雷破障車，為裝甲部隊開路。",
+    "notes_en": "",
+    "tags": [
+      "工兵",
+      "掃雷"
+    ],
+    "odin_hint": "",
+    "form_zh": "裝甲掃雷破障車",
+    "form_en": "",
+    "wiki": "GSL-131",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：GSL-131",
+        "url": "https://en.wikipedia.org/wiki/GSL-131"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "gcz-112",
+    "name_zh": "GCZ-112 裝甲工程車",
+    "name_en": "GCZ-112 combat engineer vehicle",
+    "designation": "GCZ-112",
+    "aliases": [
+      "GCZ112"
+    ],
+    "category": "vehicle",
+    "subcategory": "engineer",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "12.7mm 機槍",
+    "crew": "3",
+    "weight_kg": "約 38 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "推土鏟/挖掘臂/絞盤，構工/清障",
+    "armor": "裝甲",
+    "mobility": "履帶裝甲底盤",
+    "sensors": "—",
+    "notes_zh": "GCZ-112 裝甲工程車，戰場構工與清障。",
+    "notes_en": "",
+    "tags": [
+      "工兵",
+      "構工"
+    ],
+    "odin_hint": "",
+    "form_zh": "裝甲工程車（CEV）",
+    "form_en": "",
+    "wiki": "GCZ-112",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：GCZ-112",
+        "url": "https://en.wikipedia.org/wiki/GCZ-112"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-84-bridge",
+    "name_zh": "84式架橋坦克",
+    "name_en": "Type 84 bridgelayer",
+    "designation": "Type 84",
+    "aliases": [
+      "84式架橋",
+      "HJJ-84"
+    ],
+    "category": "vehicle",
+    "subcategory": "bridge",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "3",
+    "weight_kg": "約 38 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "剪刀式車轍橋、跨距約 18 m",
+    "armor": "裝甲",
+    "mobility": "69/79 坦克底盤",
+    "sensors": "—",
+    "notes_zh": "84式架橋坦克，快速架設車轍橋供裝甲通過。",
+    "notes_en": "",
+    "tags": [
+      "工兵",
+      "架橋"
+    ],
+    "odin_hint": "",
+    "form_zh": "架橋坦克（AVLB）",
+    "form_en": "",
+    "wiki": "Type 84 bridgelayer",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 84 bridgelayer",
+        "url": "https://en.wikipedia.org/wiki/Type_84_bridgelayer"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "type-654-arv",
+    "name_zh": "654式裝甲搶救車",
+    "name_en": "Type 654 ARV",
+    "designation": "Type 654",
+    "aliases": [
+      "654式",
+      "搶救車"
+    ],
+    "category": "vehicle",
+    "subcategory": "recovery",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "12.7mm 機槍",
+    "crew": "4",
+    "weight_kg": "約 38 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "絞盤/吊臂/推土鏟，戰場搶修拖救",
+    "armor": "裝甲",
+    "mobility": "履帶裝甲底盤",
+    "sensors": "—",
+    "notes_zh": "654 式裝甲搶救車，拖救與野戰搶修受損戰車。",
+    "notes_en": "",
+    "tags": [
+      "工兵",
+      "搶救"
+    ],
+    "odin_hint": "",
+    "form_zh": "裝甲搶救車（ARV）",
+    "form_en": "",
+    "wiki": "Type 654 armoured recovery vehicle",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 654 armoured recovery vehicle",
+        "url": "https://en.wikipedia.org/wiki/Type_654_armoured_recovery_vehicle"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
   }
 ];

@@ -1254,14 +1254,18 @@ BRANCH_BY_ID: dict[str, str] = {
     "z-10": "陸軍", "z-19": "陸軍", "z-9": "陸軍", "z-8": "陸軍", "z-18": "陸軍",
     "z-11": "陸軍", "mi-17": "陸軍", "z-20": "陸軍", "hj-10": "陸軍",
 }
-_NAVAL_SUB = {"warship", "submarine", "ciws", "torpedo"}
+_NAVAL_SUB = {"warship", "submarine", "ciws", "torpedo",
+              "auxiliary", "minesweeper", "patrol_boat", "coast_guard",
+              "replenishment", "survey_ship", "amphibious_ship", "hospital_ship"}
 _AIR_SUB = {"aircraft_fighter", "aircraft_bomber", "aircraft_strike", "aircraft_aew",
-            "aircraft_transport", "aircraft_trainer", "aircraft_patrol", "uav", "aam"}
+            "aircraft_transport", "aircraft_trainer", "aircraft_patrol", "uav", "aam",
+            "aircraft_tanker", "aircraft_recon"}
 _ARMY_SUB = {"mbt", "light_tank", "ifv", "apc_wheeled", "apc_tracked", "assault_gun",
              "sph", "mortar_sp", "mlrs", "spaag", "truck_howitzer", "light_vehicle",
              "engineer", "sam", "atgm", "manpads", "at_rocket", "artillery_towed", "mortar",
-             "helicopter", "helicopter_attack"}
-_UNIVERSAL_SUB = {"assault_rifle", "dmr", "amr", "pistol", "smg", "mg", "hmg", "agl", "individual"}
+             "helicopter", "helicopter_attack", "recovery", "bridge", "sp_at", "amphibious_vehicle"}
+_UNIVERSAL_SUB = {"assault_rifle", "dmr", "amr", "pistol", "smg", "mg", "hmg", "agl",
+                  "individual", "grenade", "carbine"}
 
 
 def assign_branch(it: dict) -> str:
@@ -1317,8 +1321,18 @@ def main():
         it["authority_verified"] = True
         patched += 1
 
+    # 外部批次新增檔（JSON list），便於大量擴充；併入 NEW_ITEMS 流程
+    new_items_all = list(NEW_ITEMS)
+    extra_new_path = ROOT / "data" / "new_items_extra.json"
+    if extra_new_path.exists():
+        arr_extra = json.loads(extra_new_path.read_text(encoding="utf-8"))
+        if isinstance(arr_extra, dict):
+            arr_extra = arr_extra.get("items", [])
+        if isinstance(arr_extra, list):
+            new_items_all.extend(arr_extra)
+
     added = 0
-    for ni in NEW_ITEMS:
+    for ni in new_items_all:
         if ni["id"] in by_id:
             # merge patch style
             for k, v in ni.items():
