@@ -1256,7 +1256,8 @@ BRANCH_BY_ID: dict[str, str] = {
 }
 _NAVAL_SUB = {"warship", "submarine", "ciws", "torpedo",
               "auxiliary", "minesweeper", "patrol_boat", "coast_guard",
-              "replenishment", "survey_ship", "amphibious_ship", "hospital_ship"}
+              "replenishment", "survey_ship", "amphibious_ship", "hospital_ship",
+              "naval_gun", "naval_radar", "sonar", "asm"}
 _AIR_SUB = {"aircraft_fighter", "aircraft_bomber", "aircraft_strike", "aircraft_aew",
             "aircraft_transport", "aircraft_trainer", "aircraft_patrol", "uav", "aam",
             "aircraft_tanker", "aircraft_recon"}
