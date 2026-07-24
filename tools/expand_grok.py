@@ -666,8 +666,59 @@ GX5 = [
       notes="B611／B611M 近程彈道導彈外銷系統。",tags=["彈道飛彈","外銷"],form="近程彈道導彈（B611）",wiki="B611 (missile)"),
 ]
 
+# ===== GX6：陸軍裝甲缺漏（Grok army_6 diff）=====
+def g(id, zh, en, desig, sub, *, aliases=None, weight="—", crew="—", caliber="—", rng="—",
+      mob="—", armor="—", cap="—", notes="", tags=None, form="", wiki=""):
+    return mk(id, zh, en, desig, sub, "陸軍", cat="vehicle", aliases=aliases, weight=weight,
+              crew=crew, caliber=caliber, rng=rng, mob=mob, armor=armor, cap=cap, notes=notes,
+              tags=tags or [], form_zh=form, wiki=wiki, branch_hint="陸軍")
+
+GX6 = [
+    g("type-59g","59G式改進坦克","Type 59G","Type 59G","mbt",aliases=["59G式","ZTZ-59G"],
+      weight="約 40 噸",crew="4",caliber="125mm 滑膛砲",mob="公路 50 km/h；730hp",armor="複合＋爆炸反應裝甲",
+      cap="59 式深度改進外銷型（新砲塔/125mm/火控）",notes="59G 深度現代化外銷型，換 125mm 砲與新裝甲。",
+      tags=["坦克","外銷"],form="主戰坦克（59G）",wiki="Type 59 tank"),
+    g("type-88a","88A式主戰坦克","Type 88A","Type 88A","mbt",aliases=["88A式","ZTZ-88A"],
+      weight="約 38.5 噸",crew="4",caliber="105mm 線膛砲",mob="公路 57 km/h；730hp",armor="複合裝甲",
+      cap="88 式改進型（火控/夜視升級）",notes="88A 主戰坦克改進型。",tags=["坦克"],form="主戰坦克（88A）",wiki="Type 88 tank"),
+    g("vt-4","VT-4外銷主戰坦克（MBT-3000）","VT-4 / MBT-3000","VT-4","mbt",aliases=["VT-4","MBT-3000"],
+      weight="約 52 噸",crew="3",caliber="125mm 滑膛砲（自動裝彈）",mob="公路 70 km/h；1,300hp",armor="複合＋ERA＋主動防禦",
+      cap="外銷三代主戰坦克主力（泰國等）",notes="VT-4（MBT-3000）外銷三代主戰坦克，具主動防禦。",
+      tags=["坦克","外銷"],form="主戰坦克（VT-4）",wiki="VT-4"),
+    g("vt-5","VT-5外銷輕型坦克","VT-5","VT-5","light_tank",aliases=["VT-5"],
+      weight="約 33–36 噸",crew="3",caliber="105mm 線膛砲（自動裝彈）",mob="公路 70 km/h；1,000hp",armor="模組化裝甲",
+      cap="外銷輕型坦克（15 式外銷版）",notes="VT-5 外銷輕型坦克（15 式衍生）。",tags=["輕坦","外銷"],form="輕型坦克（VT-5）",wiki="Type 15 tank"),
+    g("al-khalid","阿裘扎主戰坦克（MBT-2000）","Al-Khalid / MBT-2000","Al-Khalid","mbt",aliases=["Al-Khalid","MBT-2000","哈立德"],
+      weight="約 46 噸",crew="3",caliber="125mm 滑膛砲（自動裝彈）",mob="公路 70 km/h；1,200hp",armor="複合＋ERA",
+      cap="中巴合作三代坦克，巴基斯坦列裝",notes="阿裘扎（MBT-2000）中巴合作主戰坦克，巴基斯坦生產。",
+      tags=["坦克","外銷"],form="主戰坦克（阿裘扎）",wiki="Al-Khalid tank"),
+    g("type-92a","92A式輪式步兵戰車（ZSL-92A）","Type 92A / ZSL-92A","ZSL-92A","ifv",aliases=["92A式","ZSL-92A"],
+      weight="約 15.8 噸",crew="3＋7 兵",caliber="25mm 機關砲",mob="6×6 兩棲；公路 85 km/h",armor="鋼裝甲",
+      cap="25mm 砲塔輪式步兵戰車",notes="92A 輪式步兵戰車（WZ551 族，25mm 砲塔）。",tags=["步戰車","輪式"],form="輪式步兵戰車（92A）",wiki="WZ-551"),
+    g("zsd-05","05式兩棲裝甲輸送車（ZSD-05）","ZSD-05","ZSD-05","apc_tracked",aliases=["ZSD-05","05式兩棲APC"],
+      weight="約 26 噸",crew="3＋兵員",caliber="12.7mm 機槍",mob="履帶兩棲；浮渡滑水",armor="鋁合金裝甲",
+      cap="05 族兩棲裝甲輸送/指揮底盤",notes="05 式兩棲裝甲輸送車（陸戰隊 05 族）。",tags=["裝甲車","兩棲"],form="兩棲裝甲輸送車（ZSD-05）",wiki="ZBD-05"),
+    g("zsl-08","08式輪式裝甲輸送車（ZSL-08）","ZSL-08","ZSL-08","apc_wheeled",aliases=["ZSL-08","08式APC"],
+      weight="約 21 噸",crew="2＋10 兵",caliber="12.7mm 機槍",mob="8×8 兩棲；公路 100 km/h",armor="模組化裝甲",
+      cap="08 族輪式裝甲輸送/母底盤",notes="08 式輪式裝甲輸送車（雪豹 8×8 族 APC 型）。",tags=["裝甲車","輪式"],form="輪式裝甲輸送車（ZSL-08）",wiki="ZBL-08"),
+    g("vn1","VN1外銷輪式裝甲車","VN1 (VN-1)","VN1","apc_wheeled",aliases=["VN1","VN-1"],
+      weight="約 21 噸",crew="3＋8 兵",caliber="30mm 機關砲（依配置）",mob="8×8 兩棲；公路 100 km/h",armor="模組化裝甲",
+      cap="08 族外銷輪式裝甲車家族",notes="VN1 外銷 8×8 輪式裝甲車（08 族外銷型）。",tags=["裝甲車","外銷"],form="輪式裝甲車（VN1）",wiki="VN1"),
+    g("st1","ST1外銷輪式突擊炮","ST1 assault gun","ST1","assault_gun",aliases=["ST1"],
+      weight="約 25 噸",crew="4",caliber="105mm 線膛砲",mob="6×6 輪式；公路 90 km/h",armor="防輕武器/破片",
+      cap="105mm 輪式反坦克/火力支援（外銷）",notes="ST1 外銷 105mm 輪式突擊炮（PTL-02 外銷衍生）。",tags=["突擊砲","外銷"],form="輪式突擊炮（ST1）",wiki="ST1 (tank destroyer)"),
+    g("mengshi","東風猛士高機動車（EQ2050）","Dongfeng Mengshi (EQ2050)","EQ2050","light_vehicle",aliases=["猛士","EQ2050","Mengshi"],
+      weight="約 3.5–5 噸",crew="2＋兵員",caliber="可搭 12.7mm/榴彈/飛彈",mob="4×4 高機動越野",armor="部分型裝甲防護",
+      cap="解放軍高機動戰術車，多任務變型（悍馬級）",notes="東風猛士高機動性戰術車，多任務變型（偵察/指揮/武器載台）。",
+      tags=["戰術車","高機動"],form="高機動戰術車（猛士）",wiki="Dongfeng Mengshi"),
+    g("mengshi-3","猛士三代裝甲車（CSK-181）","Mengshi III (CSK-181)","CSK-181","light_vehicle",aliases=["猛士三代","CSK-181","Mengshi III"],
+      weight="約 8 噸",crew="2＋8 兵",caliber="遙控武器站",mob="4×4 高機動；防雷底盤",armor="防彈/防雷裝甲",
+      cap="新一代防護型高機動戰術車（類 JLTV）",notes="猛士三代（CSK-181）防護型高機動戰術車，防雷防伏擊。",
+      tags=["戰術車","防護"],form="防護型高機動車（猛士三代）",wiki="Dongfeng Mengshi"),
+]
+
 if __name__ == "__main__":
     for name, b in [("GX1 海軍", GX1), ("GX2 海軍", GX2), ("GX3 空軍/海航", GX3),
-                    ("GX4 直升機/UAV", GX4), ("GX5 火箭軍", GX5)]:
+                    ("GX4 直升機/UAV", GX4), ("GX5 火箭軍", GX5), ("GX6 陸軍裝甲", GX6)]:
         total, n = merge(b)
         print(f"{name}補漏：{n} 筆；累計 {total}")

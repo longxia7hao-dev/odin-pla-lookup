@@ -12351,5 +12351,545 @@
       }
     ],
     "branch_hint": "火箭軍"
+  },
+  {
+    "id": "type-59g",
+    "name_zh": "59G式改進坦克",
+    "name_en": "Type 59G",
+    "designation": "Type 59G",
+    "aliases": [
+      "59G式",
+      "ZTZ-59G"
+    ],
+    "category": "vehicle",
+    "subcategory": "mbt",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "125mm 滑膛砲",
+    "crew": "4",
+    "weight_kg": "約 40 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "59 式深度改進外銷型（新砲塔/125mm/火控）",
+    "armor": "複合＋爆炸反應裝甲",
+    "mobility": "公路 50 km/h；730hp",
+    "sensors": "—",
+    "notes_zh": "59G 深度現代化外銷型，換 125mm 砲與新裝甲。",
+    "notes_en": "",
+    "tags": [
+      "坦克",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "主戰坦克（59G）",
+    "form_en": "",
+    "wiki": "Type 59 tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 59 tank",
+        "url": "https://en.wikipedia.org/wiki/Type_59_tank"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "type-88a",
+    "name_zh": "88A式主戰坦克",
+    "name_en": "Type 88A",
+    "designation": "Type 88A",
+    "aliases": [
+      "88A式",
+      "ZTZ-88A"
+    ],
+    "category": "vehicle",
+    "subcategory": "mbt",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "105mm 線膛砲",
+    "crew": "4",
+    "weight_kg": "約 38.5 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "88 式改進型（火控/夜視升級）",
+    "armor": "複合裝甲",
+    "mobility": "公路 57 km/h；730hp",
+    "sensors": "—",
+    "notes_zh": "88A 主戰坦克改進型。",
+    "notes_en": "",
+    "tags": [
+      "坦克"
+    ],
+    "odin_hint": "",
+    "form_zh": "主戰坦克（88A）",
+    "form_en": "",
+    "wiki": "Type 88 tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 88 tank",
+        "url": "https://en.wikipedia.org/wiki/Type_88_tank"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "vt-4",
+    "name_zh": "VT-4外銷主戰坦克（MBT-3000）",
+    "name_en": "VT-4 / MBT-3000",
+    "designation": "VT-4",
+    "aliases": [
+      "VT-4",
+      "MBT-3000"
+    ],
+    "category": "vehicle",
+    "subcategory": "mbt",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "125mm 滑膛砲（自動裝彈）",
+    "crew": "3",
+    "weight_kg": "約 52 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "外銷三代主戰坦克主力（泰國等）",
+    "armor": "複合＋ERA＋主動防禦",
+    "mobility": "公路 70 km/h；1,300hp",
+    "sensors": "—",
+    "notes_zh": "VT-4（MBT-3000）外銷三代主戰坦克，具主動防禦。",
+    "notes_en": "",
+    "tags": [
+      "坦克",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "主戰坦克（VT-4）",
+    "form_en": "",
+    "wiki": "VT-4",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：VT-4",
+        "url": "https://en.wikipedia.org/wiki/VT-4"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "vt-5",
+    "name_zh": "VT-5外銷輕型坦克",
+    "name_en": "VT-5",
+    "designation": "VT-5",
+    "aliases": [
+      "VT-5"
+    ],
+    "category": "vehicle",
+    "subcategory": "light_tank",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "105mm 線膛砲（自動裝彈）",
+    "crew": "3",
+    "weight_kg": "約 33–36 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "外銷輕型坦克（15 式外銷版）",
+    "armor": "模組化裝甲",
+    "mobility": "公路 70 km/h；1,000hp",
+    "sensors": "—",
+    "notes_zh": "VT-5 外銷輕型坦克（15 式衍生）。",
+    "notes_en": "",
+    "tags": [
+      "輕坦",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型坦克（VT-5）",
+    "form_en": "",
+    "wiki": "Type 15 tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Type 15 tank",
+        "url": "https://en.wikipedia.org/wiki/Type_15_tank"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "al-khalid",
+    "name_zh": "阿裘扎主戰坦克（MBT-2000）",
+    "name_en": "Al-Khalid / MBT-2000",
+    "designation": "Al-Khalid",
+    "aliases": [
+      "Al-Khalid",
+      "MBT-2000",
+      "哈立德"
+    ],
+    "category": "vehicle",
+    "subcategory": "mbt",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "125mm 滑膛砲（自動裝彈）",
+    "crew": "3",
+    "weight_kg": "約 46 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "中巴合作三代坦克，巴基斯坦列裝",
+    "armor": "複合＋ERA",
+    "mobility": "公路 70 km/h；1,200hp",
+    "sensors": "—",
+    "notes_zh": "阿裘扎（MBT-2000）中巴合作主戰坦克，巴基斯坦生產。",
+    "notes_en": "",
+    "tags": [
+      "坦克",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "主戰坦克（阿裘扎）",
+    "form_en": "",
+    "wiki": "Al-Khalid tank",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Al-Khalid tank",
+        "url": "https://en.wikipedia.org/wiki/Al-Khalid_tank"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "type-92a",
+    "name_zh": "92A式輪式步兵戰車（ZSL-92A）",
+    "name_en": "Type 92A / ZSL-92A",
+    "designation": "ZSL-92A",
+    "aliases": [
+      "92A式",
+      "ZSL-92A"
+    ],
+    "category": "vehicle",
+    "subcategory": "ifv",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "25mm 機關砲",
+    "crew": "3＋7 兵",
+    "weight_kg": "約 15.8 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "25mm 砲塔輪式步兵戰車",
+    "armor": "鋼裝甲",
+    "mobility": "6×6 兩棲；公路 85 km/h",
+    "sensors": "—",
+    "notes_zh": "92A 輪式步兵戰車（WZ551 族，25mm 砲塔）。",
+    "notes_en": "",
+    "tags": [
+      "步戰車",
+      "輪式"
+    ],
+    "odin_hint": "",
+    "form_zh": "輪式步兵戰車（92A）",
+    "form_en": "",
+    "wiki": "WZ-551",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：WZ-551",
+        "url": "https://en.wikipedia.org/wiki/WZ-551"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "zsd-05",
+    "name_zh": "05式兩棲裝甲輸送車（ZSD-05）",
+    "name_en": "ZSD-05",
+    "designation": "ZSD-05",
+    "aliases": [
+      "ZSD-05",
+      "05式兩棲APC"
+    ],
+    "category": "vehicle",
+    "subcategory": "apc_tracked",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "12.7mm 機槍",
+    "crew": "3＋兵員",
+    "weight_kg": "約 26 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "05 族兩棲裝甲輸送/指揮底盤",
+    "armor": "鋁合金裝甲",
+    "mobility": "履帶兩棲；浮渡滑水",
+    "sensors": "—",
+    "notes_zh": "05 式兩棲裝甲輸送車（陸戰隊 05 族）。",
+    "notes_en": "",
+    "tags": [
+      "裝甲車",
+      "兩棲"
+    ],
+    "odin_hint": "",
+    "form_zh": "兩棲裝甲輸送車（ZSD-05）",
+    "form_en": "",
+    "wiki": "ZBD-05",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：ZBD-05",
+        "url": "https://en.wikipedia.org/wiki/ZBD-05"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "zsl-08",
+    "name_zh": "08式輪式裝甲輸送車（ZSL-08）",
+    "name_en": "ZSL-08",
+    "designation": "ZSL-08",
+    "aliases": [
+      "ZSL-08",
+      "08式APC"
+    ],
+    "category": "vehicle",
+    "subcategory": "apc_wheeled",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "12.7mm 機槍",
+    "crew": "2＋10 兵",
+    "weight_kg": "約 21 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "08 族輪式裝甲輸送/母底盤",
+    "armor": "模組化裝甲",
+    "mobility": "8×8 兩棲；公路 100 km/h",
+    "sensors": "—",
+    "notes_zh": "08 式輪式裝甲輸送車（雪豹 8×8 族 APC 型）。",
+    "notes_en": "",
+    "tags": [
+      "裝甲車",
+      "輪式"
+    ],
+    "odin_hint": "",
+    "form_zh": "輪式裝甲輸送車（ZSL-08）",
+    "form_en": "",
+    "wiki": "ZBL-08",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：ZBL-08",
+        "url": "https://en.wikipedia.org/wiki/ZBL-08"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "vn1",
+    "name_zh": "VN1外銷輪式裝甲車",
+    "name_en": "VN1 (VN-1)",
+    "designation": "VN1",
+    "aliases": [
+      "VN1",
+      "VN-1"
+    ],
+    "category": "vehicle",
+    "subcategory": "apc_wheeled",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "30mm 機關砲（依配置）",
+    "crew": "3＋8 兵",
+    "weight_kg": "約 21 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "08 族外銷輪式裝甲車家族",
+    "armor": "模組化裝甲",
+    "mobility": "8×8 兩棲；公路 100 km/h",
+    "sensors": "—",
+    "notes_zh": "VN1 外銷 8×8 輪式裝甲車（08 族外銷型）。",
+    "notes_en": "",
+    "tags": [
+      "裝甲車",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "輪式裝甲車（VN1）",
+    "form_en": "",
+    "wiki": "VN1",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：VN1",
+        "url": "https://en.wikipedia.org/wiki/VN1"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "st1",
+    "name_zh": "ST1外銷輪式突擊炮",
+    "name_en": "ST1 assault gun",
+    "designation": "ST1",
+    "aliases": [
+      "ST1"
+    ],
+    "category": "vehicle",
+    "subcategory": "assault_gun",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "105mm 線膛砲",
+    "crew": "4",
+    "weight_kg": "約 25 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "105mm 輪式反坦克/火力支援（外銷）",
+    "armor": "防輕武器/破片",
+    "mobility": "6×6 輪式；公路 90 km/h",
+    "sensors": "—",
+    "notes_zh": "ST1 外銷 105mm 輪式突擊炮（PTL-02 外銷衍生）。",
+    "notes_en": "",
+    "tags": [
+      "突擊砲",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "輪式突擊炮（ST1）",
+    "form_en": "",
+    "wiki": "ST1 (tank destroyer)",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：ST1 (tank destroyer)",
+        "url": "https://en.wikipedia.org/wiki/ST1_(tank_destroyer)"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "mengshi",
+    "name_zh": "東風猛士高機動車（EQ2050）",
+    "name_en": "Dongfeng Mengshi (EQ2050)",
+    "designation": "EQ2050",
+    "aliases": [
+      "猛士",
+      "EQ2050",
+      "Mengshi"
+    ],
+    "category": "vehicle",
+    "subcategory": "light_vehicle",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "可搭 12.7mm/榴彈/飛彈",
+    "crew": "2＋兵員",
+    "weight_kg": "約 3.5–5 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "解放軍高機動戰術車，多任務變型（悍馬級）",
+    "armor": "部分型裝甲防護",
+    "mobility": "4×4 高機動越野",
+    "sensors": "—",
+    "notes_zh": "東風猛士高機動性戰術車，多任務變型（偵察/指揮/武器載台）。",
+    "notes_en": "",
+    "tags": [
+      "戰術車",
+      "高機動"
+    ],
+    "odin_hint": "",
+    "form_zh": "高機動戰術車（猛士）",
+    "form_en": "",
+    "wiki": "Dongfeng Mengshi",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Dongfeng Mengshi",
+        "url": "https://en.wikipedia.org/wiki/Dongfeng_Mengshi"
+      }
+    ],
+    "branch_hint": "陸軍"
+  },
+  {
+    "id": "mengshi-3",
+    "name_zh": "猛士三代裝甲車（CSK-181）",
+    "name_en": "Mengshi III (CSK-181)",
+    "designation": "CSK-181",
+    "aliases": [
+      "猛士三代",
+      "CSK-181",
+      "Mengshi III"
+    ],
+    "category": "vehicle",
+    "subcategory": "light_vehicle",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "遙控武器站",
+    "crew": "2＋8 兵",
+    "weight_kg": "約 8 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "新一代防護型高機動戰術車（類 JLTV）",
+    "armor": "防彈/防雷裝甲",
+    "mobility": "4×4 高機動；防雷底盤",
+    "sensors": "—",
+    "notes_zh": "猛士三代（CSK-181）防護型高機動戰術車，防雷防伏擊。",
+    "notes_en": "",
+    "tags": [
+      "戰術車",
+      "防護"
+    ],
+    "odin_hint": "",
+    "form_zh": "防護型高機動車（猛士三代）",
+    "form_en": "",
+    "wiki": "Dongfeng Mengshi",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Dongfeng Mengshi",
+        "url": "https://en.wikipedia.org/wiki/Dongfeng_Mengshi"
+      }
+    ],
+    "branch_hint": "陸軍"
   }
 ]
