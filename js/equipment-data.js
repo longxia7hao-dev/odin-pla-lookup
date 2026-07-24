@@ -15875,7 +15875,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "攔截戰鬥機（殲-8B）",
     "form_en": "",
     "wiki": "Shenyang J-8",
-    "image": "",
+    "image": "assets/images/j-8b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17810,7 +17810,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "班用輕機槍（5.8mm）",
     "form_en": "",
     "wiki": "QBB-95",
-    "image": "",
+    "image": "assets/images/qbb-95.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17855,7 +17855,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "班用輕機槍（191 槍族）",
     "form_en": "",
     "wiki": "QBZ-191",
-    "image": "",
+    "image": "assets/images/qbb-191.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17901,7 +17901,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "半自動步槍（SKS）",
     "form_en": "",
     "wiki": "Type 56 carbine",
-    "image": "",
+    "image": "assets/images/type-56-sks.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20329,7 +20329,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "空射反艦飛彈（YJ-83K）",
     "form_en": "",
     "wiki": "YJ-83",
-    "image": "",
+    "image": "assets/images/yj-83k.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20376,7 +20376,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "潛射反艦巡航飛彈（YJ-18B）",
     "form_en": "",
     "wiki": "YJ-18",
-    "image": "",
+    "image": "assets/images/yj-18b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -21146,53 +21146,6 @@ window.EQUIPMENT_DATA = [
     "branch": "海軍"
   },
   {
-    "id": "mi-171",
-    "name_zh": "米-171 中型運輸直升機",
-    "name_en": "Mil Mi-171",
-    "designation": "Mi-171",
-    "aliases": [
-      "Mi-171",
-      "米171"
-    ],
-    "category": "vehicle",
-    "subcategory": "helicopter",
-    "origin": "China",
-    "origin_zh": "中國",
-    "service": "陸軍",
-    "service_zh": "陸軍",
-    "caliber": "—",
-    "crew": "機組 3＋24 兵",
-    "weight_kg": "最大起飛約 13,000 kg",
-    "length_mm": "—",
-    "range_m": "航程約 590 km",
-    "rate_of_fire": "—",
-    "capacity": "運兵/物資、可外掛武器",
-    "armor": "—",
-    "mobility": "中型運輸直升機（俄製）",
-    "sensors": "—",
-    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
-    "notes_en": "",
-    "tags": [
-      "直升機",
-      "運輸",
-      "俄製"
-    ],
-    "odin_hint": "",
-    "form_zh": "中型運輸直升機",
-    "form_en": "",
-    "wiki": "Mil Mi-8",
-    "image": "assets/images/mi-171.jpg",
-    "odin_url": "https://odin.t2com.army.mil/WEG",
-    "sources": [
-      {
-        "label": "維基百科：Mil Mi-8",
-        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
-      }
-    ],
-    "authority_verified": true,
-    "branch": "陸軍"
-  },
-  {
     "id": "type-093a",
     "name_zh": "093A型攻擊核潛艇（商級改）",
     "name_en": "Type 093A Shang II",
@@ -21784,7 +21737,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型登陸艦（073A）",
     "form_en": "",
     "wiki": "Type 073 landing ship",
-    "image": "",
+    "image": "assets/images/type-073a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -21831,7 +21784,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "通用登陸艇（074A）",
     "form_en": "",
     "wiki": "Type 074 landing ship",
-    "image": "",
+    "image": "assets/images/type-074a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -22663,7 +22616,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "航天遠洋測量船（遠望7）",
     "form_en": "",
     "wiki": "Yuanwang",
-    "image": "",
+    "image": "assets/images/yuanwang-7.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -22710,7 +22663,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "火箭運輸船（遠望21/22）",
     "form_en": "",
     "wiki": "Yuanwang",
-    "image": "",
+    "image": "assets/images/yuanwang-2122.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -23170,5 +23123,52 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍"
+  },
+  {
+    "id": "mi-171",
+    "name_zh": "米-171 中型運輸直升機",
+    "name_en": "Mil Mi-171",
+    "designation": "Mi-171",
+    "aliases": [
+      "Mi-171",
+      "米171"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組 3＋24 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 590 km",
+    "rate_of_fire": "—",
+    "capacity": "運兵/物資、可外掛武器",
+    "armor": "—",
+    "mobility": "中型運輸直升機（俄製）",
+    "sensors": "—",
+    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機",
+    "form_en": "",
+    "wiki": "Mil Mi-8",
+    "image": "assets/images/mi-171.jpg",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-8",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
   }
 ];
