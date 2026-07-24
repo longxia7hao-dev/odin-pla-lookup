@@ -1271,6 +1271,8 @@ _UNIVERSAL_SUB = {"assault_rifle", "dmr", "amr", "pistol", "smg", "mg", "hmg", "
 def assign_branch(it: dict) -> str:
     if it["id"] in BRANCH_BY_ID:
         return BRANCH_BY_ID[it["id"]]
+    if it.get("branch_hint") in ("陸軍", "海軍", "空軍", "火箭軍", "通用"):
+        return it["branch_hint"]
     sub = it.get("subcategory", "")
     if sub in _NAVAL_SUB:
         return "海軍"
