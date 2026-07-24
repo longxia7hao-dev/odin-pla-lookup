@@ -23125,53 +23125,6 @@ window.EQUIPMENT_DATA = [
     "branch": "海軍"
   },
   {
-    "id": "mi-171",
-    "name_zh": "米-171 中型運輸直升機",
-    "name_en": "Mil Mi-171",
-    "designation": "Mi-171",
-    "aliases": [
-      "Mi-171",
-      "米171"
-    ],
-    "category": "vehicle",
-    "subcategory": "helicopter",
-    "origin": "China",
-    "origin_zh": "中國",
-    "service": "陸軍",
-    "service_zh": "陸軍",
-    "caliber": "—",
-    "crew": "機組 3＋24 兵",
-    "weight_kg": "最大起飛約 13,000 kg",
-    "length_mm": "—",
-    "range_m": "航程約 590 km",
-    "rate_of_fire": "—",
-    "capacity": "運兵/物資、可外掛武器",
-    "armor": "—",
-    "mobility": "中型運輸直升機（俄製）",
-    "sensors": "—",
-    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
-    "notes_en": "",
-    "tags": [
-      "直升機",
-      "運輸",
-      "俄製"
-    ],
-    "odin_hint": "",
-    "form_zh": "中型運輸直升機",
-    "form_en": "",
-    "wiki": "Mil Mi-8",
-    "image": "assets/images/mi-171.jpg",
-    "odin_url": "https://odin.t2com.army.mil/WEG",
-    "sources": [
-      {
-        "label": "維基百科：Mil Mi-8",
-        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
-      }
-    ],
-    "authority_verified": true,
-    "branch": "陸軍"
-  },
-  {
     "id": "j-5",
     "name_zh": "殲-5戰鬥機",
     "name_en": "Shenyang J-5 (MiG-17)",
@@ -24711,6 +24664,1449 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：KD-20",
         "url": "https://en.wikipedia.org/wiki/KD-20"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "mi-171",
+    "name_zh": "米-171 中型運輸直升機",
+    "name_en": "Mil Mi-171",
+    "designation": "Mi-171",
+    "aliases": [
+      "Mi-171",
+      "米171"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組 3＋24 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 590 km",
+    "rate_of_fire": "—",
+    "capacity": "運兵/物資、可外掛武器",
+    "armor": "—",
+    "mobility": "中型運輸直升機（俄製）",
+    "sensors": "—",
+    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機",
+    "form_en": "",
+    "wiki": "Mil Mi-8",
+    "image": "assets/images/mi-171.jpg",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-8",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-5",
+    "name_zh": "直-5直升機",
+    "name_en": "Harbin Z-5 (Mi-4)",
+    "designation": "Z-5",
+    "aliases": [
+      "直5",
+      "Mi-4",
+      "Hound"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋11 兵",
+    "weight_kg": "最大起飛約 7,600 kg",
+    "length_mm": "—",
+    "range_m": "航程約 500 km",
+    "rate_of_fire": "—",
+    "capacity": "運輸/通用（米-4 仿製）",
+    "armor": "—",
+    "mobility": "活塞發動機",
+    "sensors": "—",
+    "notes_zh": "直-5 米-4 仿製多用途直升機，已退役。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "運輸直升機（米-4）",
+    "form_en": "",
+    "wiki": "Harbin Z-5",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-5",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-5"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-6",
+    "name_zh": "直-6直升機",
+    "name_en": "Changhe Z-6",
+    "designation": "Z-6",
+    "aliases": [
+      "直6"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋兵員",
+    "weight_kg": "最大起飛約 7,600 kg",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "直-5 渦軸改進型（少量）",
+    "armor": "—",
+    "mobility": "渦軸發動機",
+    "sensors": "—",
+    "notes_zh": "直-6 直-5 渦軸改進型，少量生產，已退役。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "運輸直升機（直-6）",
+    "form_en": "",
+    "wiki": "Changhe Z-6",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Changhe Z-6",
+        "url": "https://en.wikipedia.org/wiki/Changhe_Z-6"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-8a",
+    "name_zh": "直-8A陸軍運輸直升機",
+    "name_en": "Changhe Z-8A",
+    "designation": "Z-8A",
+    "aliases": [
+      "直8A"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋27 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "陸軍運輸型",
+    "armor": "—",
+    "mobility": "3×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-8 陸軍運輸型。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸"
+    ],
+    "odin_hint": "",
+    "form_zh": "陸軍運輸直升機（直-8A）",
+    "form_en": "",
+    "wiki": "Harbin Z-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-8",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-8"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-8j",
+    "name_zh": "直-8J艦載運輸直升機",
+    "name_en": "Changhe Z-8J",
+    "designation": "Z-8J",
+    "aliases": [
+      "直8J"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "機組＋兵員",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "海軍艦載運輸/通用",
+    "armor": "—",
+    "mobility": "3×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-8 海軍艦載運輸型。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "艦載"
+    ],
+    "odin_hint": "",
+    "form_zh": "艦載運輸直升機（直-8J）",
+    "form_en": "",
+    "wiki": "Harbin Z-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-8",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-8"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "z-18a",
+    "name_zh": "直-18A陸軍型",
+    "name_en": "Changhe Z-18A",
+    "designation": "Z-18A",
+    "aliases": [
+      "直18A"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋兵員",
+    "weight_kg": "最大起飛約 13,800 kg",
+    "length_mm": "—",
+    "range_m": "航程約 900 km",
+    "rate_of_fire": "—",
+    "capacity": "陸軍運輸/通用",
+    "armor": "—",
+    "mobility": "3×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-18 陸軍運輸型。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸"
+    ],
+    "odin_hint": "",
+    "form_zh": "陸軍運輸直升機（直-18A）",
+    "form_en": "",
+    "wiki": "Changhe Z-18",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Changhe Z-18",
+        "url": "https://en.wikipedia.org/wiki/Changhe_Z-18"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-18j",
+    "name_zh": "直-18J艦載預警直升機",
+    "name_en": "Changhe Z-18J AEW",
+    "designation": "Z-18J",
+    "aliases": [
+      "直18J",
+      "預警直升機"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "機組＋操作員",
+    "weight_kg": "最大起飛約 13,800 kg",
+    "length_mm": "—",
+    "range_m": "滯空數小時",
+    "rate_of_fire": "—",
+    "capacity": "機腹收放式相控陣雷達、艦載預警",
+    "armor": "—",
+    "mobility": "3×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-18J 艦載預警直升機，滑躍航母編隊空中預警。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "預警"
+    ],
+    "odin_hint": "",
+    "form_zh": "艦載預警直升機（直-18J）",
+    "form_en": "",
+    "wiki": "Changhe Z-18",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Changhe Z-18",
+        "url": "https://en.wikipedia.org/wiki/Changhe_Z-18"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "z-9b",
+    "name_zh": "直-9B通用直升機",
+    "name_en": "Harbin Z-9B",
+    "designation": "Z-9B",
+    "aliases": [
+      "直9B"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋10 兵",
+    "weight_kg": "最大起飛約 4,100 kg",
+    "length_mm": "—",
+    "range_m": "航程約 1,000 km",
+    "rate_of_fire": "—",
+    "capacity": "陸軍通用運輸/偵察",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-9B 陸軍通用型（海豚衍生）。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "通用"
+    ],
+    "odin_hint": "",
+    "form_zh": "通用直升機（直-9B）",
+    "form_en": "",
+    "wiki": "Harbin Z-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-9",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-9"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-9d",
+    "name_zh": "直-9D反艦直升機",
+    "name_en": "Harbin Z-9D",
+    "designation": "Z-9D",
+    "aliases": [
+      "直9D"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 4,100 kg",
+    "length_mm": "—",
+    "range_m": "航程約 1,000 km",
+    "rate_of_fire": "—",
+    "capacity": "可掛 TL-10 等輕型反艦導彈的艦載型",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-9D 艦載反艦型，掛輕型反艦導彈。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "反艦"
+    ],
+    "odin_hint": "",
+    "form_zh": "艦載反艦直升機（直-9D）",
+    "form_en": "",
+    "wiki": "Harbin Z-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-9",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-9"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "z-9wa",
+    "name_zh": "直-9WA武裝直升機",
+    "name_en": "Harbin Z-9WA",
+    "designation": "Z-9WA",
+    "aliases": [
+      "直9WA"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter_attack",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 4,100 kg",
+    "length_mm": "—",
+    "range_m": "航程約 1,000 km",
+    "rate_of_fire": "—",
+    "capacity": "HJ-8/HJ-9 反坦克、火箭、夜戰能力",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-9 武裝改進型，具夜間作戰能力。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "武裝"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型武裝直升機（直-9WA）",
+    "form_en": "",
+    "wiki": "Harbin Z-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-9",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-9"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-10k",
+    "name_zh": "直-10K空軍/空降兵型",
+    "name_en": "CAIC Z-10K",
+    "designation": "Z-10K",
+    "aliases": [
+      "直10K"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter_attack",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 7,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "空降兵/空軍用武裝攻擊直升機",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-10 空軍/空降兵型。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "武裝"
+    ],
+    "odin_hint": "",
+    "form_zh": "武裝攻擊直升機（直-10K）",
+    "form_en": "",
+    "wiki": "CAIC Z-10",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CAIC Z-10",
+        "url": "https://en.wikipedia.org/wiki/CAIC_Z-10"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "z-10me",
+    "name_zh": "直-10ME外銷型",
+    "name_en": "CAIC Z-10ME",
+    "designation": "Z-10ME",
+    "aliases": [
+      "直10ME"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter_attack",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 7,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "外銷改進武裝直升機（加裝防護/干擾）",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-10 外銷改進型（巴基斯坦等）。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "外銷"
+    ],
+    "odin_hint": "",
+    "form_zh": "武裝攻擊直升機（直-10ME）",
+    "form_en": "",
+    "wiki": "CAIC Z-10",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CAIC Z-10",
+        "url": "https://en.wikipedia.org/wiki/CAIC_Z-10"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-11w",
+    "name_zh": "直-11W武裝偵察直升機",
+    "name_en": "Changhe Z-11W",
+    "designation": "Z-11W",
+    "aliases": [
+      "直11W"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter_attack",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 2,200 kg",
+    "length_mm": "—",
+    "range_m": "航程約 600 km",
+    "rate_of_fire": "—",
+    "capacity": "輕型反坦克飛彈、機槍、火箭",
+    "armor": "—",
+    "mobility": "單渦軸",
+    "sensors": "—",
+    "notes_zh": "直-11 武裝偵察型。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "武裝"
+    ],
+    "odin_hint": "",
+    "form_zh": "輕型武裝偵察直升機（直-11W）",
+    "form_en": "",
+    "wiki": "Changhe Z-11",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Changhe Z-11",
+        "url": "https://en.wikipedia.org/wiki/Changhe_Z-11"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "z-20j",
+    "name_zh": "直-20J艦載型",
+    "name_en": "Harbin Z-20J",
+    "designation": "Z-20J",
+    "aliases": [
+      "直20J"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "機組＋兵員",
+    "weight_kg": "最大起飛約 10,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 1,000 km",
+    "rate_of_fire": "—",
+    "capacity": "艦載通用/反潛發展型",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-20 艦載通用/反潛發展型。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "艦載"
+    ],
+    "odin_hint": "",
+    "form_zh": "艦載通用直升機（直-20J）",
+    "form_en": "",
+    "wiki": "Harbin Z-20",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-20",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-20"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "z-21",
+    "name_zh": "直-21武裝直升機（研發中）",
+    "name_en": "Harbin Z-21 (reported)",
+    "designation": "Z-21",
+    "aliases": [
+      "直21"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter_attack",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "直-20 平台重型武裝直升機（推測）",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "直-21 直-20 平台重型武裝直升機，發展中，諸元推測。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "武裝",
+      "研發中"
+    ],
+    "odin_hint": "",
+    "form_zh": "重型武裝直升機（直-21）",
+    "form_en": "",
+    "wiki": "Harbin Z-20",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Harbin Z-20",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Z-20"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "mi-8",
+    "name_zh": "米-8運輸直升機",
+    "name_en": "Mil Mi-8 Hip",
+    "designation": "Mi-8",
+    "aliases": [
+      "Mi-8",
+      "米8",
+      "Hip"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋24 兵",
+    "weight_kg": "最大起飛約 12,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 450 km",
+    "rate_of_fire": "—",
+    "capacity": "中型運輸（俄/蘇製）",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "米-8 中型運輸直升機（俄製）。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機（米-8）",
+    "form_en": "",
+    "wiki": "Mil Mi-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-8",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "mi-26",
+    "name_zh": "米-26重型運輸直升機",
+    "name_en": "Mil Mi-26 Halo",
+    "designation": "Mi-26",
+    "aliases": [
+      "Mi-26",
+      "米26",
+      "Halo"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組＋約 90 兵",
+    "weight_kg": "最大起飛約 56,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "載重 20 噸，世界最大量產直升機",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "米-26 重型運輸直升機（少量），可吊運車輛/飛機。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "重型",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "重型運輸直升機（米-26）",
+    "form_en": "",
+    "wiki": "Mil Mi-26",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-26",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-26"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "ka-27",
+    "name_zh": "卡-27反潛直升機",
+    "name_en": "Kamov Ka-27 Helix",
+    "designation": "Ka-27",
+    "aliases": [
+      "Ka-27",
+      "卡27",
+      "Helix"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "3",
+    "weight_kg": "最大起飛約 12,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "共軸反潛，聲納浮標/魚雷",
+    "armor": "—",
+    "mobility": "共軸雙旋翼、2×渦軸",
+    "sensors": "—",
+    "notes_zh": "卡-27 共軸反潛直升機（俄製）。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "反潛",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "艦載反潛直升機（卡-27）",
+    "form_en": "",
+    "wiki": "Kamov Ka-27",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Kamov Ka-27",
+        "url": "https://en.wikipedia.org/wiki/Kamov_Ka-27"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "as565",
+    "name_zh": "AS565 黑豹艦載直升機",
+    "name_en": "AS565 Panther",
+    "designation": "AS565",
+    "aliases": [
+      "AS565",
+      "Panther",
+      "黑豹"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "2",
+    "weight_kg": "最大起飛約 4,300 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "艦載多用途/反潛/反艦（法製）",
+    "armor": "—",
+    "mobility": "2×渦軸",
+    "sensors": "—",
+    "notes_zh": "AS565 黑豹艦載直升機（法製，直-9 同源）。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "艦載"
+    ],
+    "odin_hint": "",
+    "form_zh": "艦載多用途直升機（黑豹）",
+    "form_en": "",
+    "wiki": "Eurocopter AS565 Panther",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Eurocopter AS565 Panther",
+        "url": "https://en.wikipedia.org/wiki/Eurocopter_AS565_Panther"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "sa321",
+    "name_zh": "超黃蜂直升機（SA321）",
+    "name_en": "SA321 Super Frelon",
+    "designation": "SA321",
+    "aliases": [
+      "SA321",
+      "超黃蜂",
+      "Super Frelon"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "機組＋兵員",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 800 km",
+    "rate_of_fire": "—",
+    "capacity": "早期艦載大型運輸/反潛（法製，直-8 同源）",
+    "armor": "—",
+    "mobility": "3×渦軸",
+    "sensors": "—",
+    "notes_zh": "超黃蜂大型直升機（法製），直-8 技術來源，已退役。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "艦載大型直升機（超黃蜂）",
+    "form_en": "",
+    "wiki": "Aérospatiale Alouette III",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Aérospatiale Alouette III",
+        "url": "https://en.wikipedia.org/wiki/Aérospatiale_Alouette_III"
+      }
+    ],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "ac313",
+    "name_zh": "AC313大型民用直升機",
+    "name_en": "Avicopter AC313",
+    "designation": "AC313",
+    "aliases": [
+      "AC313"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "通用",
+    "service_zh": "通用",
+    "caliber": "—",
+    "crew": "機組＋27 座",
+    "weight_kg": "最大起飛約 13,800 kg",
+    "length_mm": "—",
+    "range_m": "航程約 900 km",
+    "rate_of_fire": "—",
+    "capacity": "直-8 系民用大型機，救援/運輸",
+    "armor": "—",
+    "mobility": "3×渦軸",
+    "sensors": "—",
+    "notes_zh": "AC313 直-8 系民用大型直升機，救援任務。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "民用"
+    ],
+    "odin_hint": "",
+    "form_zh": "大型民用直升機（AC313）",
+    "form_en": "",
+    "wiki": "Changhe Z-8",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Changhe Z-8",
+        "url": "https://en.wikipedia.org/wiki/Changhe_Z-8"
+      }
+    ],
+    "branch_hint": "通用",
+    "authority_verified": true,
+    "branch": "通用"
+  },
+  {
+    "id": "wing-loong-1d",
+    "name_zh": "翼龍-1D無人機",
+    "name_en": "Wing Loong ID",
+    "designation": "Wing Loong ID",
+    "aliases": [
+      "翼龍1D",
+      "Wing Loong 1D"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "滯空約 35h",
+    "rate_of_fire": "—",
+    "capacity": "翼龍-1 改進加大型，複合材料、載荷增加",
+    "armor": "—",
+    "mobility": "中空長航時；螺旋槳",
+    "sensors": "—",
+    "notes_zh": "翼龍-1D 察打無人機改進型。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "察打"
+    ],
+    "odin_hint": "",
+    "form_zh": "察打一體無人機（翼龍-1D）",
+    "form_en": "",
+    "wiki": "CAIG Wing Loong",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CAIG Wing Loong",
+        "url": "https://en.wikipedia.org/wiki/CAIG_Wing_Loong"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "wing-loong-3",
+    "name_zh": "翼龍-3無人機",
+    "name_en": "Wing Loong III",
+    "designation": "Wing Loong III",
+    "aliases": [
+      "翼龍3",
+      "Wing Loong 3"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "航程約 10,000 km／滯空 40h",
+    "rate_of_fire": "—",
+    "capacity": "更大平台、航程/滯空大幅提升、多掛點",
+    "armor": "—",
+    "mobility": "中空長航時；渦槳",
+    "sensors": "—",
+    "notes_zh": "翼龍-3 大型察打無人機。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "察打"
+    ],
+    "odin_hint": "",
+    "form_zh": "大型察打無人機（翼龍-3）",
+    "form_en": "",
+    "wiki": "CAIG Wing Loong",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CAIG Wing Loong",
+        "url": "https://en.wikipedia.org/wiki/CAIG_Wing_Loong"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ch-1",
+    "name_zh": "彩虹-1無人機",
+    "name_en": "CASC CH-1",
+    "designation": "CH-1",
+    "aliases": [
+      "彩虹1",
+      "CH-1"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "早期戰術偵察無人機",
+    "armor": "—",
+    "mobility": "活塞螺旋槳",
+    "sensors": "—",
+    "notes_zh": "彩虹-1 早期戰術偵察無人機，已退役。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "偵察",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "戰術偵察無人機（彩虹-1）",
+    "form_en": "",
+    "wiki": "CASC Rainbow",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CASC Rainbow",
+        "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "ch-2",
+    "name_zh": "彩虹-2無人機",
+    "name_en": "CASC CH-2",
+    "designation": "CH-2",
+    "aliases": [
+      "彩虹2",
+      "CH-2"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "早期偵察無人機改進",
+    "armor": "—",
+    "mobility": "活塞螺旋槳",
+    "sensors": "—",
+    "notes_zh": "彩虹-2 早期偵察無人機，已退役。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "偵察",
+      "舊式"
+    ],
+    "odin_hint": "",
+    "form_zh": "偵察無人機（彩虹-2）",
+    "form_en": "",
+    "wiki": "CASC Rainbow",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CASC Rainbow",
+        "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "bzk-005c",
+    "name_zh": "BZK-005C改進型無人機",
+    "name_en": "BZK-005C",
+    "designation": "BZK-005C",
+    "aliases": [
+      "BZK-005C"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "滯空約 40h",
+    "rate_of_fire": "—",
+    "capacity": "中高空長航時偵察，察打能力擴展",
+    "armor": "—",
+    "mobility": "中高空長航時；螺旋槳",
+    "sensors": "—",
+    "notes_zh": "BZK-005 改進型，察打能力擴展。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "偵察"
+    ],
+    "odin_hint": "",
+    "form_zh": "長航時偵察無人機（BZK-005C）",
+    "form_en": "",
+    "wiki": "BZK-005",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：BZK-005",
+        "url": "https://en.wikipedia.org/wiki/BZK-005"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "bzk-007",
+    "name_zh": "BZK-007偵察無人機",
+    "name_en": "BZK-007",
+    "designation": "BZK-007",
+    "aliases": [
+      "BZK-007"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "戰術偵察無人機",
+    "armor": "—",
+    "mobility": "活塞螺旋槳",
+    "sensors": "—",
+    "notes_zh": "BZK-007 戰術偵察無人機。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "偵察"
+    ],
+    "odin_hint": "",
+    "form_zh": "戰術偵察無人機（BZK-007）",
+    "form_en": "",
+    "wiki": "BZK-005",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：BZK-005",
+        "url": "https://en.wikipedia.org/wiki/BZK-005"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "fh-95",
+    "name_zh": "飛鴻-95電子偵察無人機",
+    "name_en": "FH-95",
+    "designation": "FH-95",
+    "aliases": [
+      "FH-95",
+      "飛鴻95"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "電子偵察/干擾/誘餌多任務",
+    "armor": "—",
+    "mobility": "噴射/渦槳",
+    "sensors": "—",
+    "notes_zh": "飛鴻-95 電子偵察/干擾多任務無人機。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "電子戰"
+    ],
+    "odin_hint": "",
+    "form_zh": "電子偵察無人機（飛鴻-95）",
+    "form_en": "",
+    "wiki": "CASC Rainbow",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CASC Rainbow",
+        "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "sw-6",
+    "name_zh": "SW-6空射無人機",
+    "name_en": "SW-6 air-launched UAV",
+    "designation": "SW-6",
+    "aliases": [
+      "SW-6"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "可由運輸機/直升機空射、折疊翼可回收偵察",
+    "armor": "—",
+    "mobility": "空射折疊翼",
+    "sensors": "—",
+    "notes_zh": "SW-6 空射可回收偵察無人機。",
+    "notes_en": "",
+    "tags": [
+      "無人機",
+      "空射"
+    ],
+    "odin_hint": "",
+    "form_zh": "空射偵察無人機（SW-6）",
+    "form_en": "",
+    "wiki": "",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jari-usv",
+    "name_zh": "JARI無人作戰艇",
+    "name_en": "JARI USV",
+    "designation": "JARI",
+    "aliases": [
+      "JARI",
+      "無人艇"
+    ],
+    "category": "vehicle",
+    "subcategory": "uav",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "海軍",
+    "service_zh": "海軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "約 20 噸",
+    "length_mm": "—",
+    "range_m": "—",
+    "rate_of_fire": "—",
+    "capacity": "武裝無人水面艇，小口徑砲/飛彈/魚雷/聲納",
+    "armor": "—",
+    "mobility": "無人水面艇（USV）",
+    "sensors": "—",
+    "notes_zh": "JARI 多用途武裝無人水面作戰艇（展示型）。",
+    "notes_en": "",
+    "tags": [
+      "無人艇",
+      "USV"
+    ],
+    "odin_hint": "",
+    "form_zh": "武裝無人水面艇（JARI）",
+    "form_en": "",
+    "wiki": "",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [],
+    "branch_hint": "海軍",
+    "authority_verified": true,
+    "branch": "海軍"
+  },
+  {
+    "id": "ar-1",
+    "name_zh": "AR-1 空地導彈（無人機掛彈）",
+    "name_en": "AR-1 air-to-surface missile",
+    "designation": "AR-1",
+    "aliases": [
+      "AR-1",
+      "AKD-based"
+    ],
+    "category": "weapon",
+    "subcategory": "atgm",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "無人機空地導彈",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "約 8 km",
+    "rate_of_fire": "—",
+    "capacity": "察打無人機（彩虹/翼龍）常用雷射導引空地導彈",
+    "armor": "—",
+    "mobility": "雷射半主動導引",
+    "sensors": "—",
+    "notes_zh": "AR-1 無人機掛載空地導彈，反裝甲/點目標打擊。",
+    "notes_en": "",
+    "tags": [
+      "空地導彈",
+      "無人機武器"
+    ],
+    "odin_hint": "",
+    "form_zh": "無人機空地導彈（AR-1）",
+    "form_en": "",
+    "wiki": "CASC Rainbow",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：CASC Rainbow",
+        "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
       }
     ],
     "branch_hint": "空軍",
