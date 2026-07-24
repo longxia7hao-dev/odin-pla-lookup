@@ -1506,7 +1506,8 @@
           "label": "維基百科：鷹擊-18",
           "url": "https://en.wikipedia.org/wiki/YJ-18"
         }
-      ]
+      ],
+      "image": "assets/images/yj-18a.jpg"
     },
     "yj-12": {
       "range_m": "460–500 km",
@@ -2143,7 +2144,8 @@
           "url": "https://en.wikipedia.org/wiki/Dongfeng_Mengshi"
         }
       ],
-      "crew": "2＋8 兵"
+      "crew": "2＋8 兵",
+      "image": "assets/images/mengshi.jpg"
     },
     "eq2058": {
       "weight_kg": "新一代高機動戰術車",
@@ -2567,7 +2569,8 @@
           "label": "維基百科：QTS-11",
           "url": "https://en.wikipedia.org/wiki/QTS-11"
         }
-      ]
+      ],
+      "image": "assets/images/qts-11.jpg"
     },
     "qsz-92": {
       "caliber": "5.8×21mm 或 9×19mm",
@@ -2877,7 +2880,8 @@
           "label": "維基百科：PLL-09",
           "url": "https://en.wikipedia.org/wiki/PLL-09"
         }
-      ]
+      ],
+      "image": "assets/images/pll-09.jpg"
     },
     "type-90-mlrs": {
       "caliber": "122mm 40 管火箭",
@@ -2920,7 +2924,8 @@
           "label": "維基百科：83式自走砲",
           "url": "https://en.wikipedia.org/wiki/Type_83_self-propelled_howitzer"
         }
-      ]
+      ],
+      "image": "assets/images/type-83-sph.jpg"
     },
     "type-66-152": {
       "caliber": "152mm 加榴砲",
@@ -3152,7 +3157,8 @@
           "label": "維基百科：PCL-161",
           "url": "https://en.wikipedia.org/wiki/PCL-161"
         }
-      ]
+      ],
+      "image": "assets/images/pcl-161.jpg"
     },
     "pcl-09": {
       "caliber": "122mm 車載榴彈砲",
@@ -3203,7 +3209,8 @@
           "label": "維基百科：PGZ-04A",
           "url": "https://en.wikipedia.org/wiki/PGZ-04A"
         }
-      ]
+      ],
+      "image": "assets/images/pgz-04a.jpg"
     },
     "sr5": {
       "caliber": "122／220mm 模組火箭",
@@ -3239,7 +3246,8 @@
           "label": "維基百科：DZJ-08",
           "url": "https://en.wikipedia.org/wiki/DZJ-08"
         }
-      ]
+      ],
+      "image": "assets/images/dzj-08.jpg"
     },
     "pp-89": {
       "caliber": "100mm 迫擊砲",
@@ -3276,7 +3284,8 @@
           "label": "維基百科：Type 19 IFV",
           "url": "https://en.wikipedia.org/wiki/ZBL-19"
         }
-      ]
+      ],
+      "image": "assets/images/type-19-ifv.jpg"
     },
     "bzk-005": {
       "caliber": "中空長航時偵察 UAV",
@@ -3392,7 +3401,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/kj-3000.jpg"
     },
     "hq-19": {
       "caliber": "反彈道飛彈/反衛星",
@@ -3485,7 +3495,8 @@
           "label": "維基百科：藍箭-7／藍箭-9",
           "url": "https://en.wikipedia.org/wiki/Blue_Arrow_7"
         }
-      ]
+      ],
+      "image": "assets/images/ba-9.jpg"
     },
     "cx-1": {
       "caliber": "超音速反艦飛彈（出口）",
@@ -3553,7 +3564,8 @@
           "label": "維基百科：PTL-02／突擊砲",
           "url": "https://en.wikipedia.org/wiki/PTL-02"
         }
-      ]
+      ],
+      "image": "assets/images/pll-01.jpg"
     },
     "gcl-111": {
       "caliber": "裝甲架橋車",
@@ -4048,6 +4060,207 @@
     },
     "qbb-191": {
       "image": "assets/images/qbb-191.jpg"
+    },
+    "z-19e": {
+      "image": "assets/images/z-19e.jpg"
+    },
+    "sh1-155": {
+      "image": "assets/images/sh1-155.jpg"
+    },
+    "df-5": {
+      "image": "assets/images/df-5.jpg"
+    },
+    "type-095": {
+      "image": "assets/images/type-095.jpg"
+    },
+    "df-12": {
+      "image": "assets/images/df-12.jpg"
+    },
+    "sh2-122": {
+      "image": "assets/images/sh2-122.jpg"
+    },
+    "qbz-95": {
+      "image": "assets/images/qbz-95.jpg"
+    },
+    "type-cq": {
+      "image": "assets/images/type-cq.jpg"
+    },
+    "type-096": {
+      "image": "assets/images/type-096.jpg"
+    },
+    "z-20j": {
+      "image": "assets/images/z-20j.jpg"
+    },
+    "type-68-rifle": {
+      "image": "assets/images/type-68-rifle.jpg"
+    },
+    "qbz-192": {
+      "image": "assets/images/qbz-192.jpg"
+    },
+    "df-2": {
+      "image": "assets/images/df-2.jpg"
+    },
+    "type-052": {
+      "image": "assets/images/type-052.jpg"
+    },
+    "qw-1m": {
+      "image": "assets/images/qw-1m.jpg"
+    },
+    "j-8": {
+      "image": "assets/images/j-8.jpg"
+    },
+    "bp-12a": {
+      "image": "assets/images/bp-12a.jpg"
+    },
+    "qx-04": {
+      "image": "assets/images/qx-04.jpg"
+    },
+    "type-86-122": {
+      "image": "assets/images/type-86-122.jpg"
+    },
+    "jz-8f": {
+      "image": "assets/images/jz-8f.jpg"
+    },
+    "type-81-lmg": {
+      "image": "assets/images/type-81-lmg.jpg"
+    },
+    "j-8h": {
+      "image": "assets/images/j-8h.jpg"
+    },
+    "type-63-60": {
+      "image": "assets/images/type-63-60.jpg"
+    },
+    "shichang": {
+      "image": "assets/images/shichang.jpg"
+    },
+    "hj-9a": {
+      "image": "assets/images/hj-9a.jpg"
+    },
+    "jy-11": {
+      "image": "assets/images/jy-11.jpg"
+    },
+    "h-6g": {
+      "image": "assets/images/h-6g.jpg"
+    },
+    "type-59g": {
+      "image": "assets/images/type-59g.jpg"
+    },
+    "qjs-161": {
+      "image": "assets/images/qjs-161.jpg"
+    },
+    "qw-3": {
+      "image": "assets/images/qw-3.jpg"
+    },
+    "type-033": {
+      "image": "assets/images/type-033.jpg"
+    },
+    "qijiguang": {
+      "image": "assets/images/qijiguang.jpg"
+    },
+    "b611": {
+      "image": "assets/images/b611.jpg"
+    },
+    "sh-15": {
+      "image": "assets/images/sh-15.jpg"
+    },
+    "pl-11": {
+      "image": "assets/images/pl-11.jpg"
+    },
+    "yuanwang": {
+      "image": "assets/images/yuanwang.jpg"
+    },
+    "mi-26": {
+      "image": "assets/images/mi-26.jpg"
+    },
+    "pf-97": {
+      "image": "assets/images/pf-97.jpg"
+    },
+    "h-6m": {
+      "image": "assets/images/h-6m.jpg"
+    },
+    "cm-400akg": {
+      "image": "assets/images/cm-400akg.jpg"
+    },
+    "z-21": {
+      "image": "assets/images/z-21.jpg"
+    },
+    "df-5a": {
+      "image": "assets/images/df-5a.jpg"
+    },
+    "type-59-130": {
+      "image": "assets/images/type-59-130.jpg"
+    },
+    "df-5b": {
+      "image": "assets/images/df-5b.jpg"
+    },
+    "type-010": {
+      "image": "assets/images/type-010.jpg"
+    },
+    "z-11wb": {
+      "image": "assets/images/z-11wb.jpg"
+    },
+    "ka-27": {
+      "image": "assets/images/ka-27.jpg"
+    },
+    "mi-8": {
+      "image": "assets/images/mi-8.jpg"
+    },
+    "df-zf": {
+      "image": "assets/images/df-zf.jpg"
+    },
+    "type-654-arv": {
+      "image": "assets/images/type-654-arv.jpg"
+    },
+    "hn-5": {
+      "image": "assets/images/hn-5.jpg"
+    },
+    "h-20": {
+      "image": "assets/images/h-20.jpg"
+    },
+    "pf-89a": {
+      "image": "assets/images/pf-89a.jpg"
+    },
+    "type-920": {
+      "image": "assets/images/type-920.jpg"
+    },
+    "pl-5": {
+      "image": "assets/images/pl-5.jpg"
+    },
+    "hn-6": {
+      "image": "assets/images/hn-6.jpg"
+    },
+    "gx-7": {
+      "image": "assets/images/gx-7.jpg"
+    },
+    "type-035b": {
+      "image": "assets/images/type-035b.jpg"
+    },
+    "j-8ii": {
+      "image": "assets/images/j-8ii.jpg"
+    },
+    "type-035g": {
+      "image": "assets/images/type-035g.jpg"
+    },
+    "hj-11": {
+      "image": "assets/images/hj-11.jpg"
+    },
+    "kilo-636": {
+      "image": "assets/images/kilo-636.jpg"
+    },
+    "type-63-apc": {
+      "image": "assets/images/type-63-apc.jpg"
+    },
+    "mengshi-3": {
+      "image": "assets/images/mengshi-3.jpg"
+    },
+    "pl-2": {
+      "image": "assets/images/pl-2.jpg"
+    },
+    "type-039g": {
+      "image": "assets/images/type-039g.jpg"
+    },
+    "type-92a": {
+      "image": "assets/images/type-92a.jpg"
     }
   }
 }
