@@ -873,9 +873,51 @@ GX8 = [
        mob="99 式坦克底盤",notes="99 式裝甲搶修車，配套重型主戰坦克部隊。",tags=["工兵","搶救"],form="重型裝甲搶修車（99式）",wiki="Type 99 tank"),
 ]
 
+# ===== GX9：雷達/電戰缺漏（Grok radar_9 diff）=====
+def rd(id, zh, en, desig, sub, bh, *, aliases=None, rng="—", sensors="—", cap="—", notes="", tags=None, form="", wiki=""):
+    return mk(id, zh, en, desig, sub, bh, cat="equipment", aliases=aliases, rng=rng, sensors=sensors,
+              cap=cap, mob="車載機動", notes=notes, tags=tags or ["雷達"], form_zh=form, wiki=wiki, branch_hint=bh)
+
+GX9 = [
+    rd("jy-8","JY-8對空情報雷達","JY-8 air surveillance radar","JY-8","radar","空軍",aliases=["JY-8"],
+       rng="探測約 300 km",sensors="機動中低空對空監視雷達",cap="中低空對空情報",notes="JY-8 機動對空情報雷達。",form="對空情報雷達（JY-8）",wiki="JY-8 radar"),
+    rd("jy-9","JY-9低空補盲雷達","JY-9 low-altitude radar","JY-9","radar","空軍",aliases=["JY-9"],
+       rng="探測約 150 km",sensors="低空補盲/近程警戒雷達",cap="低空/超低空補盲",notes="JY-9 低空補盲近程警戒雷達，外銷多國。",form="低空補盲雷達（JY-9）",wiki="JY-9 radar"),
+    rd("jy-11","JY-11對空搜索雷達","JY-11 3D radar","JY-11","radar","空軍",aliases=["JY-11"],
+       rng="探測約 350 km",sensors="三坐標對空搜索雷達",cap="機動三坐標對空搜索",notes="JY-11 三坐標機動對空搜索雷達。",form="三坐標對空雷達（JY-11）",wiki="JY-11 radar"),
+    rd("jy-14","JY-14遠程對空雷達","JY-14 long-range radar","JY-14","radar","空軍",aliases=["JY-14"],
+       rng="探測約 320 km",sensors="S 波段三坐標遠程警戒",cap="遠程對空警戒",notes="JY-14 S 波段三坐標遠程警戒雷達。",form="遠程三坐標雷達（JY-14）",wiki="JY-14 radar"),
+    rd("jy-27a","JY-27A反隱身米波雷達","JY-27A anti-stealth radar","JY-27A","radar","空軍",aliases=["JY-27A"],
+       rng="探測約 500 km",sensors="VHF 米波數位陣列",cap="反匿蹤遠程警戒改進型",notes="JY-27A 米波反隱身警戒雷達（JY-27 改進）。",tags=["雷達","反隱形"],form="反隱形米波雷達（JY-27A）",wiki="JY-27 radar"),
+    rd("jy-26","JY-26反隱身預警雷達","JY-26 anti-stealth radar","JY-26","radar","空軍",aliases=["JY-26","Skywatch-U"],
+       rng="探測約 500 km",sensors="UHF 大型數位陣列",cap="UHF 遠程反匿蹤預警",notes="JY-26 UHF 大型反隱身遠程預警雷達。",tags=["雷達","反隱形"],form="反隱形預警雷達（JY-26）",wiki="JY-26 radar"),
+    rd("ylc-2","YLC-2三坐標雷達","YLC-2 3D radar","YLC-2","radar","空軍",aliases=["YLC-2"],
+       rng="探測約 350 km",sensors="機動三坐標對空搜索",cap="三坐標對空搜索",notes="YLC-2 機動三坐標對空搜索雷達。",form="三坐標對空雷達（YLC-2）",wiki="YLC-2 radar"),
+    rd("ylc-4","YLC-4遠程警戒雷達","YLC-4 radar","YLC-4","radar","空軍",aliases=["YLC-4"],
+       rng="探測約 350 km",sensors="遠程二維/對空警戒",cap="遠程對空警戒",notes="YLC-4 遠程對空警戒雷達。",form="遠程警戒雷達（YLC-4）",wiki="YLC-4 radar"),
+    rd("ylc-6","YLC-6低空雷達","YLC-6 low-altitude radar","YLC-6","radar","空軍",aliases=["YLC-6"],
+       rng="探測約 150 km",sensors="低空補盲雷達",cap="低空補盲/近程",notes="YLC-6 低空補盲雷達。",form="低空補盲雷達（YLC-6）",wiki="YLC-6 radar"),
+    rd("ylc-8","YLC-8米波雷達","YLC-8 VHF radar","YLC-8","radar","空軍",aliases=["YLC-8"],
+       rng="探測約 400 km",sensors="米波對空搜索雷達",cap="米波反匿蹤搜索",notes="YLC-8 米波對空搜索雷達（YLC-8B 前型）。",tags=["雷達","反隱形"],form="米波對空雷達（YLC-8）",wiki="YLC-8 radar"),
+    rd("ylc-18","YLC-18三坐標雷達","YLC-18 3D radar","YLC-18","radar","空軍",aliases=["YLC-18"],
+       rng="探測約 200 km",sensors="中程三坐標機動雷達",cap="中程三坐標、低空性能佳",notes="YLC-18 中程三坐標機動雷達。",form="三坐標對空雷達（YLC-18）",wiki="YLC-18 radar"),
+    rd("ylc-20","YLC-20被動定位系統","YLC-20 passive locator","YLC-20","ew","空軍",aliases=["YLC-20"],
+       rng="偵測約 500 km",sensors="無源被動定位（TDOA 多站）",cap="不主動發射、輻射源偵測定位、反匿蹤",notes="YLC-20 無源被動偵測定位系統（多站時差定位）。",tags=["電子戰","被動偵測"],form="被動偵測定位系統（YLC-20）",wiki="YLC-20"),
+    rd("ylc-29","YLC-29無源探測雷達","YLC-29 passive radar","YLC-29","ew","空軍",aliases=["YLC-29"],
+       rng="偵測約 500 km",sensors="外輻射源被動雷達（利用民用信號）",cap="利用廣播/電視/通信信號探測匿蹤目標",notes="YLC-29 外輻射源無源探測雷達（PCL），反匿蹤。",tags=["電子戰","被動偵測"],form="外輻射源被動雷達（YLC-29）",wiki="YLC-29"),
+    rd("jyl-6","JYL-6中低空雷達","JYL-6 radar","JYL-6","radar","空軍",aliases=["JYL-6"],
+       rng="探測約 300 km",sensors="中低空三坐標對空監視",cap="中低空對空監視",notes="JYL-6 中低空對空監視雷達。",form="中低空三坐標雷達（JYL-6）",wiki="JYL-6 radar"),
+    rd("jl3d-90a","JL3D-90A三坐標雷達","JL3D-90A 3D radar","JL3D-90A","radar","空軍",aliases=["JL3D-90A"],
+       rng="探測約 330 km",sensors="三坐標對空搜索（外銷）",cap="三坐標對空搜索",notes="JL3D-90A 三坐標對空雷達（外銷型）。",form="三坐標對空雷達（JL3D-90A）",wiki="JL3D-90A"),
+    rd("ht-233","HT-233相控陣制導雷達","HT-233 phased array","HT-233","radar","空軍",aliases=["HT-233"],
+       rng="探測約 120 km（追蹤 100 目標）",sensors="機動相控陣多功能雷達",cap="紅旗-9 系統搜索/追蹤/制導雷達",notes="HT-233 相控陣制導雷達，HQ-9 防空系統核心火控。",form="相控陣制導雷達（HT-233）",wiki="HQ-9"),
+    rd("slc-2e","SLC-2E炮兵定位雷達","SLC-2E counter-battery radar","SLC-2E","radar","陸軍",aliases=["SLC-2E"],
+       rng="偵測約 50 km",sensors="相控陣炮位偵測雷達（數字化改進）",cap="敵砲兵/火箭彈道反算、我砲校射",notes="SLC-2E 炮兵定位雷達（SLC-2 數字化改進）。",tags=["雷達","砲兵偵察"],form="炮兵定位雷達（SLC-2E）",wiki="SLC-2 radar"),
+]
+
 if __name__ == "__main__":
     for name, b in [("GX1 海軍", GX1), ("GX2 海軍", GX2), ("GX3 空軍/海航", GX3),
                     ("GX4 直升機/UAV", GX4), ("GX5 火箭軍", GX5), ("GX6 陸軍裝甲", GX6),
-                    ("GX7 陸軍火砲", GX7), ("GX8 陸軍反坦克/防空/工兵", GX8)]:
+                    ("GX7 陸軍火砲", GX7), ("GX8 陸軍反坦克/防空/工兵", GX8), ("GX9 雷達/電戰", GX9)]:
         total, n = merge(b)
         print(f"{name}補漏：{n} 筆；累計 {total}")

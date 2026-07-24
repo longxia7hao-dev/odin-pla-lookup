@@ -29008,53 +29008,6 @@ window.EQUIPMENT_DATA = [
     "branch": "陸軍"
   },
   {
-    "id": "mi-171",
-    "name_zh": "米-171 中型運輸直升機",
-    "name_en": "Mil Mi-171",
-    "designation": "Mi-171",
-    "aliases": [
-      "Mi-171",
-      "米171"
-    ],
-    "category": "vehicle",
-    "subcategory": "helicopter",
-    "origin": "China",
-    "origin_zh": "中國",
-    "service": "陸軍",
-    "service_zh": "陸軍",
-    "caliber": "—",
-    "crew": "機組 3＋24 兵",
-    "weight_kg": "最大起飛約 13,000 kg",
-    "length_mm": "—",
-    "range_m": "航程約 590 km",
-    "rate_of_fire": "—",
-    "capacity": "運兵/物資、可外掛武器",
-    "armor": "—",
-    "mobility": "中型運輸直升機（俄製）",
-    "sensors": "—",
-    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
-    "notes_en": "",
-    "tags": [
-      "直升機",
-      "運輸",
-      "俄製"
-    ],
-    "odin_hint": "",
-    "form_zh": "中型運輸直升機",
-    "form_en": "",
-    "wiki": "Mil Mi-8",
-    "image": "assets/images/mi-171.jpg",
-    "odin_url": "https://odin.t2com.army.mil/WEG",
-    "sources": [
-      {
-        "label": "維基百科：Mil Mi-8",
-        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
-      }
-    ],
-    "authority_verified": true,
-    "branch": "陸軍"
-  },
-  {
     "id": "hj-9a",
     "name_zh": "紅箭-9A反坦克導彈",
     "name_en": "HJ-9A",
@@ -29698,6 +29651,825 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：Type 99 tank",
         "url": "https://en.wikipedia.org/wiki/Type_99_tank"
+      }
+    ],
+    "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "mi-171",
+    "name_zh": "米-171 中型運輸直升機",
+    "name_en": "Mil Mi-171",
+    "designation": "Mi-171",
+    "aliases": [
+      "Mi-171",
+      "米171"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組 3＋24 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 590 km",
+    "rate_of_fire": "—",
+    "capacity": "運兵/物資、可外掛武器",
+    "armor": "—",
+    "mobility": "中型運輸直升機（俄製）",
+    "sensors": "—",
+    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機",
+    "form_en": "",
+    "wiki": "Mil Mi-8",
+    "image": "assets/images/mi-171.jpg",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-8",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
+      }
+    ],
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "jy-8",
+    "name_zh": "JY-8對空情報雷達",
+    "name_en": "JY-8 air surveillance radar",
+    "designation": "JY-8",
+    "aliases": [
+      "JY-8"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 300 km",
+    "rate_of_fire": "—",
+    "capacity": "中低空對空情報",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "機動中低空對空監視雷達",
+    "notes_zh": "JY-8 機動對空情報雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "對空情報雷達（JY-8）",
+    "form_en": "",
+    "wiki": "JY-8 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：JY-8 radar",
+        "url": "https://en.wikipedia.org/wiki/JY-8_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jy-9",
+    "name_zh": "JY-9低空補盲雷達",
+    "name_en": "JY-9 low-altitude radar",
+    "designation": "JY-9",
+    "aliases": [
+      "JY-9"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 150 km",
+    "rate_of_fire": "—",
+    "capacity": "低空/超低空補盲",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "低空補盲/近程警戒雷達",
+    "notes_zh": "JY-9 低空補盲近程警戒雷達，外銷多國。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "低空補盲雷達（JY-9）",
+    "form_en": "",
+    "wiki": "JY-9 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：JY-9 radar",
+        "url": "https://en.wikipedia.org/wiki/JY-9_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jy-11",
+    "name_zh": "JY-11對空搜索雷達",
+    "name_en": "JY-11 3D radar",
+    "designation": "JY-11",
+    "aliases": [
+      "JY-11"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 350 km",
+    "rate_of_fire": "—",
+    "capacity": "機動三坐標對空搜索",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "三坐標對空搜索雷達",
+    "notes_zh": "JY-11 三坐標機動對空搜索雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "三坐標對空雷達（JY-11）",
+    "form_en": "",
+    "wiki": "JY-11 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：JY-11 radar",
+        "url": "https://en.wikipedia.org/wiki/JY-11_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jy-14",
+    "name_zh": "JY-14遠程對空雷達",
+    "name_en": "JY-14 long-range radar",
+    "designation": "JY-14",
+    "aliases": [
+      "JY-14"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 320 km",
+    "rate_of_fire": "—",
+    "capacity": "遠程對空警戒",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "S 波段三坐標遠程警戒",
+    "notes_zh": "JY-14 S 波段三坐標遠程警戒雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "遠程三坐標雷達（JY-14）",
+    "form_en": "",
+    "wiki": "JY-14 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：JY-14 radar",
+        "url": "https://en.wikipedia.org/wiki/JY-14_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jy-27a",
+    "name_zh": "JY-27A反隱身米波雷達",
+    "name_en": "JY-27A anti-stealth radar",
+    "designation": "JY-27A",
+    "aliases": [
+      "JY-27A"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 500 km",
+    "rate_of_fire": "—",
+    "capacity": "反匿蹤遠程警戒改進型",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "VHF 米波數位陣列",
+    "notes_zh": "JY-27A 米波反隱身警戒雷達（JY-27 改進）。",
+    "notes_en": "",
+    "tags": [
+      "雷達",
+      "反隱形"
+    ],
+    "odin_hint": "",
+    "form_zh": "反隱形米波雷達（JY-27A）",
+    "form_en": "",
+    "wiki": "JY-27 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：JY-27 radar",
+        "url": "https://en.wikipedia.org/wiki/JY-27_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jy-26",
+    "name_zh": "JY-26反隱身預警雷達",
+    "name_en": "JY-26 anti-stealth radar",
+    "designation": "JY-26",
+    "aliases": [
+      "JY-26",
+      "Skywatch-U"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 500 km",
+    "rate_of_fire": "—",
+    "capacity": "UHF 遠程反匿蹤預警",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "UHF 大型數位陣列",
+    "notes_zh": "JY-26 UHF 大型反隱身遠程預警雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達",
+      "反隱形"
+    ],
+    "odin_hint": "",
+    "form_zh": "反隱形預警雷達（JY-26）",
+    "form_en": "",
+    "wiki": "JY-26 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：JY-26 radar",
+        "url": "https://en.wikipedia.org/wiki/JY-26_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ylc-2",
+    "name_zh": "YLC-2三坐標雷達",
+    "name_en": "YLC-2 3D radar",
+    "designation": "YLC-2",
+    "aliases": [
+      "YLC-2"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 350 km",
+    "rate_of_fire": "—",
+    "capacity": "三坐標對空搜索",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "機動三坐標對空搜索",
+    "notes_zh": "YLC-2 機動三坐標對空搜索雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "三坐標對空雷達（YLC-2）",
+    "form_en": "",
+    "wiki": "YLC-2 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：YLC-2 radar",
+        "url": "https://en.wikipedia.org/wiki/YLC-2_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ylc-4",
+    "name_zh": "YLC-4遠程警戒雷達",
+    "name_en": "YLC-4 radar",
+    "designation": "YLC-4",
+    "aliases": [
+      "YLC-4"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 350 km",
+    "rate_of_fire": "—",
+    "capacity": "遠程對空警戒",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "遠程二維/對空警戒",
+    "notes_zh": "YLC-4 遠程對空警戒雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "遠程警戒雷達（YLC-4）",
+    "form_en": "",
+    "wiki": "YLC-4 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：YLC-4 radar",
+        "url": "https://en.wikipedia.org/wiki/YLC-4_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ylc-6",
+    "name_zh": "YLC-6低空雷達",
+    "name_en": "YLC-6 low-altitude radar",
+    "designation": "YLC-6",
+    "aliases": [
+      "YLC-6"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 150 km",
+    "rate_of_fire": "—",
+    "capacity": "低空補盲/近程",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "低空補盲雷達",
+    "notes_zh": "YLC-6 低空補盲雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "低空補盲雷達（YLC-6）",
+    "form_en": "",
+    "wiki": "YLC-6 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：YLC-6 radar",
+        "url": "https://en.wikipedia.org/wiki/YLC-6_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ylc-8",
+    "name_zh": "YLC-8米波雷達",
+    "name_en": "YLC-8 VHF radar",
+    "designation": "YLC-8",
+    "aliases": [
+      "YLC-8"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 400 km",
+    "rate_of_fire": "—",
+    "capacity": "米波反匿蹤搜索",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "米波對空搜索雷達",
+    "notes_zh": "YLC-8 米波對空搜索雷達（YLC-8B 前型）。",
+    "notes_en": "",
+    "tags": [
+      "雷達",
+      "反隱形"
+    ],
+    "odin_hint": "",
+    "form_zh": "米波對空雷達（YLC-8）",
+    "form_en": "",
+    "wiki": "YLC-8 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：YLC-8 radar",
+        "url": "https://en.wikipedia.org/wiki/YLC-8_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ylc-18",
+    "name_zh": "YLC-18三坐標雷達",
+    "name_en": "YLC-18 3D radar",
+    "designation": "YLC-18",
+    "aliases": [
+      "YLC-18"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 200 km",
+    "rate_of_fire": "—",
+    "capacity": "中程三坐標、低空性能佳",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "中程三坐標機動雷達",
+    "notes_zh": "YLC-18 中程三坐標機動雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "三坐標對空雷達（YLC-18）",
+    "form_en": "",
+    "wiki": "YLC-18 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：YLC-18 radar",
+        "url": "https://en.wikipedia.org/wiki/YLC-18_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ylc-20",
+    "name_zh": "YLC-20被動定位系統",
+    "name_en": "YLC-20 passive locator",
+    "designation": "YLC-20",
+    "aliases": [
+      "YLC-20"
+    ],
+    "category": "equipment",
+    "subcategory": "ew",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "偵測約 500 km",
+    "rate_of_fire": "—",
+    "capacity": "不主動發射、輻射源偵測定位、反匿蹤",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "無源被動定位（TDOA 多站）",
+    "notes_zh": "YLC-20 無源被動偵測定位系統（多站時差定位）。",
+    "notes_en": "",
+    "tags": [
+      "電子戰",
+      "被動偵測"
+    ],
+    "odin_hint": "",
+    "form_zh": "被動偵測定位系統（YLC-20）",
+    "form_en": "",
+    "wiki": "YLC-20",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：YLC-20",
+        "url": "https://en.wikipedia.org/wiki/YLC-20"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ylc-29",
+    "name_zh": "YLC-29無源探測雷達",
+    "name_en": "YLC-29 passive radar",
+    "designation": "YLC-29",
+    "aliases": [
+      "YLC-29"
+    ],
+    "category": "equipment",
+    "subcategory": "ew",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "偵測約 500 km",
+    "rate_of_fire": "—",
+    "capacity": "利用廣播/電視/通信信號探測匿蹤目標",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "外輻射源被動雷達（利用民用信號）",
+    "notes_zh": "YLC-29 外輻射源無源探測雷達（PCL），反匿蹤。",
+    "notes_en": "",
+    "tags": [
+      "電子戰",
+      "被動偵測"
+    ],
+    "odin_hint": "",
+    "form_zh": "外輻射源被動雷達（YLC-29）",
+    "form_en": "",
+    "wiki": "YLC-29",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：YLC-29",
+        "url": "https://en.wikipedia.org/wiki/YLC-29"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jyl-6",
+    "name_zh": "JYL-6中低空雷達",
+    "name_en": "JYL-6 radar",
+    "designation": "JYL-6",
+    "aliases": [
+      "JYL-6"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 300 km",
+    "rate_of_fire": "—",
+    "capacity": "中低空對空監視",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "中低空三坐標對空監視",
+    "notes_zh": "JYL-6 中低空對空監視雷達。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "中低空三坐標雷達（JYL-6）",
+    "form_en": "",
+    "wiki": "JYL-6 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：JYL-6 radar",
+        "url": "https://en.wikipedia.org/wiki/JYL-6_radar"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "jl3d-90a",
+    "name_zh": "JL3D-90A三坐標雷達",
+    "name_en": "JL3D-90A 3D radar",
+    "designation": "JL3D-90A",
+    "aliases": [
+      "JL3D-90A"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 330 km",
+    "rate_of_fire": "—",
+    "capacity": "三坐標對空搜索",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "三坐標對空搜索（外銷）",
+    "notes_zh": "JL3D-90A 三坐標對空雷達（外銷型）。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "三坐標對空雷達（JL3D-90A）",
+    "form_en": "",
+    "wiki": "JL3D-90A",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：JL3D-90A",
+        "url": "https://en.wikipedia.org/wiki/JL3D-90A"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "ht-233",
+    "name_zh": "HT-233相控陣制導雷達",
+    "name_en": "HT-233 phased array",
+    "designation": "HT-233",
+    "aliases": [
+      "HT-233"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "空軍",
+    "service_zh": "空軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "探測約 120 km（追蹤 100 目標）",
+    "rate_of_fire": "—",
+    "capacity": "紅旗-9 系統搜索/追蹤/制導雷達",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "機動相控陣多功能雷達",
+    "notes_zh": "HT-233 相控陣制導雷達，HQ-9 防空系統核心火控。",
+    "notes_en": "",
+    "tags": [
+      "雷達"
+    ],
+    "odin_hint": "",
+    "form_zh": "相控陣制導雷達（HT-233）",
+    "form_en": "",
+    "wiki": "HQ-9",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：HQ-9",
+        "url": "https://en.wikipedia.org/wiki/HQ-9"
+      }
+    ],
+    "branch_hint": "空軍",
+    "authority_verified": true,
+    "branch": "空軍"
+  },
+  {
+    "id": "slc-2e",
+    "name_zh": "SLC-2E炮兵定位雷達",
+    "name_en": "SLC-2E counter-battery radar",
+    "designation": "SLC-2E",
+    "aliases": [
+      "SLC-2E"
+    ],
+    "category": "equipment",
+    "subcategory": "radar",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "—",
+    "weight_kg": "—",
+    "length_mm": "—",
+    "range_m": "偵測約 50 km",
+    "rate_of_fire": "—",
+    "capacity": "敵砲兵/火箭彈道反算、我砲校射",
+    "armor": "—",
+    "mobility": "車載機動",
+    "sensors": "相控陣炮位偵測雷達（數字化改進）",
+    "notes_zh": "SLC-2E 炮兵定位雷達（SLC-2 數字化改進）。",
+    "notes_en": "",
+    "tags": [
+      "雷達",
+      "砲兵偵察"
+    ],
+    "odin_hint": "",
+    "form_zh": "炮兵定位雷達（SLC-2E）",
+    "form_en": "",
+    "wiki": "SLC-2 radar",
+    "image": "",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：SLC-2 radar",
+        "url": "https://en.wikipedia.org/wiki/SLC-2_radar"
       }
     ],
     "branch_hint": "陸軍",
