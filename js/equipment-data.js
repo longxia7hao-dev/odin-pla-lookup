@@ -29658,53 +29658,6 @@ window.EQUIPMENT_DATA = [
     "branch": "陸軍"
   },
   {
-    "id": "mi-171",
-    "name_zh": "米-171 中型運輸直升機",
-    "name_en": "Mil Mi-171",
-    "designation": "Mi-171",
-    "aliases": [
-      "Mi-171",
-      "米171"
-    ],
-    "category": "vehicle",
-    "subcategory": "helicopter",
-    "origin": "China",
-    "origin_zh": "中國",
-    "service": "陸軍",
-    "service_zh": "陸軍",
-    "caliber": "—",
-    "crew": "機組 3＋24 兵",
-    "weight_kg": "最大起飛約 13,000 kg",
-    "length_mm": "—",
-    "range_m": "航程約 590 km",
-    "rate_of_fire": "—",
-    "capacity": "運兵/物資、可外掛武器",
-    "armor": "—",
-    "mobility": "中型運輸直升機（俄製）",
-    "sensors": "—",
-    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
-    "notes_en": "",
-    "tags": [
-      "直升機",
-      "運輸",
-      "俄製"
-    ],
-    "odin_hint": "",
-    "form_zh": "中型運輸直升機",
-    "form_en": "",
-    "wiki": "Mil Mi-8",
-    "image": "assets/images/mi-171.jpg",
-    "odin_url": "https://odin.t2com.army.mil/WEG",
-    "sources": [
-      {
-        "label": "維基百科：Mil Mi-8",
-        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
-      }
-    ],
-    "authority_verified": true,
-    "branch": "陸軍"
-  },
-  {
     "id": "jy-8",
     "name_zh": "JY-8對空情報雷達",
     "name_en": "JY-8 air surveillance radar",
@@ -30473,6 +30426,53 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "branch_hint": "陸軍",
+    "authority_verified": true,
+    "branch": "陸軍"
+  },
+  {
+    "id": "mi-171",
+    "name_zh": "米-171 中型運輸直升機",
+    "name_en": "Mil Mi-171",
+    "designation": "Mi-171",
+    "aliases": [
+      "Mi-171",
+      "米171"
+    ],
+    "category": "vehicle",
+    "subcategory": "helicopter",
+    "origin": "China",
+    "origin_zh": "中國",
+    "service": "陸軍",
+    "service_zh": "陸軍",
+    "caliber": "—",
+    "crew": "機組 3＋24 兵",
+    "weight_kg": "最大起飛約 13,000 kg",
+    "length_mm": "—",
+    "range_m": "航程約 590 km",
+    "rate_of_fire": "—",
+    "capacity": "運兵/物資、可外掛武器",
+    "armor": "—",
+    "mobility": "中型運輸直升機（俄製）",
+    "sensors": "—",
+    "notes_zh": "米-171 中型運輸直升機，陸航主力運輸機隊。",
+    "notes_en": "",
+    "tags": [
+      "直升機",
+      "運輸",
+      "俄製"
+    ],
+    "odin_hint": "",
+    "form_zh": "中型運輸直升機",
+    "form_en": "",
+    "wiki": "Mil Mi-8",
+    "image": "assets/images/mi-171.jpg",
+    "odin_url": "https://odin.t2com.army.mil/WEG",
+    "sources": [
+      {
+        "label": "維基百科：Mil Mi-8",
+        "url": "https://en.wikipedia.org/wiki/Mil_Mi-8"
+      }
+    ],
     "authority_verified": true,
     "branch": "陸軍"
   }
