@@ -514,6 +514,11 @@
             .join("")}
         </div>
       </div>
+      ${item.recog ? `
+      <div class="detail-section">
+        <h4>🔍 外觀識別重點</h4>
+        <div class="recog-box">${escapeHtml(item.recog)}</div>
+      </div>` : ""}
       <div class="detail-section">
         <h4>說明（含美方報告語境）</h4>
         <div class="notes">

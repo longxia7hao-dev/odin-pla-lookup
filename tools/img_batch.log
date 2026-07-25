@@ -522,3 +522,8 @@
   下載失敗 z-11: HTTP Error 429: Too many requests - please contact noc@wikim
   ✗不符 jl-8: Bangladesh_Air_Force_K-8_(cropped).jpg
   ✗不符 y-5: Antonov_An-2_(cropped).jpg
+  下載失敗 ch-4: HTTP Error 429: Too many requests - please contact noc@wikim
+  ✗不符 ch-5: CH-4_at_Airshow_China_Zhuhai_2022.jpg
+  ✗不符 wing-loong-2: Wing_Loong.jpg
+  ✓ wing-loong-2 ← Wing_Loong_II_side_view.jpg
+  ✗不符 wing-loong-1: Wing_Loong.jpg

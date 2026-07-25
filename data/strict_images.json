@@ -593,5 +593,10 @@
 "path": "assets/images/kj-2000.jpg",
 "file": "KJ2000_at_2014_Zhuhai_Air_Show.jpg",
 "title": "KJ-2000"
+},
+"wing-loong-2": {
+"path": "assets/images/wing-loong-2.jpg",
+"file": "Wing_Loong_II_side_view.jpg",
+"title": "CAIG Wing Loong II"
 }
 }
