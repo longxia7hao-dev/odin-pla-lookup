@@ -43,9 +43,19 @@ newjs = "window.EQUIPMENT_DATA = " + json.dumps(arr, ensure_ascii=False) + ";"
 html = open("index.html", encoding="utf-8").read()
 css = open("css/styles.css", encoding="utf-8").read()
 appjs = open("js/app.js", encoding="utf-8").read()
-html = html.replace('<link rel="stylesheet" href="css/styles.css" />', f"<style>\n{css}\n</style>")
-html = html.replace('<script src="js/equipment-data.js"></script>', f"<script>\n{newjs}\n</script>")
-html = html.replace('<script src="js/app.js"></script>', f"<script>\n{appjs}\n</script>")
+# 用正則比對，容忍 ?v=xxx 版本號（快取破壞用）
+import re as _re
+html, n_css = _re.subn(r'<link[^>]+href="css/styles\.css(?:\?[^"]*)?"[^>]*>',
+                       lambda m: f"<style>\n{css}\n</style>", html)
+html, n_data = _re.subn(r'<script src="js/equipment-data\.js(?:\?[^"]*)?"></script>',
+                        lambda m: f"<script>\n{newjs}\n</script>", html)
+html, n_app = _re.subn(r'<script src="js/app\.js(?:\?[^"]*)?"></script>',
+                       lambda m: f"<script>\n{appjs}\n</script>", html)
+if not (n_css and n_data and n_app):
+    raise SystemExit(f"❌ 內嵌失敗（css={n_css} data={n_data} app={n_app}）— index.html 標籤格式可能已變更")
+leftover = _re.findall(r'(?:href|src)="(?:css|js)/[^"]*"', html)
+if leftover:
+    raise SystemExit(f"❌ 仍有外部引用未內嵌：{leftover}")
 
 out = ROOT / "解放軍速查_離線版.html"
 out.write_text(html, encoding="utf-8")
