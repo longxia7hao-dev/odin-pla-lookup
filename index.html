@@ -7,7 +7,7 @@
   <meta name="googlebot" content="noindex, nofollow" />
   <meta name="description" content="解放軍武器、裝備、載具快速查找 — ODIN WEG 風格單機工具（繁體中文）" />
   <title>解放軍武裝載具速查｜ODIN 風格</title>
-  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/styles.css?v=20260725d" />
 </head>
 <body>
   <div class="app">
@@ -134,6 +134,8 @@
           <li><strong>資料位置：</strong>內建 <code>js/equipment-data.js</code>（可用 <code>tools/build_catalog.py</code> 重建）；匯入內容在瀏覽器 localStorage。</li>
           <li><strong>美方權威核對：</strong>標「美方核對」者，裝備形式／美方型號／射程帶已對照 DoD《中國軍力報告》2025、FAS CSS 編號、美軍艦級公開命名等；其餘標「待核對」。</li>
           <li><strong>ODIN：</strong>欄位結構對齊 Worldwide Equipment Guide；即時全文需可連 <code>odin.t2com.army.mil</code>。</li>
+          <li><strong>點圖放大：</strong>點清單縮圖或詳情大圖即可<strong>全螢幕檢視</strong>（按 Esc 或點背景關閉）。</li>
+          <li><strong>協作換圖：</strong>放大後可「<strong>更換圖片</strong>」上傳你手上更正確的照片——更換結果<strong>只存在你自己的瀏覽器</strong>（下次造訪仍在，可隨時「還原原圖」）。要讓所有人看到，請按「<strong>下載此圖給編者</strong>」取得已命名好的檔案（如 <code>type-052d.jpg</code>），傳給編者收錄後即對全站生效。</li>
           <li><strong>圖片來源：</strong>條目照片多取自 <strong>Wikimedia Commons／維基百科</strong>（CC BY-SA 或公有領域）；部分冷門型號暫無公開自由圖，以示意占位。</li>
           <li><strong>免責：</strong>僅供教育與訓練參考，非正式情報產品，非商業用途；正式引用請以 DoD／ODIN 原文為準。</li>
         </ul>
@@ -146,7 +148,23 @@
 
   <div class="toast" id="toast" role="status"></div>
 
-  <script src="js/equipment-data.js"></script>
-  <script src="js/app.js"></script>
+  <!-- 圖片放大燈箱 -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="圖片放大檢視">
+    <button type="button" class="lb-close" id="lbClose" aria-label="關閉">✕</button>
+    <figure class="lb-figure">
+      <img id="lbImg" src="" alt="" />
+      <figcaption id="lbCaption"></figcaption>
+    </figure>
+    <div class="lb-actions">
+      <input type="file" id="lbFile" accept="image/*" hidden />
+      <button type="button" class="btn" id="lbChange">📷 更換圖片</button>
+      <button type="button" class="btn" id="lbDownload">⬇︎ 下載此圖給編者</button>
+      <button type="button" class="btn" id="lbReset" hidden>↺ 還原原圖</button>
+    </div>
+    <div class="lb-hint">更換的圖只存在你的瀏覽器（下次仍在）。要讓所有人看到，請把下載的檔案傳給編者收錄。</div>
+  </div>
+
+  <script src="js/equipment-data.js?v=20260725d"></script>
+  <script src="js/app.js?v=20260725d"></script>
 </body>
 </html>

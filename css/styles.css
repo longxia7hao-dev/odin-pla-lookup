@@ -917,3 +917,72 @@ a {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
 }
+
+/* 圖片放大燈箱 */
+.detail-img { cursor: zoom-in; }
+.card-thumb { cursor: pointer; }
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 500;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  padding: 24px;
+  background: rgba(8, 4, 6, 0.92);
+  backdrop-filter: blur(3px);
+}
+.lightbox.open { display: flex; }
+.lb-figure {
+  margin: 0;
+  max-width: min(1100px, 94vw);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.lb-figure img {
+  max-width: 100%;
+  max-height: 60vh;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 1px solid var(--border-strong);
+  background: #000;
+}
+.lb-figure figcaption {
+  color: var(--text);
+  font-size: 0.95rem;
+  text-align: center;
+}
+.lb-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+.lb-hint {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  text-align: center;
+  max-width: 560px;
+}
+.lb-close {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid var(--border-strong);
+  background: var(--bg-elevated);
+  color: var(--text);
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.lb-close:hover { background: var(--bg-hover); }
+
+/* [hidden] 必須蓋過 .btn 的 inline-flex */
+.lb-actions .btn[hidden] { display: none !important; }

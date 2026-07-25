@@ -96,6 +96,38 @@
       map.set(item.id, normalizeItem(item));
     });
     state.items = Array.from(map.values());
+
+    // 套用讀者本機的圖片覆蓋（localStorage），並保留原圖供還原
+    const ovr = loadImgOverrides();
+    state.items.forEach((it) => {
+      it._imgOriginal = it.image || "";
+      if (ovr[it.id]) {
+        it.image = ovr[it.id];
+        it.image_remote = "";
+        it._imgOverridden = true;
+      }
+    });
+  }
+
+  const IMG_OVR_KEY = "odin_pla_img_overrides";
+  function loadImgOverrides() {
+    try {
+      return JSON.parse(localStorage.getItem(IMG_OVR_KEY) || "{}") || {};
+    } catch (_) {
+      return {};
+    }
+  }
+  function saveImgOverride(id, dataURI) {
+    const o = loadImgOverrides();
+    if (dataURI) o[id] = dataURI;
+    else delete o[id];
+    try {
+      localStorage.setItem(IMG_OVR_KEY, JSON.stringify(o));
+      return true;
+    } catch (e) {
+      toast("儲存失敗：瀏覽器空間可能已滿");
+      return false;
+    }
   }
 
   function normalizeItem(item) {
@@ -691,13 +723,39 @@
     els.results.addEventListener("click", (e) => {
       const card = e.target.closest(".card");
       if (!card) return;
+      // 點縮圖 → 放大燈箱（不觸發選取）
+      if (e.target.closest("img.card-thumb")) {
+        e.stopPropagation();
+        openLightbox(card.dataset.id);
+        return;
+      }
       selectItem(card.dataset.id);
     });
 
-    // 手機：詳情返回鈕（覆蓋式面板）
+    // 手機：詳情返回鈕（覆蓋式面板）；點詳情大圖 → 放大燈箱
     els.detail.addEventListener("click", (e) => {
-      if (e.target.closest("#detailBack")) closeDetail();
+      if (e.target.closest("#detailBack")) {
+        closeDetail();
+        return;
+      }
+      if (e.target.closest("img.detail-img") && state.selectedId) {
+        openLightbox(state.selectedId);
+      }
     });
+
+    // 燈箱控制
+    $("lbClose").addEventListener("click", closeLightbox);
+    els.lightbox.addEventListener("click", (e) => {
+      if (e.target === els.lightbox) closeLightbox();
+    });
+    $("lbChange").addEventListener("click", () => $("lbFile").click());
+    $("lbFile").addEventListener("change", (e) => {
+      const f = e.target.files && e.target.files[0];
+      if (f) changeLightboxImage(f);
+      e.target.value = "";
+    });
+    $("lbDownload").addEventListener("click", downloadLightboxImage);
+    $("lbReset").addEventListener("click", resetLightboxImage);
 
     $("btnExport").addEventListener("click", exportJson);
     $("btnImport").addEventListener("click", () => openModal("importModal"));
@@ -748,10 +806,110 @@
         }
       }
       if (e.key === "Escape") {
+        if (els.lightbox.classList.contains("open")) {
+          closeLightbox();
+          return;
+        }
         document.querySelectorAll(".modal-backdrop.open").forEach((m) => m.classList.remove("open"));
         closeDetail();
       }
     });
+  }
+
+  // ===== 圖片放大燈箱 =====
+  function openLightbox(id) {
+    const item = state.items.find((x) => x.id === id);
+    if (!item) return;
+    els.lightbox.dataset.id = id;
+    els.lbImg.src = resolveImageSrc(item) || item.image_remote || placeholderSvg(item);
+    els.lbImg.alt = item.name_zh || item.name_en || "";
+    els.lbCaption.textContent = `${item.name_zh || ""}（${item.designation || item.id}）`;
+    els.lbReset.hidden = !item._imgOverridden;
+    els.lightbox.classList.add("open");
+  }
+  function closeLightbox() {
+    els.lightbox.classList.remove("open");
+  }
+  function applyImageToItem(id, dataURI) {
+    const item = state.items.find((x) => x.id === id);
+    if (item) {
+      item.image = dataURI;
+      item.image_remote = "";
+      item._imgOverridden = true;
+    }
+    renderResults();
+    if (state.selectedId === id) renderDetail(state.items.find((x) => x.id === id));
+  }
+  function changeLightboxImage(file) {
+    const id = els.lightbox.dataset.id;
+    if (!id || !file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      const img = new Image();
+      img.onload = () => {
+        const max = 1000;
+        let w = img.naturalWidth || img.width;
+        let h = img.naturalHeight || img.height;
+        if (Math.max(w, h) > max) {
+          const s = max / Math.max(w, h);
+          w = Math.round(w * s);
+          h = Math.round(h * s);
+        }
+        const canvas = document.createElement("canvas");
+        canvas.width = w;
+        canvas.height = h;
+        const ctx = canvas.getContext("2d");
+        ctx.fillStyle = "#101010";
+        ctx.fillRect(0, 0, w, h);
+        ctx.drawImage(img, 0, 0, w, h);
+        let dataURI;
+        try {
+          dataURI = canvas.toDataURL("image/jpeg", 0.85);
+        } catch (e) {
+          toast("讀取圖片失敗");
+          return;
+        }
+        if (!saveImgOverride(id, dataURI)) return;
+        els.lbImg.src = dataURI;
+        els.lbReset.hidden = false;
+        applyImageToItem(id, dataURI);
+        toast("已更換圖片（存於本機瀏覽器）");
+      };
+      img.onerror = () => toast("不是有效的圖片檔");
+      img.src = reader.result;
+    };
+    reader.readAsDataURL(file);
+  }
+  function downloadLightboxImage() {
+    const id = els.lightbox.dataset.id;
+    const src = els.lbImg.src || "";
+    if (!src || src.indexOf("data:image/svg") === 0) {
+      toast("目前沒有可下載的照片");
+      return;
+    }
+    const a = document.createElement("a");
+    a.href = src;
+    a.download = `${id}.jpg`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    toast(`已下載 ${id}.jpg —— 傳給編者收錄即可對全站生效`);
+  }
+  function resetLightboxImage() {
+    const id = els.lightbox.dataset.id;
+    if (!id) return;
+    saveImgOverride(id, null);
+    const item = state.items.find((x) => x.id === id);
+    const orig = item ? item._imgOriginal || "" : "";
+    if (item) {
+      item.image = orig;
+      item._imgOverridden = false;
+    }
+    els.lbImg.src = orig ? resolveImageSrc(item) || item.image_remote || placeholderSvg(item) : placeholderSvg(item || {});
+    els.lbReset.hidden = true;
+    renderResults();
+    if (state.selectedId === id) renderDetail(item);
+    toast("已還原原圖");
   }
 
   function init() {
@@ -765,6 +923,10 @@
     els.totalCount = $("totalCount");
     els.sortSelect = $("sortSelect");
     els.toast = $("toast");
+    els.lightbox = $("lightbox");
+    els.lbImg = $("lbImg");
+    els.lbCaption = $("lbCaption");
+    els.lbReset = $("lbReset");
 
     loadBaseData();
     bindEvents();
