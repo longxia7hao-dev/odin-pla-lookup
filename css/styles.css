@@ -986,3 +986,76 @@ a {
 
 /* [hidden] 必須蓋過 .btn 的 inline-flex */
 .lb-actions .btn[hidden] { display: none !important; }
+
+/* ===== 圖片問答遊戲 ===== */
+.quiz {
+  position: fixed; inset: 0; z-index: 600; display: none;
+  align-items: center; justify-content: center; padding: 16px;
+  background: rgba(8, 4, 6, 0.94); backdrop-filter: blur(4px);
+}
+.quiz.open { display: flex; }
+.quiz-box {
+  width: min(680px, 96vw); max-height: 94vh; overflow: auto;
+  background: var(--bg-elevated); border: 1px solid var(--border-strong);
+  border-radius: var(--radius); box-shadow: var(--shadow); padding: 20px;
+}
+.quiz-box h2 { margin: 0 0 6px; font-size: 1.3rem; }
+.quiz-sub { color: var(--text-muted); font-size: 0.9rem; margin: 0 0 16px; }
+.quiz-opts { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 18px; }
+.quiz-opts label { display: flex; flex-direction: column; gap: 6px; font-size: 0.85rem; color: var(--text-muted); }
+.quiz-opts select {
+  padding: 8px 10px; border-radius: 8px; border: 1px solid var(--border);
+  background: var(--bg); color: var(--text);
+}
+.quiz-go { margin-right: 8px; }
+
+.quiz-head {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 10px; font-size: 0.9rem; color: var(--text-muted); margin-bottom: 8px;
+}
+.quiz-head #quizScore { color: var(--accent); font-weight: 700; }
+.quiz-quit { padding: 4px 10px; font-size: 0.8rem; }
+.quiz-bar { height: 5px; border-radius: 999px; background: var(--bg-card); overflow: hidden; margin-bottom: 14px; }
+.quiz-bar > div { height: 100%; width: 0; background: var(--accent); transition: width 0.25s; }
+
+.quiz-img-wrap {
+  width: 100%; height: min(46vh, 340px); border-radius: 10px; overflow: hidden;
+  background: #000; border: 1px solid var(--border); display: flex;
+  align-items: center; justify-content: center; margin-bottom: 14px;
+}
+.quiz-img-wrap img { max-width: 100%; max-height: 100%; object-fit: contain; }
+
+.quiz-choices { display: flex; flex-direction: column; gap: 9px; }
+.quiz-choice {
+  width: 100%; text-align: left; padding: 13px 15px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--bg-card); color: var(--text);
+  font-size: 1rem; cursor: pointer; transition: all 0.15s;
+}
+.quiz-choice:hover:not(:disabled) { border-color: var(--accent); background: var(--bg-hover); }
+.quiz-choice:disabled { cursor: default; }
+.quiz-choice .qc-en { display: block; font-size: 0.78rem; color: var(--text-dim); margin-top: 2px; }
+.quiz-choice.correct { border-color: #4ac97e; background: rgba(74, 201, 126, 0.16); }
+.quiz-choice.wrong { border-color: var(--danger); background: rgba(255, 107, 107, 0.14); }
+
+.quiz-feedback { min-height: 26px; margin-top: 12px; font-size: 0.92rem; text-align: center; }
+.quiz-feedback.ok { color: #4ac97e; }
+.quiz-feedback.ng { color: var(--danger); }
+
+.quiz-final { font-size: 1.05rem; line-height: 1.9; margin: 10px 0 16px; }
+.quiz-final .big { font-size: 2.4rem; font-weight: 700; color: var(--accent); }
+.quiz-review { max-height: 34vh; overflow: auto; margin-bottom: 16px; }
+.quiz-review h4 { margin: 0 0 8px; font-size: 0.92rem; color: var(--text-muted); }
+.quiz-review-item {
+  display: flex; gap: 10px; align-items: center; padding: 7px 0;
+  border-bottom: 1px solid var(--border); font-size: 0.85rem;
+}
+.quiz-review-item img { width: 56px; height: 40px; object-fit: cover; border-radius: 5px; flex: 0 0 auto; }
+.quiz-review-item .rv-you { color: var(--danger); }
+.quiz-review-item .rv-ans { color: #4ac97e; }
+.quiz-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+
+@media (max-width: 600px) {
+  .quiz-box { padding: 14px; }
+  .quiz-img-wrap { height: 32vh; }
+  .quiz-choice { padding: 12px; font-size: 0.95rem; }
+}

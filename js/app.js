@@ -757,6 +757,17 @@
     $("lbDownload").addEventListener("click", downloadLightboxImage);
     $("lbReset").addEventListener("click", resetLightboxImage);
 
+    // 圖片問答遊戲
+    $("btnQuiz").addEventListener("click", openQuiz);
+    $("quizBegin").addEventListener("click", quizStart);
+    $("quizAgain").addEventListener("click", quizStart);
+    document.querySelectorAll("[data-quiz-close]").forEach((b) =>
+      b.addEventListener("click", closeQuiz));
+    $("quizChoices").addEventListener("click", (e) => {
+      const b = e.target.closest(".quiz-choice");
+      if (b) quizAnswer(b.dataset.id);
+    });
+
     $("btnExport").addEventListener("click", exportJson);
     $("btnImport").addEventListener("click", () => openModal("importModal"));
     $("btnHelp").addEventListener("click", () => openModal("helpModal"));
@@ -806,6 +817,10 @@
         }
       }
       if (e.key === "Escape") {
+        if ($("quiz").classList.contains("open")) {
+          closeQuiz();
+          return;
+        }
         if (els.lightbox.classList.contains("open")) {
           closeLightbox();
           return;
@@ -910,6 +925,144 @@
     renderResults();
     if (state.selectedId === id) renderDetail(item);
     toast("已還原原圖");
+  }
+
+  // ===== 圖片問答遊戲 =====
+  const QUIZ_N = 50;
+  const quiz = { qs: [], i: 0, score: 0, wrong: [], locked: false };
+
+  function shuffle(a) {
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  function quizPool(scope) {
+    return state.items.filter(
+      (x) => (x.image || "").startsWith("assets/") &&
+             (scope === "all" || (x.branch || "") === scope)
+    );
+  }
+
+  function buildQuiz(scope, level) {
+    const pool = quizPool(scope);
+    if (pool.length < 4) return null;
+    const picks = shuffle(pool.slice()).slice(0, Math.min(QUIZ_N, pool.length));
+    return picks.map((ans) => {
+      // 困難：優先同子類 → 同軍種；簡單：隨機
+      let cands = [];
+      if (level === "hard") {
+        cands = pool.filter((x) => x.id !== ans.id && x.subcategory === ans.subcategory);
+        if (cands.length < 2) {
+          cands = cands.concat(pool.filter(
+            (x) => x.id !== ans.id && x.branch === ans.branch && x.subcategory !== ans.subcategory));
+        }
+      }
+      if (cands.length < 2) {
+        cands = cands.concat(pool.filter((x) => x.id !== ans.id && !cands.includes(x)));
+      }
+      const distractors = shuffle(cands).slice(0, 2);
+      return { ans, choices: shuffle([ans, ...distractors]) };
+    });
+  }
+
+  function quizShow() {
+    const q = quiz.qs[quiz.i];
+    quiz.locked = false;
+    $("quizProgress").textContent = `第 ${quiz.i + 1} / ${quiz.qs.length} 題`;
+    $("quizScore").textContent = `得分 ${quiz.score}`;
+    $("quizBarFill").style.width = `${(quiz.i / quiz.qs.length) * 100}%`;
+    $("quizImg").src = resolveImageSrc(q.ans) || placeholderSvg(q.ans);
+    $("quizFeedback").textContent = "";
+    $("quizFeedback").className = "quiz-feedback";
+    const box = $("quizChoices");
+    box.innerHTML = q.choices
+      .map((c) => `<button type="button" class="quiz-choice" data-id="${escapeAttr(c.id)}">
+        ${escapeHtml(c.name_zh || c.designation)}
+        <span class="qc-en">${escapeHtml(c.designation || "")}</span></button>`)
+      .join("");
+  }
+
+  function quizAnswer(id) {
+    if (quiz.locked) return;
+    quiz.locked = true;
+    const q = quiz.qs[quiz.i];
+    const ok = id === q.ans.id;
+    if (ok) quiz.score += 2;
+    else quiz.wrong.push({ item: q.ans, chosen: state.items.find((x) => x.id === id) });
+
+    $("quizChoices").querySelectorAll(".quiz-choice").forEach((b) => {
+      b.disabled = true;
+      if (b.dataset.id === q.ans.id) b.classList.add("correct");
+      else if (b.dataset.id === id) b.classList.add("wrong");
+    });
+    const fb = $("quizFeedback");
+    fb.className = "quiz-feedback " + (ok ? "ok" : "ng");
+    fb.textContent = ok ? "✔ 答對了！ +2 分" : `✘ 正解：${q.ans.name_zh}（${q.ans.designation}）`;
+    $("quizScore").textContent = `得分 ${quiz.score}`;
+
+    setTimeout(() => {
+      quiz.i++;
+      if (quiz.i >= quiz.qs.length) quizFinish();
+      else quizShow();
+    }, ok ? 700 : 1600);
+  }
+
+  function quizFinish() {
+    $("quizPlay").hidden = true;
+    $("quizResult").hidden = false;
+    const total = quiz.qs.length;
+    const right = total - quiz.wrong.length;
+    const pct = Math.round((right / total) * 100);
+    const rank = pct >= 90 ? "🏆 軍事專家" : pct >= 75 ? "🎖️ 資深識別員"
+      : pct >= 60 ? "📗 進階學員" : pct >= 40 ? "📘 入門學員" : "🔰 新兵";
+    $("quizRank").textContent = rank;
+    $("quizFinal").innerHTML =
+      `<div><span class="big">${quiz.score}</span> 分</div>
+       <div>答對 <strong>${right}</strong> / ${total} 題 · 正確率 <strong>${pct}%</strong></div>`;
+    const rv = $("quizReview");
+    rv.innerHTML = quiz.wrong.length
+      ? `<h4>錯題複習（${quiz.wrong.length} 題）</h4>` + quiz.wrong.map((w) =>
+          `<div class="quiz-review-item">
+             <img src="${escapeAttr(resolveImageSrc(w.item))}" alt="" />
+             <div><div class="rv-ans">正解：${escapeHtml(w.item.name_zh)}（${escapeHtml(w.item.designation)}）</div>
+             <div class="rv-you">你選：${escapeHtml((w.chosen && w.chosen.name_zh) || "—")}</div></div>
+           </div>`).join("")
+      : `<h4>🎉 全部答對，零失誤！</h4>`;
+  }
+
+  function quizStart() {
+    const scope = $("quizScope").value;
+    const level = $("quizLevel").value;
+    const qs = buildQuiz(scope, level);
+    if (!qs) {
+      toast("此範圍可出題的圖片不足");
+      return;
+    }
+    quiz.qs = qs;
+    quiz.i = 0;
+    quiz.score = 0;
+    quiz.wrong = [];
+    $("quizStart").hidden = true;
+    $("quizResult").hidden = true;
+    $("quizPlay").hidden = false;
+    quizShow();
+  }
+
+  function openQuiz() {
+    $("quizStart").hidden = false;
+    $("quizPlay").hidden = true;
+    $("quizResult").hidden = true;
+    const n = quizPool("all").length;
+    $("quizStart").querySelector(".quiz-sub").innerHTML =
+      `看圖片猜裝備，三選一，每局 <strong>${Math.min(QUIZ_N, n)}</strong> 題（題庫 ${n} 張已查證圖片）。答對 +2 分！`;
+    $("quiz").classList.add("open");
+  }
+
+  function closeQuiz() {
+    $("quiz").classList.remove("open");
   }
 
   function init() {

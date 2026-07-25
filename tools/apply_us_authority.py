@@ -1375,6 +1375,16 @@ def main():
             }.get(it.get("category"), "裝備"))
             it.setdefault("form_en", it.get("subcategory") or it.get("category") or "")
 
+    # 圖片存在性檢查：檔案不存在就清掉路徑，避免前端破圖
+    broken = 0
+    for it in items:
+        img = it.get("image") or ""
+        if img.startswith("assets/") and not (ROOT / img).exists():
+            it["image"] = ""
+            broken += 1
+    if broken:
+        print(f"⚠ 清除 {broken} 筆失效圖片路徑（檔案不存在）")
+
     # 指派軍種（陸/海/空/火箭軍/通用）與正規化 sources 欄位
     for it in items:
         it["branch"] = assign_branch(it)

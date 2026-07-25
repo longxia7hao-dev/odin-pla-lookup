@@ -7,7 +7,7 @@
   <meta name="googlebot" content="noindex, nofollow" />
   <meta name="description" content="解放軍武器、裝備、載具快速查找 — ODIN WEG 風格單機工具（繁體中文）" />
   <title>解放軍武裝載具速查｜ODIN 風格</title>
-  <link rel="stylesheet" href="css/styles.css?v=20260725d" />
+  <link rel="stylesheet" href="css/styles.css?v=20260726a" />
 </head>
 <body>
   <div class="app">
@@ -25,6 +25,7 @@
         <button type="button" class="btn" id="btnImport">匯入 ODIN／JSON</button>
         <button type="button" class="btn" id="btnExport">匯出 JSON</button>
         <button type="button" class="btn" id="btnClearCustom">清除自訂</button>
+        <button type="button" class="btn" id="btnQuiz">🎯 圖片問答</button>
         <button type="button" class="btn btn-primary" id="btnHelp">使用說明</button>
       </div>
     </header>
@@ -148,6 +149,62 @@
 
   <div class="toast" id="toast" role="status"></div>
 
+
+  <!-- 圖片問答遊戲 -->
+  <div class="quiz" id="quiz" role="dialog" aria-modal="true" aria-label="圖片問答">
+    <div class="quiz-box">
+      <!-- 開始畫面 -->
+      <div class="quiz-start" id="quizStart">
+        <h2>🎯 圖片問答</h2>
+        <p class="quiz-sub">看圖片猜裝備，三選一，共 <strong>50</strong> 題。答對越多分數越高！</p>
+        <div class="quiz-opts">
+          <label>題目範圍
+            <select id="quizScope">
+              <option value="all">全部軍種</option>
+              <option value="陸軍">陸軍</option>
+              <option value="海軍">海軍</option>
+              <option value="空軍">空軍</option>
+              <option value="火箭軍">火箭軍</option>
+              <option value="通用">通用</option>
+            </select>
+          </label>
+          <label>難度
+            <select id="quizLevel">
+              <option value="hard">困難（同類型混淆）</option>
+              <option value="easy">簡單（跨類型）</option>
+            </select>
+          </label>
+        </div>
+        <button type="button" class="btn btn-primary quiz-go" id="quizBegin">開始遊戲</button>
+        <button type="button" class="btn" data-quiz-close>關閉</button>
+      </div>
+
+      <!-- 答題畫面 -->
+      <div class="quiz-play" id="quizPlay" hidden>
+        <div class="quiz-head">
+          <span id="quizProgress">第 1 / 50 題</span>
+          <span id="quizScore">得分 0</span>
+          <button type="button" class="btn quiz-quit" data-quiz-close>結束</button>
+        </div>
+        <div class="quiz-bar"><div id="quizBarFill"></div></div>
+        <div class="quiz-img-wrap"><img id="quizImg" alt="題目圖片" /></div>
+        <div class="quiz-choices" id="quizChoices"></div>
+        <div class="quiz-feedback" id="quizFeedback"></div>
+      </div>
+
+      <!-- 結算畫面 -->
+      <div class="quiz-result" id="quizResult" hidden>
+        <h2 id="quizRank">結算</h2>
+        <div class="quiz-final" id="quizFinal"></div>
+        <div class="quiz-review" id="quizReview"></div>
+        <div class="quiz-actions">
+          <button type="button" class="btn btn-primary" id="quizAgain">再玩一次</button>
+          <button type="button" class="btn" data-quiz-close>關閉</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- 圖片放大燈箱 -->
   <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="圖片放大檢視">
     <button type="button" class="lb-close" id="lbClose" aria-label="關閉">✕</button>
@@ -164,7 +221,7 @@
     <div class="lb-hint">更換的圖只存在你的瀏覽器（下次仍在）。要讓所有人看到，請把下載的檔案傳給編者收錄。</div>
   </div>
 
-  <script src="js/equipment-data.js?v=20260725d"></script>
-  <script src="js/app.js?v=20260725d"></script>
+  <script src="js/equipment-data.js?v=20260726a"></script>
+  <script src="js/app.js?v=20260726a"></script>
 </body>
 </html>

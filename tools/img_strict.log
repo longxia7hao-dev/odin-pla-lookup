@@ -1,0 +1,670 @@
+[1/645] ✓ qbz-191 ← QBZ191_20250921.jpg
+[2/645] ✓ qbz-95-1 ← QBZ95_automatic_rifle_mod_noBG.png
+  ✗ 檔名不含型號 qbz-95b: QBZ95_automatic_rifle_mod_noBG.png
+[4/645] ✓ qbz-03 ← QBZ03_automatic_rifle_20170902.jpg
+[5/645] ✓ type-56-rifle ← Type_56_mod02_noBG.png
+  dl-err type-81-rifle HTTP Error 429: Too many requests (f061ab2)
+  dl-err qbu-191 HTTP Error 429: Too many requests (f061ab2)
+[9/645] ✓ qbu-10 ← PLANMC-QBU10.png
+[10/645] ✓ qsz-92 ← QSZ92_-_5.8mm_Pistol_20170919.jpg
+  api-err QCW-05 HTTP Error 429: Too Many Requests
+  api-err QBZ-191 HTTP Error 429: Too Many Requests
+  api-err CS/LS7 HTTP Error 429: Too Many Requests
+  api-err Type 79 submachine gun HTTP Error 429: Too Many Requests
+  api-err QJY-88 HTTP Error 429: Too Many Requests
+  api-err QBZ-191 HTTP Error 429: Too Many Requests
+  api-err QJZ-89 HTTP Error 429: Too Many Requests
+  api-err QJZ-89 HTTP Error 429: Too Many Requests
+  api-err Type 67 machine gun HTTP Error 429: Too Many Requests
+  api-err Type 80 machine gun HTTP Error 429: Too Many Requests
+  api-err QLZ-87 HTTP Error 429: Too Many Requests
+  api-err QLZ-87 HTTP Error 429: Too Many Requests
+  api-err QLZ-04 HTTP Error 429: Too Many Requests
+  api-err QLU-11 HTTP Error 429: Too Many Requests
+  api-err QJG-02 HTTP Error 429: Too Many Requests
+  api-err PF-98 HTTP Error 429: Too Many Requests
+  api-err PF-98 HTTP Error 429: Too Many Requests
+  api-err DZJ-08 HTTP Error 429: Too Many Requests
+  api-err Type 69 RPG HTTP Error 429: Too Many Requests
+  api-err HJ-8 HTTP Error 429: Too Many Requests
+[30/645] ✓ hj-9 ← HJ-9_mounted_on_WZ550.jpg
+  ✗ 檔名不含型號 hj-10: Red_Arrow_10_Anti-tank_missile.jpg
+[32/645] ✓ hj-12 ← HJ-12_20250921.jpg
+  ✗ 檔名不含型號 fn-6: ABK006B_20250921.jpg
+  ✗ 檔名不含型號 fn-16: ABK006B_20250921.jpg
+  ✗ 檔名不含型號 fn-16: ABK006B_20250921.jpg
+  ✗ 檔名不含型號 qw-1: QW-3_Paskhas_(02).jpg
+  ✗ 檔名不含型號 qw-1: QW-3_Paskhas_(02).jpg
+  ✗ 檔名不含型號 qw-2: QW-3_Paskhas_(02).jpg
+[36/645] ✓ qw-2 ← QW-2_MANPADS_of_Bangladesh_Army.jpg
+  api-err PP-87 HTTP Error 429: Too Many Requests
+  api-err Type 87 mortar HTTP Error 429: Too Many Requests
+  api-err PP-89 HTTP Error 429: Too Many Requests
+  api-err W86 mortar HTTP Error 429: Too Many Requests
+  api-err QTS-11 HTTP Error 429: Too Many Requests
+  api-err QBZ-191 HTTP Error 429: Too Many Requests
+  api-err QLG-10 HTTP Error 429: Too Many Requests
+  api-err QBZ-95 HTTP Error 429: Too Many Requests
+  api-err Type 99 tank HTTP Error 429: Too Many Requests
+  api-err Type 99 tank HTTP Error 429: Too Many Requests
+  api-err Type 96 tank HTTP Error 429: Too Many Requests
+  api-err Type 96 tank HTTP Error 429: Too Many Requests
+  api-err Type 96 tank HTTP Error 429: Too Many Requests
+  api-err Type 15 tank HTTP Error 429: Too Many Requests
+  api-err Type 80/88 main battle tank HTTP Error 429: Too Many Requests
+  api-err Type 88 tank HTTP Error 429: Too Many Requests
+  api-err Type 59 tank HTTP Error 429: Too Many Requests
+  api-err ZBD-04 HTTP Error 429: Too Many Requests
+  api-err ZBD-04 HTTP Error 429: Too Many Requests
+  api-err ZBD-03 HTTP Error 429: Too Many Requests
+  api-err ZBD-05 HTTP Error 429: Too Many Requests
+  api-err ZBD-05 HTTP Error 429: Too Many Requests
+  api-err ZTD-05 HTTP Error 429: Too Many Requests
+  api-err ZBL-08 HTTP Error 429: Too Many Requests
+  api-err Type 08 vehicle HTTP Error 429: Too Many Requests
+  api-err ZBL-08 HTTP Error 429: Too Many Requests
+  api-err Type 08 vehicle HTTP Error 429: Too Many Requests
+  api-err ZBL-08 HTTP Error 429: Too Many Requests
+  api-err Type 08 vehicle HTTP Error 429: Too Many Requests
+  api-err PLL-09 HTTP Error 429: Too Many Requests
+  api-err Type 08 vehicle HTTP Error 429: Too Many Requests
+  api-err ZSL-92 HTTP Error 429: Too Many Requests
+  api-err Type 92 AFV HTTP Error 429: Too Many Requests
+  api-err ZBL-08 HTTP Error 429: Too Many Requests
+  api-err Type 08 vehicle HTTP Error 429: Too Many Requests
+  api-err Type 89 armoured personnel carrier HTTP Error 429: Too Many Requests
+  api-err Type 89 AFV HTTP Error 429: Too Many Requests
+  api-err Type 63 armoured personnel carrier HTTP Error 429: Too Many Requests
+  api-err Type 63 (armoured personnel carrier) HTTP Error 429: Too Many Requests
+  api-err PLL-05 HTTP Error 429: Too Many Requests
+  api-err PLZ-05 HTTP Error 429: Too Many Requests
+  api-err PLZ-07 HTTP Error 429: Too Many Requests
+  api-err Type 89 self-propelled howitzer HTTP Error 429: Too Many Requests
+  api-err PCL-181 HTTP Error 429: Too Many Requests
+  api-err PCL-181 HTTP Error 429: Too Many Requests
+  api-err PCL-161 HTTP Error 429: Too Many Requests
+  api-err PHL-03 HTTP Error 429: Too Many Requests
+  api-err PHL-16 HTTP Error 429: Too Many Requests
+  api-err PHZ-11 HTTP Error 429: Too Many Requests
+  api-err PHZ-89 HTTP Error 429: Too Many Requests
+  api-err Type 89 MLRS HTTP Error 429: Too Many Requests
+  api-err Type 81 122 mm multiple rocket launcher HTTP Error 429: Too Many Requests
+  api-err Type 81 multiple rocket launcher HTTP Error 429: Too Many Requests
+  api-err PGZ-09 HTTP Error 429: Too Many Requests
+  api-err PGZ-95 HTTP Error 429: Too Many Requests
+  api-err Type 95 SPAAG HTTP Error 429: Too Many Requests
+  api-err PGZ-04A HTTP Error 429: Too Many Requests
+  api-err Type 95 SPAAG HTTP Error 429: Too Many Requests
+  api-err HQ-17 HTTP Error 429: Too Many Requests
+  api-err HQ-17 HTTP Error 429: Too Many Requests
+  api-err HQ-16 HTTP Error 429: Too Many Requests
+  api-err HQ-9 HTTP Error 429: Too Many Requests
+  api-err HQ-9 HTTP Error 429: Too Many Requests
+  api-err HQ-22 HTTP Error 429: Too Many Requests
+  api-err HQ-7 HTTP Error 429: Too Many Requests
+  api-err HQ-10 HTTP Error 429: Too Many Requests
+  api-err Type 730 CIWS HTTP Error 429: Too Many Requests
+  api-err LD-2000 HTTP Error 429: Too Many Requests
+  api-err S-300 missile system HTTP Error 429: Too Many Requests
+  api-err S-400 missile system HTTP Error 429: Too Many Requests
+  api-err Dongfeng Mengshi HTTP Error 429: Too Many Requests
+  api-err Dongfeng Mengshi HTTP Error 429: Too Many Requests
+  api-err Dongfeng EQ2050 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-20 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-20 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-35 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-35 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-16 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-16 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-10 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-10 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-10 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-11 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-11 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-11 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-15 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-15 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-15 HTTP Error 429: Too Many Requests
+  ✗ 檔名不含型號 su-30mkk: Sukhoi_Su-30M2_of_the_Russian_Air_Force_during_training_Febuary_2017.jpg
+  ✗ 檔名不含型號 su-30mkk: Sukhoi_Su-30SM_in_flight_2014.jpg
+  ✗ 檔名不含型號 su-30mk2: Sukhoi_Su-30M2_of_the_Russian_Air_Force_during_training_Febuary_2017.jpg
+  ✗ 檔名不含型號 su-30mk2: Sukhoi_Su-30SM_in_flight_2014.jpg
+[109/645] ✓ su-35 ← Russian_Air_Force,_RF-81719,_Sukhoi_Su-35S_(49581740157).jpg
+  ✗ 檔名不含型號 su-27ubk: Sukhoi_Su-27SKM_at_MAKS-2005_airshow.jpg
+[111/645] ✓ jh-7a ← PLAAF_Xian_JH-7A_at_Chelyabinsk_Shagol_Air_Base.jpg
+[112/645] ✓ h-6k ← H-6K_20211_20151127.jpg
+  ✗ 檔名不含型號 h-6n: H-6K_20211_20151127.jpg
+  ✗ 檔名不含型號 h-6j: H-6K_20211_20151127.jpg
+  api-err Xian H-6 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-8 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-7 HTTP Error 429: Too Many Requests
+  api-err KJ-500 HTTP Error 429: Too Many Requests
+  api-err Shaanxi KJ-500 HTTP Error 429: Too Many Requests
+  api-err KJ-200 HTTP Error 429: Too Many Requests
+  api-err KJ-2000 HTTP Error 429: Too Many Requests
+  api-err KJ-600 HTTP Error 429: Too Many Requests
+  api-err Xian Y-20 HTTP Error 429: Too Many Requests
+  api-err Xian Y-20 HTTP Error 429: Too Many Requests
+  api-err Shaanxi Y-9 HTTP Error 429: Too Many Requests
+  api-err Shaanxi Y-9 HTTP Error 429: Too Many Requests
+  api-err Shaanxi Y-8 HTTP Error 429: Too Many Requests
+  api-err Shaanxi Y-9 HTTP Error 429: Too Many Requests
+  api-err Shaanxi Y-8 HTTP Error 429: Too Many Requests
+  api-err Ilyushin Il-76 HTTP Error 429: Too Many Requests
+  api-err Ilyushin Il-76 HTTP Error 429: Too Many Requests
+  api-err Ilyushin Il-78 HTTP Error 429: Too Many Requests
+  api-err Shaanxi Y-9 HTTP Error 429: Too Many Requests
+  api-err Shaanxi KQ-200 HTTP Error 429: Too Many Requests
+  api-err Shaanxi Y-9 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-20 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-20 HTTP Error 429: Too Many Requests
+  api-err CAIC Z-10 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-19 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-9 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-9 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-8 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-8 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-18 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-8 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-18 HTTP Error 429: Too Many Requests
+  api-err Mil Mi-17 HTTP Error 429: Too Many Requests
+  api-err Kamov Ka-27 HTTP Error 429: Too Many Requests
+  api-err Kamov Ka-27 HTTP Error 429: Too Many Requests
+  api-err Kamov Ka-31 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-11 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-11 HTTP Error 429: Too Many Requests
+  api-err Guizhou JL-9 HTTP Error 429: Too Many Requests
+  api-err Hongdu L-15 HTTP Error 429: Too Many Requests
+  api-err Hongdu JL-8 HTTP Error 429: Too Many Requests
+  api-err Shijiazhuang Y-5 HTTP Error 429: Too Many Requests
+  api-err Xian Y-7 HTTP Error 429: Too Many Requests
+  api-err CASC Rainbow HTTP Error 429: Too Many Requests
+  api-err CASC CH-4 HTTP Error 429: Too Many Requests
+  api-err CASC Rainbow HTTP Error 429: Too Many Requests
+  api-err CASC CH-5 HTTP Error 429: Too Many Requests
+  api-err CAIG Wing Loong HTTP Error 429: Too Many Requests
+  api-err CAIG Wing Loong II HTTP Error 429: Too Many Requests
+  api-err CAIG Wing Loong HTTP Error 429: Too Many Requests
+  api-err TB-001 HTTP Error 429: Too Many Requests
+  api-err Hongdu GJ-11 HTTP Error 429: Too Many Requests
+  api-err GJ-11 HTTP Error 429: Too Many Requests
+  api-err Guizhou Soar Dragon HTTP Error 429: Too Many Requests
+  api-err WZ-7 HTTP Error 429: Too Many Requests
+  api-err WZ-8 HTTP Error 429: Too Many Requests
+  api-err BZK-005 HTTP Error 429: Too Many Requests
+  api-err ASN-209 HTTP Error 429: Too Many Requests
+  api-err CASC Rainbow HTTP Error 429: Too Many Requests
+  api-err CASC CH-7 HTTP Error 429: Too Many Requests
+  api-err WJ-700 HTTP Error 429: Too Many Requests
+  api-err DF-21 HTTP Error 429: Too Many Requests
+  api-err DF-21 HTTP Error 429: Too Many Requests
+  api-err DF-26 HTTP Error 429: Too Many Requests
+  api-err DF-17 HTTP Error 429: Too Many Requests
+  api-err DF-15 HTTP Error 429: Too Many Requests
+  api-err DF-16 HTTP Error 429: Too Many Requests
+  api-err DF-31 HTTP Error 429: Too Many Requests
+  api-err DF-41 HTTP Error 429: Too Many Requests
+  api-err DF-5 HTTP Error 429: Too Many Requests
+  api-err JL-2 HTTP Error 429: Too Many Requests
+  api-err JL-3 HTTP Error 429: Too Many Requests
+  api-err CJ-10 HTTP Error 429: Too Many Requests
+  api-err Xian H-6 HTTP Error 429: Too Many Requests
+  api-err CJ-10 HTTP Error 429: Too Many Requests
+  api-err CJ-100 HTTP Error 429: Too Many Requests
+  api-err YJ-12 HTTP Error 429: Too Many Requests
+  api-err YJ-12 HTTP Error 429: Too Many Requests
+[178/645] ✓ yj-83 ← YJ-83J_Missile_20170902.jpg
+[179/645] ✓ yj-62 ← YJ-62_Anti-ship_missiles.jpg
+[181/645] ✓ yj-6 ← YJ-6_Anti-ship_missiles_20170919.jpg
+  ✗ 檔名不含型號 c-802a: YJ-83J_Missile_20170902.jpg
+  ✗ 檔名不含型號 c-802a: YJ-83J_Missile_20170902.jpg
+[183/645] ✓ pl-15 ← PL-15_20250921.jpg
+[184/645] ✓ pl-10 ← PL-10_missile_at_Changchun_Air_Show_20250921.jpg
+  api-err PL-17 HTTP Error 429: Too Many Requests
+  api-err PL-8 HTTP Error 429: Too Many Requests
+  api-err PL-5 HTTP Error 429: Too Many Requests
+  api-err Chinese aircraft carrier Fujian HTTP Error 429: Too Many Requests
+  api-err Chinese aircraft carrier Shandong HTTP Error 429: Too Many Requests
+  api-err Chinese aircraft carrier Liaoning HTTP Error 429: Too Many Requests
+  api-err Type 055 destroyer HTTP Error 429: Too Many Requests
+  api-err Type 052D destroyer HTTP Error 429: Too Many Requests
+  api-err Type 052D destroyer HTTP Error 429: Too Many Requests
+  api-err Type 052C destroyer HTTP Error 429: Too Many Requests
+  api-err Type 052B destroyer HTTP Error 429: Too Many Requests
+  api-err Type 051C destroyer HTTP Error 429: Too Many Requests
+  api-err Type 051B destroyer HTTP Error 429: Too Many Requests
+  api-err Sovremenny-class destroyer HTTP Error 429: Too Many Requests
+  api-err Type 054A frigate HTTP Error 429: Too Many Requests
+  api-err Type 054B frigate HTTP Error 429: Too Many Requests
+  api-err Type 054 frigate HTTP Error 429: Too Many Requests
+  api-err Type 056 corvette HTTP Error 429: Too Many Requests
+  api-err Type 056 corvette HTTP Error 429: Too Many Requests
+  api-err Type 053H3 frigate HTTP Error 429: Too Many Requests
+  api-err Type 022 missile boat HTTP Error 429: Too Many Requests
+  api-err Type 075 landing helicopter dock HTTP Error 429: Too Many Requests
+  api-err Type 076 landing helicopter dock HTTP Error 429: Too Many Requests
+  api-err Type 071 amphibious transport dock HTTP Error 429: Too Many Requests
+  api-err Type 072 landing ship HTTP Error 429: Too Many Requests
+  api-err Type 072A landing ship HTTP Error 429: Too Many Requests
+  api-err Type 075 landing helicopter dock HTTP Error 429: Too Many Requests
+  api-err Type 726 LCAC HTTP Error 429: Too Many Requests
+  api-err Type 093 submarine HTTP Error 429: Too Many Requests
+  api-err Type 093 submarine HTTP Error 429: Too Many Requests
+  api-err Type 094 submarine HTTP Error 429: Too Many Requests
+  api-err Type 091 submarine HTTP Error 429: Too Many Requests
+  api-err Type 039A submarine HTTP Error 429: Too Many Requests
+  api-err Type 039 submarine HTTP Error 429: Too Many Requests
+  api-err Type 035 submarine HTTP Error 429: Too Many Requests
+  api-err Kilo-class submarine HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 901 fast combat support ship HTTP Error 429: Too Many Requests
+  api-err Type 901 replenishment ship HTTP Error 429: Too Many Requests
+  api-err Type 903 replenishment ship HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 815 spy ship HTTP Error 429: Too Many Requests
+  api-err Type 1130 CIWS HTTP Error 429: Too Many Requests
+  api-err Type 730 CIWS HTTP Error 429: Too Many Requests
+  api-err Type 1130 CIWS HTTP Error 429: Too Many Requests
+  api-err Yu-6 torpedo HTTP Error 429: Too many requests (f061ab2)
+  api-err Yu-7 torpedo HTTP Error 429: Too Many Requests
+  api-err Yu-6 torpedo HTTP Error 429: Too Many Requests
+  api-err Uniforms of the People's Liberation Army HTTP Error 429: Too many requests (f061ab2)
+  api-err Xingkong (camouflage) HTTP Error 429: Too Many Requests
+  api-err Uniforms of the People's Liberation Army HTTP Error 429: Too many requests (f061ab2)
+  api-err Xingkong (camouflage) HTTP Error 429: Too Many Requests
+  api-err Uniforms of the People's Liberation Army HTTP Error 429: Too Many Requests
+  api-err Type 07 HTTP Error 429: Too many requests (f061ab2)
+  api-err Uniforms of the People's Liberation Army HTTP Error 429: Too Many Requests
+  api-err Uniforms of the People's Liberation Army HTTP Error 429: Too many requests (f061ab2)
+  api-err QGF-03 HTTP Error 429: Too Many Requests
+  api-err Armoured vehicle-launched bridge HTTP Error 429: Too many requests (f061ab2)
+  api-err Minelayer HTTP Error 429: Too Many Requests
+  api-err PCL-09 HTTP Error 429: Too many requests (f061ab2)
+  api-err PTL-02 HTTP Error 429: Too Many Requests
+  api-err Type 63A HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 63 (tank) HTTP Error 429: Too Many Requests
+  api-err Type 62 light tank HTTP Error 429: Too Many Requests
+  api-err Type 62 tank HTTP Error 429: Too Many Requests
+  api-err HQ-6 HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 90 multiple rocket launcher HTTP Error 429: Too Many Requests
+  api-err Type 83 self-propelled howitzer HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 83 SPH HTTP Error 429: Too Many Requests
+  api-err Type 66 152 mm howitzer HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 66 howitzer HTTP Error 429: Too Many Requests
+  api-err Type 86 infantry fighting vehicle HTTP Error 429: Too Many Requests
+  api-err Type 86 IFV HTTP Error 429: Too many requests (f061ab2)
+  api-err ZSL-92 HTTP Error 429: Too Many Requests
+  api-err Type 92 AFV HTTP Error 429: Too many requests (f061ab2)
+  api-err ZBD-04 HTTP Error 429: Too Many Requests
+  api-err A100 multiple rocket launcher HTTP Error 429: Too Many Requests
+  api-err A-100 HTTP Error 429: Too many requests (f061ab2)
+  api-err SR5 multiple rocket launcher HTTP Error 429: Too Many Requests
+  api-err SR-5 HTTP Error 429: Too Many Requests
+  api-err HQ-9 HTTP Error 429: Too Many Requests
+  api-err HQ-9 HTTP Error 429: Too many requests (f061ab2)
+  api-err HQ-16 HTTP Error 429: Too Many Requests
+  api-err YJ-18 HTTP Error 429: Too many requests (f061ab2)
+  api-err CX-1 (missile) HTTP Error 429: Too Many Requests
+  api-err CX-1 HTTP Error 429: Too many requests (f061ab2)
+  api-err CM-401 HTTP Error 429: Too Many Requests
+  api-err HJ-10 HTTP Error 429: Too many requests (f061ab2)
+  api-err Blue Arrow 7 HTTP Error 429: Too Many Requests
+  api-err TY-90 HTTP Error 429: Too many requests (f061ab2)
+  api-err LS-6 HTTP Error 429: Too Many Requests
+  api-err CASC Rainbow HTTP Error 429: Too many requests (f061ab2)
+  api-err CASC Rainbow HTTP Error 429: Too Many Requests
+  api-err KD-88 HTTP Error 429: Too many requests (f061ab2)
+  ✗ 檔名不含型號 yj-91: YJ_Missile_267449143_203586135314142_2173634333851344369_n.png
+  ✗ 檔名疑似圖表 df-27: PLA_ballistic_missiles_range.jpg
+  dl-err df-11a HTTP Error 429: Too many requests - please contact noc@wikim
+  dl-err df-31b HTTP Error 429: Too many requests - please contact noc@wikim
+  dl-err hq-19 HTTP Error 429: Too many requests - please contact noc@wikim
+  api-err Type 053 frigate HTTP Error 429: Too Many Requests
+  api-err Type 053 frigate HTTP Error 429: Too Many Requests
+  api-err Type 053 frigate HTTP Error 429: Too Many Requests
+  api-err Hainan-class submarine chaser HTTP Error 429: Too Many Requests
+  api-err Hainan-class submarine chaser HTTP Error 429: Too many requests (f061ab2)
+  api-err Shanghai-class gunboat HTTP Error 429: Too Many Requests
+  api-err Type 021-class missile boat HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 081 minesweeper HTTP Error 429: Too Many Requests
+  api-err Type 082 minesweeper HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 073 landing ship HTTP Error 429: Too Many Requests
+  api-err Type 074 landing ship HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 032 submarine HTTP Error 429: Too Many Requests
+  api-err Type 039A submarine HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 092 submarine HTTP Error 429: Too Many Requests
+  api-err Type 096 submarine HTTP Error 429: Too Many Requests
+  api-err Type 033 submarine HTTP Error 429: Too Many Requests
+  api-err Type 904 replenishment ship HTTP Error 429: Too Many Requests
+  api-err Fuqing-class tanker HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 926 submarine support ship HTTP Error 429: Too Many Requests
+  api-err Chinese hospital ship Peace Ark HTTP Error 429: Too many requests (f061ab2)
+  api-err Yuanwang HTTP Error 429: Too Many Requests
+  api-err Type 636A survey ship HTTP Error 429: Too many requests (f061ab2)
+  api-err Zhaotou-class patrol vessel HTTP Error 429: Too Many Requests
+  api-err China Coast Guard HTTP Error 429: Too many requests (f061ab2)
+  api-err Harbin Z-8 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-8 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-9 HTTP Error 429: Too many requests (f061ab2)
+  api-err Harbin Z-19 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-11 HTTP Error 429: Too many requests (f061ab2)
+  api-err Airbus Helicopters H175 HTTP Error 429: Too Many Requests
+  api-err Nanchang Q-5 HTTP Error 429: Too many requests (f061ab2)
+  api-err Chengdu J-7 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-8 HTTP Error 429: Too Many Requests
+  api-err CASC Rainbow HTTP Error 429: Too Many Requests
+  api-err Wing Loong 10 HTTP Error 429: Too Many Requests
+  api-err Chengdu WZ-5 HTTP Error 429: Too Many Requests
+  api-err ASN-206 HTTP Error 429: Too Many Requests
+  api-err Shaanxi Y-8 HTTP Error 429: Too many requests (f061ab2)
+  api-err Shaanxi Y-9 HTTP Error 429: Too Many Requests
+  api-err KJ-500 HTTP Error 429: Too Many Requests
+  api-err Type 59 tank HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 69 tank HTTP Error 429: Too Many Requests
+  api-err Type 79 tank HTTP Error 429: Too Many Requests
+  api-err Type 80 tank HTTP Error 429: Too many requests (f061ab2)
+  api-err PTL02 HTTP Error 429: Too Many Requests
+  api-err WZ523 HTTP Error 429: Too many requests (f061ab2)
+  api-err PLZ-45 HTTP Error 429: Too Many Requests
+  api-err PLZ-52 HTTP Error 429: Too many requests (f061ab2)
+  api-err SH-15 HTTP Error 429: Too Many Requests
+  api-err PHL-11 HTTP Error 429: Too many requests (f061ab2)
+  api-err GSL-131 HTTP Error 429: Too Many Requests
+  api-err GCZ-112 HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 84 bridgelayer HTTP Error 429: Too Many Requests
+  api-err Type 654 armoured recovery vehicle HTTP Error 429: Too many requests (f061ab2)
+  api-err JY-27 radar HTTP Error 429: Too Many Requests
+  api-err YLC-8B HTTP Error 429: Too Many Requests
+  api-err SLC-7 HTTP Error 429: Too many requests (f061ab2)
+  api-err SLC-2 radar HTTP Error 429: Too Many Requests
+  api-err JYL-1 HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 305A radar HTTP Error 429: Too Many Requests
+  api-err DWL-002 HTTP Error 429: Too Many Requests
+  api-err Electronic warfare HTTP Error 429: Too many requests (f061ab2)
+  api-err PL-9 HTTP Error 429: Too Many Requests
+  api-err PL-11 HTTP Error 429: Too many requests (f061ab2)
+  api-err PL-21 HTTP Error 429: Too Many Requests
+  api-err HJ-73 HTTP Error 429: Too Many Requests
+  api-err HJ-11 HTTP Error 429: Too Many Requests
+  api-err HQ-2 HTTP Error 429: Too Many Requests
+  api-err KS-1 (missile) HTTP Error 429: Too Many Requests
+  api-err DF-3 HTTP Error 429: Too Many Requests
+  api-err DF-4 HTTP Error 429: Too Many Requests
+  api-err DF-21 HTTP Error 429: Too many requests (f061ab2)
+  api-err GB-6 HTTP Error 429: Too Many Requests
+  api-err LS-6 HTTP Error 429: Too Many Requests
+  api-err QBB-95 HTTP Error 429: Too many requests (f061ab2)
+  api-err QBZ-191 HTTP Error 429: Too Many Requests
+  api-err Type 56 carbine HTTP Error 429: Too Many Requests
+  api-err Type 54 pistol HTTP Error 429: Too Many Requests
+  api-err Type 64 pistol HTTP Error 429: Too Many Requests
+  api-err Type 85 sniper rifle HTTP Error 429: Too Many Requests
+  api-err W85 heavy machine gun HTTP Error 429: Too Many Requests
+  api-err PF-89 HTTP Error 429: Too Many Requests
+  api-err FHJ-84 HTTP Error 429: Too Many Requests
+  api-err QLB-06 HTTP Error 429: Too Many Requests
+  api-err Type 051 destroyer HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 053 frigate HTTP Error 429: Too Many Requests
+  api-err Houjian-class missile boat HTTP Error 429: Too Many Requests
+  api-err Type 024 missile boat HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 909 experimental ship HTTP Error 429: Too Many Requests
+  api-err Type 925 submarine support ship HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 072 landing ship HTTP Error 429: Too Many Requests
+  api-err Type 095 submarine HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 039A submarine HTTP Error 429: Too Many Requests
+  api-err Xian H-6 HTTP Error 429: Too Many Requests
+  api-err Xian H-6 HTTP Error 429: Too many requests (f061ab2)
+  api-err Sukhoi Su-27 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-10 HTTP Error 429: Too many requests (f061ab2)
+  api-err Harbin Y-12 HTTP Error 429: Too Many Requests
+  api-err CASC Rainbow HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 63 armoured personnel carrier HTTP Error 429: Too Many Requests
+  api-err Type 88 self-propelled anti-aircraft gun HTTP Error 429: Too Many Requests
+  api-err Type 65 anti-aircraft gun HTTP Error 429: Too Many Requests
+  ✗ 檔名不含型號 type-74-aaa: 61-K_anti-aircraft_gun,_2007.jpg
+  ✗ 檔名不含型號 type-77-hmg: Chinese_Type_1977_12.7mm_Anti-Aircraft_Gun_(9884978786).jpg
+  ✗ 檔名不含型號 ws-43: WS-2D_(sketch).jpg
+  ✗ 檔名不含型號 ch-901: CH-4_at_Airshow_China_Zhuhai_2022.jpg
+  ✗ 檔名不含型號 gj-1: Wing_Loong.jpg
+  ✗ 檔名不含型號 type-052: Flickr_-_Israel_Defense_Forces_-_20_Years_of_Cooperation_with_the_Chinese_Navy_(5).jpg
+  ✗ 檔名不含型號 type-051dt: PLANS_Chongqing_(133)_20180923.jpg
+  api-err Type 051 destroyer HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 055 destroyer HTTP Error 429: Too Many Requests
+  api-err Sovremenny-class destroyer HTTP Error 429: Too Many Requests
+  api-err Type 065 frigate HTTP Error 429: Too Many Requests
+  api-err Type 053K frigate HTTP Error 429: Too Many Requests
+  api-err Hainan-class submarine chaser HTTP Error 429: Too Many Requests
+  api-err Houxin-class missile boat HTTP Error 429: Too Many Requests
+  api-err Huchuan-class torpedo boat HTTP Error 429: Too Many Requests
+  api-err Shanghai-class gunboat HTTP Error 429: Too Many Requests
+  api-err YJ-8 HTTP Error 429: Too Many Requests
+  api-err YJ-8 HTTP Error 429: Too many requests (f061ab2)
+  api-err YJ-83 HTTP Error 429: Too Many Requests
+  api-err YJ-18 HTTP Error 429: Too many requests (f061ab2)
+  api-err C-705 HTTP Error 429: Too Many Requests
+  api-err C-704 HTTP Error 429: Too Many Requests
+  api-err HQ-7 HTTP Error 429: Too Many Requests
+  api-err HQ-10 HTTP Error 429: Too Many Requests
+  api-err HQ-16 HTTP Error 429: Too many requests (f061ab2)
+  api-err HQ-9 HTTP Error 429: Too Many Requests
+  api-err S-300 missile system HTTP Error 429: Too Many Requests
+  api-err 9K37 Buk HTTP Error 429: Too Many Requests
+  api-err CY-5 HTTP Error 429: Too Many Requests
+  api-err Chinese torpedo HTTP Error 429: Too Many Requests
+  api-err H/PJ-38 HTTP Error 429: Too Many Requests
+  api-err H/PJ-26 HTTP Error 429: Too Many Requests
+  api-err Type 346 radar HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 346 radar HTTP Error 429: Too Many Requests
+  api-err Type 346 radar HTTP Error 429: Too Many Requests
+  api-err Type 382 radar HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 093 submarine HTTP Error 429: Too Many Requests
+  api-err Type 094 submarine HTTP Error 429: Too Many Requests
+  api-err Type 033 submarine HTTP Error 429: Too Many Requests
+  api-err Type 035 submarine HTTP Error 429: Too Many Requests
+  api-err Type 035 submarine HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 035 submarine HTTP Error 429: Too Many Requests
+  api-err Type 039 submarine HTTP Error 429: Too many requests (f061ab2)
+  api-err Kilo-class submarine HTTP Error 429: Too Many Requests
+  api-err JL-1 HTTP Error 429: Too Many Requests
+  api-err Type 071 amphibious transport dock HTTP Error 429: Too Many Requests
+  api-err Type 072 landing ship HTTP Error 429: Too Many Requests
+  api-err Type 072 landing ship HTTP Error 429: Too Many Requests
+  api-err Type 073 landing ship HTTP Error 429: Too Many Requests
+  api-err Type 074 landing ship HTTP Error 429: Too Many Requests
+  api-err Yunnan-class landing craft HTTP Error 429: Too Many Requests
+  api-err Type 726 LCAC HTTP Error 429: Too Many Requests
+  api-err Zubr-class LCAC HTTP Error 429: Too Many Requests
+  api-err Type 067 landing craft HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 081 minesweeper HTTP Error 429: Too Many Requests
+  api-err Type 082 minesweeper HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 082 minesweeper HTTP Error 429: Too Many Requests
+  api-err T43-class minesweeper HTTP Error 429: Too Many Requests
+  api-err Type 312 minesweeper HTTP Error 429: Too Many Requests
+  api-err Type 903 replenishment ship HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 904 replenishment ship HTTP Error 429: Too Many Requests
+  api-err Type 908 replenishment ship HTTP Error 429: Too Many Requests
+  api-err Dongdiao-class surveillance ship HTTP Error 429: Too many requests (f061ab2)
+  api-err Dongdiao-class surveillance ship HTTP Error 429: Too Many Requests
+  api-err Type 927 surveillance ship HTTP Error 429: Too Many Requests
+  api-err Type 636A survey ship HTTP Error 429: Too Many Requests
+  api-err Yuanwang HTTP Error 429: Too many requests (f061ab2)
+  api-err Yuanwang HTTP Error 429: Too Many Requests
+  api-err Type 922 salvage ship HTTP Error 429: Too Many Requests
+  api-err LR7 HTTP Error 429: Too Many Requests
+  api-err MV Xue Long 2 HTTP Error 429: Too Many Requests
+  api-err Chinese training ship Zheng He HTTP Error 429: Too many requests (f061ab2)
+  api-err Chinese training ship Qi Jiguang HTTP Error 429: Too Many Requests
+  api-err Chinese ship Shichang HTTP Error 429: Too Many Requests
+  api-err Zhaotou-class patrol vessel HTTP Error 429: Too Many Requests
+  api-err Shenyang J-5 HTTP Error 429: Too many requests (f061ab2)
+  api-err Shenyang J-6 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-8 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-8 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-8 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-10 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-11 HTTP Error 429: Too Many Requests
+  api-err Shenyang J-15 HTTP Error 429: Too Many Requests
+  api-err Chengdu J-20 HTTP Error 429: Too Many Requests
+  api-err Shenyang FC-31 HTTP Error 429: Too Many Requests
+  api-err Xian JH-7 HTTP Error 429: Too Many Requests
+  api-err Harbin H-5 HTTP Error 429: Too Many Requests
+  api-err Xian H-6 HTTP Error 429: Too Many Requests
+  api-err Xian H-6 HTTP Error 429: Too Many Requests
+  api-err Xian H-20 HTTP Error 429: Too Many Requests
+  api-err Guizhou JL-9 HTTP Error 429: Too Many Requests
+  api-err Nanchang CJ-6 HTTP Error 429: Too many requests (f061ab2)
+  api-err Xian H-6 HTTP Error 429: Too Many Requests
+  api-err Xian Y-20 HTTP Error 429: Too many requests (f061ab2)
+  api-err Harbin Y-11 HTTP Error 429: Too Many Requests
+  api-err Tupolev Tu-154 HTTP Error 429: Too Many Requests
+  api-err KJ-1 HTTP Error 429: Too Many Requests
+  api-err ZDK-03 HTTP Error 429: Too Many Requests
+  ✗ 檔名不含型號 gx-1: Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg
+  ✗ 檔名不含型號 gx-2: Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg
+  ✗ 檔名不含型號 gx-4: Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg
+  ✗ 檔名不含型號 gx-5: Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg
+  ✗ 檔名不含型號 gx-7: Shaanxi_Y-9_2021_cropped.jpg
+  ✗ 檔名不含型號 jz-8f: 20220804_J-8II_Fighter_on_Display_at_Jinming_Service_Area_02_(cropped).jpg
+  ✗ 檔名不含型號 pl-2: Air-to-air_missiles,_Military_Museum_of_the_Chinese_People's_Revolution.jpg
+  dl-err pl-5 HTTP Error 429: Too many requests - please contact noc@wikim
+  ✗ 檔名不含型號 kd-63: YJ-6_Anti-ship_missiles_20170919.jpg
+  ✗ 檔名不含型號 kd-20: CJ-20_cruise_missiles.jpg
+  api-err Harbin Z-5 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-6 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-8 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-8 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-18 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-18 HTTP Error 429: Too many requests (f061ab2)
+  api-err Harbin Z-9 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-9 HTTP Error 429: Too many requests (f061ab2)
+  api-err Harbin Z-9 HTTP Error 429: Too Many Requests
+  api-err CAIC Z-10 HTTP Error 429: Too Many Requests
+  api-err CAIC Z-10 HTTP Error 429: Too Many Requests
+  api-err Changhe Z-11 HTTP Error 429: Too Many Requests
+  api-err Harbin Z-20 HTTP Error 429: Too many requests (f061ab2)
+  api-err Harbin Z-20 HTTP Error 429: Too Many Requests
+  api-err Mil Mi-8 HTTP Error 429: Too Many Requests
+  api-err Mil Mi-26 HTTP Error 429: Too Many Requests
+  api-err Kamov Ka-27 HTTP Error 429: Too Many Requests
+  api-err Eurocopter AS565 Panther HTTP Error 429: Too many requests (f061ab2)
+  api-err Aérospatiale Alouette III HTTP Error 429: Too Many Requests
+  api-err Changhe Z-8 HTTP Error 429: Too many requests (f061ab2)
+  api-err CAIG Wing Loong HTTP Error 429: Too Many Requests
+  api-err CAIG Wing Loong HTTP Error 429: Too many requests (f061ab2)
+  api-err CASC Rainbow HTTP Error 429: Too Many Requests
+  api-err CASC Rainbow HTTP Error 429: Too many requests (f061ab2)
+  api-err BZK-005 HTTP Error 429: Too Many Requests
+  api-err BZK-005 HTTP Error 429: Too Many Requests
+  api-err CASC Rainbow HTTP Error 429: Too many requests (f061ab2)
+  api-err CASC Rainbow HTTP Error 429: Too Many Requests
+  api-err DF-1 (missile) HTTP Error 429: Too Many Requests
+  api-err DF-2 HTTP Error 429: Too many requests (f061ab2)
+  api-err DF-5 HTTP Error 429: Too Many Requests
+  api-err DF-5 HTTP Error 429: Too Many Requests
+  api-err DF-5 HTTP Error 429: Too Many Requests
+  api-err M20 (missile) HTTP Error 429: Too many requests (f061ab2)
+  api-err DF-15 HTTP Error 429: Too Many Requests
+  api-err DF-15 HTTP Error 429: Too many requests (f061ab2)
+  api-err DF-15 HTTP Error 429: Too Many Requests
+  api-err DF-21 HTTP Error 429: Too many requests (f061ab2)
+  api-err DF-31 HTTP Error 429: Too Many Requests
+  api-err DF-31 HTTP Error 429: Too many requests (f061ab2)
+  api-err DF-61 HTTP Error 429: Too Many Requests
+  api-err CJ-10 HTTP Error 429: Too many requests (f061ab2)
+  api-err Hong Niao HTTP Error 429: Too Many Requests
+  api-err Hong Niao HTTP Error 429: Too many requests (f061ab2)
+  api-err Hong Niao HTTP Error 429: Too Many Requests
+  api-err DF-ZF HTTP Error 429: Too many requests (f061ab2)
+  api-err CM-400AKG HTTP Error 429: Too Many Requests
+  api-err BP-12A HTTP Error 429: Too many requests (f061ab2)
+  api-err B611 (missile) HTTP Error 429: Too Many Requests
+  api-err Type 59 tank HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 88 tank HTTP Error 429: Too Many Requests
+  api-err VT-4 HTTP Error 429: Too Many Requests
+  api-err Type 15 tank HTTP Error 429: Too Many Requests
+  api-err Al-Khalid tank HTTP Error 429: Too Many Requests
+  api-err WZ-551 HTTP Error 429: Too Many Requests
+  api-err ZBD-05 HTTP Error 429: Too Many Requests
+  api-err ZBL-08 HTTP Error 429: Too many requests (f061ab2)
+  api-err VN1 HTTP Error 429: Too Many Requests
+  api-err ST1 (tank destroyer) HTTP Error 429: Too many requests (f061ab2)
+  api-err Dongfeng Mengshi HTTP Error 429: Too Many Requests
+  api-err Type 54 122 mm howitzer HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 60 122 mm cannon HTTP Error 429: Too Many Requests
+  api-err Type 59 130 mm cannon HTTP Error 429: Too Many Requests
+  api-err 122 mm howitzer D-30 HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 83 152 mm gun-howitzer HTTP Error 429: Too Many Requests
+  api-err Type 89 155 mm howitzer HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 63 multiple rocket launcher HTTP Error 429: Too Many Requests
+  api-err Type 81 122 mm MRL HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 83 273 mm MRL HTTP Error 429: Too Many Requests
+  api-err Type 82 130 mm MRL HTTP Error 429: Too Many Requests
+  api-err AR1A MLRS HTTP Error 429: Too Many Requests
+  api-err AR3 MLRS HTTP Error 429: Too many requests (f061ab2)
+  api-err WM-80 HTTP Error 429: Too Many Requests
+  api-err Type 70 self-propelled howitzer HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 85 self-propelled howitzer HTTP Error 429: Too Many Requests
+  api-err PLZ-05 HTTP Error 429: Too many requests (f061ab2)
+  api-err SH1 (howitzer) HTTP Error 429: Too Many Requests
+  api-err SH2 (howitzer) HTTP Error 429: Too many requests (f061ab2)
+  api-err SH5 (howitzer) HTTP Error 429: Too Many Requests
+  api-err Type 67 mortar HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 87 mortar HTTP Error 429: Too Many Requests
+  api-err Type 64 mortar HTTP Error 429: Too many requests (f061ab2)
+  api-err M-160 mortar HTTP Error 429: Too Many Requests
+  api-err SM4 mortar HTTP Error 429: Too Many Requests
+  api-err Type 75 14.5 mm HTTP Error 429: Too many requests (f061ab2)
+  api-err ZU-23-2 HTTP Error 429: Too Many Requests
+  api-err Type 87 25 mm HTTP Error 429: Too many requests (f061ab2)
+  api-err AZP S-60 HTTP Error 429: Too Many Requests
+  api-err KS-19 HTTP Error 429: Too many requests (f061ab2)
+  api-err PGZ-07 HTTP Error 429: Too Many Requests
+  api-err Oerlikon GDF HTTP Error 429: Too Many Requests
+  api-err HJ-9 HTTP Error 429: Too many requests (f061ab2)
+  api-err PF-89 HTTP Error 429: Too Many Requests
+  api-err HN-5 HTTP Error 429: Too many requests (f061ab2)
+  api-err HN-6 HTTP Error 429: Too Many Requests
+  api-err QW-1 Vanguard HTTP Error 429: Too many requests (f061ab2)
+  api-err QW-3 HTTP Error 429: Too Many Requests
+  api-err QW-18 HTTP Error 429: Too many requests (f061ab2)
+  api-err HQ-7 HTTP Error 429: Too Many Requests
+  api-err HQ-11 HTTP Error 429: Too many requests (f061ab2)
+  api-err Tor missile system HTTP Error 429: Too Many Requests
+  api-err FB-6A HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 84 bridgelayer HTTP Error 429: Too Many Requests
+  api-err Type 653 armoured recovery vehicle HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 99 tank HTTP Error 429: Too Many Requests
+  api-err JY-8 radar HTTP Error 429: Too many requests (f061ab2)
+  api-err JY-9 radar HTTP Error 429: Too Many Requests
+  api-err JY-11 radar HTTP Error 429: Too many requests (f061ab2)
+  api-err JY-14 radar HTTP Error 429: Too Many Requests
+  api-err JY-27 radar HTTP Error 429: Too Many Requests
+  api-err JY-26 radar HTTP Error 429: Too many requests (f061ab2)
+  api-err YLC-2 radar HTTP Error 429: Too Many Requests
+  api-err YLC-4 radar HTTP Error 429: Too many requests (f061ab2)
+  api-err YLC-6 radar HTTP Error 429: Too Many Requests
+  api-err YLC-8 radar HTTP Error 429: Too many requests (f061ab2)
+  api-err YLC-18 radar HTTP Error 429: Too Many Requests
+  api-err YLC-20 HTTP Error 429: Too many requests (f061ab2)
+  api-err YLC-29 HTTP Error 429: Too Many Requests
+  api-err JYL-6 radar HTTP Error 429: Too many requests (f061ab2)
+  ✗ 檔名不含型號 ht-233: Chinese_HQ-9_launcher.jpg
+  dl-err qbz-95 HTTP Error 429: Too many requests - please contact noc@wikim
+  ✗ 檔名不含型號 qbz-192: QBZ191_20250921.jpg
+[627/645] ✓ type-85-smg ← Type_85_submachine_gun.jpg
+[629/645] ✓ type-56-lmg ← LMG-RPD-44_noBG.png
+  api-err Type 81 assault rifle HTTP Error 429: Too Many Requests
+  api-err QBZ-191 HTTP Error 429: Too Many Requests
+  api-err Type 85 heavy machine gun HTTP Error 429: Too Many Requests
+  api-err QBU-88 HTTP Error 429: Too Many Requests
+  api-err QBU-88 HTTP Error 429: Too Many Requests
+  api-err CS/LR4 HTTP Error 429: Too Many Requests
+  api-err CS/LR4 HTTP Error 429: Too Many Requests
+  api-err M99 rifle HTTP Error 429: Too Many Requests
+  api-err Type 59 pistol HTTP Error 429: Too Many Requests
+  api-err Type 77 pistol HTTP Error 429: Too many requests (f061ab2)
+  api-err QSZ-92 HTTP Error 429: Too Many Requests
+  api-err QSZ-92 HTTP Error 429: Too Many Requests
+  api-err PF-97 HTTP Error 429: Too many requests (f061ab2)
+  api-err Type 63 mortar HTTP Error 429: Too Many Requests
+  api-err Type 90 mortar HTTP Error 429: Too many requests (f061ab2)
+  api-err Mil Mi-8 HTTP Error 429: Too Many Requests
+=== 完成 ok=19 無合格主圖=619 太小=0 錯誤=7 累計=19 ===
