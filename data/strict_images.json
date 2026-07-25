@@ -494,6 +494,11 @@
 "file": "Mil_Mi-8P,_Baltic_Airlines_(cropped).jpg",
 "title": "Mil Mi-8"
 },
+"df-12": {
+"path": "assets/images/df-12.jpg",
+"file": "M-20_missile.svg",
+"title": "M20 (missile)"
+},
 "df-61": {
 "path": "assets/images/df-61.png",
 "file": "DF-61.png",
@@ -568,5 +573,25 @@
 "path": "assets/images/plz-05.jpg",
 "file": "PLZ-05_Self-Propelled_Artillery_20170919.jpg",
 "title": "PLZ-05"
+},
+"s-400": {
+"path": "assets/images/s-400.jpg",
+"file": "С-400_«Триумф».JPG",
+"title": "S-400 missile system"
+},
+"j-16": {
+"path": "assets/images/j-16.jpg",
+"file": "PLAAF_J-16_-_2.jpg",
+"title": "Shenyang J-16"
+},
+"j-10b": {
+"path": "assets/images/j-10b.jpg",
+"file": "J-10B_with_PL-10_and_PL-12.jpg",
+"title": "Chengdu J-10"
+},
+"kj-2000": {
+"path": "assets/images/kj-2000.jpg",
+"file": "KJ2000_at_2014_Zhuhai_Air_Show.jpg",
+"title": "KJ-2000"
 }
 }

@@ -1059,3 +1059,26 @@ a {
   .quiz-img-wrap { height: 32vh; }
   .quiz-choice { padding: 12px; font-size: 0.95rem; }
 }
+
+/* 問答：識別教學卡 */
+.quiz-teach {
+  margin-top: 12px; padding: 14px; border-radius: 10px;
+  border: 1px solid var(--border-strong); background: var(--bg-card);
+}
+.qt-name { font-size: 1.05rem; font-weight: 700; }
+.qt-name span { font-weight: 400; color: var(--text-muted); font-size: 0.9rem; }
+.qt-form { color: var(--accent); font-size: 0.85rem; margin-top: 2px; }
+.qt-recog {
+  margin-top: 10px; padding: 10px 12px; border-radius: 8px;
+  background: var(--bg); border-left: 3px solid var(--accent);
+  font-size: 0.9rem; line-height: 1.65;
+}
+.qt-recog strong { display: block; margin-bottom: 4px; font-size: 0.82rem; color: var(--text-muted); }
+.qt-none { color: var(--text-dim); }
+.qt-specs { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.qt-chip {
+  font-size: 0.76rem; padding: 3px 9px; border-radius: 999px;
+  border: 1px solid var(--border); color: var(--text-muted); background: var(--bg);
+}
+.qt-chip b { color: var(--text-dim); font-weight: 500; margin-right: 3px; }
+.qt-next { width: 100%; margin-top: 14px; justify-content: center; font-size: 1rem; padding: 11px; }

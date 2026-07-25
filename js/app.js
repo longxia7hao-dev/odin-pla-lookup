@@ -179,6 +179,7 @@
       branch: item.branch || "",
       sources: Array.isArray(item.sources) ? item.sources : [],
       data_status: item.data_status || "",
+      recog: item.recog || "",
     };
   }
 
@@ -767,6 +768,9 @@
       const b = e.target.closest(".quiz-choice");
       if (b) quizAnswer(b.dataset.id);
     });
+    $("quizTeach").addEventListener("click", (e) => {
+      if (e.target.closest("#quizNext")) quizNext();
+    });
 
     $("btnExport").addEventListener("click", exportJson);
     $("btnImport").addEventListener("click", () => openModal("importModal"));
@@ -977,6 +981,8 @@
     $("quizImg").src = resolveImageSrc(q.ans) || placeholderSvg(q.ans);
     $("quizFeedback").textContent = "";
     $("quizFeedback").className = "quiz-feedback";
+    $("quizTeach").hidden = true;
+    $("quizTeach").innerHTML = "";
     const box = $("quizChoices");
     box.innerHTML = q.choices
       .map((c) => `<button type="button" class="quiz-choice" data-id="${escapeAttr(c.id)}">
@@ -1000,14 +1006,54 @@
     });
     const fb = $("quizFeedback");
     fb.className = "quiz-feedback " + (ok ? "ok" : "ng");
-    fb.textContent = ok ? "✔ 答對了！ +2 分" : `✘ 正解：${q.ans.name_zh}（${q.ans.designation}）`;
+    fb.textContent = ok ? "✔ 答對了！ +2 分" : `✘ 答錯了`;
     $("quizScore").textContent = `得分 ${quiz.score}`;
 
-    setTimeout(() => {
-      quiz.i++;
-      if (quiz.i >= quiz.qs.length) quizFinish();
-      else quizShow();
-    }, ok ? 700 : 1600);
+    // 識別教學卡：不論對錯都顯示，讓使用者學會辨認
+    const it = q.ans;
+    const last = quiz.i >= quiz.qs.length - 1;
+    $("quizTeach").innerHTML = `
+      <div class="qt-name">${escapeHtml(it.name_zh)} <span>（${escapeHtml(it.designation)}）</span></div>
+      ${it.form_zh ? `<div class="qt-form">${escapeHtml(it.form_zh)}</div>` : ""}
+      <div class="qt-recog"><strong>🔍 外觀識別重點</strong><div>${recogHtml(it)}</div></div>
+      <div class="qt-specs">${specChips(it)}</div>
+      <button type="button" class="btn btn-primary qt-next" id="quizNext">
+        ${last ? "看結果 →" : "下一題 →"}
+      </button>`;
+    $("quizTeach").hidden = false;
+    $("quizTeach").scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+
+  // 外觀識別說明：優先用人工撰寫的 recog，否則由既有欄位組合
+  function recogHtml(it) {
+    if (it.recog) return escapeHtml(it.recog);
+    const parts = [];
+    if (it.sensors && it.sensors !== "—") parts.push(it.sensors);
+    if (it.caliber && it.caliber !== "—") parts.push(`主要武裝：${it.caliber}`);
+    if (it.mobility && it.mobility !== "—") parts.push(`動力／機動：${it.mobility}`);
+    if (it.capacity && it.capacity !== "—") parts.push(it.capacity);
+    if (!parts.length && it.notes_zh) parts.push(it.notes_zh);
+    return parts.length
+      ? escapeHtml(parts.join("；"))
+      : '<span class="qt-none">（此型號尚未建立外觀識別說明）</span>';
+  }
+
+  function specChips(it) {
+    const rows = [
+      ["長度", it.length_mm], ["重量", it.weight_kg], ["乘員", it.crew],
+      ["射程／航程", it.range_m], ["軍種", it.branch],
+    ];
+    return rows
+      .filter(([, v]) => v && v !== "—")
+      .map(([k, v]) => `<span class="qt-chip"><b>${k}</b> ${escapeHtml(String(v))}</span>`)
+      .join("");
+  }
+
+  function quizNext() {
+    $("quizTeach").hidden = true;
+    quiz.i++;
+    if (quiz.i >= quiz.qs.length) quizFinish();
+    else quizShow();
   }
 
   function quizFinish() {
