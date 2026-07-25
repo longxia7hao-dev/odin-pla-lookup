@@ -16,7 +16,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/df-15b.jpg"
     },
     "df-16": {
       "range_m": "300–1,000 km（對陸攻擊 SRBM）",
@@ -42,7 +43,8 @@
           "label": "CSIS Missile Threat：Missiles of China",
           "url": "https://missilethreat.csis.org/country_tax/china/"
         }
-      ]
+      ],
+      "image": "assets/images/df-11a.jpg"
     },
     "df-17": {
       "range_m": "1,800–2,500 km（MRBM＋高超音速滑翔體 DF-ZF；Mach 5–10）",
@@ -94,7 +96,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/df-26.jpg"
     },
     "df-31ag": {
       "range_m": ">11,000 km（ICBM，公路機動 TEL，含突防誘餌）",
@@ -146,7 +149,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/jl-2.png"
     },
     "jl-3": {
       "range_m": "約 10,000 km（潛射彈道飛彈 SLBM，CSS-N-20；094／未來 096 型）",
@@ -203,7 +207,8 @@
         }
       ],
       "crew": "約 2,000（含航空聯隊）",
-      "mobility": "蒸汽輪機；約 30 節"
+      "mobility": "蒸汽輪機；約 30 節",
+      "image": "assets/images/type-001.jpg"
     },
     "type-002": {
       "weight_kg": "滿載約 60,000–70,000 噸",
@@ -387,7 +392,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "mobility": "核動力，單軸"
+      "mobility": "核動力，單軸",
+      "image": "assets/images/type-094.jpg"
     },
     "type-093": {
       "weight_kg": "水下約 6,675 噸",
@@ -430,7 +436,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_039A_submarine"
         }
       ],
-      "mobility": "柴電＋AIP"
+      "mobility": "柴電＋AIP",
+      "image": "assets/images/type-039a.jpg"
     },
     "type-039": {
       "weight_kg": "水下約 2,250 噸",
@@ -633,7 +640,8 @@
           "label": "維基百科：072型登陸艦",
           "url": "https://en.wikipedia.org/wiki/Type_072_landing_ship"
         }
-      ]
+      ],
+      "image": "assets/images/type-072a.jpg"
     },
     "j-20": {
       "range_m": "作戰半徑約 2,000 km",
@@ -651,7 +659,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "crew": "1"
+      "crew": "1",
+      "image": "assets/images/j-20.jpg"
     },
     "j-20s": {
       "range_m": "作戰半徑約 2,000 km",
@@ -711,7 +720,8 @@
           "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
         }
       ],
-      "crew": "1"
+      "crew": "1",
+      "image": "assets/images/j-10a.jpg"
     },
     "j-10b": {
       "range_m": "多用途",
@@ -767,7 +777,8 @@
           "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
         }
       ],
-      "crew": "1"
+      "crew": "1",
+      "image": "assets/images/j-11b.jpg"
     },
     "j-11bg": {
       "range_m": "航程約 3,530 km",
@@ -831,7 +842,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "crew": "1"
+      "crew": "1",
+      "image": "assets/images/su-35.jpg"
     },
     "su-27ubk": {
       "range_m": "航程級距同 Flanker",
@@ -863,7 +875,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "crew": "1"
+      "crew": "1",
+      "image": "assets/images/j-35.jpg"
     },
     "j-35a": {
       "range_m": "作戰半徑約 1,250 km（加油 1,900 km）",
@@ -895,7 +908,8 @@
           "url": "https://en.wikipedia.org/wiki/Xian_JH-7"
         }
       ],
-      "crew": "2"
+      "crew": "2",
+      "image": "assets/images/jh-7a.jpg"
     },
     "j-8f": {
       "range_m": "攔截／制空",
@@ -940,7 +954,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/h-6k.jpg"
     },
     "h-6j": {
       "range_m": "作戰半徑約 3,500 km",
@@ -1028,7 +1043,8 @@
           "label": "維基百科：運-20",
           "url": "https://en.wikipedia.org/wiki/Xian_Y-20"
         }
-      ]
+      ],
+      "image": "assets/images/y-20.jpg"
     },
     "yy-20": {
       "range_m": "同 Y-20 平台航程",
@@ -1067,7 +1083,8 @@
           "label": "維基百科：運-9",
           "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
         }
-      ]
+      ],
+      "image": "assets/images/y-8.jpg"
     },
     "y-8gx": {
       "range_m": "特種任務",
@@ -1093,7 +1110,8 @@
           "label": "維基百科：Il-76",
           "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
         }
-      ]
+      ],
+      "image": "assets/images/il-76.jpg"
     },
     "il-78": {
       "range_m": "同 Il-76 平台",
@@ -1106,7 +1124,8 @@
           "label": "維基百科：Il-76",
           "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
         }
-      ]
+      ],
+      "image": "assets/images/il-78.jpg"
     },
     "y-9jz": {
       "range_m": "同 Y-9 平台",
@@ -1146,7 +1165,8 @@
           "url": "https://en.wikipedia.org/wiki/Hongdu_L-15"
         }
       ],
-      "crew": "2"
+      "crew": "2",
+      "image": "assets/images/jl-10.jpg"
     },
     "jl-8": {
       "range_m": "2,250 km",
@@ -1177,7 +1197,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/gj-11.jpg"
     },
     "wz-7": {
       "range_m": "航程 7,000 km／作戰半徑 2,000 km",
@@ -1207,7 +1228,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/wz-8.jpg"
     },
     "ch-4": {
       "range_m": "偵察滯空 30h／打擊 12h",
@@ -1290,7 +1312,8 @@
           "label": "維基百科：紅旗-9",
           "url": "https://en.wikipedia.org/wiki/HQ-9"
         }
-      ]
+      ],
+      "image": "assets/images/hq-9.jpg"
     },
     "hq-9a": {
       "range_m": "射程約 120 km（改良型）",
@@ -1330,7 +1353,8 @@
           "label": "維基百科：紅旗-16",
           "url": "https://en.wikipedia.org/wiki/HQ-16"
         }
-      ]
+      ],
+      "image": "assets/images/hq-16.jpg"
     },
     "hhq-16": {
       "range_m": "艦載中程防空（HQ-16 艦載型）",
@@ -1366,7 +1390,8 @@
           "label": "維基百科：紅旗-17",
           "url": "https://en.wikipedia.org/wiki/HQ-17"
         }
-      ]
+      ],
+      "image": "assets/images/hq-17a.jpg"
     },
     "s-300": {
       "range_m": "48N6 約 200 km 級（進口 SA-20）",
@@ -1378,7 +1403,8 @@
           "label": "CSIS Missile Threat：S-400 Triumf",
           "url": "https://missilethreat.csis.org/defsys/s-400-triumf/"
         }
-      ]
+      ],
+      "image": "assets/images/s-300.jpg"
     },
     "s-400": {
       "range_m": "最遠 400 km（40N6）／250 km（48N6）",
@@ -1410,7 +1436,8 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/pl-15.jpg"
     },
     "pl-12": {
       "range_m": "70–100 km（出口 SD-10 60–70）",
@@ -1440,7 +1467,8 @@
           "label": "維基百科：霹靂-10",
           "url": "https://en.wikipedia.org/wiki/PL-10"
         }
-      ]
+      ],
+      "image": "assets/images/pl-10.jpg"
     },
     "yj-83": {
       "range_m": "180 km（YJ-83K 空射 180／KH 230）",
@@ -1452,7 +1480,8 @@
           "label": "維基百科：鷹擊-83",
           "url": "https://en.wikipedia.org/wiki/YJ-83"
         }
-      ]
+      ],
+      "image": "assets/images/yj-83.jpg"
     },
     "c-802a": {
       "range_m": "180 km（YJ-83 出口型）",
@@ -1572,7 +1601,8 @@
           "label": "維基百科：鷹擊-62",
           "url": "https://en.wikipedia.org/wiki/YJ-62"
         }
-      ]
+      ],
+      "image": "assets/images/yj-62.jpg"
     },
     "pl-17": {
       "range_m": "約 400 km（300–500 km）",
@@ -1677,7 +1707,8 @@
           "label": "維基百科：紅箭-12",
           "url": "https://en.wikipedia.org/wiki/HJ-12"
         }
-      ]
+      ],
+      "image": "assets/images/hj-12.jpg"
     },
     "cm-401": {
       "range_m": "最遠 290 km",
@@ -1731,7 +1762,8 @@
           "label": "維基百科：空地-88",
           "url": "https://en.wikipedia.org/wiki/KD-88"
         }
-      ]
+      ],
+      "image": "assets/images/kd-88.jpg"
     },
     "yj-91": {
       "range_m": "15–120 km",
@@ -1755,7 +1787,8 @@
           "label": "維基百科：紅箭-9",
           "url": "https://en.wikipedia.org/wiki/HJ-9"
         }
-      ]
+      ],
+      "image": "assets/images/hj-9.jpg"
     },
     "qw-1": {
       "range_m": "0.5–5 km；高度 30–4,000m",
@@ -1779,7 +1812,8 @@
           "label": "維基百科：前衛-1／前衛-2",
           "url": "https://en.wikipedia.org/wiki/QW-1_Vanguard"
         }
-      ]
+      ],
+      "image": "assets/images/qw-2.jpg"
     },
     "yu-7": {
       "range_m": "14.1 km；速度 >45 節",
@@ -1847,7 +1881,8 @@
           "label": "維基百科：99式坦克",
           "url": "https://en.wikipedia.org/wiki/Type_99_tank"
         }
-      ]
+      ],
+      "image": "assets/images/ztz-99a.jpg"
     },
     "ztz-96": {
       "weight_kg": "約 41 噸",
@@ -1931,7 +1966,8 @@
           "label": "維基百科：ZBD-04",
           "url": "https://en.wikipedia.org/wiki/ZBD-04"
         }
-      ]
+      ],
+      "image": "assets/images/zbd-04a.jpg"
     },
     "zbd-04a-at": {
       "weight_kg": "04A 底盤（反戰車飛彈車）",
@@ -1945,7 +1981,8 @@
           "label": "維基百科：ZBD-04",
           "url": "https://en.wikipedia.org/wiki/ZBD-04"
         }
-      ]
+      ],
+      "image": "assets/images/zbd-04a-at.jpg"
     },
     "zbd-05": {
       "weight_kg": "約 26.5 噸",
@@ -2032,7 +2069,8 @@
           "url": "https://en.wikipedia.org/wiki/ZBL-08"
         }
       ],
-      "crew": "3＋7 兵"
+      "crew": "3＋7 兵",
+      "image": "assets/images/zbl-08.jpg"
     },
     "zbd-08": {
       "weight_kg": "約 21 噸",
@@ -2144,7 +2182,8 @@
           "label": "維基百科：直-10",
           "url": "https://en.wikipedia.org/wiki/CAIC_Z-10"
         }
-      ]
+      ],
+      "image": "assets/images/z-10.jpg"
     },
     "z-19": {
       "weight_kg": "輕型武裝直升機",
@@ -2158,7 +2197,8 @@
           "label": "維基百科：直-19",
           "url": "https://en.wikipedia.org/wiki/Harbin_Z-19"
         }
-      ]
+      ],
+      "image": "assets/images/z-19.jpg"
     },
     "z-20": {
       "weight_kg": "MTOW 約 10,000 kg",
@@ -2172,7 +2212,8 @@
           "label": "維基百科：直-20",
           "url": "https://en.wikipedia.org/wiki/Harbin_Z-20"
         }
-      ]
+      ],
+      "image": "assets/images/z-20.jpg"
     },
     "z-20f": {
       "weight_kg": "MTOW 約 10,000 kg",
@@ -2214,7 +2255,8 @@
           "label": "維基百科：直-8",
           "url": "https://en.wikipedia.org/wiki/Changhe_Z-8"
         }
-      ]
+      ],
+      "image": "assets/images/z-18.jpg"
     },
     "z-18f": {
       "weight_kg": "Z-8 大改",
@@ -2284,7 +2326,8 @@
           "label": "維基百科：Mi-17",
           "url": "https://en.wikipedia.org/wiki/Mil_Mi-17"
         }
-      ]
+      ],
+      "image": "assets/images/mi-17.jpg"
     },
     "j-15": {
       "weight_kg": "MTOW 級（Flanker 艦載）",
@@ -2298,7 +2341,8 @@
           "label": "維基百科：殲-15",
           "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
         }
-      ]
+      ],
+      "image": "assets/images/j-15.jpg"
     },
     "j-15t": {
       "weight_kg": "Flanker 艦載（強化起落架）",
@@ -2326,7 +2370,8 @@
           "label": "維基百科：殲-15",
           "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
         }
-      ]
+      ],
+      "image": "assets/images/j-15d.jpg"
     },
     "ka-28": {
       "weight_kg": "MTOW 約 12,000 kg",
@@ -2354,7 +2399,8 @@
           "label": "維基百科：Ka-27／Ka-28",
           "url": "https://en.wikipedia.org/wiki/Kamov_Ka-27"
         }
-      ]
+      ],
+      "image": "assets/images/ka-31.jpg"
     },
     "kj-600": {
       "weight_kg": "艦載固定翼預警機",
@@ -2381,7 +2427,8 @@
           "label": "維基百科：QBZ-191",
           "url": "https://en.wikipedia.org/wiki/QBZ-191"
         }
-      ]
+      ],
+      "image": "assets/images/qbz-191.jpg"
     },
     "qcq-171": {
       "caliber": "5.8×42mm",
@@ -2394,7 +2441,8 @@
           "label": "維基百科：QBZ-191",
           "url": "https://en.wikipedia.org/wiki/QBZ-191"
         }
-      ]
+      ],
+      "image": "assets/images/qcq-171.jpg"
     },
     "qbu-191": {
       "caliber": "5.8×42mm",
@@ -2407,7 +2455,8 @@
           "label": "維基百科：QBZ-191",
           "url": "https://en.wikipedia.org/wiki/QBZ-191"
         }
-      ]
+      ],
+      "image": "assets/images/qbu-191.jpg"
     },
     "qjy-201": {
       "caliber": "5.8×42mm",
@@ -2446,7 +2495,8 @@
           "label": "維基百科：QBZ-95",
           "url": "https://en.wikipedia.org/wiki/QBZ-95"
         }
-      ]
+      ],
+      "image": "assets/images/qbz-95-1.png"
     },
     "qbz-95b": {
       "caliber": "5.8×42mm",
@@ -2472,7 +2522,8 @@
           "label": "維基百科：56式自動步槍",
           "url": "https://en.wikipedia.org/wiki/Type_56_assault_rifle"
         }
-      ]
+      ],
+      "image": "assets/images/type-56-rifle.png"
     },
     "type-81-rifle": {
       "caliber": "7.62×39mm",
@@ -2485,7 +2536,8 @@
           "label": "維基百科：81式自動步槍",
           "url": "https://en.wikipedia.org/wiki/Type_81_assault_rifle"
         }
-      ]
+      ],
+      "image": "assets/images/type-81-rifle.jpg"
     },
     "qbz-03": {
       "caliber": "5.8×42mm",
@@ -2498,7 +2550,8 @@
           "label": "維基百科：QBZ-03",
           "url": "https://en.wikipedia.org/wiki/QBZ-03"
         }
-      ]
+      ],
+      "image": "assets/images/qbz-03.jpg"
     },
     "qbu-88": {
       "caliber": "5.8×42mm",
@@ -2524,7 +2577,8 @@
           "label": "維基百科：QBU-10",
           "url": "https://en.wikipedia.org/wiki/QBU-10"
         }
-      ]
+      ],
+      "image": "assets/images/qbu-10.png"
     },
     "qts-11": {
       "caliber": "5.8mm 步槍＋20mm 空爆榴彈",
@@ -2550,7 +2604,8 @@
           "label": "維基百科：QSZ-92",
           "url": "https://en.wikipedia.org/wiki/QSZ-92"
         }
-      ]
+      ],
+      "image": "assets/images/qsz-92.jpg"
     },
     "qsw-06": {
       "caliber": "5.8×21mm",
@@ -2576,7 +2631,8 @@
           "label": "維基百科：05式微聲衝鋒槍",
           "url": "https://en.wikipedia.org/wiki/QCW-05"
         }
-      ]
+      ],
+      "image": "assets/images/qcw-05.jpg"
     },
     "type-79-smg": {
       "caliber": "7.62×25mm",
@@ -2589,7 +2645,8 @@
           "label": "維基百科：79式衝鋒槍",
           "url": "https://en.wikipedia.org/wiki/Type_79_submachine_gun"
         }
-      ]
+      ],
+      "image": "assets/images/type-79-smg.jpg"
     },
     "qjy-88": {
       "caliber": "5.8×42mm",
@@ -2602,7 +2659,8 @@
           "label": "維基百科：88式通用機槍",
           "url": "https://en.wikipedia.org/wiki/QJY-88"
         }
-      ]
+      ],
+      "image": "assets/images/qjy-88.jpg"
     },
     "qjz-89": {
       "caliber": "12.7×108mm",
@@ -2693,7 +2751,8 @@
           "label": "維基百科：QLZ-87",
           "url": "https://en.wikipedia.org/wiki/QLZ-87"
         }
-      ]
+      ],
+      "image": "assets/images/qlz-04.png"
     },
     "qlu-11": {
       "caliber": "35mm 榴彈",
@@ -2731,7 +2790,8 @@
           "label": "維基百科：PF-98",
           "url": "https://en.wikipedia.org/wiki/PF-98"
         }
-      ]
+      ],
+      "image": "assets/images/pf-98.jpg"
     },
     "pf-98a": {
       "caliber": "120mm 火箭",
@@ -2755,7 +2815,8 @@
           "label": "維基百科：PHL-16/PCH-191",
           "url": "https://en.wikipedia.org/wiki/PHL-16"
         }
-      ]
+      ],
+      "image": "assets/images/phl-16.png"
     },
     "plz-07": {
       "caliber": "122mm 榴彈砲",
@@ -2779,7 +2840,8 @@
           "label": "維基百科：ZSL-92／WZ551",
           "url": "https://en.wikipedia.org/wiki/ZSL-92"
         }
-      ]
+      ],
+      "image": "assets/images/zsl-92.jpg"
     },
     "type-92b": {
       "caliber": "30mm ZPT-99 機砲",
@@ -2791,7 +2853,8 @@
           "label": "維基百科：ZSL-92／WZ551",
           "url": "https://en.wikipedia.org/wiki/ZSL-92"
         }
-      ]
+      ],
+      "image": "assets/images/type-92b.jpg"
     },
     "type-62": {
       "caliber": "85mm Type 62-85TC 線膛砲",
@@ -2803,7 +2866,8 @@
           "label": "維基百科：62式輕坦",
           "url": "https://en.wikipedia.org/wiki/Type_62_light_tank"
         }
-      ]
+      ],
+      "image": "assets/images/type-62.jpg"
     },
     "pgz-95": {
       "caliber": "4×25mm Type 87 機砲＋QW-2 飛彈",
@@ -2893,7 +2957,8 @@
           "label": "維基百科：66式加榴砲",
           "url": "https://en.wikipedia.org/wiki/Type_66_152_mm_howitzer"
         }
-      ]
+      ],
+      "image": "assets/images/type-66-152.jpg"
     },
     "zsd-89": {
       "caliber": "12.7mm 重機槍",
@@ -2929,7 +2994,8 @@
           "label": "維基百科：69式火箭筒",
           "url": "https://en.wikipedia.org/wiki/Type_69_RPG"
         }
-      ]
+      ],
+      "image": "assets/images/type-69-rpg.jpg"
     },
     "pp-87": {
       "caliber": "82mm 迫擊砲",
@@ -3033,7 +3099,8 @@
           "label": "維基百科：空警-200",
           "url": "https://en.wikipedia.org/wiki/KJ-200"
         }
-      ]
+      ],
+      "image": "assets/images/kj-200.jpg"
     },
     "ztz-88": {
       "caliber": "105mm 線膛砲",
@@ -3069,7 +3136,8 @@
           "label": "維基百科：海紅旗-10",
           "url": "https://en.wikipedia.org/wiki/HQ-10"
         }
-      ]
+      ],
+      "image": "assets/images/hq-10.jpg"
     },
     "yj-6": {
       "caliber": "空射反艦飛彈",
@@ -3081,7 +3149,8 @@
           "label": "維基百科：鷹擊-6",
           "url": "https://en.wikipedia.org/wiki/YJ-6"
         }
-      ]
+      ],
+      "image": "assets/images/yj-6.jpg"
     },
     "pll-05": {
       "caliber": "120mm 迫榴砲",
@@ -3117,7 +3186,8 @@
           "label": "維基百科：PCL-09",
           "url": "https://en.wikipedia.org/wiki/PCL-09"
         }
-      ]
+      ],
+      "image": "assets/images/pcl-09.png"
     },
     "phz-11": {
       "caliber": "122mm 40 管火箭",
@@ -3213,7 +3283,8 @@
           "label": "維基百科：63式裝甲車",
           "url": "https://en.wikipedia.org/wiki/Type_63_armoured_personnel_carrier"
         }
-      ]
+      ],
+      "image": "assets/images/zsd-63.jpg"
     },
     "type-19-ifv": {
       "caliber": "30mm 機砲＋反戰車飛彈",
@@ -3297,7 +3368,8 @@
           "label": "維基百科：運-7",
           "url": "https://en.wikipedia.org/wiki/Xian_Y-7"
         }
-      ]
+      ],
+      "image": "assets/images/y-7.jpg"
     },
     "jl-9": {
       "caliber": "高級教練機",
@@ -3309,7 +3381,8 @@
           "label": "維基百科：教練-9",
           "url": "https://en.wikipedia.org/wiki/Guizhou_JL-9"
         }
-      ]
+      ],
+      "image": "assets/images/jl-9.jpg"
     },
     "zbd-03": {
       "caliber": "30mm 機砲",
@@ -3592,7 +3665,8 @@
         {
           "label": "⚠️ 待蒐：資料尚待權威來源核實"
         }
-      ]
+      ],
+      "image": "assets/images/hq-6.jpg"
     },
     "fb-6c": {
       "caliber": "近程防空系統（車載便攜彈）",
@@ -3670,7 +3744,9 @@
       ]
     },
     "ch-3": {},
-    "type-69": {},
+    "type-69": {
+      "image": "assets/images/type-69.jpg"
+    },
     "df-4": {},
     "z-8l": {},
     "hhq-7": {},
@@ -3678,7 +3754,9 @@
     "gsl-131": {},
     "type-092": {},
     "type-053h1g": {},
-    "type-64-pistol": {},
+    "type-64-pistol": {
+      "image": "assets/images/type-64-pistol.jpg"
+    },
     "type-037is": {},
     "type-051": {},
     "type-904": {},
@@ -3692,10 +3770,14 @@
     "ch-6": {},
     "rif-m": {},
     "type-79": {},
-    "su-27sk": {},
+    "su-27sk": {
+      "image": "assets/images/su-27sk.jpg"
+    },
     "y-9g": {},
     "shtil": {},
-    "hq-12": {},
+    "hq-12": {
+      "image": "assets/images/hq-12.jpg"
+    },
     "j-10s": {},
     "j-7e": {},
     "h-6d": {},
@@ -3717,7 +3799,9 @@
     "gcz-112": {},
     "type-053h1": {},
     "hhq-16bc": {},
-    "hhq-10": {},
+    "hhq-10": {
+      "image": "assets/images/hhq-10.jpg"
+    },
     "type-346": {},
     "type-053h": {},
     "type-024": {},
@@ -3731,7 +3815,9 @@
     "ylc-8b": {},
     "plz-52": {},
     "df-21c": {},
-    "plz-45": {},
+    "plz-45": {
+      "image": "assets/images/plz-45.jpg"
+    },
     "type-818": {},
     "hj-73": {},
     "wz-5": {},
@@ -3753,13 +3839,17 @@
     "type-909": {},
     "type-037ii": {},
     "type-074": {},
-    "y-12": {},
+    "y-12": {
+      "image": "assets/images/y-12.jpg"
+    },
     "ptl-02": {},
     "type-346a": {},
     "type-74-aaa": {},
     "type-055a": {},
     "type-065": {},
-    "type-073": {},
+    "type-073": {
+      "image": "assets/images/type-073.jpg"
+    },
     "type-59": {},
     "type-346b": {},
     "type-84-bridge": {},
@@ -3807,7 +3897,9 @@
     "qx-04": {},
     "type-86-122": {},
     "jz-8f": {},
-    "type-81-lmg": {},
+    "type-81-lmg": {
+      "image": "assets/images/type-81-lmg.jpg"
+    },
     "j-8h": {},
     "type-63-60": {},
     "shichang": {},
@@ -3834,18 +3926,24 @@
     "type-010": {},
     "z-11wb": {},
     "ka-27": {},
-    "mi-8": {},
+    "mi-8": {
+      "image": "assets/images/mi-8.jpg"
+    },
     "df-zf": {},
     "type-654-arv": {},
     "hn-5": {},
     "h-20": {},
     "pf-89a": {},
-    "type-920": {},
+    "type-920": {
+      "image": "assets/images/type-920.jpg"
+    },
     "pl-5": {},
     "hn-6": {},
     "gx-7": {},
     "type-035b": {},
-    "j-8ii": {},
+    "j-8ii": {
+      "image": "assets/images/j-8ii.jpg"
+    },
     "type-035g": {},
     "hj-11": {},
     "kilo-636": {},
@@ -3853,6 +3951,54 @@
     "mengshi-3": {},
     "pl-2": {},
     "type-039g": {},
-    "type-92a": {}
+    "type-92a": {},
+    "type-85-smg": {
+      "image": "assets/images/type-85-smg.jpg"
+    },
+    "type-56-lmg": {
+      "image": "assets/images/type-56-lmg.png"
+    },
+    "jl-1": {
+      "image": "assets/images/jl-1.png"
+    },
+    "type-072": {
+      "image": "assets/images/type-072.jpg"
+    },
+    "type-067": {
+      "image": "assets/images/type-067.jpg"
+    },
+    "xuelong2": {
+      "image": "assets/images/xuelong2.jpg"
+    },
+    "j-20a": {
+      "image": "assets/images/j-20a.jpg"
+    },
+    "jh-7": {
+      "image": "assets/images/jh-7.jpg"
+    },
+    "cj-6": {
+      "image": "assets/images/cj-6.jpg"
+    },
+    "tu-154md": {
+      "image": "assets/images/tu-154md.jpg"
+    },
+    "z-8j": {
+      "image": "assets/images/z-8j.jpg"
+    },
+    "z-11w": {
+      "image": "assets/images/z-11w.jpg"
+    },
+    "df-61": {
+      "image": "assets/images/df-61.png"
+    },
+    "al-khalid": {
+      "image": "assets/images/al-khalid.jpg"
+    },
+    "type-59-57aa": {
+      "image": "assets/images/type-59-57aa.jpg"
+    },
+    "hq-11": {
+      "image": "assets/images/hq-11.jpg"
+    }
   }
 }

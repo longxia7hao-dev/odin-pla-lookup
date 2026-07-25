@@ -91,7 +91,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Small Arms",
     "wiki": "QBZ-95",
-    "image": "assets/images/qbz-95-1.jpg",
+    "image": "assets/images/qbz-95-1.png",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/QBZ95_automatic_rifle_mod_noBG.png/330px-QBZ95_automatic_rifle_mod_noBG.png",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
@@ -1829,7 +1829,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Air Defense",
     "wiki": "QW-2",
-    "image": "",
+    "image": "assets/images/qw-2.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/QW-2_MANPADS_of_Bangladesh_Army.jpg/330px-QW-2_MANPADS_of_Bangladesh_Army.jpg",
     "source_tier": "US_open",
@@ -2857,7 +2857,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "AFV",
     "wiki": "Type 08 vehicle",
-    "image": "",
+    "image": "assets/images/zbl-08.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_DoD",
     "source_authority": [
@@ -3064,7 +3064,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "AFV",
     "wiki": "Type 92 AFV",
-    "image": "",
+    "image": "assets/images/zsl-92.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -6142,7 +6142,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "",
     "wiki": "KJ-200",
-    "image": "",
+    "image": "assets/images/kj-200.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Shaanxi_KJ-200.jpg/330px-Shaanxi_KJ-200.jpg",
     "source_tier": "US_DoD",
@@ -7431,7 +7431,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "",
     "wiki": "Guizhou JL-9",
-    "image": "",
+    "image": "assets/images/jl-9.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FTC-2000G.jpg/330px-FTC-2000G.jpg",
     "source_tier": "US_open",
@@ -7947,7 +7947,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "UAV",
     "wiki": "GJ-11",
-    "image": "",
+    "image": "assets/images/gj-11.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_DoD",
     "source_authority": [
@@ -12418,7 +12418,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/pcl-09.png",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -12570,7 +12570,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "AFV",
     "wiki": "Type 62 tank",
-    "image": "",
+    "image": "assets/images/type-62.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -12994,7 +12994,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "AFV",
     "wiki": "Type 92 AFV",
-    "image": "",
+    "image": "assets/images/type-92b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -14086,7 +14086,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "DF-11",
-    "image": "",
+    "image": "assets/images/df-11a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "火箭軍",
@@ -14821,7 +14821,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型登陸艦（LSM）",
     "form_en": "",
     "wiki": "Type 073 landing ship",
-    "image": "",
+    "image": "assets/images/type-073.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -15284,7 +15284,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "醫院船（AH）",
     "form_en": "",
     "wiki": "Chinese hospital ship Peace Ark",
-    "image": "",
+    "image": "assets/images/type-920.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16293,7 +16293,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "主戰坦克（69 式）",
     "form_en": "",
     "wiki": "Type 69 tank",
-    "image": "",
+    "image": "assets/images/type-69.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16519,7 +16519,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "自走榴彈砲（155mm，外銷）",
     "form_en": "",
     "wiki": "PLZ-45",
-    "image": "",
+    "image": "assets/images/plz-45.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17532,7 +17532,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中程防空飛彈（KS-1）",
     "form_en": "",
     "wiki": "KS-1 (missile)",
-    "image": "",
+    "image": "assets/images/hq-12.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17995,7 +17995,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "自衛手槍",
     "form_en": "",
     "wiki": "Type 64 pistol",
-    "image": "",
+    "image": "assets/images/type-64-pistol.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -18779,7 +18779,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "空優戰鬥機（Su-27SK）",
     "form_en": "",
     "wiki": "Sukhoi Su-27",
-    "image": "",
+    "image": "assets/images/su-27sk.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -18871,7 +18871,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型運輸機（運-12）",
     "form_en": "",
     "wiki": "Harbin Y-12",
-    "image": "",
+    "image": "assets/images/y-12.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20568,7 +20568,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "艦載末端近防飛彈（HHQ-10）",
     "form_en": "",
     "wiki": "HQ-10",
-    "image": "",
+    "image": "assets/images/hhq-10.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -21554,7 +21554,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "潛射彈道飛彈（JL-1）",
     "form_en": "",
     "wiki": "JL-1",
-    "image": "",
+    "image": "assets/images/jl-1.png",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -21647,7 +21647,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "坦克登陸艦（玉康級）",
     "form_en": "",
     "wiki": "Type 072 landing ship",
-    "image": "",
+    "image": "assets/images/type-072.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -21976,7 +21976,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "小型登陸艇（067）",
     "form_en": "",
     "wiki": "Type 067 landing craft",
-    "image": "",
+    "image": "assets/images/type-067.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -22890,7 +22890,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "極地破冰科考船（雪龍2）",
     "form_en": "",
     "wiki": "MV Xue Long 2",
-    "image": "",
+    "image": "assets/images/xuelong2.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -23305,7 +23305,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "截擊戰鬥機（殲-8II）",
     "form_en": "",
     "wiki": "Shenyang J-8",
-    "image": "",
+    "image": "assets/images/j-8ii.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -23535,7 +23535,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "第五代匿蹤戰機（殲-20A）",
     "form_en": "",
     "wiki": "Chengdu J-20",
-    "image": "",
+    "image": "assets/images/j-20a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -23631,7 +23631,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "戰鬥轟炸機（飛豹）",
     "form_en": "",
     "wiki": "Xian JH-7",
-    "image": "",
+    "image": "assets/images/jh-7.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -23913,7 +23913,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "初級教練機（初教-6）",
     "form_en": "",
     "wiki": "Nanchang CJ-6",
-    "image": "",
+    "image": "assets/images/cj-6.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -24099,7 +24099,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "電子偵察特種機（圖-154）",
     "form_en": "",
     "wiki": "Tupolev Tu-154",
-    "image": "",
+    "image": "assets/images/tu-154md.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -24848,7 +24848,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "艦載運輸直升機（直-8J）",
     "form_en": "",
     "wiki": "Harbin Z-8",
-    "image": "",
+    "image": "assets/images/z-8j.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25217,7 +25217,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型武裝偵察直升機（直-11W）",
     "form_en": "",
     "wiki": "Changhe Z-11",
-    "image": "",
+    "image": "assets/images/z-11w.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25359,7 +25359,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型運輸直升機（米-8）",
     "form_en": "",
     "wiki": "Mil Mi-8",
-    "image": "",
+    "image": "assets/images/mi-8.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -26666,7 +26666,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "新型彈道導彈（DF-61）",
     "form_en": "",
     "wiki": "DF-61",
-    "image": "",
+    "image": "assets/images/df-61.png",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27276,7 +27276,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "主戰坦克（阿裘扎）",
     "form_en": "",
     "wiki": "Al-Khalid tank",
-    "image": "",
+    "image": "assets/images/al-khalid.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28855,7 +28855,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引高射砲（57mm）",
     "form_en": "",
     "wiki": "AZP S-60",
-    "image": "",
+    "image": "assets/images/type-59-57aa.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -29412,7 +29412,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近程防空飛彈（HQ-11）",
     "form_en": "",
     "wiki": "HQ-11",
-    "image": "",
+    "image": "assets/images/hq-11.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -30650,7 +30650,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "衝鋒槍（85式）",
     "form_en": "",
     "wiki": "Type 85 submachine gun",
-    "image": "",
+    "image": "assets/images/type-85-smg.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -30744,7 +30744,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "班用機槍（RPD 系）",
     "form_en": "",
     "wiki": "Type 56 light machine gun",
-    "image": "",
+    "image": "assets/images/type-56-lmg.png",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -30790,7 +30790,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "班用機槍（81式）",
     "form_en": "",
     "wiki": "Type 81 assault rifle",
-    "image": "",
+    "image": "assets/images/type-81-lmg.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {

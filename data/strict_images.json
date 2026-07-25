@@ -128,5 +128,445 @@
 "path": "assets/images/type-79-smg.jpg",
 "file": "Type_79_chinese_submachine_gun.jpg",
 "title": "Type 79 submachine gun"
+},
+"pf-98": {
+"path": "assets/images/pf-98.jpg",
+"file": "Chinese_PF98_120_mm_rocket_launcher.jpg",
+"title": "PF-98"
+},
+"type-69-rpg": {
+"path": "assets/images/type-69-rpg.jpg",
+"file": "Type_69_RPG_@_PA_122nd_Anniversary_Caravan.jpg",
+"title": "Type 69 RPG"
+},
+"ztz-99a": {
+"path": "assets/images/ztz-99a.jpg",
+"file": "ZTZ-99A_tank_front_20170902.jpg",
+"title": "Type 99 tank"
+},
+"zbd-04a": {
+"path": "assets/images/zbd-04a.jpg",
+"file": "ZBD-04A_IFV_20170716.jpg",
+"title": "ZBD-04"
+},
+"zbl-08": {
+"path": "assets/images/zbl-08.jpg",
+"file": "ZBL-08.jpg",
+"title": "ZBL-08"
+},
+"zsl-92": {
+"path": "assets/images/zsl-92.jpg",
+"file": "PLA_Hong_Kong_Garrison_ZSL92B.JPG",
+"title": "ZSL-92"
+},
+"zsd-63": {
+"path": "assets/images/zsd-63.jpg",
+"file": "Type_63_APC_at_the_Beijing_Military_Museum_-_1.jpg",
+"title": "Type 63 (armoured personnel carrier)"
+},
+"phl-16": {
+"path": "assets/images/phl-16.png",
+"file": "PHL16TBM_2025_V-J_Parade_CNS.png",
+"title": "PHL-16"
+},
+"hq-17a": {
+"path": "assets/images/hq-17a.jpg",
+"file": "Zastava_2024_-_HQ-17AE_-_02.jpg",
+"title": "HQ-17"
+},
+"hq-16": {
+"path": "assets/images/hq-16.jpg",
+"file": "HQ-16A_Surface-to-air_missiles_20170919.jpg",
+"title": "HQ-16"
+},
+"hq-9": {
+"path": "assets/images/hq-9.jpg",
+"file": "Chinese_HQ-9_launcher.jpg",
+"title": "HQ-9"
+},
+"hq-10": {
+"path": "assets/images/hq-10.jpg",
+"file": "Type_056_corvette_FL-3000N_8-round_SAM_launcher.jpg",
+"title": "HQ-10"
+},
+"s-300": {
+"path": "assets/images/s-300.jpg",
+"file": "S-300_-_2009_Moscow_Victory_Day_Parade_(2).jpg",
+"title": "S-300 missile system"
+},
+"j-20": {
+"path": "assets/images/j-20.jpg",
+"file": "J-20_at_CCAS2022_(20220827103424).jpg",
+"title": "Chengdu J-20"
+},
+"j-35": {
+"path": "assets/images/j-35.jpg",
+"file": "J-35_Navy.jpg",
+"title": "Shenyang J-35"
+},
+"j-10a": {
+"path": "assets/images/j-10a.jpg",
+"file": "J-10B_with_PL-10_and_PL-12.jpg",
+"title": "Chengdu J-10"
+},
+"j-11b": {
+"path": "assets/images/j-11b.jpg",
+"file": "J-11BChel.jpg",
+"title": "Shenyang J-11"
+},
+"j-15": {
+"path": "assets/images/j-15.jpg",
+"file": "Two_J-15Ts_and_a_J-15D_in_Zhuhai_airshow_2024.jpg",
+"title": "Shenyang J-15"
+},
+"j-15d": {
+"path": "assets/images/j-15d.jpg",
+"file": "Two_J-15Ts_and_a_J-15D_in_Zhuhai_airshow_2024.jpg",
+"title": "Shenyang J-15"
+},
+"kj-200": {
+"path": "assets/images/kj-200.jpg",
+"file": "Shaanxi_KJ-200.jpg",
+"title": "KJ-200"
+},
+"y-20": {
+"path": "assets/images/y-20.jpg",
+"file": "PLAAF_Y-20_-_1_(cropped).jpg",
+"title": "Xian Y-20"
+},
+"y-8": {
+"path": "assets/images/y-8.jpg",
+"file": "Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg",
+"title": "Shaanxi Y-8"
+},
+"il-76": {
+"path": "assets/images/il-76.jpg",
+"file": "Il-76MD-90A_RF-78653.jpg",
+"title": "Ilyushin Il-76"
+},
+"il-78": {
+"path": "assets/images/il-78.jpg",
+"file": "Ilyushin_Il-78M_inflight.jpg",
+"title": "Ilyushin Il-78"
+},
+"z-20": {
+"path": "assets/images/z-20.jpg",
+"file": "Z-20_Airshow_China_2022_fly.jpg",
+"title": "Harbin Z-20"
+},
+"z-10": {
+"path": "assets/images/z-10.jpg",
+"file": "PLAAF_Changhe_WZ-10_-_Jordan.jpg",
+"title": "CAIC Z-10"
+},
+"z-19": {
+"path": "assets/images/z-19.jpg",
+"file": "Harbin_Z-19_helicopter_(cropped).jpg",
+"title": "Harbin Z-19"
+},
+"z-18": {
+"path": "assets/images/z-18.jpg",
+"file": "Z-18_China_Navy_(cropped).jpg",
+"title": "Changhe Z-18"
+},
+"mi-17": {
+"path": "assets/images/mi-17.jpg",
+"file": "Russian_Air_Force_Mil_Mi-17_yellow_62.jpg",
+"title": "Mil Mi-17"
+},
+"ka-31": {
+"path": "assets/images/ka-31.jpg",
+"file": "Russian_Navy_Kamov_Ka-31.jpg",
+"title": "Kamov Ka-31"
+},
+"jl-9": {
+"path": "assets/images/jl-9.jpg",
+"file": "FTC-2000G.jpg",
+"title": "Guizhou JL-9"
+},
+"jl-10": {
+"path": "assets/images/jl-10.jpg",
+"file": "Hongdu_L-15_Falcon.jpg",
+"title": "Hongdu L-15"
+},
+"y-7": {
+"path": "assets/images/y-7.jpg",
+"file": "Xian_Y-7-100,_China_General_Aviation_AN0193499.jpg",
+"title": "Xian Y-7"
+},
+"gj-11": {
+"path": "assets/images/gj-11.jpg",
+"file": "Gongji-11_20221020.jpg",
+"title": "Hongdu GJ-11"
+},
+"wz-8": {
+"path": "assets/images/wz-8.jpg",
+"file": "WZ-8_at_Airshow_China_Zhuhai_2022.jpg",
+"title": "WZ-8"
+},
+"df-26": {
+"path": "assets/images/df-26.jpg",
+"file": "Dong-Feng_26.JPG",
+"title": "DF-26"
+},
+"df-15b": {
+"path": "assets/images/df-15b.jpg",
+"file": "Dongfeng-15B.JPG",
+"title": "DF-15"
+},
+"jl-2": {
+"path": "assets/images/jl-2.png",
+"file": "JL-1_and_JL-2.PNG",
+"title": "JL-2"
+},
+"type-001": {
+"path": "assets/images/type-001.jpg",
+"file": "Aircraft_Carrier_Liaoning_CV-16.jpg",
+"title": "Chinese aircraft carrier Liaoning"
+},
+"type-072a": {
+"path": "assets/images/type-072a.jpg",
+"file": "Type_072A_landing_ship_-_2.jpg",
+"title": "Type 072 landing ship"
+},
+"type-094": {
+"path": "assets/images/type-094.jpg",
+"file": "Jin_(Type_094)_Class_Ballistic_Missile_Submarine.JPG",
+"title": "Type 094 submarine"
+},
+"type-039a": {
+"path": "assets/images/type-039a.jpg",
+"file": "Chinese_Type_039A_submarine.jpg",
+"title": "Type 039A submarine"
+},
+"pcl-09": {
+"path": "assets/images/pcl-09.png",
+"file": "PCL-09.png",
+"title": "PCL-09"
+},
+"type-62": {
+"path": "assets/images/type-62.jpg",
+"file": "Type_62_tank_-_above.jpg",
+"title": "Type 62 light tank"
+},
+"hq-6": {
+"path": "assets/images/hq-6.jpg",
+"file": "HQ-6A_Surface-to-air_missiles_20170716.jpg",
+"title": "HQ-6"
+},
+"type-66-152": {
+"path": "assets/images/type-66-152.jpg",
+"file": "Type_66_152mm_Flying_Leatherneck.jpg",
+"title": "Type 66 howitzer"
+},
+"type-92b": {
+"path": "assets/images/type-92b.jpg",
+"file": "PLA_Hong_Kong_Garrison_ZSL92B.JPG",
+"title": "ZSL-92"
+},
+"zbd-04a-at": {
+"path": "assets/images/zbd-04a-at.jpg",
+"file": "ZBD-04A_IFV_20170716.jpg",
+"title": "ZBD-04"
+},
+"kd-88": {
+"path": "assets/images/kd-88.jpg",
+"file": "KD-88A.jpg",
+"title": "KD-88"
+},
+"df-11a": {
+"path": "assets/images/df-11a.jpg",
+"file": "DF-11_TEL_vehicle_-1.jpg",
+"title": "DF-11"
+},
+"type-073": {
+"path": "assets/images/type-073.jpg",
+"file": "Two_China_PLA_navy_073A_landing_ship.jpg",
+"title": "Type 073 landing ship"
+},
+"type-920": {
+"path": "assets/images/type-920.jpg",
+"file": "People's_Liberation_Army_(Navy)_ship_PLA(N)_Peace_Ark_(T-AH_866)_steams_in_close_formation_during_Rim_of_the_Pacific_(RIMPAC)_Exercise_2014.jpg",
+"title": "Chinese hospital ship Peace Ark"
+},
+"type-69": {
+"path": "assets/images/type-69.jpg",
+"file": "Type_69-II_Iraq.jpg",
+"title": "Type 69 tank"
+},
+"plz-45": {
+"path": "assets/images/plz-45.jpg",
+"file": "PLZ45155mm_Howitzer.jpg",
+"title": "PLZ-45"
+},
+"hq-12": {
+"path": "assets/images/hq-12.jpg",
+"file": "Chinese_KS-1_SAM_mobile_launcher.jpg",
+"title": "KS-1 (missile)"
+},
+"type-56-sks": {
+"path": "assets/images/type-56-sks.jpg",
+"file": "Simonow_SKS_45_noBG.jpg",
+"title": "Type 56 carbine"
+},
+"type-64-pistol": {
+"path": "assets/images/type-64-pistol.jpg",
+"file": "Type_64_pistol_on_display_at_the_Beijing_Police_Museum_(cropped).jpg",
+"title": "Type 64 pistol"
+},
+"su-27sk": {
+"path": "assets/images/su-27sk.jpg",
+"file": "Sukhoi_Su-27SKM_at_MAKS-2005_airshow.jpg",
+"title": "Sukhoi Su-27"
+},
+"y-12": {
+"path": "assets/images/y-12.jpg",
+"file": "Iran_-_Revolutionary_Guard_Air_Force_Harbin_Y12-II.jpg",
+"title": "Harbin Y-12"
+},
+"hhq-10": {
+"path": "assets/images/hhq-10.jpg",
+"file": "Type_056_corvette_FL-3000N_8-round_SAM_launcher.jpg",
+"title": "HQ-10"
+},
+"jl-1": {
+"path": "assets/images/jl-1.png",
+"file": "JL-1_and_JL-2.PNG",
+"title": "JL-1"
+},
+"type-072": {
+"path": "assets/images/type-072.jpg",
+"file": "Type_072A_landing_ship_-_2.jpg",
+"title": "Type 072 landing ship"
+},
+"type-073a": {
+"path": "assets/images/type-073a.jpg",
+"file": "Two_China_PLA_navy_073A_landing_ship.jpg",
+"title": "Type 073 landing ship"
+},
+"type-067": {
+"path": "assets/images/type-067.jpg",
+"file": "Yunnan_Class_067_general_purpose_landing_craft.jpg",
+"title": "Type 067 landing craft"
+},
+"xuelong2": {
+"path": "assets/images/xuelong2.jpg",
+"file": "202404_Xuelong-2_in_Hong_Kong.jpg",
+"title": "MV Xue Long 2"
+},
+"j-8ii": {
+"path": "assets/images/j-8ii.jpg",
+"file": "20220804_J-8II_Fighter_on_Display_at_Jinming_Service_Area_02_(cropped).jpg",
+"title": "Shenyang J-8"
+},
+"j-20a": {
+"path": "assets/images/j-20a.jpg",
+"file": "J-20_at_CCAS2022_(20220827103424).jpg",
+"title": "Chengdu J-20"
+},
+"jh-7": {
+"path": "assets/images/jh-7.jpg",
+"file": "PLAAF_Xian_JH-7A_at_Chelyabinsk_Shagol_Air_Base.jpg",
+"title": "Xian JH-7"
+},
+"cj-6": {
+"path": "assets/images/cj-6.jpg",
+"file": "Nanchang_CJ-6A_Airplane_over_California_Coastline_N4183E_20110219.jpg",
+"title": "Nanchang CJ-6"
+},
+"tu-154md": {
+"path": "assets/images/tu-154md.jpg",
+"file": "Tupolev_Tu-154M,_Iran_Air_Tours_JP6511800.jpg",
+"title": "Tupolev Tu-154"
+},
+"z-8j": {
+"path": "assets/images/z-8j.jpg",
+"file": "Z8J_Chinese_Navy_(16203585038).jpg",
+"title": "Harbin Z-8"
+},
+"z-11w": {
+"path": "assets/images/z-11w.jpg",
+"file": "Changhe_Z-11WB,_Zhuhai-Jinwan_4th_November_2016_(31829381252).jpg",
+"title": "Changhe Z-11"
+},
+"mi-8": {
+"path": "assets/images/mi-8.jpg",
+"file": "Mil_Mi-8P,_Baltic_Airlines_(cropped).jpg",
+"title": "Mil Mi-8"
+},
+"df-61": {
+"path": "assets/images/df-61.png",
+"file": "DF-61.png",
+"title": "DF-61"
+},
+"al-khalid": {
+"path": "assets/images/al-khalid.jpg",
+"file": "Al-Khalid_IDEAS_2012.jpg",
+"title": "Al-Khalid tank"
+},
+"type-59-57aa": {
+"path": "assets/images/type-59-57aa.jpg",
+"file": "S-60-57mm-hatzerim-1.jpg",
+"title": "AZP S-60"
+},
+"hq-11": {
+"path": "assets/images/hq-11.jpg",
+"file": "HQ-11_in_Zhuhai_airshow_2024.jpg",
+"title": "HQ-11"
+},
+"type-81-lmg": {
+"path": "assets/images/type-81-lmg.jpg",
+"file": "Type_81_assault_rifle_20220203.jpg",
+"title": "Type 81 assault rifle"
+},
+"type-67-mg": {
+"path": "assets/images/type-67-mg.jpg",
+"file": "ChineseType672MG.jpg",
+"title": "Type 67 machine gun"
+},
+"type-80-mg": {
+"path": "assets/images/type-80-mg.png",
+"file": "Chinese_pkms.png",
+"title": "Type 80 machine gun"
+},
+"qlu-11": {
+"path": "assets/images/qlu-11.jpg",
+"file": "QLU11_sniper_grenade_launcher_mod_noBG.jpg",
+"title": "QLU-11"
+},
+"qjg-02": {
+"path": "assets/images/qjg-02.jpg",
+"file": "PLANS_3358_QJG-02.jpg",
+"title": "QJG-02"
+},
+"hj-8": {
+"path": "assets/images/hj-8.jpg",
+"file": "SLA_Red_Arrow_8L.JPG",
+"title": "HJ-8"
+},
+"hj-10": {
+"path": "assets/images/hj-10.jpg",
+"file": "Red_Arrow_10_Anti-tank_missile.jpg",
+"title": "HJ-10"
+},
+"ztz-99": {
+"path": "assets/images/ztz-99.jpg",
+"file": "ZTZ-99A_tank_front_20170902.jpg",
+"title": "Type 99 tank"
+},
+"ztq-15": {
+"path": "assets/images/ztq-15.jpg",
+"file": "Type_15_tank_20221020.jpg",
+"title": "Type 15 tank"
+},
+"zbd-04": {
+"path": "assets/images/zbd-04.jpg",
+"file": "ZBD-04A_IFV_20170716.jpg",
+"title": "ZBD-04"
+},
+"plz-05": {
+"path": "assets/images/plz-05.jpg",
+"file": "PLZ-05_Self-Propelled_Artillery_20170919.jpg",
+"title": "PLZ-05"
 }
 }
