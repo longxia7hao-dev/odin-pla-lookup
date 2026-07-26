@@ -60,7 +60,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "recog": "彈體上方為扁平的楔形高超音速滑翔體（非傳統圓錐彈頭），外形極特殊、一眼可辨。"
+      "recog": "彈體上方為扁平的楔形高超音速滑翔體（非傳統圓錐彈頭），外形極特殊、一眼可辨。",
+      "image": "assets/images/df-17.jpg"
     },
     "df-21a": {
       "range_m": "約 2,150 km（MRBM，核彈頭）",
@@ -74,7 +75,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "recog": "中程彈道飛彈：5 軸 TEL，彈體裸露圓柱形、頭部圓錐；DF-21 家族外形相近，靠彈頭段細節區分。"
+      "recog": "中程彈道飛彈：5 軸 TEL，彈體裸露圓柱形、頭部圓錐；DF-21 家族外形相近，靠彈頭段細節區分。",
+      "image": "assets/images/df-21a.jpg"
     },
     "df-21d": {
       "range_m": "1,450–1,550 km（反艦彈道飛彈 ASBM；末端機動，CEP≈20m）",
@@ -733,7 +735,8 @@
         }
       ],
       "crew": "2",
-      "recog": "重型雙發雙座 Flanker 外形：大型後掠翼＋兩具分開的發動機艙、雙垂尾；座艙為前後串列雙座；機翼下掛架多。與 Su-30 幾乎同形，靠灰色塗裝與國徽辨識。"
+      "recog": "重型雙發雙座 Flanker 外形：大型後掠翼＋兩具分開的發動機艙、雙垂尾；座艙為前後串列雙座；機翼下掛架多。與 Su-30 幾乎同形，靠灰色塗裝與國徽辨識。",
+      "image": "assets/images/j-16.jpg"
     },
     "j-16d": {
       "range_m": "作戰半徑約 1,500 km",
@@ -779,7 +782,8 @@
         }
       ],
       "crew": "1",
-      "recog": "與殲-10C 同為 DSI 蚌式進氣（有鼓包），但雷達罩略尖、機頭下方有 IRST 紅外球，是與 C 型的細部差異。"
+      "recog": "與殲-10C 同為 DSI 蚌式進氣（有鼓包），但雷達罩略尖、機頭下方有 IRST 紅外球，是與 C 型的細部差異。",
+      "image": "assets/images/j-10b.jpg"
     },
     "j-10c": {
       "range_m": "作戰半徑約 1,240 km",
@@ -1076,7 +1080,8 @@
         }
       ],
       "crew": "10+",
-      "recog": "伊爾-76 四發運輸機機身＋背部圓形固定式雷達罩（不旋轉），罩內為三面相位陣列，機背支柱明顯。"
+      "recog": "伊爾-76 四發運輸機機身＋背部圓形固定式雷達罩（不旋轉），罩內為三面相位陣列，機背支柱明顯。",
+      "image": "assets/images/kj-2000.jpg"
     },
     "kj-500": {
       "range_m": "最大航程 5,700 km（滯空 12h）",
@@ -1366,7 +1371,8 @@
           "url": "https://en.wikipedia.org/wiki/CAIG_Wing_Loong"
         }
       ],
-      "recog": "翼龍-2：機身加大、改為 Y 型／倒 V 尾翼配置，翼展更長，掛架更多。"
+      "recog": "翼龍-2：機身加大、改為 Y 型／倒 V 尾翼配置，翼展更長，掛架更多。",
+      "image": "assets/images/wing-loong-2.jpg"
     },
     "tb-001": {
       "range_m": "航程 6,000 km；滯空 35h",
@@ -1509,7 +1515,8 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "recog": "外形與 S-300 幾乎相同（直立圓筒發射箱），差別在配套雷達車型號與彈種，肉眼難分。"
+      "recog": "外形與 S-300 幾乎相同（直立圓筒發射箱），差別在配套雷達車型號與彈種，肉眼難分。",
+      "image": "assets/images/s-400.jpg"
     },
     "pl-15": {
       "range_m": "180–300 km（出口 PL-15E 145 km）",
@@ -1625,7 +1632,8 @@
           "url": "https://en.wikipedia.org/wiki/YJ-12"
         }
       ],
-      "recog": "超音速反艦飛彈：彈體粗短、四片大型三角尾翼、腹部有明顯的衝壓進氣道，外形肥壯。"
+      "recog": "超音速反艦飛彈：彈體粗短、四片大型三角尾翼、腹部有明顯的衝壓進氣道，外形肥壯。",
+      "image": "assets/images/yj-12.jpg"
     },
     "yj-12b": {
       "range_m": "約 460 km（岸置型）",
@@ -1677,7 +1685,8 @@
           "url": "https://en.wikipedia.org/wiki/HJ-10"
         }
       ],
-      "recog": "8 聯裝方形發射箱架在履帶/輪式車頂（可升降），無主砲，是專用反裝甲飛彈車。"
+      "recog": "8 聯裝方形發射箱架在履帶/輪式車頂（可升降），無主砲，是專用反裝甲飛彈車。",
+      "image": "assets/images/hj-10.jpg"
     },
     "akd-10": {
       "range_m": "空射反戰車（Z-10；類 AGM-114 Hellfire）",
@@ -1733,7 +1742,8 @@
           "url": "https://en.wikipedia.org/wiki/HJ-8"
         }
       ],
-      "recog": "有線導引反戰車飛彈：三腳架＋圓筒發射管，後方有大型方形瞄準/導引儀（操作手需持續瞄準）。"
+      "recog": "有線導引反戰車飛彈：三腳架＋圓筒發射管，後方有大型方形瞄準/導引儀（操作手需持續瞄準）。",
+      "image": "assets/images/hj-8.jpg"
     },
     "fn-6": {
       "range_m": "0.5–6 km；高度 15–3,800m",
@@ -1985,7 +1995,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_99_tank"
         }
       ],
-      "recog": "99 式初期型：砲塔正面為方正的複合裝甲塊（非 99A 的大角度楔形）、車體七對負重輪、砲塔頂雷射裝置較小。"
+      "recog": "99 式初期型：砲塔正面為方正的複合裝甲塊（非 99A 的大角度楔形）、車體七對負重輪、砲塔頂雷射裝置較小。",
+      "image": "assets/images/ztz-99.jpg"
     },
     "ztz-99a": {
       "weight_kg": "約 55 噸",
@@ -2061,7 +2072,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_15_tank"
         }
       ],
-      "recog": "輕型坦克：車身明顯較窄較高、六對小負重輪、105mm 砲配大型砲口制退器；為高原設計，動力艙有大散熱格柵。"
+      "recog": "輕型坦克：車身明顯較窄較高、六對小負重輪、105mm 砲配大型砲口制退器；為高原設計，動力艙有大散熱格柵。",
+      "image": "assets/images/ztq-15.jpg"
     },
     "zbd-04": {
       "weight_kg": "約 20 噸",
@@ -2076,7 +2088,8 @@
           "url": "https://en.wikipedia.org/wiki/ZBD-04"
         }
       ],
-      "recog": "履帶步戰車：與 04A 同為 100mm＋30mm 雙砲，但車體裝甲較薄、艉部有噴水推進口（兩棲能力）。"
+      "recog": "履帶步戰車：與 04A 同為 100mm＋30mm 雙砲，但車體裝甲較薄、艉部有噴水推進口（兩棲能力）。",
+      "image": "assets/images/zbd-04.jpg"
     },
     "zbd-04a": {
       "weight_kg": "約 24 噸",
@@ -2156,7 +2169,8 @@
         }
       ],
       "rate_of_fire": "8–10 發/分",
-      "recog": "155mm 自走砲：大型方正砲塔、長砲管配砲口制退器與抽煙裝置、履帶六對負重輪、砲塔後方有補彈艙門。"
+      "recog": "155mm 自走砲：大型方正砲塔、長砲管配砲口制退器與抽煙裝置、履帶六對負重輪、砲塔後方有補彈艙門。",
+      "image": "assets/images/plz-05.jpg"
     },
     "phl-03": {
       "weight_kg": "約 43 噸",
@@ -2867,7 +2881,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_67_machine_gun"
         }
       ],
-      "recog": "老式通用機槍：外形硬朗方正、彈鏈盒掛右側、槍管較細，三腳架笨重。"
+      "recog": "老式通用機槍：外形硬朗方正、彈鏈盒掛右側、槍管較細，三腳架笨重。",
+      "image": "assets/images/type-67-mg.jpg"
     },
     "type-80-mg": {
       "caliber": "7.62×54mmR",
@@ -2881,7 +2896,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_80_machine_gun"
         }
       ],
-      "recog": "PKM 衍生：彈鏈供彈、槍身修長、槍托為骨架式（中空鏤空）、兩腳架在槍口下方。"
+      "recog": "PKM 衍生：彈鏈供彈、槍身修長、槍托為骨架式（中空鏤空）、兩腳架在槍口下方。",
+      "image": "assets/images/type-80-mg.png"
     },
     "qjg-02": {
       "caliber": "14.5×114mm",
@@ -2895,7 +2911,8 @@
           "url": "https://en.wikipedia.org/wiki/QJG-02"
         }
       ],
-      "recog": "14.5mm 高射機槍：管徑極粗、大型三腳架可高射、常配環形對空瞄具，體積遠大於 12.7mm。"
+      "recog": "14.5mm 高射機槍：管徑極粗、大型三腳架可高射、常配環形對空瞄具，體積遠大於 12.7mm。",
+      "image": "assets/images/qjg-02.jpg"
     },
     "qlz-87": {
       "caliber": "35×32mmSR 榴彈",
@@ -2937,7 +2954,9 @@
           "label": "維基百科：QLU-11",
           "url": "https://en.wikipedia.org/wiki/QLU-11"
         }
-      ]
+      ],
+      "image": "assets/images/qlu-11.jpg",
+      "recog": "狙擊型榴彈發射器：外形像加大版狙擊步槍——長槍管＋大型光學/測距瞄具＋兩腳架，彈匣（非彈鼓）插在機匣下方，可精確發射 35mm 空爆榴彈。"
     },
     "type-91b-gl": {
       "caliber": "35mm 槍榴彈",
@@ -3621,7 +3640,9 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/hq-19.jpg",
+      "recog": "反導攔截系統：8×8 大型越野卡車＋4 具「長型」方形發射箱（比 HQ-9 圓筒更長更方），專打彈道飛彈，配套大型 X 波段雷達車。"
     },
     "type-726": {
       "caliber": "氣墊登陸艇（LCAC）",
@@ -3996,7 +4017,10 @@
     "c-704": {},
     "wz-523": {},
     "pf-89": {},
-    "type-382": {},
+    "type-382": {
+      "image": "assets/images/type-382.jpg",
+      "recog": "艦載三坐標對空雷達：桅杆頂端的「大型方形平板天線」，天線面呈網格狀並持續旋轉，是 054A 護衛艦最顯眼的特徵。"
+    },
     "w85-hmg": {},
     "kj-500a": {},
     "z-15": {},
@@ -4064,7 +4088,8 @@
       "recog": "中型登陸艦：艦體較小、艦艏跳板、艦橋居中，甲板上常見裝甲車輛。"
     },
     "type-59": {
-      "recog": "老式中型坦克：圓形鑄造砲塔（半球形）、五對負重輪且間距均勻、100mm 線膛砲有抽煙裝置。"
+      "recog": "老式中型坦克：圓形鑄造砲塔（半球形）、五對負重輪且間距均勻、100mm 線膛砲有抽煙裝置。",
+      "image": "assets/images/type-59.jpg"
     },
     "type-346b": {},
     "type-84-bridge": {},
@@ -4137,7 +4162,10 @@
     "b611": {},
     "sh-15": {},
     "pl-11": {},
-    "yuanwang": {},
+    "yuanwang": {
+      "image": "assets/images/yuanwang.jpg",
+      "recog": "航天遠洋測量船：船身白色、甲板上有 2～3 座巨大的白色球形／碟形測控天線罩，外形像海上天文台，全球僅少數國家擁有。"
+    },
     "mi-26": {},
     "pf-97": {},
     "h-6m": {},
@@ -4155,14 +4183,20 @@
     },
     "df-zf": {},
     "type-654-arv": {},
-    "hn-5": {},
+    "hn-5": {
+      "image": "assets/images/hn-5.jpg",
+      "recog": "第一代便攜防空飛彈：細長圓筒發射管＋前端錐形罩、下方握把與電池組，外形近似蘇製 SA-7，比新式 FN-6 細長。"
+    },
     "h-20": {},
     "pf-89a": {},
     "type-920": {
       "image": "assets/images/type-920.jpg",
       "recog": "醫院船：全白船身＋巨大紅十字標誌、艦艉直升機甲板，外形像客輪，絕不會認錯。"
     },
-    "pl-5": {},
+    "pl-5": {
+      "image": "assets/images/pl-5.jpg",
+      "recog": "近距紅外空對空飛彈：彈頭為圓球形透明整流罩、前段有四片大型三角鴨翼；訓練彈常塗成藍色（惰性彈）。"
+    },
     "hn-6": {},
     "gx-7": {},
     "type-035b": {},
@@ -4247,6 +4281,30 @@
     },
     "fc-31": {
       "recog": "殲-35 的原型／外銷版，外形同為中型雙發、無鴨翼匿蹤佈局；早期原型垂尾與機身細節略有不同。"
+    },
+    "yj-8": {
+      "image": "assets/images/yj-8.jpg",
+      "recog": "第一代國產反艦飛彈：彈體短粗、四片中置三角彈翼＋四片尾翼，無腹部進氣口（純火箭動力），與後續 YJ-83 的細長帶進氣口外形明顯不同。"
+    },
+    "c-705": {
+      "image": "assets/images/c-705.jpg",
+      "recog": "輕型反艦飛彈（外銷）：彈體小巧、中段十字形彈翼、頭部為圓錐雷達罩；體積比 C-802 小一號，適合快艇搭載。"
+    },
+    "y-11": {
+      "image": "assets/images/y-11.jpg",
+      "recog": "輕型雙發運輸機：高置平直機翼＋固定式起落架（不收放）、方正機身與大面積座艙玻璃，外形樸素像小型通勤機。"
+    },
+    "df-31": {
+      "image": "assets/images/df-31.jpg",
+      "recog": "洲際彈道飛彈：多軸大型 TEL，飛彈裝在圓筒發射箱內（不裸露），車體比 DF-21 明顯長很多；AG 型另有越野底盤。"
+    },
+    "wm-80": {
+      "image": "assets/images/wm-80.jpg",
+      "recog": "外銷遠程火箭砲：大型卡車底盤＋後方 8 管粗大發射管（4×2 排列），管徑 273mm 明顯比 122mm 火箭砲粗。"
+    },
+    "type-59-pistol": {
+      "image": "assets/images/type-59-pistol.jpg",
+      "recog": "59 式手槍：馬卡洛夫仿製——套筒圓潤、握把有明顯弧度與菱格紋、體積小巧；與 54 式（TT 系，套筒方正）外形差異明顯。"
     }
   }
 }

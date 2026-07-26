@@ -1185,7 +1185,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Small Arms",
     "wiki": "QLU-11",
-    "image": "",
+    "image": "assets/images/qlu-11.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -1202,7 +1202,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：QLU-11",
         "url": "https://en.wikipedia.org/wiki/QLU-11"
       }
-    ]
+    ],
+    "recog": "狙擊型榴彈發射器：外形像加大版狙擊步槍——長槍管＋大型光學/測距瞄具＋兩腳架，彈匣（非彈鼓）插在機匣下方，可精確發射 35mm 空爆榴彈。"
   },
   {
     "id": "qjg-02",
@@ -14396,7 +14397,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/hq-19.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "陸軍",
@@ -14409,7 +14410,8 @@ window.EQUIPMENT_DATA = [
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
-    ]
+    ],
+    "recog": "反導攔截系統：8×8 大型越野卡車＋4 具「長型」方形發射箱（比 HQ-9 圓筒更長更方），專打彈道飛彈，配套大型 X 波段雷達車。"
   },
   {
     "id": "kj-3000",
@@ -15533,7 +15535,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "航天遠洋測量船",
     "form_en": "",
     "wiki": "Yuanwang",
-    "image": "",
+    "image": "assets/images/yuanwang.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -15542,7 +15544,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "recog": "航天遠洋測量船：船身白色、甲板上有 2～3 座巨大的白色球形／碟形測控天線罩，外形像海上天文台，全球僅少數國家擁有。"
   },
   {
     "id": "type-636a",
@@ -16451,7 +16454,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型坦克（T-54A 衍生）",
     "form_en": "",
     "wiki": "Type 59 tank",
-    "image": "",
+    "image": "assets/images/type-59.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20454,7 +20457,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "反艦飛彈（YJ-8）",
     "form_en": "",
     "wiki": "YJ-8",
-    "image": "",
+    "image": "assets/images/yj-8.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20464,7 +20467,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "recog": "第一代國產反艦飛彈：彈體短粗、四片中置三角彈翼＋四片尾翼，無腹部進氣口（純火箭動力），與後續 YJ-83 的細長帶進氣口外形明顯不同。"
   },
   {
     "id": "yj-82",
@@ -20643,7 +20647,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型反艦飛彈（C-705）",
     "form_en": "",
     "wiki": "C-705",
-    "image": "",
+    "image": "assets/images/c-705.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20653,7 +20657,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "recog": "輕型反艦飛彈（外銷）：彈體小巧、中段十字形彈翼、頭部為圓錐雷達罩；體積比 C-802 小一號，適合快艇搭載。"
   },
   {
     "id": "c-704",
@@ -21355,7 +21360,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "艦載三坐標對空雷達（382）",
     "form_en": "",
     "wiki": "Type 382 radar",
-    "image": "",
+    "image": "assets/images/type-382.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -21365,7 +21370,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "recog": "艦載三坐標對空雷達：桅杆頂端的「大型方形平板天線」，天線面呈網格狀並持續旋轉，是 054A 護衛艦最顯眼的特徵。"
   },
   {
     "id": "type-093a",
@@ -24282,7 +24288,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型運輸機（運-11）",
     "form_en": "",
     "wiki": "Harbin Y-11",
-    "image": "",
+    "image": "assets/images/y-11.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -24292,7 +24298,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "recog": "輕型雙發運輸機：高置平直機翼＋固定式起落架（不收放）、方正機身與大面積座艙玻璃，外形樸素像小型通勤機。"
   },
   {
     "id": "tu-154md",
@@ -24800,7 +24807,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近距空對空飛彈（PL-5）",
     "form_en": "",
     "wiki": "PL-5",
-    "image": "",
+    "image": "assets/images/pl-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -24810,7 +24817,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "recog": "近距紅外空對空飛彈：彈頭為圓球形透明整流罩、前段有四片大型三角鴨翼；訓練彈常塗成藍色（惰性彈）。"
   },
   {
     "id": "kd-63",
@@ -26808,7 +26816,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "洲際彈道導彈（DF-31）",
     "form_en": "",
     "wiki": "DF-31",
-    "image": "",
+    "image": "assets/images/df-31.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -26818,7 +26826,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
-    "branch": "火箭軍"
+    "branch": "火箭軍",
+    "recog": "洲際彈道飛彈：多軸大型 TEL，飛彈裝在圓筒發射箱內（不裸露），車體比 DF-21 明顯長很多；AG 型另有越野底盤。"
   },
   {
     "id": "df-31a",
@@ -28400,7 +28409,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "遠程火箭炮（WM-80）",
     "form_en": "",
     "wiki": "WM-80",
-    "image": "",
+    "image": "assets/images/wm-80.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28410,7 +28419,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "recog": "外銷遠程火箭砲：大型卡車底盤＋後方 8 管粗大發射管（4×2 排列），管徑 273mm 明顯比 122mm 火箭砲粗。"
   },
   {
     "id": "type-70-122",
@@ -29373,7 +29383,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "便攜防空飛彈（紅纓-5）",
     "form_en": "",
     "wiki": "HN-5",
-    "image": "",
+    "image": "assets/images/hn-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -29383,7 +29393,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "recog": "第一代便攜防空飛彈：細長圓筒發射管＋前端錐形罩、下方握把與電池組，外形近似蘇製 SA-7，比新式 FN-6 細長。"
   },
   {
     "id": "hn-6",
@@ -31399,7 +31410,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "自衛手槍（馬卡洛夫系）",
     "form_en": "",
     "wiki": "Type 59 pistol",
-    "image": "",
+    "image": "assets/images/type-59-pistol.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31409,7 +31420,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "recog": "59 式手槍：馬卡洛夫仿製——套筒圓潤、握把有明顯弧度與菱格紋、體積小巧；與 54 式（TT 系，套筒方正）外形差異明顯。"
   },
   {
     "id": "type-77-pistol",
