@@ -1,0 +1,4052 @@
+{
+  "type-052c": {
+    "ok": true,
+    "query": "052C型驱逐舰",
+    "title": "052C型驱逐舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/21a4462309f790529822674903afc0ca7bcb0a467f0a-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-052c.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      640,
+      360
+    ]
+  },
+  "type-052b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%B5%B7%E5%86%9B%E5%B9%BF%E5%B7%9E%E8%88%B0",
+    "title": "中国人民解放军海军广州舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/a8014c086e061d95619fb03878f40ad163d9cad1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-052b.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  "type-054b": {
+    "ok": true,
+    "query": "054B型护卫舰",
+    "title": "054B型护卫舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/72f082025aafa40f4bfb8998cd3c144f78f0f736b364?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-054b.jpg",
+    "source": "baike_cdp",
+    "size": [
+      640,
+      360
+    ]
+  },
+  "type-075": {
+    "ok": true,
+    "query": "075型两栖攻击舰",
+    "title": "075型两栖攻击舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/7c1ed21b0ef41bd5ad6e61f1518696cb39dbb6fd9738?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-075.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1600,
+      1026
+    ]
+  },
+  "type-002": {
+    "ok": true,
+    "query": "山东舰",
+    "title": "中国人民解放军海军山东舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b87d646820475100828381e3050f1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-002.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1062,
+      1062
+    ]
+  },
+  "type-093b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/093%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87",
+    "title": "093型核潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9f510fb30f2442a7faab730cdb43ad4bd01302f5?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-093b.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      445,
+      505
+    ]
+  },
+  "type-039c": {
+    "ok": true,
+    "query": "039C型潜艇",
+    "title": "元级潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf6ee0c0b2f3dcd100baa12b72?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-039c.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1249,
+      834
+    ]
+  },
+  "type-039b": {
+    "ok": true,
+    "query": "039B型潜艇",
+    "title": "元级潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf6ee0c0b2f3dcd100baa12b72?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-039b.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1249,
+      834
+    ]
+  },
+  "j-16": {
+    "ok": true,
+    "query": "歼-16",
+    "title": "歼-16",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/cefc1e178a82b90136038c627e8da9773912ef31?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-16.jpg",
+    "source": "baike_cdp",
+    "size": [
+      950,
+      712
+    ]
+  },
+  "h-6k": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BD%B0-6K/9897079",
+    "title": "轰-6K",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d1160924ab18972bd407ec1d08966c899e510eb39cea?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/h-6k.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      640,
+      424
+    ]
+  },
+  "kj-500": {
+    "ok": true,
+    "query": "空警-500",
+    "title": "空警-500",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/562c11dfa9ec8a136327a835b058868fa0ec09fa6ae8?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/kj-500.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1200,
+      800
+    ]
+  },
+  "df-26": {
+    "ok": true,
+    "query": "东风-26",
+    "title": "东风-26核常兼备导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/3812b31bb051f8197fc8354bd5b44aed2f73e7c6?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-26.jpg",
+    "source": "baike_cdp",
+    "size": [
+      900,
+      600
+    ]
+  },
+  "pcl-181": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "红牌H-SH-15G01B",
+    "round": 7
+  },
+  "phl-03": {
+    "ok": false,
+    "reason": "mismatch",
+    "title": "百度百科——全球领先的中文百科全书",
+    "query": "PHL-03"
+  },
+  "ch-4": {
+    "ok": true,
+    "query": "彩虹-4",
+    "title": "彩虹-4无人机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/902397dda144ad346b4f9f82dea20cf430ad85c6?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ch-4.jpg",
+    "source": "baike_cdp",
+    "size": [
+      600,
+      400
+    ]
+  },
+  "ch-5": {
+    "ok": true,
+    "query": "彩虹-5无人机",
+    "title": "彩虹-5无人机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494ee5366d0082af5e0fe99257e5f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ch-5.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1000,
+      647
+    ]
+  },
+  "gj-11": {
+    "ok": true,
+    "query": "攻击-11",
+    "title": "攻击-11",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/a1ec08fa513d269759ee49dcf0a3a5fb43166c2272a3?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/gj-11.jpg",
+    "source": "baike_cdp",
+    "size": [
+      640,
+      400
+    ]
+  },
+  "tb-001": {
+    "ok": true,
+    "query": "TB-001",
+    "title": "TB-001",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/ca1349540923dd54564e0ea03c5fa4de9c82d058e2e6?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/tb-001.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      688,
+      400
+    ]
+  },
+  "wing-loong-10": {
+    "ok": true,
+    "query": "翼龙-10",
+    "title": "翼龙-10",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/63d0f703918fa0ec08fac97558c64eee3d6d55fb6d33?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/wing-loong-10.jpg",
+    "source": "baike_cdp",
+    "size": [
+      761,
+      416
+    ]
+  },
+  "fc-31": {
+    "ok": true,
+    "query": "鹘鹰",
+    "title": "歼-31",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d788d43f8794a4c27d1e28f1b0af0cd5ad6edcc493ef?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/fc-31.jpg",
+    "source": "baike_cdp",
+    "size": [
+      684,
+      455
+    ]
+  },
+  "cj-10": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E9%95%BF%E5%89%91-10",
+    "title": "长剑-10巡航导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/024f78f0f736afc379319772f142fcc4b74543a9b42b-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/cj-10.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      640,
+      360
+    ]
+  },
+  "type-091": {
+    "ok": true,
+    "query": "091型核潜艇",
+    "title": "091型攻击核潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb2087a4b5454a20a44723dced?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-091.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1600,
+      1114
+    ]
+  },
+  "type-094": {
+    "ok": true,
+    "query": "094型核潜艇",
+    "title": "094型战略核潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3e23213cf48e8ba61ea8d345e6?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-094.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1600,
+      1129
+    ]
+  },
+  "type-032": {
+    "ok": true,
+    "query": "032型潜艇",
+    "title": "032型潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/7a899e510fb30f240df249a4c095d143ad4b0328?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-032.jpg",
+    "source": "baike_cdp",
+    "size": [
+      800,
+      400
+    ]
+  },
+  "type-035": {
+    "ok": true,
+    "query": "035型潜艇",
+    "title": "035型潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/ac345982b2b7d0a267cb33b6c8ef76094b369a9e?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-035.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1024,
+      768
+    ]
+  },
+  "pgz-04a": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "PGZ-88式双管37毫米自行高炮",
+    "round": 7
+  },
+  "plz-05": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/05A%E5%BC%8F155%E6%AF%AB%E7%B1%B3%E5%8A%A0%E6%A6%B4%E7%82%AE/18585920",
+    "title": "05A式155毫米加榴炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b999a9014c086e067f32bf920a087bf40bd1cb55?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/plz-05.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1201,
+      797
+    ]
+  },
+  "plz-89": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/89%E5%BC%8F122%E6%AF%AB%E7%B1%B3%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BC%B9%E7%82%AE",
+    "title": "PLZ89式122mm自行榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e865a6997b497a376e068cad?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/plz-89.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      615,
+      383
+    ]
+  },
+  "type-80": {
+    "ok": true,
+    "query": "80式主战坦克",
+    "title": "80式主战坦克",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/3ac79f3df8dcd10033fefdaf788b4710b8122fd9?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-80.jpg",
+    "source": "baike_cdp",
+    "size": [
+      570,
+      401
+    ]
+  },
+  "su-35": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%8B%8F-35%E6%88%98%E6%96%97%E6%9C%BA/1169533",
+    "title": "苏-35战斗机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/91529822720e0cf349d8ef210446f21fbe09aa39?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/su-35.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      640,
+      407
+    ]
+  },
+  "type-053h3": {
+    "ok": true,
+    "query": "053H3型护卫舰",
+    "title": "053H3型护卫舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e1fe9925bc315c60cda8c1d58eb1cb13495477cf?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-053h3.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  "ld-2000": {
+    "ok": true,
+    "query": "陆盾2000",
+    "title": "“陆盾”2000(LD2000)型近程防空武器系统",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/6159252dd42a2834349b213143ecdeea15ce36d311ca?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ld-2000.jpg",
+    "source": "baike_cdp",
+    "size": [
+      567,
+      378
+    ]
+  },
+  "sr5": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BDSR-5%E5%BC%8F%E5%A4%9A%E7%AE%A1%E8%87%AA%E8%A1%8C%E7%81%AB%E7%AE%AD%E7%82%AE/6347206",
+    "title": "中国SR-5式多管自行火箭炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/78310a55b319ebc4d7c0d8bf8326cffc1e17165f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/sr5.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      400,
+      300
+    ]
+  },
+  "type-903a": {
+    "ok": true,
+    "query": "903A型补给舰",
+    "title": "903a型补给舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/adaf2edda3cc7cd92421cb3e3f01213fb90e91cd?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-903a.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      600,
+      380
+    ]
+  },
+  "type-904": {
+    "ok": false,
+    "reason": "mismatch",
+    "title": "百度百科——全球领先的中文百科全书",
+    "query": "904型补给舰"
+  },
+  "type-905": {
+    "ok": true,
+    "query": "905型补给舰",
+    "title": "905型补给舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f11f3a292df5e0fe79aa082e586034a85edf726b?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-905.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1118,
+      738
+    ]
+  },
+  "z-15": {
+    "ok": true,
+    "query": "直-15",
+    "title": "直-15",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/a6efce1b9d16fdfa8e3b9f88b68f8c5494ee7b04?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-15.jpg",
+    "source": "baike_cdp",
+    "size": [
+      671,
+      768
+    ]
+  },
+  "z-18": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-18F/63475174",
+    "title": "直-18F",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e850352ac65c103853437a2975498413b07ecb80239d?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-18.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      640,
+      384
+    ]
+  },
+  "df-15": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-15%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9",
+    "title": "东风-15弹道导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/fc1f4134970a304e251fd9c58093b086c9177f3ef6c3-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-15.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      640,
+      360
+    ]
+  },
+  "jh-7a": {
+    "ok": true,
+    "query": "歼轰-7A",
+    "title": "歼轰-7（中国歼击轰炸机）",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728bd21790acc0fcc3cec3fd2c01?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/jh-7a.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      800,
+      528
+    ]
+  },
+  "j-5": {
+    "ok": true,
+    "query": "歼-5",
+    "title": "歼-5",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/6159252dd42a2834349ba15cc3eddeea15ce36d31169?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-5.jpg",
+    "source": "baike_cdp",
+    "size": [
+      640,
+      422
+    ]
+  },
+  "type-062": {
+    "ok": true,
+    "query": "062型护卫艇",
+    "title": "062型护卫艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/0df431adcbef7609cc0046812ddda3cc7cd99ea1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-062.jpg",
+    "source": "baike_cdp",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  "type-037is": {
+    "ok": false,
+    "reason": "mismatch",
+    "title": "百度百科——全球领先的中文百科全书",
+    "query": "037IS型"
+  },
+  "type-84-bridge": {
+    "ok": true,
+    "query": "84式坦克架桥车",
+    "title": "84式坦克架桥车",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/6c224f4a20a44623d83cf8c39a22720e0df3d799?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-84-bridge.jpg",
+    "source": "baike_cdp",
+    "size": [
+      640,
+      480
+    ]
+  },
+  "ptl-02": {
+    "ok": false,
+    "reason": "mismatch",
+    "title": "百度百科——全球领先的中文百科全书",
+    "query": "PTL-02"
+  },
+  "zbd-08": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "ZBD-08步兵战车",
+    "queries": [
+      "ZBL08轮式步兵战车",
+      "中国08式轮式步兵战车",
+      "ZBL-08步兵战车",
+      "08式轮式步战车",
+      "ZBD-08",
+      "ZBL-09步兵战车"
+    ],
+    "round": 7
+  },
+  "pll-09": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/09%E5%BC%8F122%E6%AF%AB%E7%B1%B3%E8%BD%A6%E8%BD%BD%E6%A6%B4%E5%BC%B9%E7%82%AE",
+    "title": "09式122毫米车载榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b3b7d0a20cf431add84122ad4036acaf2fdd9896?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/pll-09.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      950,
+      656
+    ]
+  },
+  "zsl-10": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "AMX-10RC轮式侦察车",
+    "round": 7
+  },
+  "pcl-171": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "PCL171",
+      "PCL-171车载榴弹炮",
+      "PCL-171轻型突击车",
+      "PCL-171",
+      "122mm榴弹炮"
+    ],
+    "round": 7
+  },
+  "pcl-161": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/09%E5%BC%8F122%E6%AF%AB%E7%B1%B3%E8%BD%A6%E8%BD%BD%E6%A6%B4%E5%BC%B9%E7%82%AE",
+    "title": "09式122毫米车载榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b3b7d0a20cf431add84122ad4036acaf2fdd9896?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/pcl-161.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      950,
+      656
+    ]
+  },
+  "phz-11": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "89式122毫米40管履带式火箭炮",
+    "round": 7
+  },
+  "phl-81": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/81%E5%BC%8F%E7%81%AB%E7%AE%AD%E7%82%AE",
+    "title": "81式火箭炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1b138918b2b851f3deb48fc841?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/phl-81.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      550,
+      378
+    ]
+  },
+  "pgz-95": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/95%E5%BC%8F%E8%87%AA%E8%A1%8C%E9%AB%98%E7%82%AE",
+    "title": "95式自行高炮防空系统",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4034970a304e251f0966dc51a986c9177e3e5381?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/pgz-95.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      500,
+      354
+    ]
+  },
+  "asn-209": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "ASN-209无人机",
+      "ASN209无人侦察机",
+      "ASN-209侦察无人机",
+      "ASN-209",
+      "SKFSNL209轴承"
+    ],
+    "round": 7
+  },
+  "ch-7": {
+    "ok": true,
+    "query": "彩虹-7",
+    "title": "彩虹-7高空隐身无人机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/00e93901213fb80e7bec04a9238d382eb9389b503e03?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ch-7.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1440,
+      811
+    ]
+  },
+  "gcl-111": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "装甲架桥车",
+    "round": 7
+  },
+  "type-84-minelayer": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/84%E5%BC%8F24%E7%AE%A1%E7%81%AB%E7%AE%AD%E5%B8%83%E9%9B%B7%E8%BD%A6/9018704",
+    "title": "84式24管火箭布雷车",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/83025aafa40f4bfbfbedcf3a76146ff0f736afc3b210?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-84-minelayer.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1600,
+      900
+    ]
+  },
+  "pll-01": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "PTL-02轮式突击炮",
+    "round": 7
+  },
+  "a100": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/A100%E7%81%AB%E7%AE%AD%E7%82%AE",
+    "title": "A100火箭炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f7246b600c338744f3522a5e530fd9f9d72aa078?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/a100.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      710,
+      532
+    ]
+  },
+  "pcz-171": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "战术突击车",
+    "round": 7
+  },
+  "type-19-ifv": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/VN22%E8%BD%AE%E5%BC%8F%E8%A3%85%E7%94%B2%E8%BD%A6/59006392",
+    "title": "VN22轮式装甲车",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/a1ec08fa513d269759eefa8e07a2a5fb43166c227294?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-19-ifv.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      922,
+      613
+    ]
+  },
+  "wz-9": {
+    "ok": true,
+    "query": "无侦-9",
+    "title": "无侦-9",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/622762d0f703918fa0ecbb093366319759ee3c6d6ee6-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/wz-9.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      640,
+      360
+    ]
+  },
+  "type-021": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/021%E5%9E%8B%E5%AF%BC%E5%BC%B9%E8%89%87",
+    "title": "黄蜂级导弹艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/32fa828ba61ea8d354094915960a304e251f58f3?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-021.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      690,
+      488
+    ]
+  },
+  "type-096": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "095型战略导弹核潜艇",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "type-926": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/926%E5%9E%8B%E6%BD%9C%E8%89%87%E6%94%AF%E6%8F%B4%E8%88%B0",
+    "title": "926型潜艇支援舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/fc1f4134970a304e82f093add8c8a786c8175c92?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-926.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1600,
+      1199
+    ]
+  },
+  "type-636a": {
+    "ok": true,
+    "query": "636A型测量船",
+    "title": "636A型测量船",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d439b6003af33a872ab1a095c35c10385243b565?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-636a.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      950,
+      683
+    ]
+  },
+  "type-818": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "818广场",
+    "queries": [
+      "818型海警船",
+      "818型",
+      "818式"
+    ],
+    "round": 4
+  },
+  "type-718b": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "雷瓦RE-718B",
+    "queries": [
+      "718B型海警巡逻船",
+      "718B型",
+      "718B式"
+    ],
+    "round": 4
+  },
+  "z-8g": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-8%E7%9B%B4%E5%8D%87%E6%9C%BA",
+    "title": "直-8",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/37d12f2eb9389b504fc2f66ccd6ef2dde71190efc0c0?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-8g.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1009,
+      654
+    ]
+  },
+  "z-19e": {
+    "ok": true,
+    "query": "直-19E",
+    "title": "直-19武装直升机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9922720e0cf3d7cadcf993b1f31fbe096a63a9ee?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-19e.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      940,
+      589
+    ]
+  },
+  "ch-3": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B9-3%E6%97%A0%E4%BA%BA%E6%9C%BA",
+    "title": "彩虹-3无人机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d0c8a786c9177f3e4e7042d978cf3bc79e3d5699?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ch-3.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1600,
+      1200
+    ]
+  },
+  "wz-5": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%97%A0%E4%BA%BA%E4%BE%A6%E5%AF%9F-5/7814696",
+    "title": "无人侦察-5",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/29381f30e924b899a901e6b2375f0a950a7b030858bd?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/wz-5.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      1282,
+      838
+    ]
+  },
+  "y-8g": {
+    "ok": true,
+    "query": "运-8G",
+    "title": "运-8远距离支援干扰机",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/dbb44aed2e738bd4b31cf997dbdc90d6277f9e2f5347-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/y-8g.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      640,
+      360
+    ]
+  },
+  "y-9g": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BF%90-9G",
+    "title": "运-9（中国研发的中型中程运输机）",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/3b292df5e0fe9925c8037e0a37a85edf8db17158?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/y-9g.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1024,
+      768
+    ]
+  },
+  "plz-52": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/155mm%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BC%B9%E7%82%AE",
+    "title": "155mm自行榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b74500912ebac1fc1e178a821510?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/plz-52.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      590,
+      430
+    ]
+  },
+  "sh-15": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/SH-15%E5%9E%8B155%E6%AF%AB%E7%B1%B3%E8%BD%A6%E8%BD%BD%E5%8A%A0%E6%A6%B4%E7%82%AE/60310295",
+    "title": "SH-15型155毫米车载加榴炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494eef01f94ace0a7f7fe9925bc31d071?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/sh-15.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      640,
+      330
+    ]
+  },
+  "phl-11": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "火箭武器",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "gsl-131": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%89%AB%E9%9B%B7%E8%BD%A6/3367824",
+    "title": "扫雷车",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/c2cec3fdfc0392450cf43ea48e94a4c27c1e25dc?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/gsl-131.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      800,
+      600
+    ]
+  },
+  "gcz-112": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "GCZ-112装甲工程车",
+      "GCZ-112"
+    ],
+    "round": 4
+  },
+  "type-654-arv": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%A3%85%E7%94%B2%E6%8A%A2%E6%95%91%E8%BD%A6/3368302",
+    "title": "装甲抢救车",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/00a82701cc82c3307aec2c59?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-654-arv.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      500,
+      362
+    ]
+  },
+  "type-024": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "024型飞弹艇",
+      "024型",
+      "024式"
+    ]
+  },
+  "type-909": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "909型試驗舰",
+      "909型",
+      "909式"
+    ]
+  },
+  "type-925": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "925型潜艇支援舰",
+      "925型潜艇",
+      "925型核潜艇"
+    ]
+  },
+  "type-095": {
+    "ok": true,
+    "query": "095型核潜艇",
+    "title": "095型核潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d10ddb5af9a293fb80e7bec903c?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-095.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      500,
+      390
+    ]
+  },
+  "ch-6": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B9-6%E6%97%A0%E4%BA%BA%E6%9C%BA",
+    "title": "彩虹-6无人机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/adaf2edda3cc7cd98d10ea264c51363fb80e7aec3b89?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ch-6.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      640,
+      432
+    ]
+  },
+  "pgz-88": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "桑塔纳88型军用轻型车",
+    "queries": [
+      "88式自行高射炮",
+      "88型",
+      "88式"
+    ],
+    "round": 4
+  },
+  "type-65-aaa": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "65式37mm高射炮",
+      "65型",
+      "65式"
+    ]
+  },
+  "type-74-aaa": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "74式双37mm高射炮",
+      "74型",
+      "74式"
+    ]
+  },
+  "fh-97": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "飞鴻-97忠誠僚机",
+      "FH-97"
+    ]
+  },
+  "wz-6": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "无侦-6侦察无人机",
+      "无侦-6"
+    ]
+  },
+  "sx2306-truck": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "陝汽SX2306越野卡车",
+      "SX-2306"
+    ]
+  },
+  "type-052": {
+    "ok": true,
+    "query": "052型驱逐舰",
+    "title": "052型驱逐舰",
+    "img_url": "https://f7.baidu.com/it/u=3538785998,2034190564&fm=222&app=106&f=JPEG@s_1,w_660,h_370",
+    "path": "assets/images/type-052.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      660,
+      370
+    ]
+  },
+  "type-051dt": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "051DT型驱逐舰"
+    ]
+  },
+  "type-051g": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "051G型驱逐舰"
+    ]
+  },
+  "type-055a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/055%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0",
+    "title": "055型驱逐舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3d53909c3bbaf2d87e950342a1b89?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-055a.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1080,
+      765
+    ]
+  },
+  "sovremenny-em": {
+    "ok": true,
+    "query": "现代级驱逐舰",
+    "title": "现代级驱逐舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4a36acaf2edda3cc7cd941d592b52e01213fb90e348b?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/sovremenny-em.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      991,
+      592
+    ]
+  },
+  "type-065": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "065型护卫舰"
+    ]
+  },
+  "type-053k": {
+    "ok": true,
+    "query": "053K型护卫舰",
+    "title": "053K型护卫舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/43a7d933c895d1437812c21f70f082025aaf07a1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-053k.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1240,
+      930
+    ]
+  },
+  "type-037i": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "037I型猎潜艇",
+      "037I型潜艇",
+      "037I型核潜艇"
+    ]
+  },
+  "type-037ig": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "037IG型飞弹艇",
+      "037IG型",
+      "037IG式"
+    ]
+  },
+  "type-026": {
+    "ok": true,
+    "query": "026型鱼雷艇",
+    "title": "026型鱼雷艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0b1ddf42a76eddc450da3f44?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-026.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1600,
+      1063
+    ]
+  },
+  "type-062i": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "062I型护卫艇",
+      "062I型护卫舰"
+    ]
+  },
+  "yu-8": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "鱼-8火箭助飞鱼雷",
+      "YU-8"
+    ]
+  },
+  "yu-9": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "鱼-9鱼雷",
+      "YU-9"
+    ]
+  },
+  "type-093a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/093%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87/1858084",
+    "title": "093型核潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9f510fb30f2442a7faab730cdb43ad4bd01302f5?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-093a.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      445,
+      505
+    ]
+  },
+  "type-094a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%99%8B%E7%BA%A7%E6%A0%B8%E6%BD%9C%E8%89%87",
+    "title": "094型战略核潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3e23213cf48e8ba61ea8d345e6?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-094a.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1600,
+      1129
+    ]
+  },
+  "type-033g": {
+    "ok": true,
+    "query": "033G型潜艇",
+    "title": "033G型潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144db47b515b8b7d0a20df486cf?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-033g.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1600,
+      1200
+    ]
+  },
+  "type-035a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "035A型常規潜艇",
+      "035A型潜艇",
+      "035A型核潜艇"
+    ]
+  },
+  "type-035b": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "035B型常規潜艇",
+      "035B型潜艇",
+      "035B型核潜艇"
+    ]
+  },
+  "type-035g": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "035G型常規潜艇",
+      "035G型潜艇",
+      "035G型核潜艇"
+    ]
+  },
+  "type-039g": {
+    "ok": true,
+    "query": "039G型潜艇",
+    "title": "039型潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/ae51f3deb48f8c5456bb378930292df5e0fe7f28?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-039g.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      500,
+      362
+    ]
+  },
+  "type-071e": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "071E型船塢登陆舰",
+      "071E型登陆舰",
+      "071E型两栖攻击舰",
+      "071E型船坞登陆舰"
+    ]
+  },
+  "type-072ii": {
+    "ok": true,
+    "query": "072II型坦克登陆舰",
+    "title": "072Ⅱ型坦克登陆舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/ac345982b2b7d0a2e6a94e96ccef76094b369a5d?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-072ii.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1600,
+      1200
+    ]
+  },
+  "type-271": {
+    "ok": true,
+    "query": "271型登陆艇",
+    "title": "271型登陆艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11df1523ef2d642762d0f603c2ca?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-271.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1200,
+      900
+    ]
+  },
+  "type-726a": {
+    "ok": true,
+    "query": "726A型氣墊登陆艇",
+    "title": "726A型气垫登陆艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf00dfb4cd10d8bc3eb03541e1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-726a.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      600,
+      378
+    ]
+  },
+  "type-081a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "081A型猎扫雷舰",
+      "081A型",
+      "081A式"
+    ]
+  },
+  "type-010": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "010型扫雷舰",
+      "010型",
+      "010式"
+    ]
+  },
+  "type-312": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "312型扫雷艇",
+      "312型",
+      "312式"
+    ]
+  },
+  "type-903": {
+    "ok": true,
+    "query": "903型綜合补给舰",
+    "title": "903型补给舰",
+    "img_url": "https://t14.baidu.com/it/u=3277651778,2174894989&fm=225&app=113&f=JPEG?w=1920&h=1080&s=D708B94692A10EAEB78948170300C0E3",
+    "path": "assets/images/type-903.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1600,
+      900
+    ]
+  },
+  "type-904b": {
+    "ok": true,
+    "query": "904B型补给舰",
+    "title": "904b型补给舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b17eca8065380cd7d0f9b6c1a644ad3459828132?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-904b.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1600,
+      1074
+    ]
+  },
+  "type-815": {
+    "ok": true,
+    "query": "815型电子侦察船",
+    "title": "815型电子侦察船",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9213b07eca8065388eeb4e9690dda144ad348236?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-815.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1600,
+      1200
+    ]
+  },
+  "type-927": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "927型海洋监视船",
+      "天狼星级",
+      "927型海洋監视船",
+      "927型",
+      "927式",
+      "天语A927"
+    ],
+    "round": 5
+  },
+  "type-639": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "639型水文测量船",
+      "639型",
+      "639式"
+    ]
+  },
+  "type-636-survey": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "636型海洋测量船",
+      "636型",
+      "636式"
+    ]
+  },
+  "yuanwang-7": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BF%9C%E6%9C%9B7%E5%8F%B7",
+    "title": "远望7号测量船",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d0c8a786c9177f3e6709660a84852cc79f3df8dcf82b?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/yuanwang-7.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1280,
+      707
+    ]
+  },
+  "type-922": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "922型救生打撈船",
+      "922型",
+      "922式"
+    ]
+  },
+  "type-917": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "917型援潜救生船",
+      "917型潜艇",
+      "917型核潜艇"
+    ]
+  },
+  "lr7-dsrv": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "LR7深潜救生艇",
+      "LR-7"
+    ]
+  },
+  "haibing-722": {
+    "ok": true,
+    "query": "海冰722破冰船",
+    "title": "海冰722破冰船（第一代破冰船）",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/14ce36d3d539b600849bae24e050352ac75cb7c8?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/haibing-722.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      800,
+      600
+    ]
+  },
+  "shichang": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "世昌舰國防動員舰",
+      "89型",
+      "89式"
+    ]
+  },
+  "type-910": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "910型試驗舰",
+      "910型",
+      "910式"
+    ]
+  },
+  "ccg-3901": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%B5%B7%E8%AD%A63901",
+    "title": "中国海警3901",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a9201b9ad119178a82b90114ae?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ccg-3901.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      773,
+      676
+    ]
+  },
+  "j-8h": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "歼-8H战鬥机",
+      "歼-8H"
+    ]
+  },
+  "j-10ce": {
+    "ok": true,
+    "query": "歼-10CE",
+    "title": "歼-10CE",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/377adab44aed2e738bd4bf576c5bb68b87d6277f4c0f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-10ce.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      1216,
+      811
+    ]
+  },
+  "j-15s": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AD%BC-15",
+    "title": "歼-15",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/359b033b5bb5c9ea15cecf7b9062a1003af33b8715ad?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-15s.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1600,
+      1067
+    ]
+  },
+  "h-5": {
+    "ok": true,
+    "query": "轰-5轰炸机",
+    "title": "轰5轻型轰炸机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f7246b600c3387448287c2f2580fd9f9d62aa0fa?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/h-5.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      886,
+      271
+    ]
+  },
+  "h-6m": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科——全球领先的中文百科全书",
+    "queries": [
+      "轰-6M改进型",
+      "轰-6M"
+    ]
+  },
+  "h-20": {
+    "ok": true,
+    "query": "轰-20",
+    "title": "轰-20",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494eef01f3b5657acf7fe9925bc31d071?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/h-20.jpg",
+    "source": "baike_cdp_r2",
+    "size": [
+      720,
+      458
+    ]
+  },
+  "yj-18": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E9%B9%B0%E5%87%BB-18A/23782814",
+    "title": "鹰击-18A",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb64636d13404a20a44623dc62?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/yj-18.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      899,
+      627
+    ]
+  },
+  "yj-21": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E9%B9%B0%E5%87%BB-21%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9",
+    "title": "鹰击-21导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f93c302902322dd42a28340fdf?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/yj-21.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1600,
+      1156
+    ]
+  },
+  "qbz-95": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/95%E5%BC%8F%E8%87%AA%E5%8A%A8%E6%AD%A5%E6%9E%AA",
+    "title": "95式自动步枪（中国兵器装备集团公司研制的突击步枪）",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144ad34c6d606f8c7a20cf431ad280d?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/qbz-95.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      640,
+      422
+    ]
+  },
+  "j-20s": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AD%BC-20S",
+    "title": "歼-20S",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/0823dd54564e9258d109f242d6dbc658ccbf6c81e05c?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-20s.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      927,
+      592
+    ]
+  },
+  "j-35a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AD%BC-35A",
+    "title": "歼-35A",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f93b032800322dd42a28340f2a?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-35a.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1279,
+      853
+    ]
+  },
+  "h-6n": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BD%B0-6N",
+    "title": "轰-6N",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/c995d143ad4bd11373f00d571ff6b30f4bfbfbedaf07?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/h-6n.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1080,
+      589
+    ]
+  },
+  "h-6j": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BD%B0-6J",
+    "title": "轰-6J",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb4316b908061137a4462309f7762f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/h-6j.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1600,
+      1067
+    ]
+  },
+  "yy-20": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BF%90%E6%B2%B9-20",
+    "title": "运油-20",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/37d12f2eb9389b504fc207971c6df2dde71191efc0e7?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/yy-20.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1600,
+      1067
+    ]
+  },
+  "z-20f": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-20",
+    "title": "直-20战术通用直升机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/91ef76c6a7efce1b9d169084a81be4deb48f8c54cf61?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-20f.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      990,
+      720
+    ]
+  },
+  "z-9c": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-9",
+    "title": "直-9",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/1f178a82b9014a9045233a33a1773912b31bee1b?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-9c.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      800,
+      528
+    ]
+  },
+  "z-18f": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-18F",
+    "title": "直-18F",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e850352ac65c103853437a2975498413b07ecb80239d?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-18f.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      640,
+      384
+    ]
+  },
+  "ka-28": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E5%8D%A1-28",
+    "title": "卡-28直升机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f3d3572c11dfa9ec9a1e740960d0f703918fc1ff?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ka-28.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1024,
+      768
+    ]
+  },
+  "type-076": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/076%E5%9E%8B%E4%B8%A4%E6%A0%96%E6%94%BB%E5%87%BB%E8%88%B0",
+    "title": "076型两栖攻击舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/42a98226cffc1e178a82c8af3dc9e103738da87743a1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-076.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1000,
+      665
+    ]
+  },
+  "fn-6": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E9%A3%9E%E5%BC%A9-6%E5%8D%95%E5%85%B5%E4%BE%BF%E6%90%BA%E5%BC%8F%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9/5543151",
+    "title": "飞弩-6单兵便携式防空导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4a36acaf2edda3cc2cd5a8d502e93901213f9215?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/fn-6.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      416,
+      318
+    ]
+  },
+  "hq-22": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%BA%A2%E6%97%97-22%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9/20819316",
+    "title": "红旗-22防空导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/77094b36acaf2edda3cc6d62c04b16e93901203f35bf?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/hq-22.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1150,
+      559
+    ]
+  },
+  "jj-7": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AD%BC%E6%95%99-7",
+    "title": "歼教-7",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/cc11728b4710b912ae40943cc8fdfc039345226a?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/jj-7.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  "hyj-7": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "轰教-7",
+      "HYJ-7",
+      "HYJ7"
+    ],
+    "round": 3
+  },
+  "y-20b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BF%90-20%E8%BF%90%E8%BE%93%E6%9C%BA",
+    "title": "运-20（中国自主研发的首款大型运输机）",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf3bc737f10686c600baa1cc11fd8e?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/y-20b.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1600,
+      1067
+    ]
+  },
+  "zdk-03": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/ZDK-03%E9%A2%84%E8%AD%A6%E6%9C%BA",
+    "title": "ZDK-03预警机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f603918fa0ec08faa5f414ca53ee3d6d54fbdae3?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/zdk-03.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  "gx-1": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "三星GX-1S",
+    "queries": [
+      "高新1号电子侦察机",
+      "GX-1"
+    ],
+    "round": 5
+  },
+  "gx-2": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "GX Works2",
+    "queries": [
+      "高新2号电子侦察机",
+      "GX-2",
+      "GX-2型水电解制氢设备"
+    ],
+    "round": 4
+  },
+  "gx-4": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "三菱FX2N-4AD",
+    "queries": [
+      "高新4号心理战机",
+      "GX-4"
+    ],
+    "round": 5
+  },
+  "gx-5": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "酷冷至尊GX-550W",
+    "queries": [
+      "高新5号指挥通信机",
+      "GX-5",
+      "酷冷至尊GX-550W(RS-550-ACAA-E3)"
+    ],
+    "round": 4
+  },
+  "gx-7": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "高新7号电子侦察机",
+      "GX-7",
+      "GX7"
+    ],
+    "round": 3
+  },
+  "jz-8f": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "歼侦-8F侦察机",
+      "JZ-8F",
+      "JZ8F"
+    ],
+    "round": 3
+  },
+  "z-5": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-5%E7%9B%B4%E5%8D%87%E6%9C%BA",
+    "title": "直-5",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/bd315c6034a85edfdcd0894e43540923dd54757a?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-5.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  "z-6": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-6%E7%9B%B4%E5%8D%87%E6%9C%BA",
+    "title": "直-6",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9213b07eca806538132eae7e9ddda144ac348292?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-6.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  "z-8a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-8A",
+    "title": "直-8A",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/83025aafa40f4bfb378cb0b0084f78f0f63618f1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-8a.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1200,
+      800
+    ]
+  },
+  "z-18a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "18A-P工艺",
+    "queries": [
+      "直-18A陆军型",
+      "直-18A",
+      "18A-P工艺"
+    ],
+    "round": 4
+  },
+  "z-18j": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "直-18J舰载预警直升机",
+      "直-18J"
+    ],
+    "round": 3
+  },
+  "z-9b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-9B",
+    "title": "直-9B",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f06832a37caf0f4bfbfaed04c0?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-9b.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1400,
+      933
+    ]
+  },
+  "z-10me": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%B4-10ME",
+    "title": "直-10ME",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d439b6003af33a87e950aa40630b07385343fbf21f6b?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/z-10me.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1080,
+      810
+    ]
+  },
+  "z-21": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "直-20舰载型直升机",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "mi-26": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%B1%B3-26%E9%87%8D%E5%9E%8B%E8%BF%90%E8%BE%93%E7%9B%B4%E5%8D%87%E6%9C%BA",
+    "title": "米-26直升机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b8389b504fc2d5628d3997b9eb1190ef76c66cb4?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/mi-26.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      1600,
+      1000
+    ]
+  },
+  "ka-27": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E5%8D%A1-27%E7%9B%B4%E5%8D%87%E6%9C%BA",
+    "title": "卡-27直升机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4610b912c8fcc3ce6099d9669045d688d43f200d?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ka-27.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      750,
+      486
+    ]
+  },
+  "as565": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/AS-365%E7%9B%B4%E5%8D%87%E6%9C%BA",
+    "title": "AS-365直升机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4d086e061d950a7b0208847e039f75d9f2d3572c6370?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/as565.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1180,
+      885
+    ]
+  },
+  "sa321": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%B6%85%E9%BB%83%E8%9C%82%E7%9B%B4%E5%8D%87%E6%9C%BA",
+    "title": "SA321直升机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/78310a55b319ebc4b745c3cde17ad8fc1e178a82b869?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/sa321.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      640,
+      431
+    ]
+  },
+  "ch-1": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "虹（大气中的自然现象）",
+    "queries": [
+      "彩虹-1无人机",
+      "彩虹-1",
+      "彩虹（大气光学现象）"
+    ],
+    "round": 4
+  },
+  "ch-2": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "AR-2C空地导弹",
+    "round": 7
+  },
+  "bzk-005c": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "BZK-005C改进型无人机",
+      "BZK-005C",
+      "BZK005C"
+    ],
+    "round": 3
+  },
+  "fh-95": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "飞鴻-95电子侦察无人机",
+      "FH-95",
+      "FH95"
+    ],
+    "round": 3
+  },
+  "sw-6": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "SW-6空射无人机",
+      "SW-6"
+    ],
+    "round": 4
+  },
+  "type-59g": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/ZTZ59D1%E4%B8%BB%E6%88%98%E5%9D%A6%E5%85%8B",
+    "title": "ZTZ59D1主战坦克",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc29030b61ae8dde71190ef6d45?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-59g.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      690,
+      424
+    ]
+  },
+  "type-88a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/88A%E5%BC%8F%E4%B8%BB%E6%88%98%E5%9D%A6%E5%85%8B",
+    "title": "88A式主战坦克",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/389aa8fd44da614c08244d33?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-88a.jpg",
+    "source": "baike_cdp_r3",
+    "size": [
+      420,
+      279
+    ]
+  },
+  "vt-4": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/VT-4%E4%B8%BB%E6%88%98%E5%9D%A6%E5%85%8B",
+    "title": "VT-4主战坦克",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/3b292df5e0fe9925bc312adf3eff49df8db1ca13dbbf?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/vt-4.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      800,
+      493
+    ]
+  },
+  "vt-5": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/VT-5%E8%BD%BB%E5%9E%8B%E5%9D%A6%E5%85%8B",
+    "title": "VT5轻型坦克",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a44623d40ad40f8f22720e0df37af2?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/vt-5.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1242,
+      828
+    ]
+  },
+  "type-92a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "92A式轮式步兵战车",
+      "ZSL-92A",
+      "ZSL92A"
+    ],
+    "round": 3
+  },
+  "zsd-05": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "05式两栖装甲输送车",
+      "ZSD-05",
+      "ZSD05"
+    ],
+    "round": 3
+  },
+  "zsl-08": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "08式轮式装甲输送车",
+      "ZSL-08",
+      "ZSL08"
+    ],
+    "round": 3
+  },
+  "vn1": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "VN1外销轮式装甲车",
+      "VN-1",
+      "VN1"
+    ],
+    "round": 3
+  },
+  "st1": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "ST1外销轮式突击炮",
+      "ST-1",
+      "G217莎塔公路"
+    ],
+    "round": 4
+  },
+  "mengshi-3": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%8C%9B%E5%A3%AB",
+    "title": "东风猛士",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b90e7bec54e736d12f2e7623020458c2d5628535c3d9?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/mengshi-3.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1600,
+      1200
+    ]
+  },
+  "type-81-122": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/81%E5%BC%8F%E7%81%AB%E7%AE%AD%E7%82%AE/3860335",
+    "title": "81式火箭炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1b138918b2b851f3deb48fc841?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-81-122.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      550,
+      378
+    ]
+  },
+  "type-83-273": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/WM-80%E5%BC%8F273%E6%AF%AB%E7%B1%B3%E7%81%AB%E7%AE%AD%E7%82%AE%E7%B3%BB%E7%BB%9F/4202787",
+    "title": "WM-80式273毫米火箭炮系统",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/5d6034a85edf8db1009d8d070623dd54564e7426?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-83-273.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      570,
+      416
+    ]
+  },
+  "type-82-130": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/82%E5%BC%8F130mm%E8%BD%AE%E5%BC%8F%E8%87%AA%E8%A1%8C%E7%81%AB%E7%AE%AD%E7%82%AE/6282686",
+    "title": "82式130mm轮式自行火箭炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b94f65ec465a6fb72e2e2100?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-82-130.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      576,
+      368
+    ]
+  },
+  "ar1-mlrs": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "骁龙 AR1",
+    "queries": [
+      "AR1/AR1A外销300毫米火箭炮",
+      "AR-1"
+    ],
+    "round": 5
+  },
+  "ar3-mlrs": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "JVC EX-AR3",
+    "queries": [
+      "AR3模組化远程火箭炮",
+      "AR-3",
+      "AR3进化版可选垂直起降无人机"
+    ],
+    "round": 4
+  },
+  "type-70-122": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "70式火箭筒",
+    "queries": [
+      "70式122毫米自行火炮",
+      "70型",
+      "70式",
+      "X70型集装箱专用平车"
+    ],
+    "round": 4
+  },
+  "type-85-122": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/122%E6%AF%AB%E7%B1%B3%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BC%B9%E7%82%AE/4848065",
+    "title": "122毫米自行榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f624e280b8ab8d44ebf81b4ca3bd?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-85-122.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      550,
+      412
+    ]
+  },
+  "plz-05a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/05A%E5%BC%8F155%E6%AF%AB%E7%B1%B3%E5%8A%A0%E6%A6%B4%E7%82%AE",
+    "title": "05A式155毫米加榴炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b999a9014c086e067f32bf920a087bf40bd1cb55?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/plz-05a.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1201,
+      797
+    ]
+  },
+  "sh1-155": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "电蟒SH-1",
+    "queries": [
+      "SH1式155毫米轮式自行炮",
+      "SH-1",
+      "电蟒SH-1"
+    ],
+    "round": 4
+  },
+  "sh2-122": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "SH-2G直升机",
+    "queries": [
+      "SH2式122毫米轮式自行炮",
+      "SH-2",
+      "SH-2“海妖”直升机"
+    ],
+    "round": 4
+  },
+  "sh5-105": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/SH5%E5%9E%8B105%E6%AF%AB%E7%B1%B3%E8%BD%A6%E8%BD%BD%E6%A6%B4%E5%BC%B9%E7%82%AE",
+    "title": "SH5型105毫米车载榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/1b0d4f0f46974d656059f39b?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/sh5-105.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1024,
+      640
+    ]
+  },
+  "sm4-120": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "重型迫击炮",
+    "queries": [
+      "SM4式120毫米自行迫击炮",
+      "SM-4",
+      "奥地利SM-4式120毫米迫击炮"
+    ],
+    "round": 4
+  },
+  "hj-9a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "红箭-9A反坦克导弹",
+      "红箭-9A"
+    ],
+    "round": 3
+  },
+  "pf-89a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "89A式单兵火箭筒",
+      "PF-89A",
+      "PF89A"
+    ],
+    "round": 3
+  },
+  "hn-6": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "红纓-6便攜防空导弹",
+      "HN-6",
+      "HN6"
+    ],
+    "round": 3
+  },
+  "qw-1m": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "前卫-18防空导弹",
+    "queries": [
+      "前卫-1M便攜防空导弹",
+      "QW-1M",
+      "前卫系列防空导弹"
+    ],
+    "round": 4
+  },
+  "qw-18": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E5%89%8D%E5%8D%AB-18%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9",
+    "title": "前卫-18防空导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d8f9d72a6059252d41b59aa33e9b033b5ab5b9f3?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/qw-18.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      500,
+      375
+    ]
+  },
+  "hq-7b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/FM-90%28FM-80M%29%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9",
+    "title": "FM-90(FM-80M)防空导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4d086e061d950a7b0208b266358d75d9f2d3572c6346?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/hq-7b.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1359,
+      810
+    ]
+  },
+  "tor-m1": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%9B%BE%E7%89%8C--%E9%81%93%E5%B0%94-M1%E5%9C%B0%E7%A9%BA%E5%AF%BC%E5%BC%B9%E7%B3%BB%E7%BB%9F",
+    "title": "盾牌--道尔-M1地空导弹系统",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/838ba61ea8d3fd1f3fb0b0ee3e4e251f94ca5fac?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/tor-m1.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      800,
+      538
+    ]
+  },
+  "mi-171": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%B1%B3-171",
+    "title": "米-171直升机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/562c11dfa9ec8a130ccedb53f503918fa1ecc0a9?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/mi-171.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      550,
+      364
+    ]
+  },
+  "pl-17": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "霹雳-7空空导弹",
+    "round": 7
+  },
+  "yu-6": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "鱼雷（鱼雷）",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "yu-7": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "潜射鱼雷",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "df-21c": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "东风导弹",
+    "round": 7
+  },
+  "pf-89": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/PF89A%E5%BC%8F80%E6%AF%AB%E7%B1%B3%E5%8D%95%E5%85%B5%E5%A4%9A%E7%94%A8%E9%80%94%E7%81%AB%E7%AE%AD%E7%AD%92",
+    "title": "PF89A式80毫米单兵多用途火箭筒",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f0708fa6c2328e324b899a901f2a9?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/pf-89.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      479,
+      267
+    ]
+  },
+  "df-15a": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "东风-16弹道导弹",
+    "round": 7
+  },
+  "j-16d": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AD%BC-16D",
+    "title": "歼-16D",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d8f792f66e24fa828ba71ee9ae?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-16d.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1600,
+      900
+    ]
+  },
+  "j-15t": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AD%BC-15T",
+    "title": "歼-15T",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/ca1349540923dd54564ed29a9850a4de9c82d058e2b2?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-15t.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1280,
+      720
+    ]
+  },
+  "wz-7": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%97%A0%E4%BE%A6-7",
+    "title": "无侦-7",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/1e30e924b899a9014c08f91c70c51d7b02087bf45fc2?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/wz-7.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      640,
+      480
+    ]
+  },
+  "type-039a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/039A%E5%9E%8B%E6%BD%9C%E8%89%87",
+    "title": "元级潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf6ee0c0b2f3dcd100baa12b72?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-039a.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1249,
+      834
+    ]
+  },
+  "type-039": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/039%E5%9E%8B%E6%BD%9C%E8%89%87",
+    "title": "039型潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/ae51f3deb48f8c5456bb378930292df5e0fe7f28?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-039.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      500,
+      362
+    ]
+  },
+  "type-815a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/815A%E5%9E%8B%E7%94%B5%E5%AD%90%E4%BE%A6%E5%AF%9F%E8%88%B9",
+    "title": "815A型电子侦察船",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d105ad92d182a3fb80e7bec908d?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-815a.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      752,
+      423
+    ]
+  },
+  "fn-16": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/FN-16%E5%8D%95%E5%85%B5%E4%BE%BF%E6%90%BA%E5%BC%8F%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9%E6%AD%A6%E5%99%A8%E7%B3%BB%E7%BB%9F",
+    "title": "FN-16单兵便携式防空导弹武器系统",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/adaf2edda3cc7cd98d1057ad3355363fb80e7bec3b31?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/fn-16.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1000,
+      674
+    ]
+  },
+  "jl-3": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E5%B7%A8%E6%B5%AA-3",
+    "title": "巨浪-3潜射洲际导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f7246b600c338744ebf8f3ec1954cef9d72a60590a55?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/jl-3.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1279,
+      831
+    ]
+  },
+  "hq-7": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%B5%B7%E7%BA%A2%E6%97%97-7",
+    "title": "红旗-7防空导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb1349543ed380025a4e9258d0094a82?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/hq-7.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1024,
+      768
+    ]
+  },
+  "type-730": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/730%E8%BF%91%E9%98%B2%E7%82%AE",
+    "title": "730型30毫米近防炮系统",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/5d6034a85edf8db1916708920a23dd54574e74fe?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-730.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      999,
+      737
+    ]
+  },
+  "type-1130": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/1130%E8%BF%91%E9%98%B2%E7%82%AE",
+    "title": "H/PJ-11型11管30毫米舰炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9345d688d43f8794a4c22afeb24819f41bd5ac6e8c9a?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-1130.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1600,
+      1074
+    ]
+  },
+  "fb-6a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "FAG 30226A轴承",
+    "queries": [
+      "FB-6A车载近程防空系統",
+      "FB-6A"
+    ],
+    "round": 4
+  },
+  "type-84a-avlb": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "M84主战坦克",
+    "queries": [
+      "84A式坦克架桥车",
+      "84A式主战坦克"
+    ],
+    "round": 4
+  },
+  "type-653-arv": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "中国653式装甲抢救车",
+    "queries": [
+      "653式坦克抢修车",
+      "653式主战坦克"
+    ],
+    "round": 4
+  },
+  "type-99-arv": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "中国99式改主战坦克",
+    "queries": [
+      "99式坦克抢修车",
+      "99式主战坦克"
+    ],
+    "round": 4
+  },
+  "dzj-08": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/DZJ08%E5%BC%8F%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%99%A8",
+    "title": "DZJ08式火箭发射器",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b8014a90f603738dd7874028bc1bb051f919ecef?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/dzj-08.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      640,
+      421
+    ]
+  },
+  "pp-87": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/W87%E5%BC%8F81%E6%AF%AB%E7%B1%B3%E8%BF%AB%E5%87%BB%E7%82%AE",
+    "title": "W87式81毫米迫击炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e850352ac65c1038940f6207b3119313b17e8986?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/pp-87.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      450,
+      600
+    ]
+  },
+  "pp-89": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "89式60毫米迫击炮",
+    "round": 7
+  },
+  "w86-120": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "琦基W86",
+    "queries": [
+      "W86120mm迫击炮",
+      "W-86"
+    ],
+    "round": 4
+  },
+  "qts-11": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/QTS-11",
+    "title": "QTS11式单兵综合作战系统",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/c8177f3e6709c93de691183c9a3df8dcd000549d?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/qts-11.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      600,
+      375
+    ]
+  },
+  "qlg-10": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "91B枪挂榴弹发射器",
+    "queries": [
+      "QLG10",
+      "QLG-10枪挂榴弹发射器",
+      "QLG-10枪榴弹发射器",
+      "QLG-10",
+      "35毫米榴弹发射器"
+    ],
+    "round": 7
+  },
+  "type-91b-gl": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "LG2枪挂式榴弹发射器",
+    "round": 7
+  },
+  "df-5c": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-5C",
+    "title": "东风-5C",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/50da81cb39dbb6fd52667d531c78bc18972bd4079908?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-5c.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      1000,
+      1480
+    ]
+  },
+  "df-100": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-100",
+    "title": "长剑-100巡航导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf3dabc93b16d8bc3eb135419f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-100.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      899,
+      522
+    ]
+  },
+  "yu-10": {
+    "ok": false,
+    "reason": "strict_clean:hard_reject:小米手环10",
+    "title": "小米手环10",
+    "prev_source": "baike_cdp_r5",
+    "round": 5
+  },
+  "yj-18a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E9%B9%B0%E5%87%BB-18A",
+    "title": "鹰击-18A",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb64636d13404a20a44623dc62?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/yj-18a.jpg",
+    "source": "baike_cdp_r4",
+    "size": [
+      899,
+      627
+    ]
+  },
+  "cx-1": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/CX-1%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9/16079125",
+    "title": "CX-1巡航导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/500fd9f9d72a60596732df4e2b34349b033bba47?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/cx-1.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      600,
+      450
+    ]
+  },
+  "cm-401": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/CM401%E5%8F%8D%E8%88%B0%E5%AF%BC%E5%BC%B9/53068817",
+    "title": "CM401反舰导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/42a98226cffc1e178a82675540c4e103738da9774300?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/cm-401.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1125,
+      1035
+    ]
+  },
+  "ba-9": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "英国航空9号班机事故",
+    "round": 7
+  },
+  "ld-10": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/LD-10%E5%8F%8D%E8%BE%90%E5%B0%84%E5%AF%BC%E5%BC%B9",
+    "title": "LD-10反辐射导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f703738da977391293c75534fb198618377ae286?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ld-10.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      500,
+      331
+    ]
+  },
+  "df-27": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "高超音速导弹",
+    "round": 7
+  },
+  "df-31b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-31",
+    "title": "东风-31新型陆基洲际导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/574e9258d109b3de9c82930687e47b81800a19d8e610?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-31b.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1600,
+      960
+    ]
+  },
+  "pl-9": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E9%9C%B9%E9%9B%B39%E5%9E%8B%E7%A9%BA%E7%A9%BA%E5%AF%BC%E5%BC%B9/8620680",
+    "title": "霹雳9型空空导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b17eca8065380cd791234850d01fba345982b2b72b40?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/pl-9.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      1600,
+      900
+    ]
+  },
+  "pl-11": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "歼-11BG",
+    "queries": [
+      "霹靂-11半主動空對空飞弹",
+      "霹雳-11"
+    ],
+    "round": 4
+  },
+  "zbd-03": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/ZBD-03%E7%A9%BA%E9%99%8D%E6%88%98%E8%BD%A6/22124758",
+    "title": "ZBD-03空降战车",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b87d6a95df373100828381f3050d6?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/zbd-03.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1280,
+      880
+    ]
+  },
+  "zsd-89": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/89%E5%BC%8F%E8%A3%85%E7%94%B2%E8%BE%93%E9%80%81%E8%BD%A6",
+    "title": "ZSD-89装甲输送车",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b632e63029d09338744eaf8ac81?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/zsd-89.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      550,
+      365
+    ]
+  },
+  "j-11a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AD%BC-11%E6%88%98%E6%96%97%E6%9C%BA",
+    "title": "歼-11",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9c16fdfaaf51f3deb48f8029f8b2e71f3a292df5d370?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-11a.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1600,
+      1067
+    ]
+  },
+  "su-30mk2": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%8B%8F-30MK2",
+    "title": "苏-30战斗机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/472309f7905298222c01da6bddca7bcb0a46d46c?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/su-30mk2.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1024,
+      768
+    ]
+  },
+  "su-27ubk": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%8B%8F-27UBK/459866",
+    "title": "苏-27UBK",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/eac4b74543a98226eefac3478b82b9014a90eb93?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/su-27ubk.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      480,
+      360
+    ]
+  },
+  "h-6h": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BD%B0-6%E8%BD%B0%E7%82%B8%E6%9C%BA",
+    "title": "轰-6",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/730e0cf3d7ca7bcb0a466fd4325c7c63f6246a600288?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/h-6h.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1000,
+      668
+    ]
+  },
+  "j-8f": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AD%BC-8F",
+    "title": "歼-8",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/03087bf40ad162d936eb00711bdfa9ec8a13cd52?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/j-8f.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1024,
+      1365
+    ]
+  },
+  "y-9": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BF%90-9%E8%BF%90%E8%BE%93%E6%9C%BA",
+    "title": "运-9（中国研发的中型中程运输机）",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/3b292df5e0fe9925c8037e0a37a85edf8db17158?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/y-9.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1024,
+      768
+    ]
+  },
+  "y-8gx": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BF%90-8",
+    "title": "运-8",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494eec90d699725f5e0fe99257e14?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/y-8gx.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      800,
+      528
+    ]
+  },
+  "bzk-005": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/BZK-005%E6%97%A0%E4%BA%BA%E6%9C%BA",
+    "title": "BZK-005",
+    "img_url": "https://f7.baidu.com/it/u=1330355432,771568109&fm=222&app=106&f=JPEG@s_1,w_660,h_370",
+    "path": "assets/images/bzk-005.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      660,
+      370
+    ]
+  },
+  "qjz-89": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/89%E5%BC%8F%E9%87%8D%E6%9C%BA%E6%9E%AA",
+    "title": "89式重机枪（中国研制的重机枪）",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/50da81cb39dbb6fd81f32b3f0424ab18972b377b?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/qjz-89.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      686,
+      430
+    ]
+  },
+  "cj-20": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E9%95%BF%E5%89%91-20A%E5%AF%BC%E5%BC%B9/66725190",
+    "title": "长剑-20A导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/5d6034a85edf8db1cb1375414078ca54564e9258ded9?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/cj-20.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      1600,
+      1015
+    ]
+  },
+  "fb-6c": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "飞弩-6单兵便携式防空导弹",
+    "queries": [
+      "FB-6C",
+      "飞弩便携防空",
+      "FB-6C便攜/车载防空",
+      "防空导弹"
+    ],
+    "round": 7
+  },
+  "wing-loong-1": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%BF%BC%E9%BE%99-1%E6%97%A0%E4%BA%BA%E6%9C%BA",
+    "title": "翼龙-1",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/78310a55b319ebc4b74575902f73d8fc1e178a82b827?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/wing-loong-1.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      1600,
+      1166
+    ]
+  },
+  "pl-21": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "空空导弹",
+    "round": 7
+  },
+  "hj-11": {
+    "ok": false,
+    "reason": "strict_clean:hard_reject",
+    "title": "ZDF89式履带式反坦克导弹发射车",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "df-3": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-3%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9/22469155",
+    "title": "东风-3弹道导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/32fa828ba61ea8d34231a510980a304e251f5897?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-3.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      580,
+      702
+    ]
+  },
+  "df-4": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-4%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9/22469120",
+    "title": "东风-4弹道导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/d009b3de9c82d158ccbf2a8fc9510ed8bc3eb135e4c0-bkimg-process,v_1,rw_1,rh_1,maxl_216,pad_1,color_ffffff?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-4.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      216,
+      216
+    ]
+  },
+  "gb-6": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "智能炸弹（一种用于空中打击的智能弹药）",
+    "round": 7
+  },
+  "ls-500j": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "雷石6滑翔制导炸弹",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "type-85-sniper": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/85%E5%BC%8F%E7%8B%99%E5%87%BB%E6%AD%A5%E6%9E%AA",
+    "title": "85式狙击步枪",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e850352ac65c10385343398d34478413b07eca80237f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-85-sniper.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      635,
+      388
+    ]
+  },
+  "w85-hmg": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "QJC-88式12.7mm车装机枪",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "fhj-84": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/FHJ84%E5%BC%8F62MM%E5%8D%95%E5%85%B5%E7%81%AB%E7%AE%AD%E7%AD%92/9464329",
+    "title": "FHJ84式62MM单兵火箭筒",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d53f8794a4c27d1ed21b77535b89ba6eddc450da92aa?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/fhj-84.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      1017,
+      442
+    ]
+  },
+  "qlb-06": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/QLB-06",
+    "title": "QLB-06",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/03087bf40ad162d96ae2d2e519dfa9ec8a13cd3f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/qlb-06.jpg",
+    "source": "baike_cdp_r5",
+    "round": 5,
+    "size": [
+      550,
+      363
+    ]
+  },
+  "type-77-hmg": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/77%E5%BC%8F%E9%AB%98%E5%B0%84%E6%9C%BA%E6%9E%AA/3889536",
+    "title": "77式高射机枪",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4ec2d5628535e5dd450f487478c6a7efce1b627e?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-77-hmg.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      580,
+      538
+    ]
+  },
+  "jy-27": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/JY-27%E9%9B%B7%E8%BE%BE/21498822",
+    "title": "JY-27雷达",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/c2cec3fdfc039245f5b74f178894a4c27d1e25a3?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/jy-27.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      481,
+      634
+    ]
+  },
+  "ylc-8b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/YLC-8E%E5%9E%8BUHF%E6%B3%A2%E6%AE%B5%E4%B8%89%E5%9D%90%E6%A0%87%E8%AD%A6%E6%88%92%E9%9B%B7%E8%BE%BE/56818235",
+    "title": "YLC-8E型UHF波段三坐标警戒雷达",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9213b07eca8065380cd705bf2c93b644ad3459822442?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ylc-8b.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      550,
+      525
+    ]
+  },
+  "slc-2": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%82%AE%E4%BD%8D%E4%BE%A6%E5%AF%9F%E9%9B%B7%E8%BE%BE/23120908",
+    "title": "炮位侦察雷达",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/faf2b2119313b07eca806c3d488b862397dda14426c8?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/slc-2.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      889,
+      500
+    ]
+  },
+  "jyl-1": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/JYL-1%E9%9B%B7%E8%BE%BE/21498823",
+    "title": "JYL-1雷达",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/a50f4bfbfbedab64034ffcb4a06ab8c379310a55b009?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/jyl-1.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      375,
+      428
+    ]
+  },
+  "asn-301": {
+    "ok": false,
+    "reason": "strict_clean:foreign_or_civil",
+    "title": "哈比无人机",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "ws-43": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/WS-43%E5%B7%A1%E9%A3%9E%E5%BC%B9/20164766",
+    "title": "WS-43巡飞弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/95eef01f3a292df5e0feaac4f76d4b6034a85fdfd594-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ws-43.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      640,
+      360
+    ]
+  },
+  "gj-1": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "察打一体无人机",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "yj-82": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "巡航导弹（以巡航状态在大气层内飞行的导弹）",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "c-704": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "C-705型反舰导弹",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "hhq-16bc": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%BA%A2%E6%97%97-16B/20454128",
+    "title": "红旗-16B",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/35a85edf8db1cb1349543b86890f414e9258d009dda9-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/hhq-16bc.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      640,
+      360
+    ]
+  },
+  "hhq-9b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%B5%B7%E7%BA%A2%E6%97%97-9B",
+    "title": "海红旗-9B导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9c16fdfaaf51f3de35a88d659beef01f3a29799c?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/hhq-9b.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      900,
+      600
+    ]
+  },
+  "kd-63": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "防区外对外导弹",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "kd-20": {
+    "ok": false,
+    "reason": "strict_clean:foreign_or_civil",
+    "title": "AS-3空地导弹",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "ar-1": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/AR-1%E7%A9%BA%E5%9C%B0%E5%AF%BC%E5%BC%B9/20448369",
+    "title": "AR-1空地导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/91ef76c6a7efce1b9d1697bba505e4deb48f8c54cf3c?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/ar-1.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      550,
+      365
+    ]
+  },
+  "df-5a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-5%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9/18590467",
+    "title": "东风-5弹道导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b58f8c5494eef01f3a2915a6a4a58e25bc315c60d707?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-5a.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      638,
+      442
+    ]
+  },
+  "df-12": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "东风-17导弹",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "df-15c": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-15C%E5%9E%8B%E5%AF%BC%E5%BC%B9/12021135",
+    "title": "东风-15C型导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/023b5bb5c9ea15ce87757466b0003af33b87b2c2?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/df-15c.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      550,
+      364
+    ]
+  },
+  "cj-10a": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E9%95%BF%E5%89%91-10%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9/2092183",
+    "title": "长剑-10巡航导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/smart/024f78f0f736afc379319772f142fcc4b74543a9b42b-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/cj-10a.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      640,
+      360
+    ]
+  },
+  "hn-1": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "q/hn-1-0000.08.033—2015 联合循环发电厂节能监督标准",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "hn-2": {
+    "ok": false,
+    "reason": "strict_clean:foreign_or_civil",
+    "title": "尼克尔28mmf/2.8",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "hn-3": {
+    "ok": false,
+    "reason": "strict_clean:foreign_or_civil",
+    "title": "尼康HN-3",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "cm-400akg": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/CM-400AKG%E7%A9%BA%E5%9C%B0%E5%AF%BC%E5%BC%B9/67502954",
+    "title": "CM-400AKG空地导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb134954092324aed8128558d109b2dedcfe?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/cm-400akg.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      719,
+      481
+    ]
+  },
+  "bp-12a": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "红旗-9防空导弹",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "b611": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/B-611%E5%AF%BC%E5%BC%B9/7111991",
+    "title": "B-611导弹",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4afbfbedab64034f431d4e2aaec379310b551dcd?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/b611.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      900,
+      600
+    ]
+  },
+  "type-54-122": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/54%E5%BC%8F122%E6%AF%AB%E7%B1%B3%E6%A6%B4%E5%BC%B9%E7%82%AE/12713268",
+    "title": "54式122毫米榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9e3df8dcd100baa1cd11d0424e44ae12c8fcc2ce80b4?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-54-122.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      640,
+      480
+    ]
+  },
+  "type-60-122": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/60%E5%BC%8F122%E6%AF%AB%E7%B1%B3%E5%8A%A0%E5%86%9C%E7%82%AE/2368647",
+    "title": "60式122毫米加农炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f29faa8fd485b2fdf11f3641?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-60-122.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      519,
+      300
+    ]
+  },
+  "type-59-130": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/59%E5%BC%8F130%E6%AF%AB%E7%B1%B3%E5%8A%A0%E5%86%9C%E7%82%AE/2368991",
+    "title": "59式130毫米加农炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/ea85a945801ba435cefca363?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-59-130.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      600,
+      383
+    ]
+  },
+  "type-86-122": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/86%E5%BC%8F122%E6%AF%AB%E7%B1%B3%E6%A6%B4%E5%BC%B9%E7%82%AE/2214047",
+    "title": "86式122毫米榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/c75c10385343fbf27fa706e5b17eca8064388f69?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-86-122.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      550,
+      344
+    ]
+  },
+  "type-83-152-towed": {
+    "ok": false,
+    "reason": "strict_clean:model_mismatch",
+    "title": "自行加榴炮",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "pll-01-155": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BDPLL01%E5%9E%8B155%E6%AF%AB%E7%B1%B3%E7%89%B5%E5%BC%95%E5%BC%8F%E5%8A%A0%E5%86%9C%E6%A6%B4%E5%BC%B9%E7%82%AE/9433758",
+    "title": "中国PLL01型155毫米牵引式加农榴弹炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d8f9d72a6059252dd42aea3042cd143b5bb5c9ea13f2?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/pll-01-155.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      582,
+      406
+    ]
+  },
+  "type-67-82": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/67%E5%BC%8F82%E6%AF%AB%E7%B1%B3%E8%BF%AB%E5%87%BB%E7%82%AE/9293861",
+    "title": "67式82毫米迫击炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f7246b600c338744ebf8ef1f6d54cef9d72a60590a06?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-67-82.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      500,
+      438
+    ]
+  },
+  "type-87-82": {
+    "ok": false,
+    "reason": "strict_clean:non_weapon",
+    "title": "PP87式82毫米迫击炮智能瞄准镜",
+    "round": 6,
+    "prev_source": "baike_cdp_r6"
+  },
+  "type-64-120": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/64%E5%BC%8F120%E6%AF%AB%E7%B1%B3%E8%BF%AB%E5%87%BB%E7%82%AE/6283505",
+    "title": "64式120毫米迫击炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/e4dde71190ef76c6021612a79716fdfaae516772?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-64-120.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      510,
+      477
+    ]
+  },
+  "type-56-160": {
+    "ok": true,
+    "query": "https://wapbaike.baidu.com/item/56%E5%BC%8F160%E6%AF%AB%E7%B1%B3%E8%BF%AB%E5%87%BB%E7%82%AE",
+    "title": "56式160毫米迫击炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/b21bb051f819861859e1496040ed2e738ad4e6b4?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-56-160.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      507,
+      414
+    ]
+  },
+  "type-75-145": {
+    "ok": true,
+    "query": "https://wapbaike.baidu.com/item/75%E5%BC%8F14.5%E6%AF%AB%E7%B1%B3%E9%AB%98%E5%B0%84%E6%9C%BA%E6%9E%AA",
+    "title": "75式14.5毫米高射机枪",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/a2cc7cd98d1001e939018b84005a6cec54e737d139b9?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-75-145.jpg",
+    "source": "baike_cdp_r6",
+    "round": 6,
+    "size": [
+      977,
+      655
+    ]
+  },
+  "gcj-112": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "装甲工程车",
+    "round": 7
+  },
+  "qgf-11": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "战术头盔",
+    "round": 7
+  },
+  "cs-sm1": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "M120 120毫米重型迫击炮",
+    "round": 7
+  },
+  "slc-7": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "609情报雷达",
+    "round": 7
+  },
+  "type-120-radar": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "JYL-1雷达",
+    "round": 7
+  },
+  "dwl-002": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/DWL002%E9%9B%B7%E8%BE%BE/21367462",
+    "title": "DWL002雷达",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/08f790529822720e0cf3cbf971961d46f21fbe097d39?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/dwl-002.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1600,
+      900
+    ]
+  },
+  "kq-200": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%A9%BA%E6%BD%9C200%E5%A4%A7%E5%9E%8B%E5%8F%8D%E6%BD%9C%E5%B7%A1%E9%80%BB%E6%9C%BA/17616212",
+    "title": "空潜200大型反潜巡逻机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9e3df8dcd100baa1cd11fb3e6549ae12c8fcc2ce80a7?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/kq-200.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1108,
+      651
+    ]
+  },
+  "y-9jz": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BF%90-9%E7%94%B5%E5%AD%90%E4%BE%A6%E5%AF%9F%E6%9C%BA/66725229",
+    "title": "运-9电子侦察机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/78310a55b319ebc4b745d8d9ca7dd8fc1e178a82b862?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/y-9jz.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1163,
+      654
+    ]
+  },
+  "y-5": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E8%BF%90-5%E8%BF%90%E8%BE%93%E6%9C%BA/2763793",
+    "title": "运-5运输机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18bdb1b89c1942f07082938fe48?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/y-5.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      960,
+      633
+    ]
+  },
+  "type-052dl": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%84%A6%E4%BD%9C%E8%88%B0/60043658",
+    "title": "焦作舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc2d56263f66385f01190ef77c6c7b5?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-052dl.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      870,
+      767
+    ]
+  },
+  "type-051b": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/051B%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0/3566405",
+    "title": "051B型驱逐舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/c9fcc3cec3fdfc031b4ae861d13f8794a4c2263c?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-051b.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      586,
+      1006
+    ]
+  },
+  "type-093": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/093%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87/1858084",
+    "title": "093型核潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9f510fb30f2442a7faab730cdb43ad4bd01302f5?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-093.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      445,
+      505
+    ]
+  },
+  "kilo": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E5%9F%BA%E6%B4%9B%E7%BA%A7%E6%BD%9C%E8%89%87/7405504",
+    "title": "基洛级潜艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/f7246b600c3387442506631e520fd9f9d62aa095?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/kilo.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      414,
+      862
+    ]
+  },
+  "yj-12b": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "超音速反舰导弹",
+    "round": 7
+  },
+  "type-07-uniform": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B2007%E5%BC%8F%E5%86%9B%E6%9C%8D/12668309",
+    "title": "中国人民解放军2007式军服",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/d8f9d72a6059252d3b2970e43e9b033b5bb5b910?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-07-uniform.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      960,
+      633
+    ]
+  },
+  "type-85-23": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "PG87式高炮",
+    "round": 7
+  },
+  "type-87-25": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "PG87式高炮",
+    "round": 7
+  },
+  "type-59-100aa": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD59%E5%BC%8F100%E6%AF%AB%E7%B1%B3%E9%AB%98%E5%B0%84%E7%82%AE/7012479",
+    "title": "中国59式100毫米高射炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/9f2f070828381f30d1336ba3a6014c086e06f096?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-59-100aa.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      550,
+      413
+    ]
+  },
+  "pgz-07": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "09式35毫米履带自行高炮",
+    "round": 7
+  },
+  "type-90-35aa": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "防空高射炮",
+    "round": 7
+  },
+  "type-68-rifle": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "Pz61/68主战坦克",
+    "round": 7
+  },
+  "qbz-192": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "QBZ192-狐影",
+    "round": 7
+  },
+  "js-9-smg": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "JS9毫米冲锋枪"
+    ],
+    "round": 7
+  },
+  "qjs-161": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "161式班用机枪",
+      "QJS-161"
+    ],
+    "round": 7
+  },
+  "type-85-hmg": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/85%E5%BC%8F%E9%AB%98%E5%B0%84%E6%9C%BA%E6%9E%AA/3890298",
+    "title": "85式高射机枪",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f70a580b1c7d0e0cf3d7cad68d?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-85-hmg.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1561,
+      1050
+    ]
+  },
+  "qbu-141": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "Kilo141",
+    "round": 7
+  },
+  "qbu-202": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "狙击步枪系统",
+    "queries": [
+      "202式狙击步枪",
+      "QBU-202"
+    ],
+    "round": 7
+  },
+  "cs-lr4": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/CS%20LR4%E7%8B%99%E5%87%BB%E6%AD%A5%E6%9E%AA/19969460",
+    "title": "CS LR4狙击步枪",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144dbb2bea6bdb7d0a20cf4866f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/cs-lr4.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      640,
+      427
+    ]
+  },
+  "cs-lr3": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/CS%2FLR3%E7%8B%99%E5%87%BB%E6%AD%A5%E6%9E%AA/16568220",
+    "title": "CS/LR3狙击步枪",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/024f78f0f736afc3793172bfd44efcc4b74542a9b4e8?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/cs-lr3.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      550,
+      420
+    ]
+  },
+  "m99-amr": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "美国M99狙击步枪",
+    "round": 7
+  },
+  "qsz-92g": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/92%E5%BC%8F%E6%89%8B%E6%9E%AA/5944091",
+    "title": "92式手枪（中国军用手枪）",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/902397dda144ad345982e97329f81bf431adcaef2fb6?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/qsz-92g.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1600,
+      1066
+    ]
+  },
+  "qx-04": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "QX-04手枪",
+      "QX-04"
+    ],
+    "round": 7
+  },
+  "pf-97": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "火箭筒（便携式反坦克武器）",
+    "round": 7
+  },
+  "type-63-60": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD63-1%E5%BC%8F60%E6%AF%AB%E7%B1%B3%E8%BF%AB%E5%87%BB%E7%82%AE/7012518",
+    "title": "中国63-1式60毫米迫击炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/c75c10385343fbf2b9c2dc3bb97eca8065388f3f?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-63-60.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      440,
+      326
+    ]
+  },
+  "type-90-60": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/90%E5%BC%8F60%E6%AF%AB%E7%B1%B3%E8%BF%AB%E5%87%BB%E7%82%AE/6283395",
+    "title": "90式60毫米迫击炮",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/908fa0ec08fa513d463d93c13a6d55fbb2fbd91e?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/type-90-60.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      550,
+      575
+    ]
+  },
+  "zzc-command": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "装甲通信车",
+    "round": 7
+  },
+  "field-fuel-truck": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "野战油罐车"
+    ],
+    "round": 7
+  },
+  "zubr": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E6%AC%A7%E6%B4%B2%E9%87%8E%E7%89%9B%E7%BA%A7%E6%B0%94%E5%9E%AB%E7%99%BB%E9%99%86%E8%88%B0/5791076",
+    "title": "欧洲野牛级气垫登陆舰",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/95eef01f3a292df5e7631721be315c6034a87365?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/zubr.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      800,
+      531
+    ]
+  },
+  "wing-loong-1d": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%BF%BC%E9%BE%99-1/62185183",
+    "title": "翼龙-1",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/78310a55b319ebc4b74575902f73d8fc1e178a82b827?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/wing-loong-1d.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      1600,
+      1166
+    ]
+  },
+  "wing-loong-3": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/%E7%BF%BC%E9%BE%99-3%E6%97%A0%E4%BA%BA%E6%9C%BA/62155774",
+    "title": "翼龙-3无人机",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec54e705c01c77ae389b504fc23dc3?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/wing-loong-3.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      640,
+      357
+    ]
+  },
+  "jari-usv": {
+    "ok": true,
+    "query": "https://baike.baidu.com/item/JARI-USV%E5%A4%9A%E7%94%A8%E9%80%94%E6%97%A0%E4%BA%BA%E4%BD%9C%E6%88%98%E8%89%87/24279777",
+    "title": "JARI-USV多用途无人作战艇",
+    "img_url": "https://bkimg.cdn.bcebos.com/pic/728da9773912b31bb05148afc644217adab44bed4bba?x-bce-process=image/quality,Q_90",
+    "path": "assets/images/jari-usv.jpg",
+    "source": "baike_cdp_r7",
+    "round": 7,
+    "size": [
+      600,
+      401
+    ]
+  },
+  "bbg011a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "BBG011A夜视仪",
+      "BBG-011A"
+    ],
+    "round": 7
+  },
+  "ft-series": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "飞騰系列精确炸弹"
+    ],
+    "round": 7
+  },
+  "gb-series": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "智能炸弹（一种用于空中打击的智能弹药）",
+    "round": 7
+  },
+  "type-06-armor": {
+    "ok": false,
+    "reason": "strict_clean:hard",
+    "title": "抗弹背心",
+    "round": 7
+  },
+  "qgf-02": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "QGF-02头盔",
+      "QGF-02"
+    ],
+    "round": 7
+  },
+  "rif-m": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "裡夫-M舰空飞弹系統"
+    ],
+    "round": 7
+  },
+  "shtil": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "施基利舰空飞弹系統"
+    ],
+    "round": 7
+  },
+  "type-346": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "346型有源相控陣雷達",
+      "346型",
+      "346式"
+    ],
+    "round": 7
+  },
+  "type-346a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "346A型相控陣雷達",
+      "346A型",
+      "346A式"
+    ],
+    "round": 7
+  },
+  "type-346b": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "346B型大型相控陣雷達",
+      "346B型",
+      "346B式"
+    ],
+    "round": 7
+  },
+  "df-zf": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "东风乘波體高超音速滑翔器"
+    ],
+    "round": 7
+  },
+  "jy-8": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "JY-8對空情報雷達",
+      "JY-8"
+    ],
+    "round": 7
+  },
+  "jy-9": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "JY-9低空补盲雷達",
+      "JY-9"
+    ],
+    "round": 7
+  },
+  "jy-11": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "JY-11對空搜索雷達",
+      "JY-11"
+    ],
+    "round": 7
+  },
+  "jy-14": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "JY-14远程對空雷達",
+      "JY-14"
+    ],
+    "round": 7
+  },
+  "jy-27a": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "JY-27A反隱身米波雷達",
+      "JY-27A"
+    ],
+    "round": 7
+  },
+  "jy-26": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "JY-26反隱身预警雷達",
+      "JY-26"
+    ],
+    "round": 7
+  },
+  "ylc-2": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "YLC-2三坐標雷達",
+      "YLC-2"
+    ],
+    "round": 7
+  },
+  "ylc-4": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "YLC-4远程警戒雷達",
+      "YLC-4"
+    ],
+    "round": 7
+  },
+  "ylc-6": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度百科_全球领先的中文百科全书",
+    "queries": [
+      "YLC-6低空雷達",
+      "YLC-6"
+    ],
+    "round": 7
+  },
+  "ylc-8": {
+    "ok": false,
+    "reason": "no_match_or_image",
+    "title": "百度安全驗證",
+    "queries": [
+      "YLC-8米波雷達",
+      "YLC-8"
+    ],
+    "round": 7
+  }
+}

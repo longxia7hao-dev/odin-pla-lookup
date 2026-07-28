@@ -22,3 +22,4 @@ tools/img_fetch.log
 
 # 缺圖工作清單（本機用）
 缺圖清單.txt
+.venv/

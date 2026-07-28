@@ -1,0 +1,2714 @@
+[
+  {
+    "id": "zbd-08",
+    "name_zh": "08式輪式步戰車",
+    "designation": "ZBD-08",
+    "branch": "陸軍",
+    "wiki": "Type 08 vehicle",
+    "subcategory": "ifv"
+  },
+  {
+    "id": "j-11bg",
+    "name_zh": "殲-11BG 戰鬥機",
+    "designation": "J-11BG",
+    "branch": "空軍",
+    "wiki": "Shenyang J-11",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "su-27ubk",
+    "name_zh": "蘇-27UBK 雙座",
+    "designation": "Su-27UBK",
+    "branch": "空軍",
+    "wiki": "Sukhoi Su-27",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "tb-001",
+    "name_zh": "雙尾蠍 TB-001",
+    "designation": "TB-001",
+    "branch": "空軍",
+    "wiki": "TB-001",
+    "subcategory": "uav"
+  },
+  {
+    "id": "asn-209",
+    "name_zh": "ASN-209 偵察無人機",
+    "designation": "ASN-209",
+    "branch": "空軍",
+    "wiki": "ASN-209",
+    "subcategory": "uav"
+  },
+  {
+    "id": "ch-7",
+    "name_zh": "彩虹-7 匿蹤無人機",
+    "designation": "CH-7",
+    "branch": "空軍",
+    "wiki": "CASC CH-7",
+    "subcategory": "uav"
+  },
+  {
+    "id": "type-093",
+    "name_zh": "093型攻擊核潛艦",
+    "designation": "Type 093",
+    "branch": "海軍",
+    "wiki": "Type 093 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-093b",
+    "name_zh": "093B型攻擊核潛艦",
+    "designation": "Type 093B",
+    "branch": "海軍",
+    "wiki": "Type 093 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-035",
+    "name_zh": "035型柴電潛艦",
+    "designation": "Type 035",
+    "branch": "海軍",
+    "wiki": "Type 035 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-19-ifv",
+    "name_zh": "19式輪式步兵戰車",
+    "designation": "Type 19",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "ifv"
+  },
+  {
+    "id": "wz-9",
+    "name_zh": "無偵-9 神鷹 偵察無人機",
+    "designation": "WZ-9",
+    "branch": "空軍",
+    "wiki": "Divine Eagle",
+    "subcategory": "uav"
+  },
+  {
+    "id": "type-032",
+    "name_zh": "032型潛艇（清級）",
+    "designation": "Type 032",
+    "branch": "海軍",
+    "wiki": "Type 032 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-039c",
+    "name_zh": "039C型潛艇（元級改）",
+    "designation": "Type 039C",
+    "branch": "海軍",
+    "wiki": "Type 039A submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-092",
+    "name_zh": "092型戰略核潛艇（夏級）",
+    "designation": "Type 092",
+    "branch": "海軍",
+    "wiki": "Type 092 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-096",
+    "name_zh": "096型戰略核潛艇（唐級，研發中）",
+    "designation": "Type 096",
+    "branch": "海軍",
+    "wiki": "Type 096 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "z-8g",
+    "name_zh": "直-8G 通用運輸直升機",
+    "designation": "Z-8G",
+    "branch": "陸軍",
+    "wiki": "Harbin Z-8",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "z-19e",
+    "name_zh": "直-19E 偵察攻擊直升機",
+    "designation": "Z-19E",
+    "branch": "陸軍",
+    "wiki": "Harbin Z-19",
+    "subcategory": "helicopter_attack"
+  },
+  {
+    "id": "z-15",
+    "name_zh": "直-15 中型多用途直升機",
+    "designation": "Z-15",
+    "branch": "陸軍",
+    "wiki": "Airbus Helicopters H175",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "j-7e",
+    "name_zh": "殲-7E／G 戰鬥機",
+    "designation": "J-7E",
+    "branch": "空軍",
+    "wiki": "Chengdu J-7",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "j-8b",
+    "name_zh": "殲-8B 攔截機",
+    "designation": "J-8B",
+    "branch": "空軍",
+    "wiki": "Shenyang J-8",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "ch-3",
+    "name_zh": "彩虹-3 察打無人機",
+    "designation": "CH-3",
+    "branch": "空軍",
+    "wiki": "CASC Rainbow",
+    "subcategory": "uav"
+  },
+  {
+    "id": "wing-loong-10",
+    "name_zh": "翼龍-10 高空長航時無人機",
+    "designation": "WL-10",
+    "branch": "空軍",
+    "wiki": "Wing Loong 10",
+    "subcategory": "uav"
+  },
+  {
+    "id": "wz-5",
+    "name_zh": "無偵-5 高空偵察無人機（舊式）",
+    "designation": "WZ-5",
+    "branch": "空軍",
+    "wiki": "Chengdu WZ-5",
+    "subcategory": "uav"
+  },
+  {
+    "id": "asn-206",
+    "name_zh": "ASN-206 戰術無人機",
+    "designation": "ASN-206",
+    "branch": "空軍",
+    "wiki": "ASN-206",
+    "subcategory": "uav"
+  },
+  {
+    "id": "type-80",
+    "name_zh": "80式主戰坦克",
+    "designation": "Type 80",
+    "branch": "陸軍",
+    "wiki": "Type 80 tank",
+    "subcategory": "mbt"
+  },
+  {
+    "id": "type-095",
+    "name_zh": "095型攻擊核潛艇（研發中）",
+    "designation": "Type 095",
+    "branch": "海軍",
+    "wiki": "Type 095 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-039b",
+    "name_zh": "039B型潛艇（元級）",
+    "designation": "Type 039B",
+    "branch": "海軍",
+    "wiki": "Type 039A submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "h-6d",
+    "name_zh": "轟-6D 海軍轟炸機",
+    "designation": "H-6D",
+    "branch": "海軍",
+    "wiki": "Xian H-6",
+    "subcategory": "aircraft_bomber"
+  },
+  {
+    "id": "ch-6",
+    "name_zh": "彩虹-6 高空長航時無人機",
+    "designation": "CH-6",
+    "branch": "空軍",
+    "wiki": "CASC Rainbow",
+    "subcategory": "uav"
+  },
+  {
+    "id": "fh-97",
+    "name_zh": "飛鴻-97 忠誠僚機",
+    "designation": "FH-97",
+    "branch": "空軍",
+    "wiki": "FH-97",
+    "subcategory": "uav"
+  },
+  {
+    "id": "wz-6",
+    "name_zh": "無偵-6 偵察無人機",
+    "designation": "WZ-6",
+    "branch": "空軍",
+    "wiki": "Guizhou WZ-6",
+    "subcategory": "uav"
+  },
+  {
+    "id": "type-093a",
+    "name_zh": "093A型攻擊核潛艇（商級改）",
+    "designation": "Type 093A",
+    "branch": "海軍",
+    "wiki": "Type 093 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-094a",
+    "name_zh": "094A型彈道導彈核潛艇（晉級改）",
+    "designation": "Type 094A",
+    "branch": "海軍",
+    "wiki": "Type 094 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-033g",
+    "name_zh": "033G型導彈潛艇（武漢級）",
+    "designation": "Type 033G",
+    "branch": "海軍",
+    "wiki": "Type 033 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-035a",
+    "name_zh": "035A型常規潛艇（明級改）",
+    "designation": "Type 035A",
+    "branch": "海軍",
+    "wiki": "Type 035 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-035b",
+    "name_zh": "035B型常規潛艇（明級後期）",
+    "designation": "Type 035B",
+    "branch": "海軍",
+    "wiki": "Type 035 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-035g",
+    "name_zh": "035G型常規潛艇",
+    "designation": "Type 035G",
+    "branch": "海軍",
+    "wiki": "Type 035 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "type-039g",
+    "name_zh": "039G型常規潛艇（宋級改）",
+    "designation": "Type 039G",
+    "branch": "海軍",
+    "wiki": "Type 039 submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "kilo-636",
+    "name_zh": "基洛級潛艇（636 改進型）",
+    "designation": "Project 636",
+    "branch": "海軍",
+    "wiki": "Kilo-class submarine",
+    "subcategory": "submarine"
+  },
+  {
+    "id": "j-5",
+    "name_zh": "殲-5戰鬥機",
+    "designation": "J-5",
+    "branch": "空軍",
+    "wiki": "Shenyang J-5",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "j-6",
+    "name_zh": "殲-6戰鬥機",
+    "designation": "J-6",
+    "branch": "空軍",
+    "wiki": "Shenyang J-6",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "j-8h",
+    "name_zh": "殲-8H戰鬥機",
+    "designation": "J-8H",
+    "branch": "空軍",
+    "wiki": "Shenyang J-8",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "j-10ce",
+    "name_zh": "殲-10CE外銷型",
+    "designation": "J-10CE",
+    "branch": "空軍",
+    "wiki": "Chengdu J-10",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "j-11bs",
+    "name_zh": "殲-11BS雙座型",
+    "designation": "J-11BS",
+    "branch": "空軍",
+    "wiki": "Shenyang J-11",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "j-15s",
+    "name_zh": "殲-15S雙座艦載機",
+    "designation": "J-15S",
+    "branch": "海軍",
+    "wiki": "Shenyang J-15",
+    "subcategory": "aircraft_fighter"
+  },
+  {
+    "id": "h-5",
+    "name_zh": "轟-5轟炸機",
+    "designation": "H-5",
+    "branch": "空軍",
+    "wiki": "Harbin H-5",
+    "subcategory": "aircraft_bomber"
+  },
+  {
+    "id": "h-6g",
+    "name_zh": "轟-6G海航型",
+    "designation": "H-6G",
+    "branch": "海軍",
+    "wiki": "Xian H-6",
+    "subcategory": "aircraft_bomber"
+  },
+  {
+    "id": "h-6m",
+    "name_zh": "轟-6M改進型",
+    "designation": "H-6M",
+    "branch": "空軍",
+    "wiki": "Xian H-6",
+    "subcategory": "aircraft_bomber"
+  },
+  {
+    "id": "h-20",
+    "name_zh": "轟-20戰略轟炸機",
+    "designation": "H-20",
+    "branch": "空軍",
+    "wiki": "Xian H-20",
+    "subcategory": "aircraft_bomber"
+  },
+  {
+    "id": "z-5",
+    "name_zh": "直-5直升機",
+    "designation": "Z-5",
+    "branch": "陸軍",
+    "wiki": "Harbin Z-5",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "z-6",
+    "name_zh": "直-6直升機",
+    "designation": "Z-6",
+    "branch": "陸軍",
+    "wiki": "Changhe Z-6",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "z-8a",
+    "name_zh": "直-8A陸軍運輸直升機",
+    "designation": "Z-8A",
+    "branch": "陸軍",
+    "wiki": "Harbin Z-8",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "z-18a",
+    "name_zh": "直-18A陸軍型",
+    "designation": "Z-18A",
+    "branch": "陸軍",
+    "wiki": "Changhe Z-18",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "z-18j",
+    "name_zh": "直-18J艦載預警直升機",
+    "designation": "Z-18J",
+    "branch": "海軍",
+    "wiki": "Changhe Z-18",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "z-9b",
+    "name_zh": "直-9B通用直升機",
+    "designation": "Z-9B",
+    "branch": "陸軍",
+    "wiki": "Harbin Z-9",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "z-10me",
+    "name_zh": "直-10ME外銷型",
+    "designation": "Z-10ME",
+    "branch": "陸軍",
+    "wiki": "CAIC Z-10",
+    "subcategory": "helicopter_attack"
+  },
+  {
+    "id": "z-21",
+    "name_zh": "直-21武裝直升機（研發中）",
+    "designation": "Z-21",
+    "branch": "陸軍",
+    "wiki": "Harbin Z-20",
+    "subcategory": "helicopter_attack"
+  },
+  {
+    "id": "mi-26",
+    "name_zh": "米-26重型運輸直升機",
+    "designation": "Mi-26",
+    "branch": "陸軍",
+    "wiki": "Mil Mi-26",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "ka-27",
+    "name_zh": "卡-27反潛直升機",
+    "designation": "Ka-27",
+    "branch": "海軍",
+    "wiki": "Kamov Ka-27",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "as565",
+    "name_zh": "AS565 黑豹艦載直升機",
+    "designation": "AS565",
+    "branch": "海軍",
+    "wiki": "Eurocopter AS565 Panther",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "sa321",
+    "name_zh": "超黃蜂直升機（SA321）",
+    "designation": "SA321",
+    "branch": "海軍",
+    "wiki": "Aérospatiale Alouette III",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "wing-loong-1d",
+    "name_zh": "翼龍-1D無人機",
+    "designation": "Wing Loong ID",
+    "branch": "空軍",
+    "wiki": "CAIG Wing Loong",
+    "subcategory": "uav"
+  },
+  {
+    "id": "wing-loong-3",
+    "name_zh": "翼龍-3無人機",
+    "designation": "Wing Loong III",
+    "branch": "空軍",
+    "wiki": "CAIG Wing Loong",
+    "subcategory": "uav"
+  },
+  {
+    "id": "ch-1",
+    "name_zh": "彩虹-1無人機",
+    "designation": "CH-1",
+    "branch": "陸軍",
+    "wiki": "CASC Rainbow",
+    "subcategory": "uav"
+  },
+  {
+    "id": "ch-2",
+    "name_zh": "彩虹-2無人機",
+    "designation": "CH-2",
+    "branch": "陸軍",
+    "wiki": "CASC Rainbow",
+    "subcategory": "uav"
+  },
+  {
+    "id": "bzk-005c",
+    "name_zh": "BZK-005C改進型無人機",
+    "designation": "BZK-005C",
+    "branch": "空軍",
+    "wiki": "BZK-005",
+    "subcategory": "uav"
+  },
+  {
+    "id": "fh-95",
+    "name_zh": "飛鴻-95電子偵察無人機",
+    "designation": "FH-95",
+    "branch": "空軍",
+    "wiki": "CASC Rainbow",
+    "subcategory": "uav"
+  },
+  {
+    "id": "sw-6",
+    "name_zh": "SW-6空射無人機",
+    "designation": "SW-6",
+    "branch": "空軍",
+    "wiki": "",
+    "subcategory": "uav"
+  },
+  {
+    "id": "jari-usv",
+    "name_zh": "JARI無人作戰艇",
+    "designation": "JARI",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "uav"
+  },
+  {
+    "id": "type-59g",
+    "name_zh": "59G式改進坦克",
+    "designation": "Type 59G",
+    "branch": "陸軍",
+    "wiki": "Type 59 tank",
+    "subcategory": "mbt"
+  },
+  {
+    "id": "type-88a",
+    "name_zh": "88A式主戰坦克",
+    "designation": "Type 88A",
+    "branch": "陸軍",
+    "wiki": "Type 88 tank",
+    "subcategory": "mbt"
+  },
+  {
+    "id": "vt-4",
+    "name_zh": "VT-4外銷主戰坦克（MBT-3000）",
+    "designation": "VT-4",
+    "branch": "陸軍",
+    "wiki": "VT-4",
+    "subcategory": "mbt"
+  },
+  {
+    "id": "vt-5",
+    "name_zh": "VT-5外銷輕型坦克",
+    "designation": "VT-5",
+    "branch": "陸軍",
+    "wiki": "Type 15 tank",
+    "subcategory": "light_tank"
+  },
+  {
+    "id": "type-92a",
+    "name_zh": "92A式輪式步兵戰車（ZSL-92A）",
+    "designation": "ZSL-92A",
+    "branch": "陸軍",
+    "wiki": "WZ-551",
+    "subcategory": "ifv"
+  },
+  {
+    "id": "hq-7b",
+    "name_zh": "紅旗-7B近程防空導彈",
+    "designation": "HQ-7B",
+    "branch": "陸軍",
+    "wiki": "HQ-7",
+    "subcategory": "sam"
+  },
+  {
+    "id": "tor-m1",
+    "name_zh": "道爾-M1防空導彈（引進）",
+    "designation": "Tor-M1",
+    "branch": "陸軍",
+    "wiki": "Tor missile system",
+    "subcategory": "sam"
+  },
+  {
+    "id": "fb-6a",
+    "name_zh": "FB-6A車載近程防空系統",
+    "designation": "FB-6A",
+    "branch": "陸軍",
+    "wiki": "FB-6A",
+    "subcategory": "sam"
+  },
+  {
+    "id": "mi-171",
+    "name_zh": "米-171 中型運輸直升機",
+    "designation": "Mi-171",
+    "branch": "陸軍",
+    "wiki": "Mil Mi-8",
+    "subcategory": "helicopter"
+  },
+  {
+    "id": "df-5c",
+    "name_zh": "東風-5C 洲際彈道飛彈",
+    "designation": "DF-5C",
+    "branch": "火箭軍",
+    "wiki": "DF-5",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "df-100",
+    "name_zh": "東風-100／長劍-100",
+    "designation": "DF-100",
+    "branch": "火箭軍",
+    "wiki": "CJ-100",
+    "subcategory": "cruise"
+  },
+  {
+    "id": "yj-18",
+    "name_zh": "鷹擊-18 反艦飛彈",
+    "designation": "YJ-18",
+    "branch": "海軍",
+    "wiki": "YJ-18",
+    "subcategory": "asm"
+  },
+  {
+    "id": "yj-21",
+    "name_zh": "鷹擊-21 高超音速反艦飛彈",
+    "designation": "YJ-21",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "asm"
+  },
+  {
+    "id": "pl-17",
+    "name_zh": "霹靂-17 超遠程空對空飛彈",
+    "designation": "PL-17",
+    "branch": "空軍",
+    "wiki": "",
+    "subcategory": "aam"
+  },
+  {
+    "id": "fb-6c",
+    "name_zh": "FB-6C 便攜／車載防空",
+    "designation": "FB-6C",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "sam"
+  },
+  {
+    "id": "yj-18a",
+    "name_zh": "鷹擊-18A 潛射反艦飛彈",
+    "designation": "YJ-18A",
+    "branch": "海軍",
+    "wiki": "YJ-18",
+    "subcategory": "asm"
+  },
+  {
+    "id": "cx-1",
+    "name_zh": "CX-1 超音速反艦飛彈（出口）",
+    "designation": "CX-1",
+    "branch": "海軍",
+    "wiki": "CX-1",
+    "subcategory": "asm"
+  },
+  {
+    "id": "cm-401",
+    "name_zh": "CM-401 反艦彈道飛彈（出口展示）",
+    "designation": "CM-401",
+    "branch": "海軍",
+    "wiki": "CM-401",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "ld-10",
+    "name_zh": "雷霆-10 反輻射飛彈",
+    "designation": "LD-10",
+    "branch": "空軍",
+    "wiki": "",
+    "subcategory": "asm"
+  },
+  {
+    "id": "df-27",
+    "name_zh": "東風-27 彈道飛彈",
+    "designation": "DF-27",
+    "branch": "火箭軍",
+    "wiki": "DF-27",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "df-31b",
+    "name_zh": "東風-31B 洲際彈道飛彈",
+    "designation": "DF-31B",
+    "branch": "火箭軍",
+    "wiki": "DF-31",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "asn-301",
+    "name_zh": "ASN-301 反輻射無人機",
+    "designation": "ASN-301",
+    "branch": "空軍",
+    "wiki": "ASN-301",
+    "subcategory": "uav"
+  },
+  {
+    "id": "ws-43",
+    "name_zh": "WS-43 巡飛彈",
+    "designation": "WS-43",
+    "branch": "陸軍",
+    "wiki": "WS-43",
+    "subcategory": "uav"
+  },
+  {
+    "id": "ch-901",
+    "name_zh": "彩虹-901 巡飛彈",
+    "designation": "CH-901",
+    "branch": "陸軍",
+    "wiki": "CASC Rainbow",
+    "subcategory": "uav"
+  },
+  {
+    "id": "gj-1",
+    "name_zh": "攻擊-1 察打無人機",
+    "designation": "GJ-1",
+    "branch": "空軍",
+    "wiki": "CAIG Wing Loong",
+    "subcategory": "uav"
+  },
+  {
+    "id": "hhq-16bc",
+    "name_zh": "海紅旗-16B/C 艦空飛彈",
+    "designation": "HHQ-16B",
+    "branch": "海軍",
+    "wiki": "HQ-16",
+    "subcategory": "sam"
+  },
+  {
+    "id": "hhq-9b",
+    "name_zh": "海紅旗-9B 艦空飛彈",
+    "designation": "HHQ-9B",
+    "branch": "海軍",
+    "wiki": "HQ-9",
+    "subcategory": "sam"
+  },
+  {
+    "id": "rif-m",
+    "name_zh": "裡夫-M 艦空飛彈系統",
+    "designation": "Rif-M",
+    "branch": "海軍",
+    "wiki": "S-300 missile system",
+    "subcategory": "sam"
+  },
+  {
+    "id": "shtil",
+    "name_zh": "施基利 艦空飛彈系統",
+    "designation": "Shtil",
+    "branch": "海軍",
+    "wiki": "9K37 Buk",
+    "subcategory": "sam"
+  },
+  {
+    "id": "pll-09",
+    "name_zh": "PLL-09 122mm輪式自走砲",
+    "designation": "PLL-09",
+    "branch": "陸軍",
+    "wiki": "Type 08 vehicle",
+    "subcategory": "sph"
+  },
+  {
+    "id": "zsl-10",
+    "name_zh": "10式輪式裝甲車",
+    "designation": "ZSL-10",
+    "branch": "陸軍",
+    "wiki": "Type 08 vehicle",
+    "subcategory": "apc_wheeled"
+  },
+  {
+    "id": "plz-89",
+    "name_zh": "PLZ-89 122mm自走榴彈砲",
+    "designation": "PLZ-89",
+    "branch": "陸軍",
+    "wiki": "Type 89 self-propelled howitzer",
+    "subcategory": "sph"
+  },
+  {
+    "id": "pcl-181",
+    "name_zh": "PCL-181 155mm車載加榴砲",
+    "designation": "PCL-181",
+    "branch": "陸軍",
+    "wiki": "PCL-181",
+    "subcategory": "truck_howitzer"
+  },
+  {
+    "id": "pcl-171",
+    "name_zh": "PCL-171 輕型突擊車",
+    "designation": "PCL-171",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "light_vehicle"
+  },
+  {
+    "id": "pcl-161",
+    "name_zh": "PCL-161 122mm車載砲",
+    "designation": "PCL-161",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "truck_howitzer"
+  },
+  {
+    "id": "phz-11",
+    "name_zh": "PHZ-11 122mm多管火箭",
+    "designation": "PHZ-11",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "phl-81",
+    "name_zh": "PHL-81 122mm火箭砲",
+    "designation": "PHL-81",
+    "branch": "陸軍",
+    "wiki": "Type 81 multiple rocket launcher",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "pgz-95",
+    "name_zh": "PGZ-95 25mm自行高砲",
+    "designation": "PGZ-95",
+    "branch": "陸軍",
+    "wiki": "Type 95 SPAAG",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "pgz-04a",
+    "name_zh": "PGZ-04A 自行高砲",
+    "designation": "PGZ-04A",
+    "branch": "陸軍",
+    "wiki": "Type 95 SPAAG",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "ld-2000",
+    "name_zh": "LD-2000 陸基近防砲",
+    "designation": "LD-2000",
+    "branch": "陸軍",
+    "wiki": "LD-2000",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "type-055",
+    "name_zh": "055型驅逐艦",
+    "designation": "Type 055",
+    "branch": "海軍",
+    "wiki": "Type 055 destroyer",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-052dl",
+    "name_zh": "052DL型驅逐艦",
+    "designation": "Type 052DL",
+    "branch": "海軍",
+    "wiki": "Type 052D destroyer",
+    "subcategory": "warship"
+  },
+  {
+    "id": "sovremenny",
+    "name_zh": "現代級驅逐艦",
+    "designation": "Project 956E/EM",
+    "branch": "海軍",
+    "wiki": "Sovremenny-class destroyer",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-054b",
+    "name_zh": "054B型護衛艦",
+    "designation": "Type 054B",
+    "branch": "海軍",
+    "wiki": "Type 054B frigate",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-726",
+    "name_zh": "726型氣墊登陸艇",
+    "designation": "Type 726",
+    "branch": "海軍",
+    "wiki": "Type 726 LCAC",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-004-rumor",
+    "name_zh": "下一代核動力航母（公開討論）",
+    "designation": "Type 004?",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "warship"
+  },
+  {
+    "id": "gcl-111",
+    "name_zh": "GCL-111 架橋車",
+    "designation": "GCL-111",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "engineer"
+  },
+  {
+    "id": "gcj-112",
+    "name_zh": "GCJ 工程車系列",
+    "designation": "GCJ series",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "engineer"
+  },
+  {
+    "id": "type-84-minelayer",
+    "name_zh": "84式布雷車",
+    "designation": "Type 84",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "engineer"
+  },
+  {
+    "id": "pll-01",
+    "name_zh": "PLL-01 100mm突擊砲",
+    "designation": "PLL-01",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "assault_gun"
+  },
+  {
+    "id": "type-83-sph",
+    "name_zh": "83式152mm自走砲",
+    "designation": "Type 83",
+    "branch": "陸軍",
+    "wiki": "Type 83 SPH",
+    "subcategory": "sph"
+  },
+  {
+    "id": "a100",
+    "name_zh": "A-100 遠程火箭（出口／相關）",
+    "designation": "A-100",
+    "branch": "陸軍",
+    "wiki": "A-100",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "sr5",
+    "name_zh": "SR-5 模組火箭系統",
+    "designation": "SR-5",
+    "branch": "陸軍",
+    "wiki": "SR-5",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "pcz-171",
+    "name_zh": "PCZ-171 突擊車變型",
+    "designation": "PCZ-171",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "light_vehicle"
+  },
+  {
+    "id": "kj-3000",
+    "name_zh": "空警-3000 預警機",
+    "designation": "KJ-3000",
+    "branch": "空軍",
+    "wiki": "",
+    "subcategory": "aircraft_aew"
+  },
+  {
+    "id": "type-053h2g",
+    "name_zh": "053H2G型護衛艦（江衛I級）",
+    "designation": "Type 053H2G",
+    "branch": "海軍",
+    "wiki": "Type 053 frigate",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-053h1g",
+    "name_zh": "053H1G型護衛艦（江湖V級）",
+    "designation": "Type 053H1G",
+    "branch": "海軍",
+    "wiki": "Type 053 frigate",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-053h",
+    "name_zh": "053H型護衛艦（江湖I級）",
+    "designation": "Type 053H",
+    "branch": "海軍",
+    "wiki": "Type 053 frigate",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-037is",
+    "name_zh": "037IS型獵潛艇（海青級）",
+    "designation": "Type 037IS",
+    "branch": "海軍",
+    "wiki": "Hainan-class submarine chaser",
+    "subcategory": "patrol_boat"
+  },
+  {
+    "id": "type-062",
+    "name_zh": "062型砲艇（上海級）",
+    "designation": "Type 062",
+    "branch": "海軍",
+    "wiki": "Shanghai-class gunboat",
+    "subcategory": "patrol_boat"
+  },
+  {
+    "id": "type-021",
+    "name_zh": "021型飛彈快艇（黃蜂級）",
+    "designation": "Type 021",
+    "branch": "海軍",
+    "wiki": "Type 021-class missile boat",
+    "subcategory": "patrol_boat"
+  },
+  {
+    "id": "type-904",
+    "name_zh": "904型補給艦（大運級）",
+    "designation": "Type 904",
+    "branch": "海軍",
+    "wiki": "Type 904 replenishment ship",
+    "subcategory": "replenishment"
+  },
+  {
+    "id": "type-905",
+    "name_zh": "905型補給艦（福清級）",
+    "designation": "Type 905",
+    "branch": "海軍",
+    "wiki": "Fuqing-class tanker",
+    "subcategory": "replenishment"
+  },
+  {
+    "id": "type-926",
+    "name_zh": "926型潛艇支援救援艦（大江級）",
+    "designation": "Type 926",
+    "branch": "海軍",
+    "wiki": "Type 926 submarine support ship",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "type-636a",
+    "name_zh": "636A型測量船",
+    "designation": "Type 636A",
+    "branch": "海軍",
+    "wiki": "Type 636A survey ship",
+    "subcategory": "survey_ship"
+  },
+  {
+    "id": "type-818",
+    "name_zh": "818型海警船（昭頭級）",
+    "designation": "Type 818",
+    "branch": "海軍",
+    "wiki": "Zhaotou-class patrol vessel",
+    "subcategory": "coast_guard"
+  },
+  {
+    "id": "type-718b",
+    "name_zh": "718B型海警巡邏船",
+    "designation": "Type 718B",
+    "branch": "海軍",
+    "wiki": "China Coast Guard",
+    "subcategory": "coast_guard"
+  },
+  {
+    "id": "q-5",
+    "name_zh": "強-5 攻擊機",
+    "designation": "Q-5",
+    "branch": "空軍",
+    "wiki": "Nanchang Q-5",
+    "subcategory": "aircraft_strike"
+  },
+  {
+    "id": "y-8g",
+    "name_zh": "運-8G 電子戰機",
+    "designation": "Y-8G",
+    "branch": "空軍",
+    "wiki": "Shaanxi Y-8",
+    "subcategory": "aircraft_recon"
+  },
+  {
+    "id": "y-9g",
+    "name_zh": "運-9G 電子戰機",
+    "designation": "Y-9G",
+    "branch": "空軍",
+    "wiki": "Shaanxi Y-9",
+    "subcategory": "aircraft_recon"
+  },
+  {
+    "id": "ptl-02",
+    "name_zh": "PTL-02 輪式突擊砲",
+    "designation": "PTL-02",
+    "branch": "陸軍",
+    "wiki": "PTL02",
+    "subcategory": "assault_gun"
+  },
+  {
+    "id": "plz-52",
+    "name_zh": "PLZ-52 155mm 自走榴彈砲",
+    "designation": "PLZ-52",
+    "branch": "陸軍",
+    "wiki": "PLZ-52",
+    "subcategory": "sph"
+  },
+  {
+    "id": "sh-15",
+    "name_zh": "SH-15 155mm 車載榴彈砲",
+    "designation": "SH-15",
+    "branch": "陸軍",
+    "wiki": "SH-15",
+    "subcategory": "truck_howitzer"
+  },
+  {
+    "id": "phl-11",
+    "name_zh": "PHL-11 122mm 火箭砲",
+    "designation": "PHL-11",
+    "branch": "陸軍",
+    "wiki": "PHL-11",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "gsl-131",
+    "name_zh": "GSL-131 掃雷破障車",
+    "designation": "GSL-131",
+    "branch": "陸軍",
+    "wiki": "GSL-131",
+    "subcategory": "engineer"
+  },
+  {
+    "id": "gcz-112",
+    "name_zh": "GCZ-112 裝甲工程車",
+    "designation": "GCZ-112",
+    "branch": "陸軍",
+    "wiki": "GCZ-112",
+    "subcategory": "engineer"
+  },
+  {
+    "id": "type-84-bridge",
+    "name_zh": "84式架橋坦克",
+    "designation": "Type 84",
+    "branch": "陸軍",
+    "wiki": "Type 84 bridgelayer",
+    "subcategory": "bridge"
+  },
+  {
+    "id": "type-654-arv",
+    "name_zh": "654式裝甲搶救車",
+    "designation": "Type 654",
+    "branch": "陸軍",
+    "wiki": "Type 654 armoured recovery vehicle",
+    "subcategory": "recovery"
+  },
+  {
+    "id": "type-053h1",
+    "name_zh": "053H1型護衛艦（江湖II級）",
+    "designation": "Type 053H1",
+    "branch": "海軍",
+    "wiki": "Type 053 frigate",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-024",
+    "name_zh": "024型飛彈艇（河谷級）",
+    "designation": "Type 024",
+    "branch": "海軍",
+    "wiki": "Type 024 missile boat",
+    "subcategory": "patrol_boat"
+  },
+  {
+    "id": "type-909",
+    "name_zh": "909型試驗艦（畢昇級）",
+    "designation": "Type 909",
+    "branch": "海軍",
+    "wiki": "Type 909 experimental ship",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "type-925",
+    "name_zh": "925型潛艇支援艦（大峰級）",
+    "designation": "Type 925",
+    "branch": "海軍",
+    "wiki": "Type 925 submarine support ship",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "pgz-88",
+    "name_zh": "88式自行高射砲",
+    "designation": "Type 88",
+    "branch": "陸軍",
+    "wiki": "Type 88 self-propelled anti-aircraft gun",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "type-65-aaa",
+    "name_zh": "65式 37mm 高射砲",
+    "designation": "Type 65",
+    "branch": "陸軍",
+    "wiki": "Type 65 anti-aircraft gun",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "type-74-aaa",
+    "name_zh": "74式雙 37mm 高射砲",
+    "designation": "Type 74",
+    "branch": "陸軍",
+    "wiki": "Type 74 anti-aircraft gun",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "zzc-command",
+    "name_zh": "裝甲指揮通信車",
+    "designation": "ZZC",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "light_vehicle"
+  },
+  {
+    "id": "sx2306-truck",
+    "name_zh": "陝汽 SX2306 越野卡車",
+    "designation": "SX2306",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "light_vehicle"
+  },
+  {
+    "id": "field-fuel-truck",
+    "name_zh": "野戰油罐車",
+    "designation": "Fuel Truck",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "light_vehicle"
+  },
+  {
+    "id": "type-052",
+    "name_zh": "052型驅逐艦（旅滬級）",
+    "designation": "Type 052",
+    "branch": "海軍",
+    "wiki": "Type 052 destroyer",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-051dt",
+    "name_zh": "051DT型驅逐艦（旅大III級）",
+    "designation": "Type 051DT",
+    "branch": "海軍",
+    "wiki": "Type 051 destroyer",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-051g",
+    "name_zh": "051G型驅逐艦（旅大IV級）",
+    "designation": "Type 051G",
+    "branch": "海軍",
+    "wiki": "Type 051 destroyer",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-055a",
+    "name_zh": "055A型驅逐艦（改進型，研發中）",
+    "designation": "Type 055A",
+    "branch": "海軍",
+    "wiki": "Type 055 destroyer",
+    "subcategory": "warship"
+  },
+  {
+    "id": "sovremenny-em",
+    "name_zh": "現代級驅逐艦（956EM）",
+    "designation": "Project 956EM",
+    "branch": "海軍",
+    "wiki": "Sovremenny-class destroyer",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-065",
+    "name_zh": "065型護衛艦（江南級）",
+    "designation": "Type 065",
+    "branch": "海軍",
+    "wiki": "Type 065 frigate",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-053k",
+    "name_zh": "053K型護衛艦（江東級）",
+    "designation": "Type 053K",
+    "branch": "海軍",
+    "wiki": "Type 053K frigate",
+    "subcategory": "warship"
+  },
+  {
+    "id": "type-037i",
+    "name_zh": "037I型獵潛艇（海青級基型）",
+    "designation": "Type 037I",
+    "branch": "海軍",
+    "wiki": "Hainan-class submarine chaser",
+    "subcategory": "patrol_boat"
+  },
+  {
+    "id": "type-037ig",
+    "name_zh": "037IG型飛彈艇（紅星級）",
+    "designation": "Type 037IG",
+    "branch": "海軍",
+    "wiki": "Houxin-class missile boat",
+    "subcategory": "patrol_boat"
+  },
+  {
+    "id": "type-026",
+    "name_zh": "026型魚雷艇（滬川級）",
+    "designation": "Type 026",
+    "branch": "海軍",
+    "wiki": "Huchuan-class torpedo boat",
+    "subcategory": "patrol_boat"
+  },
+  {
+    "id": "type-062i",
+    "name_zh": "062I型護衛艇（上海III級）",
+    "designation": "Type 062I",
+    "branch": "海軍",
+    "wiki": "Shanghai-class gunboat",
+    "subcategory": "patrol_boat"
+  },
+  {
+    "id": "yu-8",
+    "name_zh": "魚-8 火箭助飛魚雷",
+    "designation": "Yu-8",
+    "branch": "海軍",
+    "wiki": "CY-5",
+    "subcategory": "torpedo"
+  },
+  {
+    "id": "yu-9",
+    "name_zh": "魚-9 魚雷",
+    "designation": "Yu-9",
+    "branch": "海軍",
+    "wiki": "Chinese torpedo",
+    "subcategory": "torpedo"
+  },
+  {
+    "id": "type-071e",
+    "name_zh": "071E型船塢登陸艦（外銷）",
+    "designation": "Type 071E",
+    "branch": "海軍",
+    "wiki": "Type 071 amphibious transport dock",
+    "subcategory": "amphibious_ship"
+  },
+  {
+    "id": "type-072ii",
+    "name_zh": "072II型坦克登陸艦（玉亭I級）",
+    "designation": "Type 072II",
+    "branch": "海軍",
+    "wiki": "Type 072 landing ship",
+    "subcategory": "amphibious_ship"
+  },
+  {
+    "id": "type-271",
+    "name_zh": "271型登陸艇（雲南級）",
+    "designation": "Type 271",
+    "branch": "海軍",
+    "wiki": "Yunnan-class landing craft",
+    "subcategory": "amphibious_ship"
+  },
+  {
+    "id": "type-726a",
+    "name_zh": "726A型氣墊登陸艇（玉義級改）",
+    "designation": "Type 726A",
+    "branch": "海軍",
+    "wiki": "Type 726 LCAC",
+    "subcategory": "amphibious_ship"
+  },
+  {
+    "id": "zubr",
+    "name_zh": "野牛級氣墊登陸艇（1232.2）",
+    "designation": "Zubr",
+    "branch": "海軍",
+    "wiki": "Zubr-class LCAC",
+    "subcategory": "amphibious_ship"
+  },
+  {
+    "id": "type-081a",
+    "name_zh": "081A型獵掃雷艦（渦藏改）",
+    "designation": "Type 081A",
+    "branch": "海軍",
+    "wiki": "Type 081 minesweeper",
+    "subcategory": "minesweeper"
+  },
+  {
+    "id": "type-010",
+    "name_zh": "010型掃雷艦（T-43 系）",
+    "designation": "Type 010",
+    "branch": "海軍",
+    "wiki": "T43-class minesweeper",
+    "subcategory": "minesweeper"
+  },
+  {
+    "id": "type-312",
+    "name_zh": "312型掃雷艇",
+    "designation": "Type 312",
+    "branch": "海軍",
+    "wiki": "Type 312 minesweeper",
+    "subcategory": "minesweeper"
+  },
+  {
+    "id": "type-903",
+    "name_zh": "903型綜合補給艦（福池級）",
+    "designation": "Type 903",
+    "branch": "海軍",
+    "wiki": "Type 903 replenishment ship",
+    "subcategory": "replenishment"
+  },
+  {
+    "id": "type-904b",
+    "name_zh": "904B型補給艦（大運級改）",
+    "designation": "Type 904B",
+    "branch": "海軍",
+    "wiki": "Type 904 replenishment ship",
+    "subcategory": "replenishment"
+  },
+  {
+    "id": "type-815",
+    "name_zh": "815型電子偵察船（東調級）",
+    "designation": "Type 815",
+    "branch": "海軍",
+    "wiki": "Dongdiao-class surveillance ship",
+    "subcategory": "survey_ship"
+  },
+  {
+    "id": "type-927",
+    "name_zh": "927型海洋監視船（拖曳陣）",
+    "designation": "Type 927",
+    "branch": "海軍",
+    "wiki": "Type 927 surveillance ship",
+    "subcategory": "survey_ship"
+  },
+  {
+    "id": "type-639",
+    "name_zh": "639型水文測量船",
+    "designation": "Type 639",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "survey_ship"
+  },
+  {
+    "id": "type-636-survey",
+    "name_zh": "636型海洋測量船",
+    "designation": "Type 636",
+    "branch": "海軍",
+    "wiki": "Type 636A survey ship",
+    "subcategory": "survey_ship"
+  },
+  {
+    "id": "yuanwang-7",
+    "name_zh": "遠望7號航天測量船",
+    "designation": "Yuan Wang 7",
+    "branch": "海軍",
+    "wiki": "Yuanwang",
+    "subcategory": "survey_ship"
+  },
+  {
+    "id": "type-922",
+    "name_zh": "922型救生打撈船",
+    "designation": "Type 922",
+    "branch": "海軍",
+    "wiki": "Type 922 salvage ship",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "type-917",
+    "name_zh": "917型援潛救生船",
+    "designation": "Type 917",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "lr7-dsrv",
+    "name_zh": "LR7 深潛救生艇",
+    "designation": "LR7",
+    "branch": "海軍",
+    "wiki": "LR7",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "haibing-722",
+    "name_zh": "海冰722破冰船",
+    "designation": "Haibing 722",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "shichang",
+    "name_zh": "世昌艦國防動員艦（Type 89）",
+    "designation": "Type 89",
+    "branch": "海軍",
+    "wiki": "Chinese ship Shichang",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "type-910",
+    "name_zh": "910型試驗艦",
+    "designation": "Type 910",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "auxiliary"
+  },
+  {
+    "id": "ccg-3901",
+    "name_zh": "海警3901大型巡邏艦",
+    "designation": "CCG 3901",
+    "branch": "海軍",
+    "wiki": "Zhaotou-class patrol vessel",
+    "subcategory": "coast_guard"
+  },
+  {
+    "id": "jj-7",
+    "name_zh": "殲教-7",
+    "designation": "JJ-7",
+    "branch": "空軍",
+    "wiki": "Guizhou JL-9",
+    "subcategory": "aircraft_trainer"
+  },
+  {
+    "id": "hyj-7",
+    "name_zh": "轟教-7",
+    "designation": "HYJ-7",
+    "branch": "空軍",
+    "wiki": "Xian H-6",
+    "subcategory": "aircraft_trainer"
+  },
+  {
+    "id": "y-20b",
+    "name_zh": "運-20B改進型",
+    "designation": "Y-20B",
+    "branch": "空軍",
+    "wiki": "Xian Y-20",
+    "subcategory": "aircraft_transport"
+  },
+  {
+    "id": "zdk-03",
+    "name_zh": "ZDK-03預警機",
+    "designation": "ZDK-03",
+    "branch": "空軍",
+    "wiki": "ZDK-03",
+    "subcategory": "aircraft_aew"
+  },
+  {
+    "id": "gx-1",
+    "name_zh": "高新1號電子偵察機（運-8CB）",
+    "designation": "GX-1",
+    "branch": "空軍",
+    "wiki": "Shaanxi Y-8",
+    "subcategory": "aircraft_recon"
+  },
+  {
+    "id": "gx-2",
+    "name_zh": "高新2號電子偵察機（運-8JB）",
+    "designation": "GX-2",
+    "branch": "海軍",
+    "wiki": "Shaanxi Y-8",
+    "subcategory": "aircraft_recon"
+  },
+  {
+    "id": "gx-4",
+    "name_zh": "高新4號心理戰機（運-8XZ）",
+    "designation": "GX-4",
+    "branch": "空軍",
+    "wiki": "Shaanxi Y-8",
+    "subcategory": "aircraft_recon"
+  },
+  {
+    "id": "gx-5",
+    "name_zh": "高新5號指揮通信機（運-8T）",
+    "designation": "GX-5",
+    "branch": "空軍",
+    "wiki": "Shaanxi Y-8",
+    "subcategory": "aircraft_recon"
+  },
+  {
+    "id": "gx-7",
+    "name_zh": "高新7號電子偵察機（運-9DZ）",
+    "designation": "GX-7",
+    "branch": "空軍",
+    "wiki": "Shaanxi Y-9",
+    "subcategory": "aircraft_recon"
+  },
+  {
+    "id": "jz-8f",
+    "name_zh": "殲偵-8F偵察機",
+    "designation": "JZ-8F",
+    "branch": "空軍",
+    "wiki": "Shenyang J-8",
+    "subcategory": "aircraft_recon"
+  },
+  {
+    "id": "zsd-05",
+    "name_zh": "05式兩棲裝甲輸送車（ZSD-05）",
+    "designation": "ZSD-05",
+    "branch": "陸軍",
+    "wiki": "ZBD-05",
+    "subcategory": "apc_tracked"
+  },
+  {
+    "id": "zsl-08",
+    "name_zh": "08式輪式裝甲輸送車（ZSL-08）",
+    "designation": "ZSL-08",
+    "branch": "陸軍",
+    "wiki": "ZBL-08",
+    "subcategory": "apc_wheeled"
+  },
+  {
+    "id": "vn1",
+    "name_zh": "VN1外銷輪式裝甲車",
+    "designation": "VN1",
+    "branch": "陸軍",
+    "wiki": "VN1",
+    "subcategory": "apc_wheeled"
+  },
+  {
+    "id": "st1",
+    "name_zh": "ST1外銷輪式突擊炮",
+    "designation": "ST1",
+    "branch": "陸軍",
+    "wiki": "ST1 (tank destroyer)",
+    "subcategory": "assault_gun"
+  },
+  {
+    "id": "mengshi-3",
+    "name_zh": "猛士三代裝甲車（CSK-181）",
+    "designation": "CSK-181",
+    "branch": "陸軍",
+    "wiki": "Dongfeng Mengshi",
+    "subcategory": "light_vehicle"
+  },
+  {
+    "id": "type-81-122",
+    "name_zh": "81式122毫米火箭炮",
+    "designation": "Type 81-122",
+    "branch": "陸軍",
+    "wiki": "Type 81 122 mm MRL",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "type-83-273",
+    "name_zh": "83式273毫米火箭炮",
+    "designation": "Type 83-273",
+    "branch": "陸軍",
+    "wiki": "Type 83 273 mm MRL",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "type-82-130",
+    "name_zh": "82式130毫米火箭炮",
+    "designation": "Type 82-130",
+    "branch": "陸軍",
+    "wiki": "Type 82 130 mm MRL",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "ar1-mlrs",
+    "name_zh": "AR1／AR1A外銷300毫米火箭炮",
+    "designation": "AR1",
+    "branch": "陸軍",
+    "wiki": "AR1A MLRS",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "ar3-mlrs",
+    "name_zh": "AR3模組化遠程火箭炮",
+    "designation": "AR3",
+    "branch": "陸軍",
+    "wiki": "AR3 MLRS",
+    "subcategory": "mlrs"
+  },
+  {
+    "id": "type-70-122",
+    "name_zh": "70式122毫米自行火炮",
+    "designation": "Type 70-122",
+    "branch": "陸軍",
+    "wiki": "Type 70 self-propelled howitzer",
+    "subcategory": "sph"
+  },
+  {
+    "id": "type-85-122",
+    "name_zh": "85式122毫米自行火炮",
+    "designation": "Type 85-122",
+    "branch": "陸軍",
+    "wiki": "Type 85 self-propelled howitzer",
+    "subcategory": "sph"
+  },
+  {
+    "id": "plz-05a",
+    "name_zh": "05A式155毫米自行加榴炮",
+    "designation": "PLZ-05A",
+    "branch": "陸軍",
+    "wiki": "PLZ-05",
+    "subcategory": "sph"
+  },
+  {
+    "id": "sh1-155",
+    "name_zh": "SH1式155毫米輪式自行炮",
+    "designation": "SH1",
+    "branch": "陸軍",
+    "wiki": "SH1 (howitzer)",
+    "subcategory": "truck_howitzer"
+  },
+  {
+    "id": "sh2-122",
+    "name_zh": "SH2式122毫米輪式自行炮",
+    "designation": "SH2",
+    "branch": "陸軍",
+    "wiki": "SH2 (howitzer)",
+    "subcategory": "truck_howitzer"
+  },
+  {
+    "id": "sh5-105",
+    "name_zh": "SH5式105毫米輪式自行炮",
+    "designation": "SH5",
+    "branch": "陸軍",
+    "wiki": "SH5 (howitzer)",
+    "subcategory": "truck_howitzer"
+  },
+  {
+    "id": "sm4-120",
+    "name_zh": "SM4式120毫米自行迫擊炮",
+    "designation": "SM4",
+    "branch": "陸軍",
+    "wiki": "SM4 mortar",
+    "subcategory": "mortar_sp"
+  },
+  {
+    "id": "hj-9a",
+    "name_zh": "紅箭-9A反坦克導彈",
+    "designation": "HJ-9A",
+    "branch": "陸軍",
+    "wiki": "HJ-9",
+    "subcategory": "atgm"
+  },
+  {
+    "id": "pf-89a",
+    "name_zh": "89A式單兵火箭筒",
+    "designation": "PF-89A",
+    "branch": "陸軍",
+    "wiki": "PF-89",
+    "subcategory": "atgm"
+  },
+  {
+    "id": "hn-6",
+    "name_zh": "紅纓-6便攜防空導彈",
+    "designation": "HN-6",
+    "branch": "陸軍",
+    "wiki": "HN-6",
+    "subcategory": "manpads"
+  },
+  {
+    "id": "qw-1m",
+    "name_zh": "前衛-1M便攜防空導彈",
+    "designation": "QW-1M",
+    "branch": "陸軍",
+    "wiki": "QW-1 Vanguard",
+    "subcategory": "manpads"
+  },
+  {
+    "id": "qw-18",
+    "name_zh": "前衛-18便攜防空導彈",
+    "designation": "QW-18",
+    "branch": "陸軍",
+    "wiki": "QW-18",
+    "subcategory": "manpads"
+  },
+  {
+    "id": "type-84a-avlb",
+    "name_zh": "84A式坦克架橋車",
+    "designation": "Type 84A",
+    "branch": "陸軍",
+    "wiki": "Type 84 bridgelayer",
+    "subcategory": "bridge"
+  },
+  {
+    "id": "type-653-arv",
+    "name_zh": "653式坦克搶修車",
+    "designation": "Type 653",
+    "branch": "陸軍",
+    "wiki": "Type 653 armoured recovery vehicle",
+    "subcategory": "recovery"
+  },
+  {
+    "id": "type-99-arv",
+    "name_zh": "99式坦克搶修車",
+    "designation": "Type 99 ARV",
+    "branch": "陸軍",
+    "wiki": "Type 99 tank",
+    "subcategory": "recovery"
+  },
+  {
+    "id": "dzj-08",
+    "name_zh": "DZJ-08 單兵火箭",
+    "designation": "DZJ-08",
+    "branch": "陸軍",
+    "wiki": "DZJ-08",
+    "subcategory": "at_rocket"
+  },
+  {
+    "id": "pp-87",
+    "name_zh": "PP-87 82mm迫擊砲",
+    "designation": "PP-87",
+    "branch": "陸軍",
+    "wiki": "Type 87 mortar",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "pp-89",
+    "name_zh": "PP-89 100mm迫擊砲",
+    "designation": "PP-89",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "w86-120",
+    "name_zh": "W86 120mm迫擊砲",
+    "designation": "W86",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "qts-11",
+    "name_zh": "QTS-11 單兵綜合作戰系統",
+    "designation": "QTS-11",
+    "branch": "通用",
+    "wiki": "QTS-11",
+    "subcategory": "assault_rifle"
+  },
+  {
+    "id": "qlg-10",
+    "name_zh": "QLG-10 槍榴彈發射器",
+    "designation": "QLG-10",
+    "branch": "通用",
+    "wiki": "QLG-10",
+    "subcategory": "agl"
+  },
+  {
+    "id": "type-91b-gl",
+    "name_zh": "91B式槍榴彈",
+    "designation": "Type 91B",
+    "branch": "通用",
+    "wiki": "",
+    "subcategory": "agl"
+  },
+  {
+    "id": "yu-6",
+    "name_zh": "魚-6 重型魚雷",
+    "designation": "Yu-6",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "torpedo"
+  },
+  {
+    "id": "yu-7",
+    "name_zh": "魚-7 輕型魚雷",
+    "designation": "Yu-7",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "torpedo"
+  },
+  {
+    "id": "yu-10",
+    "name_zh": "魚-10 魚雷",
+    "designation": "Yu-10",
+    "branch": "海軍",
+    "wiki": "",
+    "subcategory": "torpedo"
+  },
+  {
+    "id": "qgf-11",
+    "name_zh": "QGF-11 頭盔",
+    "designation": "QGF-11",
+    "branch": "通用",
+    "wiki": "",
+    "subcategory": "individual"
+  },
+  {
+    "id": "bbg011a",
+    "name_zh": "BBG011A 夜視儀",
+    "designation": "BBG011A",
+    "branch": "通用",
+    "wiki": "",
+    "subcategory": "individual"
+  },
+  {
+    "id": "cs-sm1",
+    "name_zh": "CS/SM1 120mm迫擊砲系統",
+    "designation": "CS/SM1",
+    "branch": "陸軍",
+    "wiki": "",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "ba-9",
+    "name_zh": "藍箭-9 空射反戰車飛彈",
+    "designation": "BA-9",
+    "branch": "空軍",
+    "wiki": "",
+    "subcategory": "atgm"
+  },
+  {
+    "id": "ft-series",
+    "name_zh": "飛騰系列精確炸彈",
+    "designation": "FT-series",
+    "branch": "空軍",
+    "wiki": "",
+    "subcategory": "bomb"
+  },
+  {
+    "id": "gb-series",
+    "name_zh": "GB系列精確炸彈",
+    "designation": "GB-series",
+    "branch": "空軍",
+    "wiki": "",
+    "subcategory": "bomb"
+  },
+  {
+    "id": "jy-27",
+    "name_zh": "警戒-27 對空情報雷達",
+    "designation": "JY-27",
+    "branch": "空軍",
+    "wiki": "JY-27 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "ylc-8b",
+    "name_zh": "YLC-8B 反隱形雷達",
+    "designation": "YLC-8B",
+    "branch": "空軍",
+    "wiki": "YLC-8B",
+    "subcategory": "radar"
+  },
+  {
+    "id": "slc-7",
+    "name_zh": "SLC-7 對空監視雷達",
+    "designation": "SLC-7",
+    "branch": "空軍",
+    "wiki": "SLC-7",
+    "subcategory": "radar"
+  },
+  {
+    "id": "slc-2",
+    "name_zh": "SLC-2 砲兵定位雷達",
+    "designation": "SLC-2",
+    "branch": "陸軍",
+    "wiki": "SLC-2 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "jyl-1",
+    "name_zh": "JYL-1 三坐標對空雷達",
+    "designation": "JYL-1",
+    "branch": "空軍",
+    "wiki": "JYL-1",
+    "subcategory": "radar"
+  },
+  {
+    "id": "type-120-radar",
+    "name_zh": "305A／120 型低空補盲雷達",
+    "designation": "Type 120",
+    "branch": "空軍",
+    "wiki": "Type 305A radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "dwl-002",
+    "name_zh": "DWL-002 被動偵測系統",
+    "designation": "DWL-002",
+    "branch": "空軍",
+    "wiki": "DWL-002",
+    "subcategory": "ew"
+  },
+  {
+    "id": "cetc-jammer",
+    "name_zh": "車載通信/雷達干擾系統",
+    "designation": "EW-jammer",
+    "branch": "陸軍",
+    "wiki": "Electronic warfare",
+    "subcategory": "ew"
+  },
+  {
+    "id": "pl-9",
+    "name_zh": "霹靂-9 近距空對空飛彈",
+    "designation": "PL-9",
+    "branch": "空軍",
+    "wiki": "PL-9",
+    "subcategory": "aam"
+  },
+  {
+    "id": "pl-11",
+    "name_zh": "霹靂-11 半主動空對空飛彈",
+    "designation": "PL-11",
+    "branch": "空軍",
+    "wiki": "PL-11",
+    "subcategory": "aam"
+  },
+  {
+    "id": "pl-21",
+    "name_zh": "霹靂-21 衝壓遠程空對空飛彈",
+    "designation": "PL-21",
+    "branch": "空軍",
+    "wiki": "PL-21",
+    "subcategory": "aam"
+  },
+  {
+    "id": "hj-11",
+    "name_zh": "紅箭-11 反戰車飛彈",
+    "designation": "HJ-11",
+    "branch": "陸軍",
+    "wiki": "HJ-11",
+    "subcategory": "atgm"
+  },
+  {
+    "id": "df-3",
+    "name_zh": "東風-3 中程彈道飛彈（歷史）",
+    "designation": "DF-3",
+    "branch": "火箭軍",
+    "wiki": "DF-3",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "df-4",
+    "name_zh": "東風-4 遠程彈道飛彈（歷史）",
+    "designation": "DF-4",
+    "branch": "火箭軍",
+    "wiki": "DF-4",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "df-21c",
+    "name_zh": "東風-21C 中程彈道飛彈",
+    "designation": "DF-21C",
+    "branch": "火箭軍",
+    "wiki": "DF-21",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "gb-6",
+    "name_zh": "GB-6 滑翔制導炸彈",
+    "designation": "GB-6",
+    "branch": "空軍",
+    "wiki": "GB-6",
+    "subcategory": "bomb"
+  },
+  {
+    "id": "ls-500j",
+    "name_zh": "雷石-500J 制導炸彈",
+    "designation": "LS-500J",
+    "branch": "空軍",
+    "wiki": "LS-6",
+    "subcategory": "bomb"
+  },
+  {
+    "id": "type-85-sniper",
+    "name_zh": "85式狙擊步槍",
+    "designation": "Type 85",
+    "branch": "通用",
+    "wiki": "Type 85 sniper rifle",
+    "subcategory": "dmr"
+  },
+  {
+    "id": "w85-hmg",
+    "name_zh": "W85 12.7mm 高射機槍",
+    "designation": "W85",
+    "branch": "通用",
+    "wiki": "W85 heavy machine gun",
+    "subcategory": "hmg"
+  },
+  {
+    "id": "pf-89",
+    "name_zh": "89式火箭筒",
+    "designation": "PF-89",
+    "branch": "陸軍",
+    "wiki": "PF-89",
+    "subcategory": "at_rocket"
+  },
+  {
+    "id": "fhj-84",
+    "name_zh": "84式雙管燃燒火箭筒",
+    "designation": "FHJ-84",
+    "branch": "陸軍",
+    "wiki": "FHJ-84",
+    "subcategory": "at_rocket"
+  },
+  {
+    "id": "qlb-06",
+    "name_zh": "06式半自動榴彈發射器",
+    "designation": "QLB-06",
+    "branch": "通用",
+    "wiki": "QLB-06",
+    "subcategory": "agl"
+  },
+  {
+    "id": "type-77-hmg",
+    "name_zh": "77式 12.7mm 高射機槍",
+    "designation": "Type 77",
+    "branch": "通用",
+    "wiki": "Type 77 heavy machine gun",
+    "subcategory": "hmg"
+  },
+  {
+    "id": "type-06-armor",
+    "name_zh": "06式防彈衣",
+    "designation": "Type 06",
+    "branch": "通用",
+    "wiki": "",
+    "subcategory": "individual"
+  },
+  {
+    "id": "qgf-02",
+    "name_zh": "QGF-02 頭盔",
+    "designation": "QGF-02",
+    "branch": "通用",
+    "wiki": "",
+    "subcategory": "individual"
+  },
+  {
+    "id": "single-soldier-system",
+    "name_zh": "單兵數位化作戰系統",
+    "designation": "Soldier System",
+    "branch": "通用",
+    "wiki": "",
+    "subcategory": "individual"
+  },
+  {
+    "id": "yj-82",
+    "name_zh": "鷹擊-82 潛射反艦飛彈",
+    "designation": "YJ-82",
+    "branch": "海軍",
+    "wiki": "YJ-8",
+    "subcategory": "asm"
+  },
+  {
+    "id": "c-704",
+    "name_zh": "C-704 反艦飛彈",
+    "designation": "C-704",
+    "branch": "海軍",
+    "wiki": "C-704",
+    "subcategory": "asm"
+  },
+  {
+    "id": "type-346",
+    "name_zh": "346型有源相控陣雷達（龍眼）",
+    "designation": "Type 346",
+    "branch": "海軍",
+    "wiki": "Type 346 radar",
+    "subcategory": "naval_radar"
+  },
+  {
+    "id": "type-346a",
+    "name_zh": "346A型相控陣雷達",
+    "designation": "Type 346A",
+    "branch": "海軍",
+    "wiki": "Type 346 radar",
+    "subcategory": "naval_radar"
+  },
+  {
+    "id": "type-346b",
+    "name_zh": "346B型大型相控陣雷達",
+    "designation": "Type 346B",
+    "branch": "海軍",
+    "wiki": "Type 346 radar",
+    "subcategory": "naval_radar"
+  },
+  {
+    "id": "kd-63",
+    "name_zh": "空地-63導彈",
+    "designation": "KD-63",
+    "branch": "空軍",
+    "wiki": "KD-63",
+    "subcategory": "cruise"
+  },
+  {
+    "id": "kd-20",
+    "name_zh": "空地-20巡航導彈",
+    "designation": "KD-20",
+    "branch": "空軍",
+    "wiki": "KD-20",
+    "subcategory": "cruise"
+  },
+  {
+    "id": "ar-1",
+    "name_zh": "AR-1 空地導彈（無人機掛彈）",
+    "designation": "AR-1",
+    "branch": "空軍",
+    "wiki": "CASC Rainbow",
+    "subcategory": "atgm"
+  },
+  {
+    "id": "df-5a",
+    "name_zh": "東風-5A洲際彈道導彈",
+    "designation": "DF-5A",
+    "branch": "火箭軍",
+    "wiki": "DF-5",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "df-12",
+    "name_zh": "東風-12／M20近程彈道導彈",
+    "designation": "DF-12",
+    "branch": "火箭軍",
+    "wiki": "M20 (missile)",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "df-15a",
+    "name_zh": "東風-15A近程彈道導彈",
+    "designation": "DF-15A",
+    "branch": "火箭軍",
+    "wiki": "DF-15",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "df-15c",
+    "name_zh": "東風-15C鑽地彈道導彈",
+    "designation": "DF-15C",
+    "branch": "火箭軍",
+    "wiki": "DF-15",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "cj-10a",
+    "name_zh": "長劍-10A巡航導彈",
+    "designation": "CJ-10A",
+    "branch": "火箭軍",
+    "wiki": "CJ-10",
+    "subcategory": "cruise"
+  },
+  {
+    "id": "hn-1",
+    "name_zh": "紅鳥-1巡航導彈",
+    "designation": "HN-1",
+    "branch": "火箭軍",
+    "wiki": "Hong Niao",
+    "subcategory": "cruise"
+  },
+  {
+    "id": "hn-2",
+    "name_zh": "紅鳥-2巡航導彈",
+    "designation": "HN-2",
+    "branch": "火箭軍",
+    "wiki": "Hong Niao",
+    "subcategory": "cruise"
+  },
+  {
+    "id": "hn-3",
+    "name_zh": "紅鳥-3巡航導彈",
+    "designation": "HN-3",
+    "branch": "火箭軍",
+    "wiki": "Hong Niao",
+    "subcategory": "cruise"
+  },
+  {
+    "id": "df-zf",
+    "name_zh": "東風乘波體高超音速滑翔器（DF-ZF）",
+    "designation": "DF-ZF",
+    "branch": "火箭軍",
+    "wiki": "DF-ZF",
+    "subcategory": "hypersonic"
+  },
+  {
+    "id": "cm-400akg",
+    "name_zh": "CM-400AKG高超音速空射導彈",
+    "designation": "CM-400AKG",
+    "branch": "火箭軍",
+    "wiki": "CM-400AKG",
+    "subcategory": "hypersonic"
+  },
+  {
+    "id": "bp-12a",
+    "name_zh": "BP-12A外銷近程彈道導彈",
+    "designation": "BP-12A",
+    "branch": "火箭軍",
+    "wiki": "BP-12A",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "b611",
+    "name_zh": "B611／B611M近程導彈",
+    "designation": "B611",
+    "branch": "火箭軍",
+    "wiki": "B611 (missile)",
+    "subcategory": "ballistic"
+  },
+  {
+    "id": "type-54-122",
+    "name_zh": "54式122毫米榴彈炮",
+    "designation": "Type 54",
+    "branch": "陸軍",
+    "wiki": "Type 54 122 mm howitzer",
+    "subcategory": "artillery_towed"
+  },
+  {
+    "id": "type-60-122",
+    "name_zh": "60式122毫米加農炮",
+    "designation": "Type 60",
+    "branch": "陸軍",
+    "wiki": "Type 60 122 mm cannon",
+    "subcategory": "artillery_towed"
+  },
+  {
+    "id": "type-59-130",
+    "name_zh": "59式130毫米加農炮",
+    "designation": "Type 59-130",
+    "branch": "陸軍",
+    "wiki": "Type 59 130 mm cannon",
+    "subcategory": "artillery_towed"
+  },
+  {
+    "id": "type-86-122",
+    "name_zh": "86式122毫米榴彈炮",
+    "designation": "Type 86-122",
+    "branch": "陸軍",
+    "wiki": "122 mm howitzer D-30",
+    "subcategory": "artillery_towed"
+  },
+  {
+    "id": "type-83-152-towed",
+    "name_zh": "83式152毫米加榴炮（牽引）",
+    "designation": "Type 83-152",
+    "branch": "陸軍",
+    "wiki": "Type 83 152 mm gun-howitzer",
+    "subcategory": "artillery_towed"
+  },
+  {
+    "id": "pll-01-155",
+    "name_zh": "01式155毫米加榴炮",
+    "designation": "PLL-01",
+    "branch": "陸軍",
+    "wiki": "Type 89 155 mm howitzer",
+    "subcategory": "artillery_towed"
+  },
+  {
+    "id": "type-67-82",
+    "name_zh": "67式82毫米迫擊炮",
+    "designation": "Type 67-82",
+    "branch": "陸軍",
+    "wiki": "Type 67 mortar",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "type-87-82",
+    "name_zh": "87式82毫米迫擊炮",
+    "designation": "Type 87-82",
+    "branch": "陸軍",
+    "wiki": "Type 87 mortar",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "type-64-120",
+    "name_zh": "64式120毫米迫擊炮",
+    "designation": "Type 64-120",
+    "branch": "陸軍",
+    "wiki": "Type 64 mortar",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "type-56-160",
+    "name_zh": "56式160毫米迫擊炮",
+    "designation": "Type 56-160",
+    "branch": "陸軍",
+    "wiki": "M-160 mortar",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "type-75-145",
+    "name_zh": "75式14.5毫米高射機槍",
+    "designation": "Type 75-14.5",
+    "branch": "陸軍",
+    "wiki": "Type 75 14.5 mm",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "type-85-23",
+    "name_zh": "85式23毫米高射炮",
+    "designation": "Type 85-23",
+    "branch": "陸軍",
+    "wiki": "ZU-23-2",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "type-87-25",
+    "name_zh": "87式25毫米高射炮",
+    "designation": "Type 87-25",
+    "branch": "陸軍",
+    "wiki": "Type 87 25 mm",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "type-59-100aa",
+    "name_zh": "59式100毫米高射炮",
+    "designation": "Type 59-100",
+    "branch": "陸軍",
+    "wiki": "KS-19",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "pgz-07",
+    "name_zh": "07式35毫米自行高炮",
+    "designation": "PGZ-07",
+    "branch": "陸軍",
+    "wiki": "PGZ-07",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "type-90-35aa",
+    "name_zh": "90式35毫米牽引高炮",
+    "designation": "Type 90-35",
+    "branch": "陸軍",
+    "wiki": "Oerlikon GDF",
+    "subcategory": "spaag"
+  },
+  {
+    "id": "jy-8",
+    "name_zh": "JY-8對空情報雷達",
+    "designation": "JY-8",
+    "branch": "空軍",
+    "wiki": "JY-8 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "jy-9",
+    "name_zh": "JY-9低空補盲雷達",
+    "designation": "JY-9",
+    "branch": "空軍",
+    "wiki": "JY-9 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "jy-11",
+    "name_zh": "JY-11對空搜索雷達",
+    "designation": "JY-11",
+    "branch": "空軍",
+    "wiki": "JY-11 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "jy-14",
+    "name_zh": "JY-14遠程對空雷達",
+    "designation": "JY-14",
+    "branch": "空軍",
+    "wiki": "JY-14 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "jy-27a",
+    "name_zh": "JY-27A反隱身米波雷達",
+    "designation": "JY-27A",
+    "branch": "空軍",
+    "wiki": "JY-27 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "jy-26",
+    "name_zh": "JY-26反隱身預警雷達",
+    "designation": "JY-26",
+    "branch": "空軍",
+    "wiki": "JY-26 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "ylc-2",
+    "name_zh": "YLC-2三坐標雷達",
+    "designation": "YLC-2",
+    "branch": "空軍",
+    "wiki": "YLC-2 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "ylc-4",
+    "name_zh": "YLC-4遠程警戒雷達",
+    "designation": "YLC-4",
+    "branch": "空軍",
+    "wiki": "YLC-4 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "ylc-6",
+    "name_zh": "YLC-6低空雷達",
+    "designation": "YLC-6",
+    "branch": "空軍",
+    "wiki": "YLC-6 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "ylc-8",
+    "name_zh": "YLC-8米波雷達",
+    "designation": "YLC-8",
+    "branch": "空軍",
+    "wiki": "YLC-8 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "ylc-18",
+    "name_zh": "YLC-18三坐標雷達",
+    "designation": "YLC-18",
+    "branch": "空軍",
+    "wiki": "YLC-18 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "ylc-20",
+    "name_zh": "YLC-20被動定位系統",
+    "designation": "YLC-20",
+    "branch": "空軍",
+    "wiki": "YLC-20",
+    "subcategory": "ew"
+  },
+  {
+    "id": "ylc-29",
+    "name_zh": "YLC-29無源探測雷達",
+    "designation": "YLC-29",
+    "branch": "空軍",
+    "wiki": "YLC-29",
+    "subcategory": "ew"
+  },
+  {
+    "id": "jyl-6",
+    "name_zh": "JYL-6中低空雷達",
+    "designation": "JYL-6",
+    "branch": "空軍",
+    "wiki": "JYL-6 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "jl3d-90a",
+    "name_zh": "JL3D-90A三坐標雷達",
+    "designation": "JL3D-90A",
+    "branch": "空軍",
+    "wiki": "JL3D-90A",
+    "subcategory": "radar"
+  },
+  {
+    "id": "ht-233",
+    "name_zh": "HT-233相控陣制導雷達",
+    "designation": "HT-233",
+    "branch": "空軍",
+    "wiki": "HQ-9",
+    "subcategory": "radar"
+  },
+  {
+    "id": "slc-2e",
+    "name_zh": "SLC-2E炮兵定位雷達",
+    "designation": "SLC-2E",
+    "branch": "陸軍",
+    "wiki": "SLC-2 radar",
+    "subcategory": "radar"
+  },
+  {
+    "id": "qbz-95",
+    "name_zh": "95式自動步槍",
+    "designation": "QBZ-95",
+    "branch": "通用",
+    "wiki": "QBZ-95",
+    "subcategory": "assault_rifle"
+  },
+  {
+    "id": "type-68-rifle",
+    "name_zh": "68式自動步槍",
+    "designation": "Type 68",
+    "branch": "通用",
+    "wiki": "Type 68 rifle",
+    "subcategory": "assault_rifle"
+  },
+  {
+    "id": "type-cq",
+    "name_zh": "CQ 5.56毫米步槍",
+    "designation": "Type CQ",
+    "branch": "通用",
+    "wiki": "Norinco CQ",
+    "subcategory": "assault_rifle"
+  },
+  {
+    "id": "qbz-192",
+    "name_zh": "192式短突擊步槍",
+    "designation": "QBZ-192",
+    "branch": "通用",
+    "wiki": "QBZ-191",
+    "subcategory": "carbine"
+  },
+  {
+    "id": "js-9-smg",
+    "name_zh": "JS 9毫米衝鋒槍",
+    "designation": "JS 9mm",
+    "branch": "通用",
+    "wiki": "Chang Feng submachine gun",
+    "subcategory": "smg"
+  },
+  {
+    "id": "qjs-161",
+    "name_zh": "161式班用機槍",
+    "designation": "QJS-161",
+    "branch": "通用",
+    "wiki": "QBZ-191",
+    "subcategory": "mg"
+  },
+  {
+    "id": "type-85-hmg",
+    "name_zh": "85式12.7毫米高射機槍",
+    "designation": "Type 85 HMG",
+    "branch": "通用",
+    "wiki": "Type 85 heavy machine gun",
+    "subcategory": "hmg"
+  },
+  {
+    "id": "qbu-141",
+    "name_zh": "141式狙擊步槍",
+    "designation": "QBU-141",
+    "branch": "通用",
+    "wiki": "QBU-88",
+    "subcategory": "dmr"
+  },
+  {
+    "id": "qbu-202",
+    "name_zh": "202式狙擊步槍",
+    "designation": "QBU-202",
+    "branch": "通用",
+    "wiki": "QBU-88",
+    "subcategory": "dmr"
+  },
+  {
+    "id": "cs-lr4",
+    "name_zh": "CS/LR4狙擊步槍",
+    "designation": "CS/LR4",
+    "branch": "通用",
+    "wiki": "CS/LR4",
+    "subcategory": "dmr"
+  },
+  {
+    "id": "cs-lr3",
+    "name_zh": "CS/LR3狙擊步槍",
+    "designation": "CS/LR3",
+    "branch": "通用",
+    "wiki": "CS/LR4",
+    "subcategory": "dmr"
+  },
+  {
+    "id": "m99-amr",
+    "name_zh": "M99反器材步槍",
+    "designation": "M99",
+    "branch": "通用",
+    "wiki": "M99 rifle",
+    "subcategory": "amr"
+  },
+  {
+    "id": "qsz-92g",
+    "name_zh": "92G式手槍",
+    "designation": "QSZ-92G",
+    "branch": "通用",
+    "wiki": "QSZ-92",
+    "subcategory": "pistol"
+  },
+  {
+    "id": "qx-04",
+    "name_zh": "QX-04手槍",
+    "designation": "QX-04",
+    "branch": "通用",
+    "wiki": "QSZ-92",
+    "subcategory": "pistol"
+  },
+  {
+    "id": "pf-97",
+    "name_zh": "97式雲爆火箭筒",
+    "designation": "PF-97",
+    "branch": "通用",
+    "wiki": "PF-97",
+    "subcategory": "at_rocket"
+  },
+  {
+    "id": "type-63-60",
+    "name_zh": "63式60毫米迫擊炮",
+    "designation": "Type 63-60",
+    "branch": "通用",
+    "wiki": "Type 63 mortar",
+    "subcategory": "mortar"
+  },
+  {
+    "id": "type-90-60",
+    "name_zh": "90式60毫米迫擊炮",
+    "designation": "Type 90-60",
+    "branch": "通用",
+    "wiki": "Type 90 mortar",
+    "subcategory": "mortar"
+  }
+]

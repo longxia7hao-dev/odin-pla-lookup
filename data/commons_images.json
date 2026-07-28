@@ -328,5 +328,20 @@
 "path": "assets/images/type-77-pistol.jpg",
 "file": "Norinco Type 77B.jpg",
 "query": "Type 77 pistol"
+},
+"type-056a": {
+"path": "assets/images/type-056a.jpg",
+"file": "Type 056A light frigate Jingmen(667).jpg",
+"query": "Type 056A ship"
+},
+"asn-206": {
+"path": "assets/images/asn-206.png",
+"file": "ASN-206.png",
+"query": "ASN-206"
+},
+"ch-901": {
+"path": "assets/images/ch-901.jpg",
+"file": "FH-901 suicide drone at ARMY-2022.jpg",
+"query": "CH-901"
 }
 }

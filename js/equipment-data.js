@@ -894,7 +894,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QJZ-89"
       }
     ],
-    "recog": "12.7mm 重機槍：整體輕巧（世界最輕級）、三腳架、粗大槍管與大型槍口制退器、彈鏈供彈。"
+    "recog": "12.7mm 重機槍：整體輕巧（世界最輕級）、三腳架、粗大槍管與大型槍口制退器、彈鏈供彈。",
+    "image_credit": "图片来自百度百科《89式重机枪（中国研制的重机枪）》（教育参考）"
   },
   {
     "id": "qjz-171",
@@ -1394,7 +1395,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Anti-Armor",
     "wiki": "DZJ-08",
-    "image": "",
+    "image": "assets/images/dzj-08.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -1411,7 +1412,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：DZJ-08",
         "url": "https://en.wikipedia.org/wiki/DZJ-08"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《DZJ08式火箭发射器》（教育参考）"
   },
   {
     "id": "type-69-rpg",
@@ -1726,7 +1728,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/FN-6"
       }
     ],
-    "recog": "便攜防空飛彈：發射筒前端有「三角錐狀」尋標頭罩、握把與電池組，肩扛發射。"
+    "recog": "便攜防空飛彈：發射筒前端有「三角錐狀」尋標頭罩、握把與電池組，肩扛發射。",
+    "image_credit": "图片来自百度百科《飞弩-6单兵便携式防空导弹》（教育参考）"
   },
   {
     "id": "fn-16",
@@ -1778,7 +1781,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/FN-6"
       }
     ],
-    "recog": "外形接近 FN-6，尋標頭罩形狀略異、瞄具現代化；肉眼難與 FN-6 區分。"
+    "recog": "外形接近 FN-6，尋標頭罩形狀略異、瞄具現代化；肉眼難與 FN-6 區分。",
+    "image_credit": "图片来自百度百科《FN-16单兵便携式防空导弹武器系统》（教育参考）"
   },
   {
     "id": "qw-1",
@@ -1916,7 +1920,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Mortars",
     "wiki": "Type 87 mortar",
-    "image": "",
+    "image": "assets/images/pp-87.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -1933,7 +1937,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：PP-87",
         "url": "https://en.wikipedia.org/wiki/PP-87"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《W87式81毫米迫击炮》（教育参考）"
   },
   {
     "id": "pp-89",
@@ -2066,7 +2071,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Small Arms",
     "wiki": "QTS-11",
-    "image": "",
+    "image": "assets/images/qts-11.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -2083,7 +2088,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：QTS-11",
         "url": "https://en.wikipedia.org/wiki/QTS-11"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《QTS11式单兵综合作战系统》（教育参考）"
   },
   {
     "id": "qlg-10",
@@ -2497,9 +2503,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：15式輕坦",
         "url": "https://en.wikipedia.org/wiki/Type_15_tank"
+      },
+      {
+        "label": "百度百科：15式轻型坦克",
+        "url": "https://baike.baidu.com/item/15%E5%BC%8F%E8%BD%BB%E5%9E%8B%E5%9D%A6%E5%85%8B"
       }
     ],
-    "recog": "輕型坦克：車身明顯較窄較高、六對小負重輪、105mm 砲配大型砲口制退器；為高原設計，動力艙有大散熱格柵。"
+    "recog": "輕型坦克：車身明顯較窄較高、六對小負重輪、105mm 砲配大型砲口制退器；為高原設計，動力艙有大散熱格柵。",
+    "image_credit": "图片来自百度百科《15式轻型坦克》（教育参考）"
   },
   {
     "id": "ztz-88",
@@ -2759,7 +2770,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/ZBD-03"
       }
     ],
-    "recog": "空降戰車：車體極輕薄小巧、砲塔配 30mm 機砲、車底有空投用的緩衝裝置掛點。"
+    "recog": "空降戰車：車體極輕薄小巧、砲塔配 30mm 機砲、車底有空投用的緩衝裝置掛點。",
+    "image_credit": "图片来自百度百科《ZBD-03空降战车》（教育参考）"
   },
   {
     "id": "zbd-05",
@@ -3063,7 +3075,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "Type 08 vehicle",
-    "image": "",
+    "image": "assets/images/pll-09.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -3079,8 +3091,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：PLL-09",
         "url": "https://en.wikipedia.org/wiki/PLL-09"
+      },
+      {
+        "label": "百度百科：09式122毫米车载榴弹炮",
+        "url": "https://baike.baidu.com/item/09%E5%BC%8F122%E6%AF%AB%E7%B1%B3%E8%BD%A6%E8%BD%BD%E6%A6%B4%E5%BC%B9%E7%82%AE"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《09式122毫米车载榴弹炮》（教育参考）"
   },
   {
     "id": "zsl-92",
@@ -3181,6 +3198,10 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：08式輪式裝甲車族",
         "url": "https://en.wikipedia.org/wiki/ZBL-08"
+      },
+      {
+        "label": "百度百科：AMX-10RC轮式侦察车",
+        "url": "https://baike.baidu.com/item/AMX-10RC%E8%BD%AE%E5%BC%8F%E4%BE%A6%E5%AF%9F%E8%BD%A6"
       }
     ]
   },
@@ -3234,7 +3255,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_89_armoured_personnel_carrier"
       }
     ],
-    "recog": "履帶裝甲輸送車：車體方正、車頂平坦僅一挺 12.7mm 機槍（無砲塔）、五對負重輪。"
+    "recog": "履帶裝甲輸送車：車體方正、車頂平坦僅一挺 12.7mm 機槍（無砲塔）、五對負重輪。",
+    "image_credit": "图片来自百度百科《ZSD-89装甲输送车》（教育参考）"
   },
   {
     "id": "zsd-63",
@@ -3392,9 +3414,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：PLZ-05",
         "url": "https://en.wikipedia.org/wiki/PLZ-05"
+      },
+      {
+        "label": "百度百科：PLZ-05自行榴弹炮",
+        "url": "https://baike.baidu.com/item/PLZ-05%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BC%B9%E7%82%AE"
       }
     ],
-    "recog": "155mm 自走砲：大型方正砲塔、長砲管配砲口制退器與抽煙裝置、履帶六對負重輪、砲塔後方有補彈艙門。"
+    "recog": "155mm 自走砲：大型方正砲塔、長砲管配砲口制退器與抽煙裝置、履帶六對負重輪、砲塔後方有補彈艙門。",
+    "image_credit": "图片来自百度百科《05A式155毫米加榴炮》（教育参考）"
   },
   {
     "id": "plz-07",
@@ -3479,7 +3506,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "Type 89 self-propelled howitzer",
-    "image": "",
+    "image": "assets/images/plz-89.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -3495,8 +3522,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：PLZ-89",
         "url": "https://en.wikipedia.org/wiki/Type_89_self-propelled_howitzer"
+      },
+      {
+        "label": "百度百科：PLZ89式122mm自行榴弹炮",
+        "url": "https://baike.baidu.com/item/PLZ89%E5%BC%8F122mm%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BC%B9%E7%82%AE"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《PLZ89式122mm自行榴弹炮》（教育参考）"
   },
   {
     "id": "pcl-181",
@@ -3549,7 +3581,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PCL-181"
       }
     ],
-    "recog": "車載榴彈砲：6×6 卡車底盤＋裝甲駕駛室，砲直接架在車尾平台（無砲塔），射擊時放下大型駐鋤。"
+    "recog": "車載榴彈砲：6×6 卡車底盤＋裝甲駕駛室，砲直接架在車尾平台（無砲塔），射擊時放下大型駐鋤。",
+    "image_credit": "图片来自百度百科《SH-15型155毫米车载加榴炮》（教育参考）"
   },
   {
     "id": "pcl-171",
@@ -3632,7 +3665,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/pcl-161.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -3649,7 +3682,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：PCL-161",
         "url": "https://en.wikipedia.org/wiki/PCL-161"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《09式122毫米车载榴弹炮》（教育参考）"
   },
   {
     "id": "phl-03",
@@ -3811,6 +3845,10 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：PHZ-11",
         "url": "https://en.wikipedia.org/wiki/PHZ-11"
+      },
+      {
+        "label": "百度百科：SLC11A1基因剪接体在微量元素稳态代谢中的作用及分子机制研究",
+        "url": "https://baike.baidu.com/item/SLC11A1%E5%9F%BA%E5%9B%A0%E5%89%AA%E6%8E%A5%E4%BD%93%E5%9C%A8%E5%BE%AE%E9%87%8F%E5%85%83%E7%B4%A0%E7%A8%B3%E6%80%81%E4%BB%A3%E8%B0%A2%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8F%8A%E5%88%86%E5%AD%90%E6%9C%BA%E5%88%B6%E7%A0%94%E7%A9%B6"
       }
     ]
   },
@@ -3901,7 +3939,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "Type 81 multiple rocket launcher",
-    "image": "",
+    "image": "assets/images/phl-81.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -3918,7 +3956,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：81式火箭砲",
         "url": "https://en.wikipedia.org/wiki/Type_81_122_mm_multiple_rocket_launcher"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《81式火箭炮》（教育参考）"
   },
   {
     "id": "pgz-09",
@@ -4004,7 +4043,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Air Defense",
     "wiki": "Type 95 SPAAG",
-    "image": "",
+    "image": "assets/images/pgz-95.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -4020,8 +4059,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：PGZ-95",
         "url": "https://en.wikipedia.org/wiki/PGZ-95"
+      },
+      {
+        "label": "百度百科：自行高炮",
+        "url": "https://baike.baidu.com/item/%E8%87%AA%E8%A1%8C%E9%AB%98%E7%82%AE"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《95式自行高炮防空系统》（教育参考）"
   },
   {
     "id": "pgz-04a",
@@ -4070,8 +4114,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：PGZ-04A",
         "url": "https://en.wikipedia.org/wiki/PGZ-04A"
+      },
+      {
+        "label": "百度百科：PGZ-04A自行防空系统",
+        "url": "https://baike.baidu.com/item/PGZ-04A%E8%87%AA%E8%A1%8C%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《PGZ-04A自行防空系统》（教育参考）"
   },
   {
     "id": "hq-17",
@@ -4390,7 +4439,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-22"
       }
     ],
-    "recog": "中遠程防空：卡車底盤＋4 具「方形」發射箱（紅旗-9 為圓筒），是最快的區分點。"
+    "recog": "中遠程防空：卡車底盤＋4 具「方形」發射箱（紅旗-9 為圓筒），是最快的區分點。",
+    "image_credit": "图片来自百度百科《红旗-22防空导弹》（教育参考）"
   },
   {
     "id": "hq-7",
@@ -4444,7 +4494,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-7"
       }
     ],
-    "recog": "近程防空：小型輪式或牽引底盤，4 具短粗方形飛彈箱＋中央碟形追蹤雷達（源自法製響尾蛇）。"
+    "recog": "近程防空：小型輪式或牽引底盤，4 具短粗方形飛彈箱＋中央碟形追蹤雷達（源自法製響尾蛇）。",
+    "image_credit": "图片来自百度百科《红旗-7防空导弹》（教育参考）"
   },
   {
     "id": "hq-10",
@@ -4530,7 +4581,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Air Defense",
     "wiki": "LD-2000",
-    "image": "",
+    "image": "assets/images/ld-2000.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bridge_of_CNS_Changchun_%28DDG-150%29.jpg/330px-Bridge_of_CNS_Changchun_%28DDG-150%29.jpg",
     "source_tier": "US_open",
@@ -4547,8 +4598,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：LD-2000",
         "url": "https://en.wikipedia.org/wiki/Type_730_CIWS"
+      },
+      {
+        "label": "百度百科：“陆盾”2000(LD2000)型近程防空武器系统",
+        "url": "https://baike.baidu.com/item/%E2%80%9C%E9%99%86%E7%9B%BE%E2%80%9D2000%28LD2000%29%E5%9E%8B%E8%BF%91%E7%A8%8B%E9%98%B2%E7%A9%BA%E6%AD%A6%E5%99%A8%E7%B3%BB%E7%BB%9F"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《“陆盾”2000(LD2000)型近程防空武器系统》（教育参考）"
   },
   {
     "id": "s-300",
@@ -4823,9 +4879,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：歼-20",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-20"
       }
     ],
-    "recog": "鴨式佈局：機頭後方一對鴨翼＋大三角主翼；菱形機頭與 DSI 蚌式進氣道（進氣口無隔道、有鼓包）；雙外傾垂尾＋腹鰭；機腹平整無外掛（武器內置）。全機灰色低可視塗裝。"
+    "recog": "鴨式佈局：機頭後方一對鴨翼＋大三角主翼；菱形機頭與 DSI 蚌式進氣道（進氣口無隔道、有鼓包）；雙外傾垂尾＋腹鰭；機腹平整無外掛（武器內置）。全機灰色低可視塗裝。",
+    "image_credit": "图片来自百度百科《歼-20》（教育参考）"
   },
   {
     "id": "j-20s",
@@ -4881,7 +4942,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "殲-20 的雙座型：座艙罩明顯加長為前後兩座，機背隆起延伸；其餘鴨翼、菱形機頭、雙外傾垂尾與單座型相同。"
+    "recog": "殲-20 的雙座型：座艙罩明顯加長為前後兩座，機背隆起延伸；其餘鴨翼、菱形機頭、雙外傾垂尾與單座型相同。",
+    "image_credit": "图片来自百度百科《歼-20S》（教育参考）"
   },
   {
     "id": "j-35a",
@@ -4938,7 +5000,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "陸基匿蹤：與艦載殲-35 同為無鴨翼中型雙發匿蹤，但主翼不可摺疊、無攔阻鉤。"
+    "recog": "陸基匿蹤：與艦載殲-35 同為無鴨翼中型雙發匿蹤，但主翼不可摺疊、無攔阻鉤。",
+    "image_credit": "图片来自百度百科《歼-35A》（教育参考）"
   },
   {
     "id": "j-35",
@@ -4993,9 +5056,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：歼-35",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-35"
       }
     ],
-    "recog": "中型雙發匿蹤：機頭菱形、無鴨翼（與殲-20 最大差別）、雙外傾垂尾、DSI 進氣；艦載型主翼可摺疊、有攔阻鉤。"
+    "recog": "中型雙發匿蹤：機頭菱形、無鴨翼（與殲-20 最大差別）、雙外傾垂尾、DSI 進氣；艦載型主翼可摺疊、有攔阻鉤。",
+    "image_credit": "图片来自百度百科《歼-35》（教育参考）"
   },
   {
     "id": "j-16",
@@ -5045,9 +5113,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：殲-16",
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-16"
+      },
+      {
+        "label": "百度百科：歼-16",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-16"
       }
     ],
-    "recog": "重型雙發雙座 Flanker 外形：大型後掠翼＋兩具分開的發動機艙、雙垂尾；座艙為前後串列雙座；機翼下掛架多。與 Su-30 幾乎同形，靠灰色塗裝與國徽辨識。"
+    "recog": "重型雙發雙座 Flanker 外形：大型後掠翼＋兩具分開的發動機艙、雙垂尾；座艙為前後串列雙座；機翼下掛架多。與 Su-30 幾乎同形，靠灰色塗裝與國徽辨識。",
+    "image_credit": "图片来自百度百科《歼-16》（教育参考）"
   },
   {
     "id": "j-16d",
@@ -5099,7 +5172,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-16"
       }
     ],
-    "recog": "在殲-16 基礎上：翼尖換成長方形電戰吊艙（非飛彈掛架）、機頭下方無 IRST 球與機砲口，是最快的辨識點。"
+    "recog": "在殲-16 基礎上：翼尖換成長方形電戰吊艙（非飛彈掛架）、機頭下方無 IRST 球與機砲口，是最快的辨識點。",
+    "image_credit": "图片来自百度百科《歼-16D》（教育参考）"
   },
   {
     "id": "j-10c",
@@ -5149,9 +5223,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：殲-10",
         "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+      },
+      {
+        "label": "百度百科：歼-10C",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-10C"
       }
     ],
-    "recog": "與殲-10A 同為鴨翼＋腹部進氣，但進氣口為 DSI 蚌式（無隔道板、有鼓包），雷達罩較鈍，是最明顯差別。"
+    "recog": "與殲-10A 同為鴨翼＋腹部進氣，但進氣口為 DSI 蚌式（無隔道板、有鼓包），雷達罩較鈍，是最明顯差別。",
+    "image_credit": "图片来自百度百科《歼-10C》（教育参考）"
   },
   {
     "id": "j-10b",
@@ -5340,7 +5419,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Aircraft",
     "wiki": "Shenyang J-11",
-    "image": "",
+    "image": "assets/images/j-11bg.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_DoD",
     "source_authority": [
@@ -5356,8 +5435,17 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：殲-11",
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
+      },
+      {
+        "label": "百度百科：歼-11BG",
+        "url": "https://wapbaike.baidu.com/item/%E6%AD%BC-11BG"
+      },
+      {
+        "label": "百度百科：歼-11",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-11"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《歼-11》（教育参考）"
   },
   {
     "id": "j-11a",
@@ -5409,7 +5497,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
       }
     ],
-    "recog": "早期 Flanker：外形同 Su-27，機頭 IRST 球偏右、翼尖為飛彈掛架；塗裝多為藍灰迷彩。"
+    "recog": "早期 Flanker：外形同 Su-27，機頭 IRST 球偏右、翼尖為飛彈掛架；塗裝多為藍灰迷彩。",
+    "image_credit": "图片来自百度百科《歼-11》（教育参考）"
   },
   {
     "id": "j-15",
@@ -5459,9 +5548,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：殲-15",
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
+      },
+      {
+        "label": "百度百科：歼-15",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-15"
       }
     ],
-    "recog": "艦載重型雙發 Flanker：機頭前方有鴨翼（Su-33 血統）、翼與尾翼可摺疊、機尾有著艦攔阻鉤、前起落架為雙輪加強型。"
+    "recog": "艦載重型雙發 Flanker：機頭前方有鴨翼（Su-33 血統）、翼與尾翼可摺疊、機尾有著艦攔阻鉤、前起落架為雙輪加強型。",
+    "image_credit": "图片来自百度百科《歼-15》（教育参考）"
   },
   {
     "id": "j-15t",
@@ -5513,7 +5607,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
       }
     ],
-    "recog": "殲-15 彈射型：前起落架為「雙輪＋彈射拖曳桿」（掛在福建艦彈射器上），是與滑躍型最大差別。"
+    "recog": "殲-15 彈射型：前起落架為「雙輪＋彈射拖曳桿」（掛在福建艦彈射器上），是與滑躍型最大差別。",
+    "image_credit": "图片来自百度百科《歼-15T》（教育参考）"
   },
   {
     "id": "j-15d",
@@ -5620,9 +5715,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：苏-30战斗机",
+        "url": "https://baike.baidu.com/item/%E8%8B%8F-30%E6%88%98%E6%96%97%E6%9C%BA"
       }
     ],
-    "recog": "雙座重型 Flanker，機頭有 IRST 球；與殲-16 幾乎同形，靠俄製塗裝與細部天線區分。"
+    "recog": "雙座重型 Flanker，機頭有 IRST 球；與殲-16 幾乎同形，靠俄製塗裝與細部天線區分。",
+    "image_credit": "图片来自百度百科《苏-30战斗机》（教育参考）"
   },
   {
     "id": "su-30mk2",
@@ -5674,7 +5774,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-30MKK"
       }
     ],
-    "recog": "雙座 Flanker，海航塗裝；與 Su-30MKK 幾乎同形，任務為對海打擊常掛反艦飛彈。"
+    "recog": "雙座 Flanker，海航塗裝；與 Su-30MKK 幾乎同形，任務為對海打擊常掛反艦飛彈。",
+    "image_credit": "图片来自百度百科《苏-30战斗机》（教育参考）"
   },
   {
     "id": "su-35",
@@ -5728,9 +5829,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：苏-35战斗机",
+        "url": "https://baike.baidu.com/item/%E8%8B%8F-35%E6%88%98%E6%96%97%E6%9C%BA"
       }
     ],
-    "recog": "重型雙發 Flanker，與殲-11 系相似；辨識點：無鴨翼、垂尾頂端切平、發動機噴口為向量推力（可偏轉）、俄式塗裝。"
+    "recog": "重型雙發 Flanker，與殲-11 系相似；辨識點：無鴨翼、垂尾頂端切平、發動機噴口為向量推力（可偏轉）、俄式塗裝。",
+    "image_credit": "图片来自百度百科《苏-35战斗机》（教育参考）"
   },
   {
     "id": "su-27ubk",
@@ -5763,7 +5869,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Aircraft",
     "wiki": "Sukhoi Su-27",
-    "image": "",
+    "image": "assets/images/su-27ubk.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -5779,8 +5885,17 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：Su-27",
         "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+      },
+      {
+        "label": "百度百科：苏-27UBK",
+        "url": "https://wapbaike.baidu.com/item/%E8%8B%8F-27UBK"
+      },
+      {
+        "label": "百度百科：苏-27战斗机",
+        "url": "https://baike.baidu.com/item/%E8%8B%8F-27%E6%88%98%E6%96%97%E6%9C%BA"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《苏-27UBK》（教育参考）"
   },
   {
     "id": "jh-7a",
@@ -5830,9 +5945,22 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：殲轟-7",
         "url": "https://en.wikipedia.org/wiki/Xian_JH-7"
+      },
+      {
+        "label": "百度百科：歼轰-7",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC%E8%BD%B0-7"
+      },
+      {
+        "label": "百度百科：歼轰-7（歼轰-7）",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC%E8%BD%B0-7%EF%BC%88%E6%AD%BC%E8%BD%B0-7%EF%BC%89"
+      },
+      {
+        "label": "百度百科：歼轰-7（中国歼击轰炸机）",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC%E8%BD%B0-7%EF%BC%88%E4%B8%AD%E5%9B%BD%E6%AD%BC%E5%87%BB%E8%BD%B0%E7%82%B8%E6%9C%BA%EF%BC%89"
       }
     ],
-    "recog": "雙發、高置後掠翼（肩翼）、串列雙座、單垂尾＋腹鰭；機腹平坦掛載大型反艦飛彈時最好認。"
+    "recog": "雙發、高置後掠翼（肩翼）、串列雙座、單垂尾＋腹鰭；機腹平坦掛載大型反艦飛彈時最好認。",
+    "image_credit": "图片来自百度百科《歼轰-7（中国歼击轰炸机）》（教育参考）"
   },
   {
     "id": "h-6k",
@@ -5886,9 +6014,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：轰-6K",
+        "url": "https://baike.baidu.com/item/%E8%BD%B0-6K"
       }
     ],
-    "recog": "轟-6 家族：後掠翼、兩具發動機埋在翼根、玻璃機鼻。K 型辨識點：機鼻改為不透明黑色大雷達罩（無玻璃領航艙）、翼下 6 個大型掛架、進氣口明顯加大。"
+    "recog": "轟-6 家族：後掠翼、兩具發動機埋在翼根、玻璃機鼻。K 型辨識點：機鼻改為不透明黑色大雷達罩（無玻璃領航艙）、翼下 6 個大型掛架、進氣口明顯加大。",
+    "image_credit": "图片来自百度百科《轰-6K》（教育参考）"
   },
   {
     "id": "h-6n",
@@ -5944,7 +6077,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "外形同轟-6K，但機腹中線有凹陷缺口（掛載空射彈道飛彈用）、機鼻上方多出空中受油探管。"
+    "recog": "外形同轟-6K，但機腹中線有凹陷缺口（掛載空射彈道飛彈用）、機鼻上方多出空中受油探管。",
+    "image_credit": "图片来自百度百科《轰-6N》（教育参考）"
   },
   {
     "id": "h-6j",
@@ -5996,7 +6130,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Xian_H-6"
       }
     ],
-    "recog": "海軍型轟-6K，外形幾乎相同，塗裝為海軍灰藍色，常掛 YJ-12 反艦飛彈。"
+    "recog": "海軍型轟-6K，外形幾乎相同，塗裝為海軍灰藍色，常掛 YJ-12 反艦飛彈。",
+    "image_credit": "图片来自百度百科《轰-6J》（教育参考）"
   },
   {
     "id": "h-6h",
@@ -6048,7 +6183,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Xian_H-6"
       }
     ],
-    "recog": "轟-6 中期型：仍保留玻璃機鼻（與 K 型的黑色雷達罩不同）、翼下掛 2 枚巡航飛彈。"
+    "recog": "轟-6 中期型：仍保留玻璃機鼻（與 K 型的黑色雷達罩不同）、翼下掛 2 枚巡航飛彈。",
+    "image_credit": "图片来自百度百科《轰-6》（教育参考）"
   },
   {
     "id": "j-8f",
@@ -6100,7 +6236,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-8"
       }
     ],
-    "recog": "殲-8II 後期型：兩側進氣、細長機身、大三角翼；與早期型差在雷達罩與掛架，肉眼相近。"
+    "recog": "殲-8II 後期型：兩側進氣、細長機身、大三角翼；與早期型差在雷達罩與掛架，肉眼相近。",
+    "image_credit": "图片来自百度百科《歼-8》（教育参考）"
   },
   {
     "id": "j-7",
@@ -6202,9 +6339,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：空警-500",
         "url": "https://en.wikipedia.org/wiki/KJ-500"
+      },
+      {
+        "label": "百度百科：空警-500",
+        "url": "https://baike.baidu.com/item/%E7%A9%BA%E8%AD%A6-500"
       }
     ],
-    "recog": "運-9 四發渦槳機身＋背部圓盤形固定雷達罩；與空警-2000 差在是螺旋槳、機身較小。"
+    "recog": "運-9 四發渦槳機身＋背部圓盤形固定雷達罩；與空警-2000 差在是螺旋槳、機身較小。",
+    "image_credit": "图片来自百度百科《空警-500》（教育参考）"
   },
   {
     "id": "kj-200",
@@ -6418,9 +6560,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：運-20",
         "url": "https://en.wikipedia.org/wiki/Xian_Y-20"
+      },
+      {
+        "label": "百度百科：运-20",
+        "url": "https://baike.baidu.com/item/%E8%BF%90-20"
       }
     ],
-    "recog": "四發大型噴射運輸機：高置機翼、T 型尾翼較短、機身粗短寬厚、起落架多輪；外形類似 C-17 但較短胖。"
+    "recog": "四發大型噴射運輸機：高置機翼、T 型尾翼較短、機身粗短寬厚、起落架多輪；外形類似 C-17 但較短胖。",
+    "image_credit": "图片来自百度百科《运-20》（教育参考）"
   },
   {
     "id": "yy-20",
@@ -6472,7 +6619,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Xian_Y-20"
       }
     ],
-    "recog": "運-20 改裝加油機：機翼下加掛兩具軟管加油吊艙，機身塗裝與運輸型相同。"
+    "recog": "運-20 改裝加油機：機翼下加掛兩具軟管加油吊艙，機身塗裝與運輸型相同。",
+    "image_credit": "图片来自百度百科《运油-20》（教育参考）"
   },
   {
     "id": "y-9",
@@ -6524,7 +6672,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
       }
     ],
-    "recog": "運-8 改良：四葉→六葉螺旋槳（明顯特徵）、機頭雷達罩加大、無玻璃領航艙。"
+    "recog": "運-8 改良：四葉→六葉螺旋槳（明顯特徵）、機頭雷達罩加大、無玻璃領航艙。",
+    "image_credit": "图片来自百度百科《运-9（中国研发的中型中程运输机）》（教育参考）"
   },
   {
     "id": "y-8",
@@ -6629,7 +6778,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
       }
     ],
-    "recog": "運-8/9 特種任務族：機身佈滿各式天線、整流罩、球形雷達或側面「刀狀」天線陣，依任務不同外形差異大。"
+    "recog": "運-8/9 特種任務族：機身佈滿各式天線、整流罩、球形雷達或側面「刀狀」天線陣，依任務不同外形差異大。",
+    "image_credit": "图片来自百度百科《运-8》（教育参考）"
   },
   {
     "id": "il-76",
@@ -6786,7 +6936,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
       }
     ],
-    "recog": "反潛巡邏機：運-9 機身＋機尾細長的磁異偵測桿（MAD stinger）、機腹搜索雷達罩，是關鍵識別點。"
+    "recog": "反潛巡邏機：運-9 機身＋機尾細長的磁異偵測桿（MAD stinger）、機腹搜索雷達罩，是關鍵識別點。",
+    "image_credit": "图片来自百度百科《空潜200大型反潜巡逻机》（教育参考）"
   },
   {
     "id": "y-9jz",
@@ -6838,7 +6989,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
       }
     ],
-    "recog": "運-9 電子偵察型：機身兩側與腹部有大量刀狀天線與整流罩，無機尾磁探桿（與 KQ-200 的差別）。"
+    "recog": "運-9 電子偵察型：機身兩側與腹部有大量刀狀天線與整流罩，無機尾磁探桿（與 KQ-200 的差別）。",
+    "image_credit": "图片来自百度百科《运-9电子侦察机》（教育参考）"
   },
   {
     "id": "z-20",
@@ -6888,9 +7040,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：直-20",
         "url": "https://en.wikipedia.org/wiki/Harbin_Z-20"
+      },
+      {
+        "label": "百度百科：直-20战术通用直升机",
+        "url": "https://baike.baidu.com/item/%E7%9B%B4-20%E6%88%98%E6%9C%AF%E9%80%9A%E7%94%A8%E7%9B%B4%E5%8D%87%E6%9C%BA"
       }
     ],
-    "recog": "10 噸級通用直升機：五葉主旋翼（與美製黑鷹四葉不同，是關鍵辨識點）、傾斜尾槳、機身外形近似 UH-60。"
+    "recog": "10 噸級通用直升機：五葉主旋翼（與美製黑鷹四葉不同，是關鍵辨識點）、傾斜尾槳、機身外形近似 UH-60。",
+    "image_credit": "图片来自百度百科《直-20战术通用直升机》（教育参考）"
   },
   {
     "id": "z-20f",
@@ -6943,7 +7100,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Harbin_Z-20"
       }
     ],
-    "recog": "艦載型直-20：五葉旋翼＋主旋翼與尾樑可摺疊（艦上收納用）、機腹雷達罩，是與陸軍型最大差別。"
+    "recog": "艦載型直-20：五葉旋翼＋主旋翼與尾樑可摺疊（艦上收納用）、機腹雷達罩，是與陸軍型最大差別。",
+    "image_credit": "图片来自百度百科《直-20战术通用直升机》（教育参考）"
   },
   {
     "id": "z-10",
@@ -7097,9 +7255,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：直-9",
         "url": "https://en.wikipedia.org/wiki/Harbin_Z-9"
+      },
+      {
+        "label": "百度百科：直-9",
+        "url": "https://baike.baidu.com/item/%E7%9B%B4-9"
       }
     ],
-    "recog": "輕型直升機：涵道式尾槳（Fenestron）、機身圓潤——源自法製海豚，家族衍生多。"
+    "recog": "輕型直升機：涵道式尾槳（Fenestron）、機身圓潤——源自法製海豚，家族衍生多。",
+    "image_credit": "图片来自百度百科《直-9》（教育参考）"
   },
   {
     "id": "z-9c",
@@ -7152,7 +7315,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Harbin_Z-9"
       }
     ],
-    "recog": "艦載型直-9：涵道尾槳＋機腹搜索雷達罩、機身側面有聲納吊放艙門，起落架加裝浮筒/繫留環。"
+    "recog": "艦載型直-9：涵道尾槳＋機腹搜索雷達罩、機身側面有聲納吊放艙門，起落架加裝浮筒/繫留環。",
+    "image_credit": "图片来自百度百科《直-9》（教育参考）"
   },
   {
     "id": "z-8",
@@ -7202,9 +7366,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：直-8",
         "url": "https://en.wikipedia.org/wiki/Changhe_Z-8"
+      },
+      {
+        "label": "百度百科：直-8",
+        "url": "https://baike.baidu.com/item/%E7%9B%B4-8"
       }
     ],
-    "recog": "大型三發直升機：機腹為船形艇體（可水上起降）、六葉主旋翼、機身粗大；源自法製超黃蜂。"
+    "recog": "大型三發直升機：機腹為船形艇體（可水上起降）、六葉主旋翼、機身粗大；源自法製超黃蜂。",
+    "image_credit": "图片来自百度百科《直-8》（教育参考）"
   },
   {
     "id": "z-18",
@@ -7254,9 +7423,18 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：直-8",
         "url": "https://en.wikipedia.org/wiki/Changhe_Z-8"
+      },
+      {
+        "label": "百度百科：直-18F",
+        "url": "https://baike.baidu.com/item/%E7%9B%B4-18F"
+      },
+      {
+        "label": "百度百科：直-18直升机",
+        "url": "https://baike.baidu.com/item/%E7%9B%B4-18%E7%9B%B4%E5%8D%87%E6%9C%BA"
       }
     ],
-    "recog": "直-8 深度改進：機腹船形艇體保留但更方正、發動機艙加大、機頭雷達罩明顯。"
+    "recog": "直-8 深度改進：機腹船形艇體保留但更方正、發動機艙加大、機頭雷達罩明顯。",
+    "image_credit": "图片来自百度百科《直-18F》（教育参考）"
   },
   {
     "id": "z-18f",
@@ -7308,7 +7486,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Changhe_Z-8"
       }
     ],
-    "recog": "艦載反潛型直-18：機腹船形艇體＋機頭下方大型搜索雷達罩，機身側面有聲納浮標發射管。"
+    "recog": "艦載反潛型直-18：機腹船形艇體＋機頭下方大型搜索雷達罩，機身側面有聲納浮標發射管。",
+    "image_credit": "图片来自百度百科《直-18F》（教育参考）"
   },
   {
     "id": "mi-17",
@@ -7416,7 +7595,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Kamov_Ka-27"
       }
     ],
-    "recog": "俄製共軸雙旋翼反潛直升機：上下兩組反向旋轉旋翼、無尾槳、雙垂尾，外形極易辨認。"
+    "recog": "俄製共軸雙旋翼反潛直升機：上下兩組反向旋轉旋翼、無尾槳、雙垂尾，外形極易辨認。",
+    "image_credit": "图片来自百度百科《卡-28直升机》（教育参考）"
   },
   {
     "id": "ka-31",
@@ -7730,7 +7910,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shijiazhuang_Y-5"
       }
     ],
-    "recog": "雙翼機（上下兩層機翼＋支柱與張線），單發螺旋槳，是機隊中唯一的雙翼機，一眼可辨。"
+    "recog": "雙翼機（上下兩層機翼＋支柱與張線），單發螺旋槳，是機隊中唯一的雙翼機，一眼可辨。",
+    "image_credit": "图片来自百度百科《运-5运输机》（教育参考）"
   },
   {
     "id": "y-7",
@@ -7832,9 +8013,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：彩虹無人機",
         "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      },
+      {
+        "label": "百度百科：彩虹-4无人机",
+        "url": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B9-4%E6%97%A0%E4%BA%BA%E6%9C%BA"
       }
     ],
-    "recog": "中空長航時察打機：細長機身、V 型尾翼、背部推進螺旋槳（推進式）、機翼下 4 個掛架；外形接近美製 MQ-1。"
+    "recog": "中空長航時察打機：細長機身、V 型尾翼、背部推進螺旋槳（推進式）、機翼下 4 個掛架；外形接近美製 MQ-1。",
+    "image_credit": "图片来自百度百科《彩虹-4无人机》（教育参考）"
   },
   {
     "id": "ch-5",
@@ -7883,10 +8069,18 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：彩虹無人機",
         "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      },
+      {
+        "label": "百度百科：彩虹5号电池",
+        "url": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B95%E5%8F%B7%E7%94%B5%E6%B1%A0"
+      },
+      {
+        "label": "百度百科：彩虹-5无人机",
+        "url": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B9-5%E6%97%A0%E4%BA%BA%E6%9C%BA"
       }
     ],
     "image_caption": "2022 珠海航展展示的 CH-5 無人機",
-    "image_credit": "Infinty 0 / Wikimedia Commons",
+    "image_credit": "图片来自百度百科《彩虹-5无人机》（教育参考）",
     "image_license": "CC BY-SA 4.0",
     "image_source_url": "https://commons.wikimedia.org/wiki/File:CH-5_at_Airshow_China_Zhuhai_2022.jpg",
     "image_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -7995,7 +8189,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/CAIG_Wing_Loong"
       }
     ],
-    "recog": "翼龍-1：V 型尾翼、推進式螺旋槳、機腹光電球；與 CH-4 相似，機身較短、翼型略異。"
+    "recog": "翼龍-1：V 型尾翼、推進式螺旋槳、機腹光電球；與 CH-4 相似，機身較短、翼型略異。",
+    "image_credit": "图片来自百度百科《翼龙-1》（教育参考）"
   },
   {
     "id": "tb-001",
@@ -8028,7 +8223,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "UAV",
     "wiki": "TB-001",
-    "image": "",
+    "image": "assets/images/tb-001.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -8044,9 +8239,22 @@ window.EQUIPMENT_DATA = [
       {
         "label": "GlobalSecurity：TB-001 Twin-tailed Scorpion",
         "url": "https://www.globalsecurity.org/military/world/china/tb001.htm"
+      },
+      {
+        "label": "百度百科：TB-001",
+        "url": "https://wapbaike.baidu.com/item/TB-001"
+      },
+      {
+        "label": "百度百科：双尾蝎A无人机",
+        "url": "https://baike.baidu.com/item/%E5%8F%8C%E5%B0%BE%E8%9D%8EA%E6%97%A0%E4%BA%BA%E6%9C%BA"
+      },
+      {
+        "label": "百度百科：解宝",
+        "url": "https://baike.baidu.com/item/%E8%A7%A3%E5%AE%9D"
       }
     ],
-    "recog": "雙尾蠍：明顯的雙尾撐（兩根尾樑連接雙垂尾）＋雙發動機並列於機身兩側，外形非常好認。"
+    "recog": "雙尾蠍：明顯的雙尾撐（兩根尾樑連接雙垂尾）＋雙發動機並列於機身兩側，外形非常好認。",
+    "image_credit": "图片来自百度百科《TB-001》（教育参考）"
   },
   {
     "id": "gj-11",
@@ -8100,9 +8308,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：攻击-11",
+        "url": "https://baike.baidu.com/item/%E6%94%BB%E5%87%BB-11"
       }
     ],
-    "recog": "飛翼佈局：無垂尾、無平尾，機體呈三角飛翼；背部進氣口、鋸齒狀噴口與艙門，全機匿蹤外形。"
+    "recog": "飛翼佈局：無垂尾、無平尾，機體呈三角飛翼；背部進氣口、鋸齒狀噴口與艙門，全機匿蹤外形。",
+    "image_credit": "图片来自百度百科《攻击-11》（教育参考）"
   },
   {
     "id": "wz-7",
@@ -8155,7 +8368,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Guizhou_Soar_Dragon"
       }
     ],
-    "recog": "獨特「連翼（菱形翼）」設計：前後兩對機翼在翼尖相接成菱形環，全球少見，一眼可辨。"
+    "recog": "獨特「連翼（菱形翼）」設計：前後兩對機翼在翼尖相接成菱形環，全球少見，一眼可辨。",
+    "image_credit": "图片来自百度百科《无侦-7》（教育参考）"
   },
   {
     "id": "wz-8",
@@ -8262,7 +8476,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/BZK-005"
       }
     ],
-    "recog": "中高空長航時偵察無人機：機身修長、雙尾撐＋倒 V 尾翼、背部推進螺旋槳，機腹光電球。"
+    "recog": "中高空長航時偵察無人機：機身修長、雙尾撐＋倒 V 尾翼、背部推進螺旋槳，機腹光電球。",
+    "image_credit": "图片来自百度百科《BZK-005》（教育参考）"
   },
   {
     "id": "asn-209",
@@ -8345,7 +8560,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "UAV",
     "wiki": "CASC CH-7",
-    "image": "",
+    "image": "assets/images/ch-7.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CH-4_at_Airshow_China_Zhuhai_2022.jpg/330px-CH-4_at_Airshow_China_Zhuhai_2022.jpg",
     "source_tier": "US_open",
@@ -8362,8 +8577,17 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：彩虹-7",
         "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      },
+      {
+        "label": "百度百科：彩虹",
+        "url": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B9"
+      },
+      {
+        "label": "百度百科：彩虹-7高空隐身无人机",
+        "url": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B9-7%E9%AB%98%E7%A9%BA%E9%9A%90%E8%BA%AB%E6%97%A0%E4%BA%BA%E6%9C%BA"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《彩虹-7高空隐身无人机》（教育参考）"
   },
   {
     "id": "wj-700",
@@ -8470,9 +8694,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：东风-21弹道导弹",
+        "url": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-21%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9"
       }
     ],
-    "recog": "TEL 為 5 軸，彈體較 DF-26 短；彈頭段有明顯的機動彈頭外形（頭部帶控制翼）。"
+    "recog": "TEL 為 5 軸，彈體較 DF-26 短；彈頭段有明顯的機動彈頭外形（頭部帶控制翼）。",
+    "image_credit": "图片来自百度百科《东风-21弹道导弹》（教育参考）"
   },
   {
     "id": "df-21a",
@@ -8584,9 +8813,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：东风-26核常兼备导弹",
+        "url": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-26%E6%A0%B8%E5%B8%B8%E5%85%BC%E5%A4%87%E5%AF%BC%E5%BC%B9"
       }
     ],
-    "recog": "中遠程飛彈：TEL 為 6 軸，飛彈裸露呈細長圓柱、彈頭段可見；比 DF-21 明顯更長。"
+    "recog": "中遠程飛彈：TEL 為 6 軸，飛彈裸露呈細長圓柱、彈頭段可見；比 DF-21 明顯更長。",
+    "image_credit": "图片来自百度百科《东风-26核常兼备导弹》（教育参考）"
   },
   {
     "id": "df-17",
@@ -8845,7 +9079,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "DF-41",
-    "image": "assets/images/df-41.png",
+    "image": "assets/images/df-41.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/120%E7%A7%92%E7%9C%8B%E5%A4%A7%E9%98%85%E5%85%B5%E9%9C%87%E6%92%BC%E7%9E%AC%E9%97%B4%EF%BC%811.png/330px-120%E7%A7%92%E7%9C%8B%E5%A4%A7%E9%98%85%E5%85%B5%E9%9C%87%E6%92%BC%E7%9E%AC%E9%97%B4%EF%BC%811.png",
     "us_designation": "CSS-20",
@@ -8867,9 +9101,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：东风-41洲际战略核导弹",
+        "url": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-41%E6%B4%B2%E9%99%85%E6%88%98%E7%95%A5%E6%A0%B8%E5%AF%BC%E5%BC%B9"
       }
     ],
-    "recog": "洲際飛彈：極大型 TEL（多達 8 軸以上），飛彈裝在白色圓筒發射箱內，閱兵時最長的一款。"
+    "recog": "洲際飛彈：極大型 TEL（多達 8 軸以上），飛彈裝在白色圓筒發射箱內，閱兵時最長的一款。",
+    "image_credit": "图片来自百度百科《东风-41洲际战略核导弹》（教育参考）"
   },
   {
     "id": "df-5c",
@@ -8902,7 +9141,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "DF-5",
-    "image": "",
+    "image": "assets/images/df-5c.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "CSS-4 Mod 4 (reported)",
     "dod_class": "ICBM",
@@ -8923,7 +9162,8 @@ window.EQUIPMENT_DATA = [
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《东风-5C》（教育参考）"
   },
   {
     "id": "jl-2",
@@ -9037,7 +9277,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "新一代潛射洲際飛彈：外形資料極少，公開多為 094/096 潛艦龜背輪廓推測。"
+    "recog": "新一代潛射洲際飛彈：外形資料極少，公開多為 094/096 潛艦龜背輪廓推測。",
+    "image_credit": "图片来自百度百科《巨浪-3潜射洲际导弹》（教育参考）"
   },
   {
     "id": "cj-10",
@@ -9091,9 +9332,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：长剑-10巡航导弹",
+        "url": "https://baike.baidu.com/item/%E9%95%BF%E5%89%91-10%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9"
       }
     ],
-    "recog": "陸射巡航飛彈：發射車為 8×8 卡車＋3 具長方形發射箱（呈品字或並排），彈體平時不外露。"
+    "recog": "陸射巡航飛彈：發射車為 8×8 卡車＋3 具長方形發射箱（呈品字或並排），彈體平時不外露。",
+    "image_credit": "图片来自百度百科《长剑-10巡航导弹》（教育参考）"
   },
   {
     "id": "cj-20",
@@ -9149,7 +9395,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "空射巡航飛彈：掛在轟-6K 翼下，彈體細長、有可折疊的下垂彈翼與尾部渦扇進氣口。"
+    "recog": "空射巡航飛彈：掛在轟-6K 翼下，彈體細長、有可折疊的下垂彈翼與尾部渦扇進氣口。",
+    "image_credit": "图片来自百度百科《长剑-20A导弹》（教育参考）"
   },
   {
     "id": "df-100",
@@ -9182,7 +9429,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "CJ-100",
-    "image": "",
+    "image": "assets/images/df-100.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "CJ-100 / DF-100",
     "dod_class": "GLCM",
@@ -9203,7 +9450,8 @@ window.EQUIPMENT_DATA = [
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《长剑-100巡航导弹》（教育参考）"
   },
   {
     "id": "yj-12",
@@ -9288,7 +9536,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "YJ-12",
-    "image": "assets/images/yj-12b.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/YJ-12_cropped.jpg/330px-YJ-12_cropped.jpg",
     "source_tier": "US_DoD",
@@ -9340,7 +9588,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "YJ-18",
-    "image": "",
+    "image": "assets/images/yj-18.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "YJ-18 (AShM)",
     "dod_class": "AShM",
@@ -9359,7 +9607,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/YJ-18"
       }
     ],
-    "recog": "潛/艦射反艦飛彈，通常裝在垂發箱內看不到彈體；展示彈為細長圓柱＋末端衝刺段。"
+    "recog": "潛/艦射反艦飛彈，通常裝在垂發箱內看不到彈體；展示彈為細長圓柱＋末端衝刺段。",
+    "image_credit": "图片来自百度百科《鹰击-18A》（教育参考）"
   },
   {
     "id": "yj-83",
@@ -9498,7 +9747,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/yj-21.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "YJ-21 (hypersonic ASBM/ALBM)",
     "dod_class": "ALBM / hypersonic AShM",
@@ -9519,7 +9768,8 @@ window.EQUIPMENT_DATA = [
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《鹰击-21导弹》（教育参考）"
   },
   {
     "id": "yj-6",
@@ -10006,9 +10256,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：中国人民解放军海军福建舰",
+        "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%B5%B7%E5%86%9B%E7%A6%8F%E5%BB%BA%E8%88%B0"
       }
     ],
-    "recog": "福建艦：平直全通甲板（無滑躍），甲板上有三條電磁彈射器軌道、艦島小而後移，是最大識別點。"
+    "recog": "福建艦：平直全通甲板（無滑躍），甲板上有三條電磁彈射器軌道、艦島小而後移，是最大識別點。",
+    "image_credit": "图片来自百度百科《中国人民解放军海军福建舰》（教育参考）"
   },
   {
     "id": "type-002",
@@ -10064,9 +10319,18 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：中国船舶集团“山东舰”总体研制团队",
+        "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%88%B9%E8%88%B6%E9%9B%86%E5%9B%A2%E2%80%9C%E5%B1%B1%E4%B8%9C%E8%88%B0%E2%80%9D%E6%80%BB%E4%BD%93%E7%A0%94%E5%88%B6%E5%9B%A2%E9%98%9F"
+      },
+      {
+        "label": "百度百科：中国人民解放军海军山东舰",
+        "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%B5%B7%E5%86%9B%E5%B1%B1%E4%B8%9C%E8%88%B0"
       }
     ],
-    "recog": "山東艦：同為滑躍甲板，但艦島較遼寧艦短小、雷達佈局不同，甲板標線與停機區配置有差異。"
+    "recog": "山東艦：同為滑躍甲板，但艦島較遼寧艦短小、雷達佈局不同，甲板標線與停機區配置有差異。",
+    "image_credit": "图片来自百度百科《中国人民解放军海军山东舰》（教育参考）"
   },
   {
     "id": "type-001",
@@ -10160,7 +10424,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 055 destroyer",
-    "image": "",
+    "image": "assets/images/type-055.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "Renhai-class / Type 055",
     "dod_class": "Cruiser / large destroyer (USN often cruiser)",
@@ -10181,9 +10445,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：南昌号驱逐舰",
+        "url": "https://baike.baidu.com/item/%E5%8D%97%E6%98%8C%E5%8F%B7%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
-    "recog": "萬噸大驅：艦艏封閉式一體化桅杆（金字塔狀）、艦體線條方正匿蹤、艏艉共 112 具垂發、130mm 單管主砲。"
+    "recog": "萬噸大驅：艦艏封閉式一體化桅杆（金字塔狀）、艦體線條方正匿蹤、艏艉共 112 具垂發、130mm 單管主砲。",
+    "image_credit": "图片来自百度百科《南昌号驱逐舰》（教育参考）"
   },
   {
     "id": "type-052d",
@@ -10235,9 +10504,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：052D型驅逐艦",
         "url": "https://en.wikipedia.org/wiki/Type_052D_destroyer"
+      },
+      {
+        "label": "百度百科：052D型驱逐舰",
+        "url": "https://baike.baidu.com/item/052D%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
-    "recog": "艦艏 130mm 單管主砲、四面固定相位陣列嵌在艦橋上、艏艉各 32 具垂發；煙囪兩座、艦體較 055 小一號。"
+    "recog": "艦艏 130mm 單管主砲、四面固定相位陣列嵌在艦橋上、艏艉各 32 具垂發；煙囪兩座、艦體較 055 小一號。",
+    "image_credit": "图片来自百度百科《052D型驱逐舰》（教育参考）"
   },
   {
     "id": "type-052dl",
@@ -10271,7 +10545,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 052D destroyer",
-    "image": "",
+    "image": "assets/images/type-052dl.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -10288,8 +10562,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：052D／052DL型驅逐艦",
         "url": "https://en.wikipedia.org/wiki/Type_052D_destroyer"
+      },
+      {
+        "label": "百度百科：包头舰",
+        "url": "https://baike.baidu.com/item/%E5%8C%85%E5%A4%B4%E8%88%B0"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《焦作舰》（教育参考）"
   },
   {
     "id": "type-052c",
@@ -10341,9 +10620,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：052C型驅逐艦",
         "url": "https://en.wikipedia.org/wiki/Type_052C_destroyer"
+      },
+      {
+        "label": "百度百科：052C型驱逐舰",
+        "url": "https://baike.baidu.com/item/052C%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
-    "recog": "「中華神盾」首型：艦橋四面為「圓弧形」相位陣列（052D 為平面方形）、艦艏 100mm 單管砲、垂發為圓形轉輪式發射口。"
+    "recog": "「中華神盾」首型：艦橋四面為「圓弧形」相位陣列（052D 為平面方形）、艦艏 100mm 單管砲、垂發為圓形轉輪式發射口。",
+    "image_credit": "图片来自百度百科《052C型驱逐舰》（教育参考）"
   },
   {
     "id": "type-052b",
@@ -10397,9 +10681,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：052B型驅逐艦",
         "url": "https://en.wikipedia.org/wiki/Type_052B_destroyer"
+      },
+      {
+        "label": "百度百科：052B型驱逐舰（052B型驱逐舰）",
+        "url": "https://baike.baidu.com/item/052B%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0%EF%BC%88052B%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0%EF%BC%89"
       }
     ],
-    "recog": "無相位陣列：艦橋頂為俄式旋轉雷達、艦艏 100mm 砲、兩側單臂防空飛彈發射架，外觀較老式。"
+    "recog": "無相位陣列：艦橋頂為俄式旋轉雷達、艦艏 100mm 砲、兩側單臂防空飛彈發射架，外觀較老式。",
+    "image_credit": "图片来自百度百科《中国人民解放军海军广州舰》（教育参考）"
   },
   {
     "id": "type-051c",
@@ -10452,9 +10741,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：051C型驅逐艦",
         "url": "https://en.wikipedia.org/wiki/Type_051C_destroyer"
+      },
+      {
+        "label": "百度百科：051C型驱逐舰",
+        "url": "https://baike.baidu.com/item/051C%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
-    "recog": "艦體為老式 051 加大版，艦艉甲板上有俄製「裡夫-M」轉輪式垂直發射器（圓形大轉盤），非常特殊。"
+    "recog": "艦體為老式 051 加大版，艦艉甲板上有俄製「裡夫-M」轉輪式垂直發射器（圓形大轉盤），非常特殊。",
+    "image_credit": "图片来自百度百科《051C型驱逐舰》（教育参考）"
   },
   {
     "id": "type-051b",
@@ -10507,9 +10801,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：深圳號驅逐艦（051B）",
         "url": "https://en.wikipedia.org/wiki/Type_051B_destroyer"
+      },
+      {
+        "label": "百度百科：051B型驱逐舰",
+        "url": "https://baike.baidu.com/item/051B%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
-    "recog": "單艦「深圳號」：艦體修長、上層建築方正大面積、原無垂發（後改裝），煙囪明顯外露。"
+    "recog": "單艦「深圳號」：艦體修長、上層建築方正大面積、原無垂發（後改裝），煙囪明顯外露。",
+    "image_credit": "图片来自百度百科《051B型驱逐舰》（教育参考）"
   },
   {
     "id": "sovremenny",
@@ -10546,7 +10845,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Sovremenny-class destroyer",
-    "image": "",
+    "image": "assets/images/sovremenny.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -10562,8 +10861,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：現代級驅逐艦",
         "url": "https://en.wikipedia.org/wiki/Sovremenny-class_destroyer"
+      },
+      {
+        "label": "百度百科：现代级驱逐舰",
+        "url": "https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E7%BA%A7%E9%A9%B1%E9%80%90%E8%88%B0"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《现代级驱逐舰》（教育参考）"
   },
   {
     "id": "type-054a",
@@ -10615,9 +10919,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：054A型護衛艦",
         "url": "https://en.wikipedia.org/wiki/Type_054A_frigate"
+      },
+      {
+        "label": "百度百科：054A型护卫舰",
+        "url": "https://baike.baidu.com/item/054A%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
-    "recog": "護衛艦：艦艏 76mm 單管砲、艦橋前方 32 具垂發、艏艉各一座 730 近防砲，艦體外飄匿蹤造型。"
+    "recog": "護衛艦：艦艏 76mm 單管砲、艦橋前方 32 具垂發、艏艉各一座 730 近防砲，艦體外飄匿蹤造型。",
+    "image_credit": "图片来自百度百科《054A型护卫舰》（教育参考）"
   },
   {
     "id": "type-054b",
@@ -10650,7 +10959,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 054B frigate",
-    "image": "",
+    "image": "assets/images/type-054b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "Type 054B",
     "dod_class": "Frigate (FFG)",
@@ -10666,8 +10975,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：054B型護衛艦",
         "url": "https://en.wikipedia.org/wiki/Type_054B_frigate"
+      },
+      {
+        "label": "百度百科：054B型护卫舰",
+        "url": "https://baike.baidu.com/item/054B%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《054B型护卫舰》（教育参考）"
   },
   {
     "id": "type-054",
@@ -10756,7 +11070,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 056 corvette",
-    "image": "",
+    "image": "assets/images/type-056a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "Jiangdao-class / Type 056A",
     "dod_class": "Corvette (FS)",
@@ -10772,8 +11086,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：056型輕型護衛艦",
         "url": "https://en.wikipedia.org/wiki/Type_056_corvette"
+      },
+      {
+        "label": "百度百科：056A型护卫舰",
+        "url": "https://baike.baidu.com/item/056A%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《056A型护卫舰》（教育参考）"
   },
   {
     "id": "type-056",
@@ -10824,9 +11143,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：056型輕型護衛艦",
         "url": "https://en.wikipedia.org/wiki/Type_056_corvette"
+      },
+      {
+        "label": "百度百科：056型护卫舰",
+        "url": "https://baike.baidu.com/item/056%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
-    "recog": "輕型護衛艦：艦體小、艦艏 76mm 砲、艦艉直升機甲板但無機庫（056A 有拖曳聲納絞車）。"
+    "recog": "輕型護衛艦：艦體小、艦艏 76mm 砲、艦艉直升機甲板但無機庫（056A 有拖曳聲納絞車）。",
+    "image_credit": "图片来自百度百科《056型护卫舰》（教育参考）"
   },
   {
     "id": "type-053h3",
@@ -10880,9 +11204,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：053H3型護衛艦",
         "url": "https://en.wikipedia.org/wiki/Type_053H3_frigate"
+      },
+      {
+        "label": "百度百科：053H3型护卫舰",
+        "url": "https://baike.baidu.com/item/053H3%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
-    "recog": "老式護衛艦：艦艏 100mm 雙管砲（雙砲管）、中部兩組四聯裝反艦飛彈箱斜置、艦艉八聯裝 HQ-7。"
+    "recog": "老式護衛艦：艦艏 100mm 雙管砲（雙砲管）、中部兩組四聯裝反艦飛彈箱斜置、艦艉八聯裝 HQ-7。",
+    "image_credit": "图片来自百度百科《053H3型护卫舰》（教育参考）"
   },
   {
     "id": "type-022",
@@ -10989,9 +11318,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：075型兩棲攻擊艦",
         "url": "https://en.wikipedia.org/wiki/Type_075_landing_helicopter_dock"
+      },
+      {
+        "label": "百度百科：075型两栖攻击舰",
+        "url": "https://baike.baidu.com/item/075%E5%9E%8B%E4%B8%A4%E6%A0%96%E6%94%BB%E5%87%BB%E8%88%B0"
       }
     ],
-    "recog": "兩棲攻擊艦：全通直甲板、艦島小而靠右舷、無滑躍；艦內為直升機庫與塢艙。"
+    "recog": "兩棲攻擊艦：全通直甲板、艦島小而靠右舷、無滑躍；艦內為直升機庫與塢艙。",
+    "image_credit": "图片来自百度百科《075型两栖攻击舰》（教育参考）"
   },
   {
     "id": "type-076",
@@ -11047,7 +11381,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "新型兩棲攻擊艦：全通甲板＋艦島偏右，最大特徵是甲板上有「電磁彈射軌道」（供無人機起飛），075 沒有。"
+    "recog": "新型兩棲攻擊艦：全通甲板＋艦島偏右，最大特徵是甲板上有「電磁彈射軌道」（供無人機起飛），075 沒有。",
+    "image_credit": "图片来自百度百科《076型两栖攻击舰》（教育参考）"
   },
   {
     "id": "type-071",
@@ -11099,9 +11434,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：071型船塢登陸艦",
         "url": "https://en.wikipedia.org/wiki/Type_071_amphibious_transport_dock"
+      },
+      {
+        "label": "百度百科：071型船坞登陆舰",
+        "url": "https://baike.baidu.com/item/071%E5%9E%8B%E8%88%B9%E5%9D%9E%E7%99%BB%E9%99%86%E8%88%B0"
       }
     ],
-    "recog": "船塢登陸艦：艦艏 76mm 砲、上層建築方正匿蹤、艦艉為可注水塢艙、中後段直升機甲板。"
+    "recog": "船塢登陸艦：艦艏 76mm 砲、上層建築方正匿蹤、艦艉為可注水塢艙、中後段直升機甲板。",
+    "image_credit": "图片来自百度百科《071型船坞登陆舰》（教育参考）"
   },
   {
     "id": "type-072a",
@@ -11190,7 +11530,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 726 LCAC",
-    "image": "",
+    "image": "assets/images/type-726.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -11207,8 +11547,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：075型兩棲攻擊艦",
         "url": "https://en.wikipedia.org/wiki/Type_075_landing_helicopter_dock"
+      },
+      {
+        "label": "百度百科：726型气垫登陆艇",
+        "url": "https://baike.baidu.com/item/726%E5%9E%8B%E6%B0%94%E5%9E%AB%E7%99%BB%E9%99%86%E8%89%87"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《726型气垫登陆艇》（教育参考）"
   },
   {
     "id": "type-093",
@@ -11243,7 +11588,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 093 submarine",
-    "image": "",
+    "image": "assets/images/type-093.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "Shang-class / Type 093 SSN",
     "dod_class": "Nuclear attack submarine (SSN)",
@@ -11263,9 +11608,18 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：091型攻击核潜艇",
+        "url": "https://baike.baidu.com/item/091%E5%9E%8B%E6%94%BB%E5%87%BB%E6%A0%B8%E6%BD%9C%E8%89%87"
+      },
+      {
+        "label": "百度百科：093型核潜艇",
+        "url": "https://baike.baidu.com/item/093%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87"
       }
     ],
-    "recog": "攻擊核潛艦：艇身修長無龜背、指揮台圍殼較低長、艉部十字舵。"
+    "recog": "攻擊核潛艦：艇身修長無龜背、指揮台圍殼較低長、艉部十字舵。",
+    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）"
   },
   {
     "id": "type-093b",
@@ -11298,7 +11652,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 093 submarine",
-    "image": "",
+    "image": "assets/images/type-093b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "Shang III / Type 093B",
     "dod_class": "SSN (improved)",
@@ -11314,8 +11668,17 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：093型核潛艦",
         "url": "https://en.wikipedia.org/wiki/Type_093_submarine"
+      },
+      {
+        "label": "百度百科：885型攻击核潜艇",
+        "url": "https://baike.baidu.com/item/885%E5%9E%8B%E6%94%BB%E5%87%BB%E6%A0%B8%E6%BD%9C%E8%89%87"
+      },
+      {
+        "label": "百度百科：093B型核潜艇",
+        "url": "https://baike.baidu.com/item/093B%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）"
   },
   {
     "id": "type-094",
@@ -11372,9 +11735,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：094型战略核潜艇",
+        "url": "https://baike.baidu.com/item/094%E5%9E%8B%E6%88%98%E7%95%A5%E6%A0%B8%E6%BD%9C%E8%89%87"
       }
     ],
-    "recog": "戰略核潛艦：艦體中後段有明顯隆起的「龜背」飛彈艙（容納 12 枚 JL-2），是關鍵辨識點。"
+    "recog": "戰略核潛艦：艦體中後段有明顯隆起的「龜背」飛彈艙（容納 12 枚 JL-2），是關鍵辨識點。",
+    "image_credit": "图片来自百度百科《094型战略核潜艇》（教育参考）"
   },
   {
     "id": "type-091",
@@ -11428,9 +11796,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：091型核潛艦",
         "url": "https://en.wikipedia.org/wiki/Type_091_submarine"
+      },
+      {
+        "label": "百度百科：091型攻击核潜艇",
+        "url": "https://baike.baidu.com/item/091%E5%9E%8B%E6%94%BB%E5%87%BB%E6%A0%B8%E6%BD%9C%E8%89%87"
       }
     ],
-    "recog": "第一代攻擊核潛艦：指揮台圍殼較高且靠前、艇艏線條較鈍，艇身有明顯的排水孔列。"
+    "recog": "第一代攻擊核潛艦：指揮台圍殼較高且靠前、艇艏線條較鈍，艇身有明顯的排水孔列。",
+    "image_credit": "图片来自百度百科《091型攻击核潜艇》（教育参考）"
   },
   {
     "id": "type-039a",
@@ -11485,9 +11858,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：039A型潛艦",
         "url": "https://en.wikipedia.org/wiki/Type_039A_submarine"
+      },
+      {
+        "label": "百度百科：元级潜艇",
+        "url": "https://baike.baidu.com/item/%E5%85%83%E7%BA%A7%E6%BD%9C%E8%89%87"
       }
     ],
-    "recog": "常規潛艦：指揮台圍殼前緣有明顯階梯狀折角、艇身圓胖（AIP 艙段），與宋級的圍殼線條不同。"
+    "recog": "常規潛艦：指揮台圍殼前緣有明顯階梯狀折角、艇身圓胖（AIP 艙段），與宋級的圍殼線條不同。",
+    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）"
   },
   {
     "id": "type-039",
@@ -11539,9 +11917,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：039型潛艦",
         "url": "https://en.wikipedia.org/wiki/Type_039_submarine"
+      },
+      {
+        "label": "百度百科：039型潜艇",
+        "url": "https://baike.baidu.com/item/039%E5%9E%8B%E6%BD%9C%E8%89%87"
       }
     ],
-    "recog": "宋級柴電潛艦：指揮台圍殼「前緣垂直」且有階梯狀凸起（與元級的圓弧圍殼不同）。"
+    "recog": "宋級柴電潛艦：指揮台圍殼「前緣垂直」且有階梯狀凸起（與元級的圓弧圍殼不同）。",
+    "image_credit": "图片来自百度百科《039型潜艇》（教育参考）"
   },
   {
     "id": "type-035",
@@ -11575,7 +11958,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 035 submarine",
-    "image": "",
+    "image": "assets/images/type-035.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "Ming-class / Type 035",
     "dod_class": "Diesel-electric submarine (legacy)",
@@ -11591,8 +11974,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：035型潛艦（明級）",
         "url": "https://en.wikipedia.org/wiki/Type_035_submarine"
+      },
+      {
+        "label": "百度百科：035型潜艇",
+        "url": "https://baike.baidu.com/item/035%E5%9E%8B%E6%BD%9C%E8%89%87"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《035型潜艇》（教育参考）"
   },
   {
     "id": "kilo",
@@ -11649,7 +12037,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Kilo-class_submarine"
       }
     ],
-    "recog": "俄製基洛級：艇身特別「圓胖」（水滴形明顯）、指揮台圍殼低矮平順，外號「大洋黑洞」。"
+    "recog": "俄製基洛級：艇身特別「圓胖」（水滴形明顯）、指揮台圍殼低矮平順，外號「大洋黑洞」。",
+    "image_credit": "图片来自百度百科《基洛级潜艇》（教育参考）"
   },
   {
     "id": "type-901",
@@ -11702,9 +12091,14 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：901型綜合補給艦",
         "url": "https://en.wikipedia.org/wiki/Type_901_fast_combat_support_ship"
+      },
+      {
+        "label": "百度百科：901型综合补给舰",
+        "url": "https://baike.baidu.com/item/901%E5%9E%8B%E7%BB%BC%E5%90%88%E8%A1%A5%E7%BB%99%E8%88%B0"
       }
     ],
-    "recog": "大型快速補給艦：比 903 更大、艦體高，補給站數量多，煙囪與上層建築更龐大。"
+    "recog": "大型快速補給艦：比 903 更大、艦體高，補給站數量多，煙囪與上層建築更龐大。",
+    "image_credit": "图片来自百度百科《901型综合补给舰》（教育参考）"
   },
   {
     "id": "type-903a",
@@ -11757,9 +12151,18 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：903型補給艦",
         "url": "https://en.wikipedia.org/wiki/Type_903_replenishment_ship"
+      },
+      {
+        "label": "百度百科：903a型补给舰",
+        "url": "https://baike.baidu.com/item/903a%E5%9E%8B%E8%A1%A5%E7%BB%99%E8%88%B0"
+      },
+      {
+        "label": "百度百科：903型补给舰",
+        "url": "https://baike.baidu.com/item/903%E5%9E%8B%E8%A1%A5%E7%BB%99%E8%88%B0"
       }
     ],
-    "recog": "綜合補給艦：艦身長、甲板上有 2～4 座高聳的補給龍門架（門型吊桿），艦艉直升機甲板。"
+    "recog": "綜合補給艦：艦身長、甲板上有 2～4 座高聳的補給龍門架（門型吊桿），艦艉直升機甲板。",
+    "image_credit": "图片来自百度百科《903a型补给舰》（教育参考）"
   },
   {
     "id": "type-815a",
@@ -11814,7 +12217,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_815_spy_ship"
       }
     ],
-    "recog": "電子偵察艦：甲板上林立多個大型「白色球形雷達罩」（3～4 個），是全艦隊最好認的外形。"
+    "recog": "電子偵察艦：甲板上林立多個大型「白色球形雷達罩」（3～4 個），是全艦隊最好認的外形。",
+    "image_credit": "图片来自百度百科《815A型电子侦察船》（教育参考）"
   },
   {
     "id": "type-004-rumor",
@@ -11848,7 +12252,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/type-004-rumor.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "open_unverified",
     "source_authority": [
@@ -11861,8 +12265,13 @@ window.EQUIPMENT_DATA = [
     "sources": [
       {
         "label": "⚠️ 待蒐：資料尚待權威來源核實"
+      },
+      {
+        "label": "百度百科：004型航空母舰",
+        "url": "https://baike.baidu.com/item/004%E5%9E%8B%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《004型航空母舰》（教育参考）"
   },
   {
     "id": "type-730",
@@ -11916,7 +12325,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_1130_CIWS"
       }
     ],
-    "recog": "近防砲：7 管旋轉砲管＋砲塔上方一體化的追蹤雷達與光電球（砲塔較 1130 小）。"
+    "recog": "近防砲：7 管旋轉砲管＋砲塔上方一體化的追蹤雷達與光電球（砲塔較 1130 小）。",
+    "image_credit": "图片来自百度百科《730型30毫米近防炮系统》（教育参考）"
   },
   {
     "id": "type-1130",
@@ -11969,7 +12379,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_1130_CIWS"
       }
     ],
-    "recog": "近防砲：11 管旋轉砲管（管數明顯更多更密）、砲塔兩側各有彈鼓，射速極高。"
+    "recog": "近防砲：11 管旋轉砲管（管數明顯更多更密）、砲塔兩側各有彈鼓，射速極高。",
+    "image_credit": "图片来自百度百科《H/PJ-11型11管30毫米舰炮》（教育参考）"
   },
   {
     "id": "yu-6",
@@ -12277,7 +12688,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
       }
     ],
-    "recog": "07 式軍服：較大塊的數位迷彩（比 21 式星空迷彩色塊粗），陸空海各有配色。"
+    "recog": "07 式軍服：較大塊的數位迷彩（比 21 式星空迷彩色塊粗），陸空海各有配色。",
+    "image_credit": "图片来自百度百科《中国人民解放军2007式军服》（教育参考）"
   },
   {
     "id": "qgf-11",
@@ -12563,7 +12975,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Engineer",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/type-84-minelayer.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -12580,7 +12992,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：布雷車",
         "url": "https://en.wikipedia.org/wiki/Minelayer"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《84式24管火箭布雷车》（教育参考）"
   },
   {
     "id": "pcl-09",
@@ -12680,6 +13093,10 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：PTL-02／突擊砲",
         "url": "https://en.wikipedia.org/wiki/PTL-02"
+      },
+      {
+        "label": "百度百科：中国105毫米轮式自行突击炮",
+        "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD105%E6%AF%AB%E7%B1%B3%E8%BD%AE%E5%BC%8F%E8%87%AA%E8%A1%8C%E7%AA%81%E5%87%BB%E7%82%AE"
       }
     ]
   },
@@ -12985,7 +13402,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "Type 83 SPH",
-    "image": "",
+    "image": "assets/images/type-83-sph.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -13001,8 +13418,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：83式自走砲",
         "url": "https://en.wikipedia.org/wiki/Type_83_self-propelled_howitzer"
+      },
+      {
+        "label": "百度百科：83式152毫米自行加榴炮",
+        "url": "https://baike.baidu.com/item/83%E5%BC%8F152%E6%AF%AB%E7%B1%B3%E8%87%AA%E8%A1%8C%E5%8A%A0%E6%A6%B4%E7%82%AE"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《83式152毫米自行加榴炮》（教育参考）"
   },
   {
     "id": "type-66-152",
@@ -13300,7 +13722,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "A-100",
-    "image": "",
+    "image": "assets/images/a100.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -13316,8 +13738,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：A100 MLRS",
         "url": "https://en.wikipedia.org/wiki/A100_multiple_rocket_launcher"
+      },
+      {
+        "label": "百度百科：MSN-100 百式",
+        "url": "https://baike.baidu.com/item/MSN-100%20%E7%99%BE%E5%BC%8F"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《A100火箭炮》（教育参考）"
   },
   {
     "id": "sr5",
@@ -13350,7 +13777,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "SR-5",
-    "image": "",
+    "image": "assets/images/sr5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -13366,8 +13793,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：SR5 MLRS",
         "url": "https://en.wikipedia.org/wiki/SR5_multiple_rocket_launcher"
+      },
+      {
+        "label": "百度百科：中国SR-5自行远程火箭炮",
+        "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BDSR-5%E8%87%AA%E8%A1%8C%E8%BF%9C%E7%A8%8B%E7%81%AB%E7%AE%AD%E7%82%AE"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《中国SR-5式多管自行火箭炮》（教育参考）"
   },
   {
     "id": "pcz-171",
@@ -13609,7 +14041,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "YJ-18",
-    "image": "",
+    "image": "assets/images/yj-18a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_DoD",
     "source_authority": [
@@ -13626,7 +14058,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：鷹擊-18",
         "url": "https://en.wikipedia.org/wiki/YJ-18"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《鹰击-18A》（教育参考）"
   },
   {
     "id": "cx-1",
@@ -13660,7 +14093,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "CX-1",
-    "image": "",
+    "image": "assets/images/cx-1.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -13677,7 +14110,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：CX-1",
         "url": "https://en.wikipedia.org/wiki/CX-1_(missile)"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《CX-1巡航导弹》（教育参考）"
   },
   {
     "id": "cm-401",
@@ -13711,7 +14145,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "CM-401",
-    "image": "",
+    "image": "assets/images/cm-401.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -13728,7 +14162,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：CM-401",
         "url": "https://en.wikipedia.org/wiki/CM-401"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《CM401反舰导弹》（教育参考）"
   },
   {
     "id": "akd-10",
@@ -14178,7 +14613,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/ld-10.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -14195,7 +14630,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：LD-10",
         "url": "https://en.wikipedia.org/wiki/LD-10"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《LD-10反辐射导弹》（教育参考）"
   },
   {
     "id": "df-27",
@@ -14355,7 +14791,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "DF-31",
-    "image": "",
+    "image": "assets/images/df-31b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "火箭軍",
@@ -14364,7 +14800,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：東風-31",
         "url": "https://en.wikipedia.org/wiki/DF-31"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《东风-31新型陆基洲际导弹》（教育参考）"
   },
   {
     "id": "hq-19",
@@ -14465,7 +14902,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/kj-3000.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "空軍",
@@ -14477,8 +14914,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
+      },
+      {
+        "label": "百度百科：空警-3000",
+        "url": "https://baike.baidu.com/item/%E7%A9%BA%E8%AD%A6-3000"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《空警-3000》（教育参考）"
   },
   {
     "id": "type-19-ifv",
@@ -14523,7 +14965,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/type-19-ifv.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "陸軍",
@@ -14531,8 +14973,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：Type 19 IFV",
         "url": "https://en.wikipedia.org/wiki/ZBL-19"
+      },
+      {
+        "label": "百度百科：步兵战车",
+        "url": "https://baike.baidu.com/item/%E6%AD%A5%E5%85%B5%E6%88%98%E8%BD%A6"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《VN22轮式装甲车》（教育参考）"
   },
   {
     "id": "wz-9",
@@ -14576,7 +15023,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "Divine Eagle",
-    "image": "",
+    "image": "assets/images/wz-9.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "空軍",
@@ -14584,8 +15031,13 @@ window.EQUIPMENT_DATA = [
       {
         "label": "維基百科：WZ-9 神鷹",
         "url": "https://en.wikipedia.org/wiki/WZ-9"
+      },
+      {
+        "label": "百度百科：无侦-9",
+        "url": "https://baike.baidu.com/item/%E6%97%A0%E4%BE%A6-9"
       }
-    ]
+    ],
+    "image_credit": "图片来自百度百科《无侦-9》（教育参考）"
   },
   {
     "id": "type-053h2g",
@@ -14622,16 +15074,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "飛彈護衛艦（江衛I級）",
     "form_en": "",
     "wiki": "Type 053 frigate",
-    "image": "",
+    "image": "assets/images/type-053h2g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 053 frigate",
-        "url": "https://en.wikipedia.org/wiki/Type_053_frigate"
+        "label": "百度百科：053H型护卫舰",
+        "url": "https://baike.baidu.com/item/053H%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《安庆号护卫舰》"
   },
   {
     "id": "type-053h1g",
@@ -14668,16 +15121,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "飛彈護衛艦（江湖V級）",
     "form_en": "",
     "wiki": "Type 053 frigate",
-    "image": "",
+    "image": "assets/images/type-053h1g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 053 frigate",
-        "url": "https://en.wikipedia.org/wiki/Type_053_frigate"
+        "label": "百度百科：053H1G型护卫舰",
+        "url": "https://baike.baidu.com/item/053H1G%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《053H1G型护卫舰》（教育参考）"
   },
   {
     "id": "type-053h",
@@ -14714,16 +15168,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "飛彈護衛艦（江湖I級）",
     "form_en": "",
     "wiki": "Type 053 frigate",
-    "image": "",
+    "image": "assets/images/type-053h.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 053 frigate",
-        "url": "https://en.wikipedia.org/wiki/Type_053_frigate"
+        "label": "百度百科：053H型护卫舰",
+        "url": "https://baike.baidu.com/item/053H%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《053H型护卫舰》（教育参考）"
   },
   {
     "id": "type-037",
@@ -14807,16 +15262,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近岸獵潛艇（SC）",
     "form_en": "",
     "wiki": "Hainan-class submarine chaser",
-    "image": "",
+    "image": "assets/images/type-037is.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Hainan-class submarine chaser",
-        "url": "https://en.wikipedia.org/wiki/Hainan-class_submarine_chaser"
+        "label": "百度百科：037IS型反潜护卫艇",
+        "url": "https://baike.baidu.com/item/037IS%E5%9E%8B%E5%8F%8D%E6%BD%9C%E6%8A%A4%E5%8D%AB%E8%89%87"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《037IS型反潜护卫艇》（教育参考）"
   },
   {
     "id": "type-062",
@@ -14853,16 +15309,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近岸巡邏砲艇（PGB）",
     "form_en": "",
     "wiki": "Shanghai-class gunboat",
-    "image": "",
+    "image": "assets/images/type-062.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Shanghai-class gunboat",
-        "url": "https://en.wikipedia.org/wiki/Shanghai-class_gunboat"
+        "label": "百度百科：062型护卫艇",
+        "url": "https://baike.baidu.com/item/062%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%89%87"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《062型护卫艇》（教育参考）"
   },
   {
     "id": "type-021",
@@ -14899,7 +15356,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "飛彈快艇（PTG）",
     "form_en": "",
     "wiki": "Type 021-class missile boat",
-    "image": "",
+    "image": "assets/images/type-021.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -14908,7 +15365,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《黄蜂级导弹艇》（教育参考）"
   },
   {
     "id": "type-081",
@@ -15132,16 +15590,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "試驗潛艇（SSB test）",
     "form_en": "",
     "wiki": "Type 032 submarine",
-    "image": "",
+    "image": "assets/images/type-032.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 032 submarine",
-        "url": "https://en.wikipedia.org/wiki/Type_032_submarine"
+        "label": "百度百科：032型潜艇",
+        "url": "https://baike.baidu.com/item/032%E5%9E%8B%E6%BD%9C%E8%89%87"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《032型潜艇》（教育参考）"
   },
   {
     "id": "type-039c",
@@ -15178,16 +15637,21 @@ window.EQUIPMENT_DATA = [
     "form_zh": "常規攻擊潛艇（AIP）",
     "form_en": "",
     "wiki": "Type 039A submarine",
-    "image": "",
+    "image": "assets/images/type-039c.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 039A submarine",
-        "url": "https://en.wikipedia.org/wiki/Type_039A_submarine"
+        "label": "百度百科：039型潜艇",
+        "url": "https://baike.baidu.com/item/039%E5%9E%8B%E6%BD%9C%E8%89%87"
+      },
+      {
+        "label": "百度百科：元级潜艇",
+        "url": "https://baike.baidu.com/item/%E5%85%83%E7%BA%A7%E6%BD%9C%E8%89%87"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）"
   },
   {
     "id": "type-092",
@@ -15224,16 +15688,21 @@ window.EQUIPMENT_DATA = [
     "form_zh": "彈道飛彈核潛艇（SSBN）",
     "form_en": "",
     "wiki": "Type 092 submarine",
-    "image": "",
+    "image": "assets/images/type-092.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 092 submarine",
-        "url": "https://en.wikipedia.org/wiki/Type_092_submarine"
+        "label": "百度百科：094型战略核潜艇",
+        "url": "https://baike.baidu.com/item/094%E5%9E%8B%E6%88%98%E7%95%A5%E6%A0%B8%E6%BD%9C%E8%89%87"
+      },
+      {
+        "label": "百度百科：092型战略导弹核潜艇",
+        "url": "https://baike.baidu.com/item/092%E5%9E%8B%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9%E6%A0%B8%E6%BD%9C%E8%89%87"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《092型战略导弹核潜艇》（教育参考）"
   },
   {
     "id": "type-096",
@@ -15275,8 +15744,8 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 096 submarine",
-        "url": "https://en.wikipedia.org/wiki/Type_096_submarine"
+        "label": "百度百科：战略核潜艇",
+        "url": "https://baike.baidu.com/item/%E6%88%98%E7%95%A5%E6%A0%B8%E6%BD%9C%E8%89%87"
       }
     ],
     "authority_verified": true,
@@ -15364,16 +15833,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "島礁補給艦（AKS）",
     "form_en": "",
     "wiki": "Type 904 replenishment ship",
-    "image": "",
+    "image": "assets/images/type-904.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 904 replenishment ship",
-        "url": "https://en.wikipedia.org/wiki/Type_904_replenishment_ship"
+        "label": "百度百科：904b型补给舰",
+        "url": "https://baike.baidu.com/item/904b%E5%9E%8B%E8%A1%A5%E7%BB%99%E8%88%B0"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《904b型补给舰》（教育参考）"
   },
   {
     "id": "type-905",
@@ -15410,16 +15880,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "綜合補給艦（AOR）",
     "form_en": "",
     "wiki": "Fuqing-class tanker",
-    "image": "",
+    "image": "assets/images/type-905.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Fuqing-class tanker",
-        "url": "https://en.wikipedia.org/wiki/Fuqing-class_tanker"
+        "label": "百度百科：905型补给舰",
+        "url": "https://baike.baidu.com/item/905%E5%9E%8B%E8%A1%A5%E7%BB%99%E8%88%B0"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《905型补给舰》（教育参考）"
   },
   {
     "id": "type-926",
@@ -15456,7 +15927,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "潛艇支援救援艦（926）",
     "form_en": "",
     "wiki": "Type 926 submarine support ship",
-    "image": "",
+    "image": "assets/images/type-926.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -15466,7 +15937,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "branch_hint": "海軍"
+    "branch_hint": "海軍",
+    "image_credit": "图片来自百度百科《926型潜艇支援舰》（教育参考）"
   },
   {
     "id": "type-920",
@@ -15597,16 +16069,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "海洋測量船（AGS）",
     "form_en": "",
     "wiki": "Type 636A survey ship",
-    "image": "",
+    "image": "assets/images/type-636a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 636A survey ship",
-        "url": "https://en.wikipedia.org/wiki/Type_636A_survey_ship"
+        "label": "百度百科：636A型测量船",
+        "url": "https://baike.baidu.com/item/636A%E5%9E%8B%E6%B5%8B%E9%87%8F%E8%88%B9"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《636A型测量船》（教育参考）"
   },
   {
     "id": "type-818",
@@ -15649,8 +16122,8 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Zhaotou-class patrol vessel",
-        "url": "https://en.wikipedia.org/wiki/Zhaotou-class_patrol_vessel"
+        "label": "百度百科：G818次列车",
+        "url": "https://baike.baidu.com/item/G818%E6%AC%A1%E5%88%97%E8%BD%A6"
       }
     ],
     "authority_verified": true,
@@ -15736,16 +16209,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型運輸直升機",
     "form_en": "",
     "wiki": "Harbin Z-8",
-    "image": "",
+    "image": "assets/images/z-8g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Harbin Z-8",
-        "url": "https://en.wikipedia.org/wiki/Harbin_Z-8"
+        "label": "百度百科：直-8",
+        "url": "https://baike.baidu.com/item/%E7%9B%B4-8"
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《直-8》（教育参考）"
   },
   {
     "id": "z-8l",
@@ -15873,16 +16347,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "偵察攻擊直升機",
     "form_en": "",
     "wiki": "Harbin Z-19",
-    "image": "",
+    "image": "assets/images/z-19e.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Harbin Z-19",
-        "url": "https://en.wikipedia.org/wiki/Harbin_Z-19"
+        "label": "百度百科：直-19武装直升机",
+        "url": "https://baike.baidu.com/item/%E7%9B%B4-19%E6%AD%A6%E8%A3%85%E7%9B%B4%E5%8D%87%E6%9C%BA"
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《直-19武装直升机》（教育参考）"
   },
   {
     "id": "z-11wb",
@@ -15965,16 +16440,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型多用途直升機",
     "form_en": "",
     "wiki": "Airbus Helicopters H175",
-    "image": "",
+    "image": "assets/images/z-15.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Airbus Helicopters H175",
-        "url": "https://en.wikipedia.org/wiki/Airbus_Helicopters_H175"
+        "label": "百度百科：直-15",
+        "url": "https://baike.baidu.com/item/%E7%9B%B4-15"
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《直-15》（教育参考）"
   },
   {
     "id": "q-5",
@@ -16012,16 +16488,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "對地攻擊機",
     "form_en": "",
     "wiki": "Nanchang Q-5",
-    "image": "",
+    "image": "assets/images/q-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Nanchang Q-5",
-        "url": "https://en.wikipedia.org/wiki/Nanchang_Q-5"
+        "label": "百度百科：强-5",
+        "url": "https://baike.baidu.com/item/%E5%BC%BA-5"
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《强-5》（教育参考）"
   },
   {
     "id": "j-7e",
@@ -16059,17 +16536,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型戰鬥機（殲-7 後期型）",
     "form_en": "",
     "wiki": "Chengdu J-7",
-    "image": "",
+    "image": "assets/images/j-7e.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Chengdu J-7",
-        "url": "https://en.wikipedia.org/wiki/Chengdu_J-7"
+        "label": "百度百科：歼-7",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-7"
       }
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "殲-7 的雙三角翼改型：機翼前緣有明顯轉折（內段大後掠、外段較平直），與早期殲-7 的純三角翼不同。"
+    "recog": "殲-7 的雙三角翼改型：機翼前緣有明顯轉折（內段大後掠、外段較平直），與早期殲-7 的純三角翼不同。",
+    "image_credit": "图片来自百度百科《歼-7》（教育参考）"
   },
   {
     "id": "j-8b",
@@ -16105,16 +16583,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "攔截戰鬥機（殲-8B）",
     "form_en": "",
     "wiki": "Shenyang J-8",
-    "image": "",
+    "image": "assets/images/j-8b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Shenyang J-8",
-        "url": "https://en.wikipedia.org/wiki/Shenyang_J-8"
+        "label": "百度百科：歼-8",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-8"
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《歼-8》（教育参考）"
   },
   {
     "id": "ch-3",
@@ -16151,16 +16630,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "察打一體無人機（彩虹-3）",
     "form_en": "",
     "wiki": "CASC Rainbow",
-    "image": "",
+    "image": "assets/images/ch-3.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：CASC Rainbow",
-        "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+        "label": "百度百科：彩虹",
+        "url": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B9"
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《彩虹-3无人机》（教育参考）"
   },
   {
     "id": "wing-loong-10",
@@ -16198,16 +16678,21 @@ window.EQUIPMENT_DATA = [
     "form_zh": "高空長航時無人機（翼龍-10）",
     "form_en": "",
     "wiki": "Wing Loong 10",
-    "image": "",
+    "image": "assets/images/wing-loong-10.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Wing Loong 10",
-        "url": "https://en.wikipedia.org/wiki/Wing_Loong_10"
+        "label": "百度百科：翼龙-10A",
+        "url": "https://baike.baidu.com/item/%E7%BF%BC%E9%BE%99-10A"
+      },
+      {
+        "label": "百度百科：翼龙-10",
+        "url": "https://baike.baidu.com/item/%E7%BF%BC%E9%BE%99-10"
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《翼龙-10》（教育参考）"
   },
   {
     "id": "wz-5",
@@ -16245,16 +16730,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "高空偵察無人機（舊式）",
     "form_en": "",
     "wiki": "Chengdu WZ-5",
-    "image": "",
+    "image": "assets/images/wz-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Chengdu WZ-5",
-        "url": "https://en.wikipedia.org/wiki/Chengdu_WZ-5"
+        "label": "百度百科：WZ523轮式装甲车",
+        "url": "https://baike.baidu.com/item/WZ523%E8%BD%AE%E5%BC%8F%E8%A3%85%E7%94%B2%E8%BD%A6"
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《无人侦察-5》（教育参考）"
   },
   {
     "id": "asn-206",
@@ -16290,7 +16776,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "戰術偵察無人機（ASN-206）",
     "form_en": "",
     "wiki": "ASN-206",
-    "image": "",
+    "image": "assets/images/asn-206.png",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16299,7 +16785,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "本地图库（教育参考）"
   },
   {
     "id": "y-8g",
@@ -16336,16 +16823,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "電子戰機（Y-8 平台）",
     "form_en": "",
     "wiki": "Shaanxi Y-8",
-    "image": "",
+    "image": "assets/images/y-8g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Shaanxi Y-8",
-        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-8"
+        "label": "百度百科：运-8远距离支援干扰机",
+        "url": "https://baike.baidu.com/item/%E8%BF%90-8%E8%BF%9C%E8%B7%9D%E7%A6%BB%E6%94%AF%E6%8F%B4%E5%B9%B2%E6%89%B0%E6%9C%BA"
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《运-8远距离支援干扰机》（教育参考）"
   },
   {
     "id": "y-9g",
@@ -16382,16 +16870,21 @@ window.EQUIPMENT_DATA = [
     "form_zh": "電子戰機（Y-9 平台）",
     "form_en": "",
     "wiki": "Shaanxi Y-9",
-    "image": "",
+    "image": "assets/images/y-9g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Shaanxi Y-9",
-        "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
+        "label": "百度百科：韶山9G型电力机车",
+        "url": "https://baike.baidu.com/item/%E9%9F%B6%E5%B1%B19G%E5%9E%8B%E7%94%B5%E5%8A%9B%E6%9C%BA%E8%BD%A6"
+      },
+      {
+        "label": "百度百科：运-9（中国研发的中型中程运输机）",
+        "url": "https://baike.baidu.com/item/%E8%BF%90-9%EF%BC%88%E4%B8%AD%E5%9B%BD%E7%A0%94%E5%8F%91%E7%9A%84%E4%B8%AD%E5%9E%8B%E4%B8%AD%E7%A8%8B%E8%BF%90%E8%BE%93%E6%9C%BA%EF%BC%89"
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《运-9（中国研发的中型中程运输机）》（教育参考）"
   },
   {
     "id": "kj-500a",
@@ -16613,16 +17106,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "主戰坦克（80 式）",
     "form_en": "",
     "wiki": "Type 80 tank",
-    "image": "",
+    "image": "assets/images/type-80.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 80 tank",
-        "url": "https://en.wikipedia.org/wiki/Type_80_tank"
+        "label": "百度百科：80式主战坦克",
+        "url": "https://baike.baidu.com/item/80%E5%BC%8F%E4%B8%BB%E6%88%98%E5%9D%A6%E5%85%8B"
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《80式主战坦克》（教育参考）"
   },
   {
     "id": "ptl-02",
@@ -16659,16 +17153,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輪式突擊砲（100mm）",
     "form_en": "",
     "wiki": "PTL02",
-    "image": "",
+    "image": "assets/images/ptl-02.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：PTL02",
-        "url": "https://en.wikipedia.org/wiki/PTL02"
+        "label": "百度百科：PTL-02轮式突击炮",
+        "url": "https://baike.baidu.com/item/PTL-02%E8%BD%AE%E5%BC%8F%E7%AA%81%E5%87%BB%E7%82%AE"
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《PTL-02轮式突击炮》（教育参考）"
   },
   {
     "id": "wz-523",
@@ -16796,16 +17291,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "自走榴彈砲（155mm/52）",
     "form_en": "",
     "wiki": "PLZ-52",
-    "image": "",
+    "image": "assets/images/plz-52.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：PLZ-52",
-        "url": "https://en.wikipedia.org/wiki/PLZ-52"
+        "label": "百度百科：155mm自行榴弹炮",
+        "url": "https://baike.baidu.com/item/155mm%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BC%B9%E7%82%AE"
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《155mm自行榴弹炮》（教育参考）"
   },
   {
     "id": "sh-15",
@@ -16842,7 +17338,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "車載榴彈砲（155mm）",
     "form_en": "",
     "wiki": "SH-15",
-    "image": "",
+    "image": "assets/images/sh-15.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16851,7 +17347,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《SH-15型155毫米车载加榴炮》（教育参考）"
   },
   {
     "id": "phl-11",
@@ -16933,7 +17430,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "裝甲掃雷破障車",
     "form_en": "",
     "wiki": "GSL-131",
-    "image": "",
+    "image": "assets/images/gsl-131.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16942,7 +17439,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《扫雷车》（教育参考）"
   },
   {
     "id": "gcz-112",
@@ -17024,16 +17522,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "架橋坦克（AVLB）",
     "form_en": "",
     "wiki": "Type 84 bridgelayer",
-    "image": "",
+    "image": "assets/images/type-84-bridge.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 84 bridgelayer",
-        "url": "https://en.wikipedia.org/wiki/Type_84_bridgelayer"
+        "label": "百度百科：84式坦克架桥车",
+        "url": "https://baike.baidu.com/item/84%E5%BC%8F%E5%9D%A6%E5%85%8B%E6%9E%B6%E6%A1%A5%E8%BD%A6"
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《84式坦克架桥车》（教育参考）"
   },
   {
     "id": "type-654-arv",
@@ -17070,16 +17569,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "裝甲搶救車（ARV）",
     "form_en": "",
     "wiki": "Type 654 armoured recovery vehicle",
-    "image": "",
+    "image": "assets/images/type-654-arv.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 654 armoured recovery vehicle",
-        "url": "https://en.wikipedia.org/wiki/Type_654_armoured_recovery_vehicle"
+        "label": "百度百科：二战德国陆军第654重装甲歼击营官方战史（中册）",
+        "url": "https://baike.baidu.com/item/%E4%BA%8C%E6%88%98%E5%BE%B7%E5%9B%BD%E9%99%86%E5%86%9B%E7%AC%AC654%E9%87%8D%E8%A3%85%E7%94%B2%E6%AD%BC%E5%87%BB%E8%90%A5%E5%AE%98%E6%96%B9%E6%88%98%E5%8F%B2%EF%BC%88%E4%B8%AD%E5%86%8C%EF%BC%89"
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《装甲抢救车》（教育参考）"
   },
   {
     "id": "jy-27",
@@ -17116,7 +17616,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "遠程對空情報雷達（VHF）",
     "form_en": "",
     "wiki": "JY-27 radar",
-    "image": "",
+    "image": "assets/images/jy-27.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17126,7 +17626,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《JY-27雷达》（教育参考）"
   },
   {
     "id": "ylc-8b",
@@ -17162,7 +17663,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "反隱形對空監視雷達（UHF）",
     "form_en": "",
     "wiki": "YLC-8B",
-    "image": "",
+    "image": "assets/images/ylc-8b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17172,7 +17673,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《YLC-8E型UHF波段三坐标警戒雷达》（教育参考）"
   },
   {
     "id": "slc-7",
@@ -17255,7 +17757,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "砲兵定位雷達（WLR）",
     "form_en": "",
     "wiki": "SLC-2 radar",
-    "image": "",
+    "image": "assets/images/slc-2.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17265,7 +17767,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《炮位侦察雷达》（教育参考）"
   },
   {
     "id": "jyl-1",
@@ -17301,7 +17804,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "三坐標對空雷達（S 波段）",
     "form_en": "",
     "wiki": "JYL-1",
-    "image": "",
+    "image": "assets/images/jyl-1.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17311,7 +17814,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《JYL-1雷达》（教育参考）"
   },
   {
     "id": "type-120-radar",
@@ -17395,7 +17899,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "被動電子偵測定位系統（ESM）",
     "form_en": "",
     "wiki": "DWL-002",
-    "image": "",
+    "image": "assets/images/dwl-002.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17405,7 +17909,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《DWL002雷达》（教育参考）"
   },
   {
     "id": "cetc-jammer",
@@ -17487,7 +17992,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近距空對空飛彈（紅外）",
     "form_en": "",
     "wiki": "PL-9",
-    "image": "",
+    "image": "assets/images/pl-9.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17497,7 +18002,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《霹雳9型空空导弹》（教育参考）"
   },
   {
     "id": "pl-11",
@@ -17814,7 +18320,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中程彈道飛彈（歷史）",
     "form_en": "",
     "wiki": "DF-3",
-    "image": "",
+    "image": "assets/images/df-3.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17824,7 +18330,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
-    "branch": "火箭軍"
+    "branch": "火箭軍",
+    "image_credit": "图片来自百度百科《东风-3弹道导弹》（教育参考）"
   },
   {
     "id": "df-4",
@@ -17861,7 +18368,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "遠程彈道飛彈（歷史）",
     "form_en": "",
     "wiki": "DF-4",
-    "image": "",
+    "image": "assets/images/df-4.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17871,7 +18378,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
-    "branch": "火箭軍"
+    "branch": "火箭軍",
+    "image_credit": "图片来自百度百科《东风-4弹道导弹》（教育参考）"
   },
   {
     "id": "df-21c",
@@ -18282,7 +18790,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "半自動狙擊步槍（SVD）",
     "form_en": "",
     "wiki": "Type 85 sniper rifle",
-    "image": "",
+    "image": "assets/images/type-85-sniper.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -18291,7 +18799,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《85式狙击步枪》（教育参考）"
   },
   {
     "id": "w85-hmg",
@@ -18374,7 +18883,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "單兵火箭筒（80mm）",
     "form_en": "",
     "wiki": "PF-89",
-    "image": "",
+    "image": "assets/images/pf-89.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -18383,7 +18892,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《PF89A式80毫米单兵多用途火箭筒》（教育参考）"
   },
   {
     "id": "fhj-84",
@@ -18419,7 +18929,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "雙管燃燒/發煙火箭筒",
     "form_en": "",
     "wiki": "FHJ-84",
-    "image": "",
+    "image": "assets/images/fhj-84.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -18428,7 +18938,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《FHJ84式62MM单兵火箭筒》（教育参考）"
   },
   {
     "id": "qlb-06",
@@ -18464,7 +18975,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "單兵半自動榴彈發射器（35mm）",
     "form_en": "",
     "wiki": "QLB-06",
-    "image": "",
+    "image": "assets/images/qlb-06.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -18473,7 +18984,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《QLB-06》（教育参考）"
   },
   {
     "id": "type-051",
@@ -18514,13 +19026,14 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 051 destroyer",
-        "url": "https://en.wikipedia.org/wiki/Type_051_destroyer"
+        "label": "百度百科：051型驱逐舰",
+        "url": "https://baike.baidu.com/item/051%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "旅大級驅逐艦：艦艏艦艉各一座「雙管 130mm 砲」（砲管明顯成對）、中段兩組三聯裝反艦飛彈箱，上層建築老式方正。"
+    "recog": "旅大級驅逐艦：艦艏艦艉各一座「雙管 130mm 砲」（砲管明顯成對）、中段兩組三聯裝反艦飛彈箱，上層建築老式方正。",
+    "image_credit": "图片来自百度百科《051型驱逐舰》（教育参考）"
   },
   {
     "id": "type-053h1",
@@ -18557,16 +19070,17 @@ window.EQUIPMENT_DATA = [
     "form_zh": "飛彈護衛艦（江湖II級）",
     "form_en": "",
     "wiki": "Type 053 frigate",
-    "image": "",
+    "image": "assets/images/type-053h1.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 053 frigate",
-        "url": "https://en.wikipedia.org/wiki/Type_053_frigate"
+        "label": "百度百科：053H1型护卫舰",
+        "url": "https://baike.baidu.com/item/053H1%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《053H1型护卫舰》（教育参考）"
   },
   {
     "id": "type-037ii",
@@ -18654,8 +19168,8 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 024 missile boat",
-        "url": "https://en.wikipedia.org/wiki/Type_024_missile_boat"
+        "label": "百度百科：机械变异体024",
+        "url": "https://baike.baidu.com/item/%E6%9C%BA%E6%A2%B0%E5%8F%98%E5%BC%82%E4%BD%93024"
       }
     ],
     "authority_verified": true,
@@ -18700,8 +19214,8 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 909 experimental ship",
-        "url": "https://en.wikipedia.org/wiki/Type_909_experimental_ship"
+        "label": "百度百科：博世909",
+        "url": "https://baike.baidu.com/item/%E5%8D%9A%E4%B8%96909"
       }
     ],
     "authority_verified": true,
@@ -18836,16 +19350,21 @@ window.EQUIPMENT_DATA = [
     "form_zh": "次世代攻擊核潛艇（SSN）",
     "form_en": "",
     "wiki": "Type 095 submarine",
-    "image": "",
+    "image": "assets/images/type-095.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 095 submarine",
-        "url": "https://en.wikipedia.org/wiki/Type_095_submarine"
+        "label": "百度百科：核潜艇",
+        "url": "https://baike.baidu.com/item/%E6%A0%B8%E6%BD%9C%E8%89%87"
+      },
+      {
+        "label": "百度百科：095型核潜艇",
+        "url": "https://baike.baidu.com/item/095%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《095型核潜艇》（教育参考）"
   },
   {
     "id": "type-039b",
@@ -18882,16 +19401,21 @@ window.EQUIPMENT_DATA = [
     "form_zh": "常規攻擊潛艇（AIP）",
     "form_en": "",
     "wiki": "Type 039A submarine",
-    "image": "",
+    "image": "assets/images/type-039b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 039A submarine",
-        "url": "https://en.wikipedia.org/wiki/Type_039A_submarine"
+        "label": "百度百科：S-20型潜艇",
+        "url": "https://baike.baidu.com/item/S-20%E5%9E%8B%E6%BD%9C%E8%89%87"
+      },
+      {
+        "label": "百度百科：元级潜艇",
+        "url": "https://baike.baidu.com/item/%E5%85%83%E7%BA%A7%E6%BD%9C%E8%89%87"
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）"
   },
   {
     "id": "h-6d",
@@ -18929,17 +19453,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "海軍反艦轟炸機（H-6D）",
     "form_en": "",
     "wiki": "Xian H-6",
-    "image": "",
+    "image": "assets/images/h-6d.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Xian H-6",
-        "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+        "label": "百度百科：轰-6",
+        "url": "https://baike.baidu.com/item/%E8%BD%B0-6"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《轰-6》（教育参考）"
   },
   {
     "id": "hy-6",
@@ -19074,13 +19599,14 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Chengdu J-10",
-        "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+        "label": "百度百科：歼-10",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-10"
       }
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "殲-10 雙座型：座艙罩明顯拉長為前後兩座，機背略隆起；其餘鴨翼與腹部進氣同單座型。"
+    "recog": "殲-10 雙座型：座艙罩明顯拉長為前後兩座，機背略隆起；其餘鴨翼與腹部進氣同單座型。",
+    "image_credit": "图片来自百度百科《歼-10》（教育参考）"
   },
   {
     "id": "y-12",
@@ -19164,7 +19690,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "高空長航時無人機（彩虹-6）",
     "form_en": "",
     "wiki": "CASC Rainbow",
-    "image": "",
+    "image": "assets/images/ch-6.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19173,7 +19699,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《彩虹-6无人机》（教育参考）"
   },
   {
     "id": "type-63-apc",
@@ -19262,8 +19789,8 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 88 self-propelled anti-aircraft gun",
-        "url": "https://en.wikipedia.org/wiki/Type_88_self-propelled_anti-aircraft_gun"
+        "label": "百度百科：德国88毫米FLAK高炮",
+        "url": "https://baike.baidu.com/item/%E5%BE%B7%E5%9B%BD88%E6%AF%AB%E7%B1%B3FLAK%E9%AB%98%E7%82%AE"
       }
     ],
     "authority_verified": true,
@@ -19308,8 +19835,8 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 65 anti-aircraft gun",
-        "url": "https://en.wikipedia.org/wiki/Type_65_anti-aircraft_gun"
+        "label": "百度百科：高射炮",
+        "url": "https://baike.baidu.com/item/%E9%AB%98%E5%B0%84%E7%82%AE"
       }
     ],
     "authority_verified": true,
@@ -19354,8 +19881,8 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 74 anti-aircraft gun",
-        "url": "https://en.wikipedia.org/wiki/Type_74_anti-aircraft_gun"
+        "label": "百度百科：高射炮",
+        "url": "https://baike.baidu.com/item/%E9%AB%98%E5%B0%84%E7%82%AE"
       }
     ],
     "authority_verified": true,
@@ -19395,7 +19922,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "12.7mm 高射機槍",
     "form_en": "",
     "wiki": "Type 77 heavy machine gun",
-    "image": "",
+    "image": "assets/images/type-77-hmg.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19405,7 +19932,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《77式高射机枪》（教育参考）"
   },
   {
     "id": "asn-301",
@@ -19488,7 +20016,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "巡飛彈（loitering munition）",
     "form_en": "",
     "wiki": "WS-43",
-    "image": "",
+    "image": "assets/images/ws-43.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19498,7 +20026,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《WS-43巡飞弹》（教育参考）"
   },
   {
     "id": "ch-901",
@@ -19534,7 +20063,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "小型巡飛彈",
     "form_en": "",
     "wiki": "CASC Rainbow",
-    "image": "",
+    "image": "assets/images/ch-901.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19544,7 +20073,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "本地图库（教育参考）"
   },
   {
     "id": "fh-97",
@@ -19964,17 +20494,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "飛彈驅逐艦（旅滬級）",
     "form_en": "",
     "wiki": "Type 052 destroyer",
-    "image": "",
+    "image": "assets/images/type-052.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 052 destroyer",
-        "url": "https://en.wikipedia.org/wiki/Type_052_destroyer"
+        "label": "百度百科：052型驱逐舰",
+        "url": "https://baike.baidu.com/item/052%E5%9E%8B%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《052型驱逐舰》（教育参考）"
   },
   {
     "id": "type-051dt",
@@ -20106,7 +20637,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "大型飛彈驅逐艦（055 改進）",
     "form_en": "",
     "wiki": "Type 055 destroyer",
-    "image": "",
+    "image": "assets/images/type-055a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20116,7 +20647,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《055型驱逐舰》（教育参考）"
   },
   {
     "id": "sovremenny-em",
@@ -20154,17 +20686,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "飛彈驅逐艦（956EM）",
     "form_en": "",
     "wiki": "Sovremenny-class destroyer",
-    "image": "",
+    "image": "assets/images/sovremenny-em.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Sovremenny-class destroyer",
-        "url": "https://en.wikipedia.org/wiki/Sovremenny-class_destroyer"
+        "label": "百度百科：现代级驱逐舰",
+        "url": "https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E7%BA%A7%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《现代级驱逐舰》（教育参考）"
   },
   {
     "id": "type-065",
@@ -20249,17 +20782,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "防空護衛艦（江東級）",
     "form_en": "",
     "wiki": "Type 053K frigate",
-    "image": "",
+    "image": "assets/images/type-053k.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 053K frigate",
-        "url": "https://en.wikipedia.org/wiki/Type_053K_frigate"
+        "label": "百度百科：053K型护卫舰",
+        "url": "https://baike.baidu.com/item/053K%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《053K型护卫舰》（教育参考）"
   },
   {
     "id": "type-037i",
@@ -20391,17 +20925,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "水翼魚雷艇（舊式）",
     "form_en": "",
     "wiki": "Huchuan-class torpedo boat",
-    "image": "",
+    "image": "assets/images/type-026.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Huchuan-class torpedo boat",
-        "url": "https://en.wikipedia.org/wiki/Huchuan-class_torpedo_boat"
+        "label": "百度百科：026型鱼雷艇",
+        "url": "https://baike.baidu.com/item/026%E5%9E%8B%E9%B1%BC%E9%9B%B7%E8%89%87"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《026型鱼雷艇》（教育参考）"
   },
   {
     "id": "type-062i",
@@ -20870,7 +21405,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "艦載中程防空飛彈（HHQ-16 改）",
     "form_en": "",
     "wiki": "HQ-16",
-    "image": "",
+    "image": "assets/images/hhq-16bc.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20880,7 +21415,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《红旗-16B》（教育参考）"
   },
   {
     "id": "hhq-9b",
@@ -20917,7 +21453,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "艦載遠程防空飛彈（HHQ-9B）",
     "form_en": "",
     "wiki": "HQ-9",
-    "image": "",
+    "image": "assets/images/hhq-9b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20927,7 +21463,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《海红旗-9B导弹》（教育参考）"
   },
   {
     "id": "rif-m",
@@ -21441,7 +21978,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "攻擊型核潛艇（093A）",
     "form_en": "",
     "wiki": "Type 093 submarine",
-    "image": "",
+    "image": "assets/images/type-093a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -21451,7 +21988,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）"
   },
   {
     "id": "type-094a",
@@ -21488,7 +22026,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "彈道導彈核潛艇（094A）",
     "form_en": "",
     "wiki": "Type 094 submarine",
-    "image": "",
+    "image": "assets/images/type-094a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -21498,7 +22036,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《094型战略核潜艇》（教育参考）"
   },
   {
     "id": "type-033g",
@@ -21535,17 +22074,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "導彈潛艇（033G）",
     "form_en": "",
     "wiki": "Type 033 submarine",
-    "image": "",
+    "image": "assets/images/type-033g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 033 submarine",
-        "url": "https://en.wikipedia.org/wiki/Type_033_submarine"
+        "label": "百度百科：033G型潜艇",
+        "url": "https://baike.baidu.com/item/033G%E5%9E%8B%E6%BD%9C%E8%89%87"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《033G型潜艇》（教育参考）"
   },
   {
     "id": "type-035a",
@@ -21716,17 +22256,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "常規潛艇（039G）",
     "form_en": "",
     "wiki": "Type 039 submarine",
-    "image": "",
+    "image": "assets/images/type-039g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 039 submarine",
-        "url": "https://en.wikipedia.org/wiki/Type_039_submarine"
+        "label": "百度百科：039型潜艇",
+        "url": "https://baike.baidu.com/item/039%E5%9E%8B%E6%BD%9C%E8%89%87"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《039型潜艇》（教育参考）"
   },
   {
     "id": "kilo-636",
@@ -21763,17 +22304,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "常規潛艇（基洛636）",
     "form_en": "",
     "wiki": "Kilo-class submarine",
-    "image": "",
+    "image": "assets/images/kilo-636.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Kilo-class submarine",
-        "url": "https://en.wikipedia.org/wiki/Kilo-class_submarine"
+        "label": "百度百科：基洛级潜艇",
+        "url": "https://baike.baidu.com/item/%E5%9F%BA%E6%B4%9B%E7%BA%A7%E6%BD%9C%E8%89%87"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《基洛级潜艇》（教育参考）"
   },
   {
     "id": "jl-1",
@@ -21953,17 +22495,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "坦克登陸艦（玉亭I）",
     "form_en": "",
     "wiki": "Type 072 landing ship",
-    "image": "",
+    "image": "assets/images/type-072ii.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 072 landing ship",
-        "url": "https://en.wikipedia.org/wiki/Type_072_landing_ship"
+        "label": "百度百科：072Ⅱ型坦克登陆舰",
+        "url": "https://baike.baidu.com/item/072%E2%85%A1%E5%9E%8B%E5%9D%A6%E5%85%8B%E7%99%BB%E9%99%86%E8%88%B0"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《072Ⅱ型坦克登陆舰》（教育参考）"
   },
   {
     "id": "type-073a",
@@ -22096,17 +22639,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "通用登陸艇（271）",
     "form_en": "",
     "wiki": "Yunnan-class landing craft",
-    "image": "",
+    "image": "assets/images/type-271.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Yunnan-class landing craft",
-        "url": "https://en.wikipedia.org/wiki/Yunnan-class_landing_craft"
+        "label": "百度百科：271型登陆艇",
+        "url": "https://baike.baidu.com/item/271%E5%9E%8B%E7%99%BB%E9%99%86%E8%89%87"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《271型登陆艇》（教育参考）"
   },
   {
     "id": "type-726a",
@@ -22143,17 +22687,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "氣墊登陸艇（726A）",
     "form_en": "",
     "wiki": "Type 726 LCAC",
-    "image": "",
+    "image": "assets/images/type-726a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 726 LCAC",
-        "url": "https://en.wikipedia.org/wiki/Type_726_LCAC"
+        "label": "百度百科：726A型气垫登陆艇",
+        "url": "https://baike.baidu.com/item/726A%E5%9E%8B%E6%B0%94%E5%9E%AB%E7%99%BB%E9%99%86%E8%89%87"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《726A型气垫登陆艇》（教育参考）"
   },
   {
     "id": "zubr",
@@ -22191,7 +22736,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "大型氣墊登陸艇（野牛級）",
     "form_en": "",
     "wiki": "Zubr-class LCAC",
-    "image": "",
+    "image": "assets/images/zubr.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -22201,7 +22746,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《欧洲野牛级气垫登陆舰》（教育参考）"
   },
   {
     "id": "type-067",
@@ -22517,17 +23063,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "綜合補給艦（福池級）",
     "form_en": "",
     "wiki": "Type 903 replenishment ship",
-    "image": "",
+    "image": "assets/images/type-903.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 903 replenishment ship",
-        "url": "https://en.wikipedia.org/wiki/Type_903_replenishment_ship"
+        "label": "百度百科：903型补给舰",
+        "url": "https://baike.baidu.com/item/903%E5%9E%8B%E8%A1%A5%E7%BB%99%E8%88%B0"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《903型补给舰》（教育参考）"
   },
   {
     "id": "type-904b",
@@ -22563,17 +23110,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "島礁補給艦（904B）",
     "form_en": "",
     "wiki": "Type 904 replenishment ship",
-    "image": "",
+    "image": "assets/images/type-904b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Type 904 replenishment ship",
-        "url": "https://en.wikipedia.org/wiki/Type_904_replenishment_ship"
+        "label": "百度百科：904b型补给舰",
+        "url": "https://baike.baidu.com/item/904b%E5%9E%8B%E8%A1%A5%E7%BB%99%E8%88%B0"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《904b型补给舰》（教育参考）"
   },
   {
     "id": "type-908",
@@ -22658,17 +23206,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "電子偵察船（815）",
     "form_en": "",
     "wiki": "Dongdiao-class surveillance ship",
-    "image": "",
+    "image": "assets/images/type-815.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Dongdiao-class surveillance ship",
-        "url": "https://en.wikipedia.org/wiki/Dongdiao-class_surveillance_ship"
+        "label": "百度百科：815型电子侦察船",
+        "url": "https://baike.baidu.com/item/815%E5%9E%8B%E7%94%B5%E5%AD%90%E4%BE%A6%E5%AF%9F%E8%88%B9"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《815型电子侦察船》（教育参考）"
   },
   {
     "id": "type-815g",
@@ -22886,7 +23435,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "航天遠洋測量船（遠望7）",
     "form_en": "",
     "wiki": "Yuanwang",
-    "image": "",
+    "image": "assets/images/yuanwang-7.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -22896,7 +23445,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《远望7号测量船》（教育参考）"
   },
   {
     "id": "yuanwang-2122",
@@ -23115,12 +23665,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "海軍破冰船（海冰722）",
     "form_en": "",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/haibing-722.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
-    "sources": [],
+    "sources": [
+      {
+        "label": "百度百科：海冰722破冰船（第一代破冰船）",
+        "url": "https://baike.baidu.com/item/%E6%B5%B7%E5%86%B0722%E7%A0%B4%E5%86%B0%E8%88%B9%EF%BC%88%E7%AC%AC%E4%B8%80%E4%BB%A3%E7%A0%B4%E5%86%B0%E8%88%B9%EF%BC%89"
+      }
+    ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《海冰722破冰船（第一代破冰船）》（教育参考）"
   },
   {
     "id": "xuelong2",
@@ -23386,7 +23942,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "大型海警巡防船（CG cutter）",
     "form_en": "",
     "wiki": "Zhaotou-class patrol vessel",
-    "image": "",
+    "image": "assets/images/ccg-3901.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -23396,7 +23952,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《中国海警3901》（教育参考）"
   },
   {
     "id": "j-5",
@@ -23434,17 +23991,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "噴射戰鬥機（米格-17）",
     "form_en": "",
     "wiki": "Shenyang J-5",
-    "image": "",
+    "image": "assets/images/j-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Shenyang J-5",
-        "url": "https://en.wikipedia.org/wiki/Shenyang_J-5"
+        "label": "百度百科：歼-5",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-5"
       }
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《歼-5》（教育参考）"
   },
   {
     "id": "j-6",
@@ -23482,17 +24040,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "超音速戰鬥機（米格-19）",
     "form_en": "",
     "wiki": "Shenyang J-6",
-    "image": "",
+    "image": "assets/images/j-6.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Shenyang J-6",
-        "url": "https://en.wikipedia.org/wiki/Shenyang_J-6"
+        "label": "百度百科：歼-6",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-6"
       }
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《歼-6》（教育参考）"
   },
   {
     "id": "j-8",
@@ -23669,17 +24228,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "多用途戰機（殲-10CE）",
     "form_en": "",
     "wiki": "Chengdu J-10",
-    "image": "",
+    "image": "assets/images/j-10ce.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Chengdu J-10",
-        "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+        "label": "百度百科：歼-10CE",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-10CE"
       }
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《歼-10CE》（教育参考）"
   },
   {
     "id": "j-11bs",
@@ -23715,18 +24275,19 @@ window.EQUIPMENT_DATA = [
     "form_zh": "雙座空優戰機（殲-11BS）",
     "form_en": "",
     "wiki": "Shenyang J-11",
-    "image": "",
+    "image": "assets/images/j-11bs.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Shenyang J-11",
-        "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
+        "label": "百度百科：歼-11",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-11"
       }
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "殲-11B 的雙座型：座艙罩加長為串列雙座，機背隆起；其餘同殲-11B。"
+    "recog": "殲-11B 的雙座型：座艙罩加長為串列雙座，機背隆起；其餘同殲-11B。",
+    "image_credit": "图片来自百度百科《歼-11》（教育参考）"
   },
   {
     "id": "j-15s",
@@ -23762,7 +24323,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "雙座艦載戰機（殲-15S）",
     "form_en": "",
     "wiki": "Shenyang J-15",
-    "image": "",
+    "image": "assets/images/j-15s.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -23772,7 +24333,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《歼-15》（教育参考）"
   },
   {
     "id": "j-20a",
@@ -23861,14 +24423,19 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Shenyang FC-31",
-        "url": "https://en.wikipedia.org/wiki/Shenyang_FC-31"
+        "label": "百度百科：歼-35A",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-35A"
+      },
+      {
+        "label": "百度百科：歼-31",
+        "url": "https://baike.baidu.com/item/%E6%AD%BC-31"
       }
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "殲-35 的原型／外銷版，外形同為中型雙發、無鴨翼匿蹤佈局；早期原型垂尾與機身細節略有不同。"
+    "recog": "殲-35 的原型／外銷版，外形同為中型雙發、無鴨翼匿蹤佈局；早期原型垂尾與機身細節略有不同。",
+    "image_credit": "图片来自百度百科《歼-31》（教育参考）"
   },
   {
     "id": "jh-7",
@@ -23955,17 +24522,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型轟炸機（伊爾-28）",
     "form_en": "",
     "wiki": "Harbin H-5",
-    "image": "",
+    "image": "assets/images/h-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Harbin H-5",
-        "url": "https://en.wikipedia.org/wiki/Harbin_H-5"
+        "label": "百度百科：轰5轻型轰炸机",
+        "url": "https://baike.baidu.com/item/%E8%BD%B05%E8%BD%BB%E5%9E%8B%E8%BD%B0%E7%82%B8%E6%9C%BA"
       }
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《轰5轻型轰炸机》（教育参考）"
   },
   {
     "id": "h-6g",
@@ -24001,17 +24569,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "海軍轟炸機（H-6G）",
     "form_en": "",
     "wiki": "Xian H-6",
-    "image": "",
+    "image": "assets/images/h-6g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Xian H-6",
-        "url": "https://en.wikipedia.org/wiki/Xian_H-6"
+        "label": "百度百科：轰-6",
+        "url": "https://baike.baidu.com/item/%E8%BD%B0-6"
       }
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《轰-6》（教育参考）"
   },
   {
     "id": "h-6m",
@@ -24094,17 +24663,18 @@ window.EQUIPMENT_DATA = [
     "form_zh": "匿蹤戰略轟炸機（轟-20）",
     "form_en": "",
     "wiki": "Xian H-20",
-    "image": "",
+    "image": "assets/images/h-20.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：Xian H-20",
-        "url": "https://en.wikipedia.org/wiki/Xian_H-20"
+        "label": "百度百科：轰-20",
+        "url": "https://baike.baidu.com/item/%E8%BD%B0-20"
       }
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《轰-20》（教育参考）"
   },
   {
     "id": "jj-7",
@@ -24141,7 +24711,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "高級教練機（殲教-7）",
     "form_en": "",
     "wiki": "Guizhou JL-9",
-    "image": "",
+    "image": "assets/images/jj-7.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -24151,7 +24721,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《歼教-7》（教育参考）"
   },
   {
     "id": "cj-6",
@@ -24282,7 +24853,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "戰略運輸機（運-20B）",
     "form_en": "",
     "wiki": "Xian Y-20",
-    "image": "",
+    "image": "assets/images/y-20b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -24292,7 +24863,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《运-20（中国自主研发的首款大型运输机）》（教育参考）"
   },
   {
     "id": "y-11",
@@ -24473,7 +25045,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "空中預警機（ZDK-03）",
     "form_en": "",
     "wiki": "ZDK-03",
-    "image": "",
+    "image": "assets/images/zdk-03.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -24483,7 +25055,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《ZDK-03预警机》（教育参考）"
   },
   {
     "id": "gx-1",
@@ -24992,7 +25565,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "運輸直升機（米-4）",
     "form_en": "",
     "wiki": "Harbin Z-5",
-    "image": "",
+    "image": "assets/images/z-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25002,7 +25575,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《直-5》（教育参考）"
   },
   {
     "id": "z-6",
@@ -25038,7 +25612,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "運輸直升機（直-6）",
     "form_en": "",
     "wiki": "Changhe Z-6",
-    "image": "",
+    "image": "assets/images/z-6.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25048,7 +25622,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《直-6》（教育参考）"
   },
   {
     "id": "z-8a",
@@ -25084,7 +25659,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "陸軍運輸直升機（直-8A）",
     "form_en": "",
     "wiki": "Harbin Z-8",
-    "image": "",
+    "image": "assets/images/z-8a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25094,7 +25669,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《直-8A》（教育参考）"
   },
   {
     "id": "z-8j",
@@ -25270,7 +25846,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "通用直升機（直-9B）",
     "form_en": "",
     "wiki": "Harbin Z-9",
-    "image": "",
+    "image": "assets/images/z-9b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25280,7 +25856,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《直-9B》（教育参考）"
   },
   {
     "id": "z-9d",
@@ -25457,7 +26034,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "武裝攻擊直升機（直-10ME）",
     "form_en": "",
     "wiki": "CAIC Z-10",
-    "image": "",
+    "image": "assets/images/z-10me.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25467,7 +26044,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《直-10ME》（教育参考）"
   },
   {
     "id": "z-11w",
@@ -25697,7 +26275,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "重型運輸直升機（米-26）",
     "form_en": "",
     "wiki": "Mil Mi-26",
-    "image": "",
+    "image": "assets/images/mi-26.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25707,7 +26285,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《米-26直升机》（教育参考）"
   },
   {
     "id": "ka-27",
@@ -25746,7 +26325,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "艦載反潛直升機（卡-27）",
     "form_en": "",
     "wiki": "Kamov Ka-27",
-    "image": "",
+    "image": "assets/images/ka-27.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25756,7 +26335,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《卡-27直升机》（教育参考）"
   },
   {
     "id": "as565",
@@ -25794,7 +26374,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "艦載多用途直升機（黑豹）",
     "form_en": "",
     "wiki": "Eurocopter AS565 Panther",
-    "image": "",
+    "image": "assets/images/as565.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25804,7 +26384,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《AS-365直升机》（教育参考）"
   },
   {
     "id": "sa321",
@@ -25842,7 +26423,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "艦載大型直升機（超黃蜂）",
     "form_en": "",
     "wiki": "Aérospatiale Alouette III",
-    "image": "",
+    "image": "assets/images/sa321.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25852,7 +26433,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《SA321直升机》（教育参考）"
   },
   {
     "id": "ac313",
@@ -25936,7 +26518,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "察打一體無人機（翼龍-1D）",
     "form_en": "",
     "wiki": "CAIG Wing Loong",
-    "image": "",
+    "image": "assets/images/wing-loong-1d.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25946,7 +26528,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《翼龙-1》（教育参考）"
   },
   {
     "id": "wing-loong-3",
@@ -25983,7 +26566,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "大型察打無人機（翼龍-3）",
     "form_en": "",
     "wiki": "CAIG Wing Loong",
-    "image": "",
+    "image": "assets/images/wing-loong-3.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25993,7 +26576,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《翼龙-3无人机》（教育参考）"
   },
   {
     "id": "ch-1",
@@ -26307,12 +26891,13 @@ window.EQUIPMENT_DATA = [
     "form_zh": "武裝無人水面艇（JARI）",
     "form_en": "",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/jari-usv.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [],
     "branch_hint": "海軍",
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百度百科《JARI-USV多用途无人作战艇》（教育参考）"
   },
   {
     "id": "ar-1",
@@ -26349,7 +26934,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "無人機空地導彈（AR-1）",
     "form_en": "",
     "wiki": "CASC Rainbow",
-    "image": "",
+    "image": "assets/images/ar-1.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -26359,7 +26944,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百度百科《AR-1空地导弹》（教育参考）"
   },
   {
     "id": "df-1",
@@ -26540,7 +27126,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "洲際彈道導彈（DF-5A）",
     "form_en": "",
     "wiki": "DF-5",
-    "image": "",
+    "image": "assets/images/df-5a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -26550,7 +27136,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
-    "branch": "火箭軍"
+    "branch": "火箭軍",
+    "image_credit": "图片来自百度百科《东风-5弹道导弹》（教育参考）"
   },
   {
     "id": "df-5b",
@@ -26687,14 +27274,15 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：DF-15",
-        "url": "https://en.wikipedia.org/wiki/DF-15"
+        "label": "百度百科：东风-15C型导弹",
+        "url": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-15C%E5%9E%8B%E5%AF%BC%E5%BC%B9"
       }
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "東風-15：近程彈道飛彈，TEL 為 4~5 軸，彈體裸露、彈頭為圓錐形，比 DF-11 略大。"
+    "recog": "東風-15：近程彈道飛彈，TEL 為 4~5 軸，彈體裸露、彈頭為圓錐形，比 DF-11 略大。",
+    "image_credit": "图片来自百度百科《东风-15弹道导弹》（教育参考）"
   },
   {
     "id": "df-15a",
@@ -26776,7 +27364,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近程彈道導彈（DF-15C鑽地）",
     "form_en": "",
     "wiki": "DF-15",
-    "image": "",
+    "image": "assets/images/df-15c.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -26786,7 +27374,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
-    "branch": "火箭軍"
+    "branch": "火箭軍",
+    "image_credit": "图片来自百度百科《东风-15C型导弹》（教育参考）"
   },
   {
     "id": "df-21",
@@ -26922,14 +27511,15 @@ window.EQUIPMENT_DATA = [
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
-        "label": "維基百科：DF-31",
-        "url": "https://en.wikipedia.org/wiki/DF-31"
+        "label": "百度百科：东风-31新型陆基洲际导弹",
+        "url": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-31%E6%96%B0%E5%9E%8B%E9%99%86%E5%9F%BA%E6%B4%B2%E9%99%85%E5%AF%BC%E5%BC%B9"
       }
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "東風-31A：洲際飛彈，飛彈裝在圓筒發射箱內由多軸 TEL 載運，箱體長且粗，與裸露彈體的 DF-21/26 一眼可分。"
+    "recog": "東風-31A：洲際飛彈，飛彈裝在圓筒發射箱內由多軸 TEL 載運，箱體長且粗，與裸露彈體的 DF-21/26 一眼可分。",
+    "image_credit": "图片来自百度百科《东风-31新型陆基洲际导弹》（教育参考）"
   },
   {
     "id": "df-61",
@@ -27013,7 +27603,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "陸基巡航導彈（CJ-10A）",
     "form_en": "",
     "wiki": "CJ-10",
-    "image": "",
+    "image": "assets/images/cj-10a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27023,7 +27613,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
-    "branch": "火箭軍"
+    "branch": "火箭軍",
+    "image_credit": "图片来自百度百科《长剑-10巡航导弹》（教育参考）"
   },
   {
     "id": "hn-1",
@@ -27248,7 +27839,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "空射高速導彈（CM-400AKG）",
     "form_en": "",
     "wiki": "CM-400AKG",
-    "image": "",
+    "image": "assets/images/cm-400akg.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27258,7 +27849,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
-    "branch": "火箭軍"
+    "branch": "火箭軍",
+    "image_credit": "图片来自百度百科《CM-400AKG空地导弹》（教育参考）"
   },
   {
     "id": "bp-12a",
@@ -27342,7 +27934,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近程彈道導彈（B611）",
     "form_en": "",
     "wiki": "B611 (missile)",
-    "image": "",
+    "image": "assets/images/b611.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27352,7 +27944,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "火箭軍",
     "authority_verified": true,
-    "branch": "火箭軍"
+    "branch": "火箭軍",
+    "image_credit": "图片来自百度百科《B-611导弹》（教育参考）"
   },
   {
     "id": "type-59g",
@@ -27389,7 +27982,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "主戰坦克（59G）",
     "form_en": "",
     "wiki": "Type 59 tank",
-    "image": "",
+    "image": "assets/images/type-59g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27399,7 +27992,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《ZTZ59D1主战坦克》（教育参考）"
   },
   {
     "id": "type-88a",
@@ -27435,7 +28029,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "主戰坦克（88A）",
     "form_en": "",
     "wiki": "Type 88 tank",
-    "image": "",
+    "image": "assets/images/type-88a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27445,7 +28039,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《88A式主战坦克》（教育参考）"
   },
   {
     "id": "vt-4",
@@ -27482,7 +28077,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "主戰坦克（VT-4）",
     "form_en": "",
     "wiki": "VT-4",
-    "image": "",
+    "image": "assets/images/vt-4.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27492,7 +28087,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《VT-4主战坦克》（教育参考）"
   },
   {
     "id": "vt-5",
@@ -27528,7 +28124,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型坦克（VT-5）",
     "form_en": "",
     "wiki": "Type 15 tank",
-    "image": "",
+    "image": "assets/images/vt-5.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27538,7 +28134,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《VT5轻型坦克》（教育参考）"
   },
   {
     "id": "al-khalid",
@@ -27859,7 +28456,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "防護型高機動車（猛士三代）",
     "form_en": "",
     "wiki": "Dongfeng Mengshi",
-    "image": "",
+    "image": "assets/images/mengshi-3.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27869,7 +28466,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《东风猛士》（教育参考）"
   },
   {
     "id": "type-54-122",
@@ -27906,7 +28504,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引榴彈砲（122mm）",
     "form_en": "",
     "wiki": "Type 54 122 mm howitzer",
-    "image": "",
+    "image": "assets/images/type-54-122.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27916,7 +28514,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《54式122毫米榴弹炮》（教育参考）"
   },
   {
     "id": "type-60-122",
@@ -27953,7 +28552,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引加農砲（122mm）",
     "form_en": "",
     "wiki": "Type 60 122 mm cannon",
-    "image": "",
+    "image": "assets/images/type-60-122.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27963,7 +28562,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《60式122毫米加农炮》（教育参考）"
   },
   {
     "id": "type-59-130",
@@ -28000,7 +28600,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引加農砲（130mm）",
     "form_en": "",
     "wiki": "Type 59 130 mm cannon",
-    "image": "",
+    "image": "assets/images/type-59-130.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28010,7 +28610,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《59式130毫米加农炮》（教育参考）"
   },
   {
     "id": "type-86-122",
@@ -28046,7 +28647,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引榴彈砲（122mm）",
     "form_en": "",
     "wiki": "122 mm howitzer D-30",
-    "image": "",
+    "image": "assets/images/type-86-122.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28056,7 +28657,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《86式122毫米榴弹炮》（教育参考）"
   },
   {
     "id": "type-83-152-towed",
@@ -28139,7 +28741,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引加榴砲（155mm）",
     "form_en": "",
     "wiki": "Type 89 155 mm howitzer",
-    "image": "",
+    "image": "assets/images/pll-01-155.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28149,7 +28751,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《中国PLL01型155毫米牵引式加农榴弹炮》（教育参考）"
   },
   {
     "id": "type-63-107",
@@ -28233,7 +28836,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "122mm 多管火箭炮（81式）",
     "form_en": "",
     "wiki": "Type 81 122 mm MRL",
-    "image": "",
+    "image": "assets/images/type-81-122.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28243,7 +28846,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《81式火箭炮》（教育参考）"
   },
   {
     "id": "type-83-273",
@@ -28279,7 +28883,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "重型遠程火箭炮（273mm）",
     "form_en": "",
     "wiki": "Type 83 273 mm MRL",
-    "image": "",
+    "image": "assets/images/type-83-273.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28289,7 +28893,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《WM-80式273毫米火箭炮系统》（教育参考）"
   },
   {
     "id": "type-82-130",
@@ -28325,7 +28930,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "130mm 多管火箭炮（82式）",
     "form_en": "",
     "wiki": "Type 82 130 mm MRL",
-    "image": "",
+    "image": "assets/images/type-82-130.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28335,7 +28940,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《82式130mm轮式自行火箭炮》（教育参考）"
   },
   {
     "id": "ar1-mlrs",
@@ -28559,7 +29165,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "自行榴彈砲（122mm，85式）",
     "form_en": "",
     "wiki": "Type 85 self-propelled howitzer",
-    "image": "",
+    "image": "assets/images/type-85-122.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28569,7 +29175,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《122毫米自行榴弹炮》（教育参考）"
   },
   {
     "id": "plz-05a",
@@ -28606,7 +29213,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "自行加榴砲（155mm，05A）",
     "form_en": "",
     "wiki": "PLZ-05",
-    "image": "",
+    "image": "assets/images/plz-05a.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28616,7 +29223,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《05A式155毫米加榴炮》（教育参考）"
   },
   {
     "id": "sh1-155",
@@ -28744,7 +29352,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型車載榴彈砲（105mm，SH5）",
     "form_en": "",
     "wiki": "SH5 (howitzer)",
-    "image": "",
+    "image": "assets/images/sh5-105.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28754,7 +29362,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《SH5型105毫米车载榴弹炮》（教育参考）"
   },
   {
     "id": "type-67-82",
@@ -28789,7 +29398,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "82mm 迫擊砲（67式）",
     "form_en": "",
     "wiki": "Type 67 mortar",
-    "image": "",
+    "image": "assets/images/type-67-82.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28799,7 +29408,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《67式82毫米迫击炮》（教育参考）"
   },
   {
     "id": "type-87-82",
@@ -28879,7 +29489,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "120mm 迫擊砲（64式）",
     "form_en": "",
     "wiki": "Type 64 mortar",
-    "image": "",
+    "image": "assets/images/type-64-120.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28889,7 +29499,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《64式120毫米迫击炮》（教育参考）"
   },
   {
     "id": "type-56-160",
@@ -28925,7 +29536,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "重型迫擊砲（160mm）",
     "form_en": "",
     "wiki": "M-160 mortar",
-    "image": "",
+    "image": "assets/images/type-56-160.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -28935,7 +29546,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《56式160毫米迫击炮》（教育参考）"
   },
   {
     "id": "sm4-120",
@@ -29018,7 +29630,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引高射機槍（14.5mm）",
     "form_en": "",
     "wiki": "Type 75 14.5 mm",
-    "image": "",
+    "image": "assets/images/type-75-145.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -29028,7 +29640,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《75式14.5毫米高射机枪》（教育参考）"
   },
   {
     "id": "type-85-23",
@@ -29206,7 +29819,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引高射砲（100mm）",
     "form_en": "",
     "wiki": "KS-19",
-    "image": "",
+    "image": "assets/images/type-59-100aa.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -29216,7 +29829,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《中国59式100毫米高射炮》（教育参考）"
   },
   {
     "id": "pgz-07",
@@ -29626,7 +30240,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "便攜防空飛彈（前衛-18）",
     "form_en": "",
     "wiki": "QW-18",
-    "image": "",
+    "image": "assets/images/qw-18.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -29636,7 +30250,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《前卫-18防空导弹》（教育参考）"
   },
   {
     "id": "hq-7b",
@@ -29672,7 +30287,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近程防空飛彈（HQ-7B）",
     "form_en": "",
     "wiki": "HQ-7",
-    "image": "",
+    "image": "assets/images/hq-7b.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -29682,7 +30297,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《FM-90(FM-80M)防空导弹》（教育参考）"
   },
   {
     "id": "hq-11",
@@ -29767,7 +30383,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近程防空系統（道爾-M1）",
     "form_en": "",
     "wiki": "Tor missile system",
-    "image": "",
+    "image": "assets/images/tor-m1.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -29777,7 +30393,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "陸軍",
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百度百科《盾牌--道尔-M1地空导弹系统》（教育参考）"
   },
   {
     "id": "fb-6a",
@@ -30771,7 +31388,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "無托自動步槍（95式）",
     "form_en": "",
     "wiki": "QBZ-95",
-    "image": "",
+    "image": "assets/images/qbz-95.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -30781,7 +31398,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《95式自动步枪（中国兵器装备集团公司研制的突击步枪）》（教育参考）"
   },
   {
     "id": "type-68-rifle",
@@ -31193,7 +31811,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "12.7mm 高射機槍（85式）",
     "form_en": "",
     "wiki": "Type 85 heavy machine gun",
-    "image": "",
+    "image": "assets/images/type-85-hmg.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31203,7 +31821,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《85式高射机枪》（教育参考）"
   },
   {
     "id": "qbu-141",
@@ -31330,7 +31949,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "栓動狙擊步槍（CS/LR4）",
     "form_en": "",
     "wiki": "CS/LR4",
-    "image": "",
+    "image": "assets/images/cs-lr4.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31340,7 +31959,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《CS LR4狙击步枪》（教育参考）"
   },
   {
     "id": "cs-lr3",
@@ -31375,7 +31995,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "狙擊步槍（CS/LR3）",
     "form_en": "",
     "wiki": "CS/LR4",
-    "image": "",
+    "image": "assets/images/cs-lr3.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31385,7 +32005,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《CS/LR3狙击步枪》（教育参考）"
   },
   {
     "id": "m99-amr",
@@ -31561,7 +32182,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "半自動手槍（92G）",
     "form_en": "",
     "wiki": "QSZ-92",
-    "image": "",
+    "image": "assets/images/qsz-92g.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31571,7 +32192,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《92式手枪（中国军用手枪）》（教育参考）"
   },
   {
     "id": "qx-04",
@@ -31700,7 +32322,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "60mm 迫擊砲（63式）",
     "form_en": "",
     "wiki": "Type 63 mortar",
-    "image": "",
+    "image": "assets/images/type-63-60.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31710,7 +32332,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《中国63-1式60毫米迫击炮》（教育参考）"
   },
   {
     "id": "type-90-60",
@@ -31746,7 +32369,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "60mm 迫擊砲（90式）",
     "form_en": "",
     "wiki": "Type 90 mortar",
-    "image": "",
+    "image": "assets/images/type-90-60.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31756,7 +32379,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "通用",
     "authority_verified": true,
-    "branch": "通用"
+    "branch": "通用",
+    "image_credit": "图片来自百度百科《90式60毫米迫击炮》（教育参考）"
   },
   {
     "id": "mi-171",
@@ -31794,7 +32418,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型運輸直升機",
     "form_en": "",
     "wiki": "Mil Mi-8",
-    "image": "",
+    "image": "assets/images/mi-171.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31803,6 +32427,7 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
+    "image_credit": "图片来自百度百科《米-171直升机》（教育参考）",
     "branch": "陸軍"
   }
 ];
