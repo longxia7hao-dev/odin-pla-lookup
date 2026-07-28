@@ -1,0 +1,13 @@
+把圖片放進這個資料夾，檔名用「裝備 id」，例如：
+    type-052d.jpg
+    j-20.jpg
+    ztz-99a.jpg
+
+用網站的「⬇︎ 儲存／分享給編者」按鈕，檔名會自動命名好，不用自己改。
+
+放好後跟 Claude 說一聲，或自己執行：
+    python3 tools/import_inbox.py --dry-run   # 先看看會匯入什麼
+    python3 tools/import_inbox.py            # 實際匯入
+
+匯入後原檔會移到「已匯入」子資料夾。
+※ Claude 會先目視確認圖片正確才會上線。
