@@ -904,6 +904,48 @@
     };
     reader.readAsDataURL(file);
   }
+  // data: URI → Blob（同步，才不會失去使用者手勢，iOS 分享面板才叫得出來）
+  function dataURItoBlob(uri) {
+    const [head, b64] = uri.split(",");
+    const mime = (head.match(/data:([^;]+)/) || [, "image/jpeg"])[1];
+    const bin = atob(b64);
+    const buf = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) buf[i] = bin.charCodeAt(i);
+    return new Blob([buf], { type: mime });
+  }
+
+  function saveBlobAsFile(blob, filename) {
+    // 桌機／Android：Blob URL + download
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 4000);
+  }
+
+  function shareOrSave(blob, id) {
+    const filename = `${id}.jpg`;
+    const file = new File([blob], filename, { type: blob.type || "image/jpeg" });
+    // 手機優先：叫出系統分享面板（可存到檔案／相簿，或直接傳給編者）
+    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+      navigator
+        .share({ files: [file], title: filename, text: `${filename}（解放軍速查・圖片投稿）` })
+        .then(() => toast("已開啟分享，傳給編者即可收錄"))
+        .catch((err) => {
+          if (err && err.name === "AbortError") return; // 使用者自行取消
+          saveBlobAsFile(blob, filename);
+          toast(`已儲存 ${filename}`);
+        });
+      return;
+    }
+    // 不支援分享 API（多為桌機）→ 直接下載
+    saveBlobAsFile(blob, filename);
+    toast(`已下載 ${filename} —— 傳給編者收錄即可對全站生效`);
+  }
+
   function downloadLightboxImage() {
     const id = els.lightbox.dataset.id;
     const src = els.lbImg.src || "";
@@ -911,13 +953,24 @@
       toast("目前沒有可下載的照片");
       return;
     }
-    const a = document.createElement("a");
-    a.href = src;
-    a.download = `${id}.jpg`;
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    toast(`已下載 ${id}.jpg —— 傳給編者收錄即可對全站生效`);
+    // 換過的圖是 data: URI → 同步轉檔，保住使用者手勢
+    if (src.startsWith("data:")) {
+      try {
+        shareOrSave(dataURItoBlob(src), id);
+      } catch (e) {
+        toast("圖片處理失敗，請改用長按圖片儲存");
+      }
+      return;
+    }
+    // 站上原圖 → 取回後再分享／下載；失敗則開新分頁供長按儲存
+    toast("處理中…");
+    fetch(src)
+      .then((r) => r.blob())
+      .then((b) => shareOrSave(b, id))
+      .catch(() => {
+        window.open(src, "_blank");
+        toast("已開啟圖片，長按即可儲存");
+      });
   }
   function resetLightboxImage() {
     const id = els.lightbox.dataset.id;
