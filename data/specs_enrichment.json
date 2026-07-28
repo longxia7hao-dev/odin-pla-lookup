@@ -31,7 +31,9 @@
           "label": "CSIS Missile Threat：Missiles of China",
           "url": "https://missilethreat.csis.org/country_tax/china/"
         }
-      ]
+      ],
+      "image": "assets/images/df-16.jpg",
+      "recog": "近程彈道飛彈：TEL 為 5 軸重型卡車，彈體裸露圓柱形，比 DF-11 明顯長粗、比 DF-21 短。"
     },
     "df-11a": {
       "range_m": "300–1,000 km（對陸攻擊 SRBM）",
@@ -258,7 +260,8 @@
         }
       ],
       "mobility": "蒸汽輪機；四軸",
-      "recog": "福建艦：平直全通甲板（無滑躍），甲板上有三條電磁彈射器軌道、艦島小而後移，是最大識別點。"
+      "recog": "福建艦：平直全通甲板（無滑躍），甲板上有三條電磁彈射器軌道、艦島小而後移，是最大識別點。",
+      "image": "assets/images/type-003.jpg"
     },
     "type-055": {
       "weight_kg": "滿載約 12,000–13,000 噸",
@@ -291,7 +294,8 @@
         }
       ],
       "crew": "280",
-      "recog": "艦艏 130mm 單管主砲、四面固定相位陣列嵌在艦橋上、艏艉各 32 具垂發；煙囪兩座、艦體較 055 小一號。"
+      "recog": "艦艏 130mm 單管主砲、四面固定相位陣列嵌在艦橋上、艏艉各 32 具垂發；煙囪兩座、艦體較 055 小一號。",
+      "image": "assets/images/type-052d.jpg"
     },
     "type-052dl": {
       "weight_kg": "滿載約 7,700 噸",
@@ -383,7 +387,8 @@
           "url": "https://en.wikipedia.org/wiki/Type_056_corvette"
         }
       ],
-      "recog": "輕型護衛艦：艦體小、艦艏 76mm 砲、艦艉直升機甲板但無機庫（056A 有拖曳聲納絞車）。"
+      "recog": "輕型護衛艦：艦體小、艦艏 76mm 砲、艦艉直升機甲板但無機庫（056A 有拖曳聲納絞車）。",
+      "image": "assets/images/type-056.jpg"
     },
     "type-022": {
       "weight_kg": "滿載約 228 噸",
@@ -2291,7 +2296,9 @@
         }
       ],
       "crew": "4",
-      "range_m": "可砲射 ATGM 至 5,500m"
+      "range_m": "可砲射 ATGM 至 5,500m",
+      "image": "assets/images/type-59d.jpg",
+      "recog": "59D式：59 式車體但砲塔正面加掛「方塊狀爆炸反應裝甲」、換 105mm 線膛砲並加裝現代化火控箱體。"
     },
     "mengshi": {
       "weight_kg": "CSK-181 全重約 8 噸",
@@ -2305,7 +2312,8 @@
         }
       ],
       "crew": "2＋8 兵",
-      "recog": "高機動戰術車：外形近似悍馬，寬車體、方正輪拱、車頂常有機槍環形架。"
+      "recog": "高機動戰術車：外形近似悍馬，寬車體、方正輪拱、車頂常有機槍環形架。",
+      "image": "assets/images/mengshi.jpg"
     },
     "eq2058": {
       "weight_kg": "新一代高機動戰術車",
@@ -2471,7 +2479,9 @@
           "label": "維基百科：直-11",
           "url": "https://en.wikipedia.org/wiki/Changhe_Z-11"
         }
-      ]
+      ],
+      "image": "assets/images/z-11.jpg",
+      "recog": "輕型直升機：機身小巧、傳統尾槳（非涵道）、滑橇式起落架，三葉主旋翼，常見於訓練與偵察。"
     },
     "mi-17": {
       "weight_kg": "俄製中型（Mi-8/17 系列）",
@@ -2579,7 +2589,9 @@
           "label": "維基百科：空警-600",
           "url": "https://en.wikipedia.org/wiki/KJ-600"
         }
-      ]
+      ],
+      "image": "assets/images/kj-600.jpg",
+      "recog": "艦載預警機：雙渦槳、背部圓盤形雷達罩、機翼可摺疊、雙垂尾；外形近似美製 E-2 鷹眼。"
     },
     "qbz-191": {
       "caliber": "5.8×42mm",
@@ -2637,7 +2649,9 @@
           "label": "維基百科：QBZ-191",
           "url": "https://en.wikipedia.org/wiki/QBZ-191"
         }
-      ]
+      ],
+      "image": "assets/images/qjy-201.jpg",
+      "recog": "新一代通用機槍：彈鏈供彈、槍身輕巧、頂部全長導軌配光學瞄具，兩腳架可折收，比 88 式更現代化。"
     },
     "qlg-10": {
       "caliber": "35mm 榴彈",
@@ -2738,7 +2752,8 @@
           "url": "https://en.wikipedia.org/wiki/QBU-88"
         }
       ],
-      "recog": "無托精確射手步槍：長槍管、無托佈局、槍身上方大型光學瞄準鏡，槍口有制退器。"
+      "recog": "無托精確射手步槍：長槍管、無托佈局、槍身上方大型光學瞄準鏡，槍口有制退器。",
+      "image": "assets/images/qbu-88.jpg"
     },
     "qbu-10": {
       "caliber": "12.7×108mm",
@@ -2867,7 +2882,9 @@
           "label": "維基百科：QJZ-89",
           "url": "https://en.wikipedia.org/wiki/QJZ-89"
         }
-      ]
+      ],
+      "image": "assets/images/qjz-171.jpg",
+      "recog": "新式 12.7mm 重機槍：極度輕量化（單兵可搬）、槍管粗長帶大型制退器、三腳架低矮，彈鏈自左側供彈。"
     },
     "type-67-mg": {
       "caliber": "7.62×54mmR",
@@ -3292,7 +3309,9 @@
           "label": "維基百科：63A式水陸坦克",
           "url": "https://en.wikipedia.org/wiki/Type_63A"
         }
-      ]
+      ],
+      "image": "assets/images/type-63a.jpg",
+      "recog": "63A式水陸坦克：低矮車體＋車艏大型滑水板、砲塔配 105mm 線膛砲、履帶側裙延伸，浮渡時艏板豎起。"
     },
     "kj-200": {
       "caliber": "Y-8 平台",
@@ -3318,7 +3337,9 @@
           "label": "維基百科：Type 80／88 坦克",
           "url": "https://en.wikipedia.org/wiki/Type_80/88_main_battle_tank"
         }
-      ]
+      ],
+      "image": "assets/images/ztz-88.jpg",
+      "recog": "88式主戰坦克：砲塔方正焊接（無楔形附加裝甲）、105mm 線膛砲、車體六對負重輪，外形介於 80 式與 96 式之間。"
     },
     "df-31b": {
       "caliber": "ICBM",
@@ -3370,7 +3391,9 @@
           "label": "維基百科：PLL-05",
           "url": "https://en.wikipedia.org/wiki/PLL-05"
         }
-      ]
+      ],
+      "image": "assets/images/pll-05.jpg",
+      "recog": "120mm 輪式自行迫榴砲：WZ551 六輪底盤＋圓形砲塔，砲管短粗（迫榴砲特徵），可迫擊亦可直射。"
     },
     "pcl-161": {
       "caliber": "122mm 車載榴彈砲",
@@ -3518,7 +3541,9 @@
           "label": "維基百科：BZK-005",
           "url": "https://en.wikipedia.org/wiki/BZK-005"
         }
-      ]
+      ],
+      "image": "assets/images/bzk-005.jpg",
+      "recog": "中高空長航時偵察無人機：機身修長、雙尾撐＋倒 V 尾翼、背部推進螺旋槳，機腹光電球。"
     },
     "asn-209": {
       "caliber": "戰術偵察 UAV",
@@ -3542,7 +3567,9 @@
           "label": "維基百科：WJ-700",
           "url": "https://en.wikipedia.org/wiki/WJ-700"
         }
-      ]
+      ],
+      "image": "assets/images/wj-700.png",
+      "recog": "高速察打無人機：噴射動力、機身流線、背部進氣口、翼下多掛架；外形比螺旋槳無人機更接近有人機。"
     },
     "ch-7": {
       "caliber": "匿蹤 UCAV（研發中）",
@@ -3971,8 +3998,14 @@
       "recog": "老式坦克：圓形鑄造砲塔＋砲塔前方常見紅外探照燈（大圓筒）、五對負重輪，與 59 式極相似。"
     },
     "df-4": {},
-    "z-8l": {},
-    "hhq-7": {},
+    "z-8l": {
+      "image": "assets/images/z-8l.png",
+      "recog": "直-8L 寬體型：機身明顯加寬（可載輕型車輛）、機腹船形艇體、三發、六葉主旋翼。"
+    },
+    "hhq-7": {
+      "image": "assets/images/hhq-7.jpg",
+      "recog": "海紅旗-7 艦載型：八聯裝方形飛彈箱＋中央碟形追蹤雷達，整組安裝在艦艏或艦艉甲板上。"
+    },
     "type-77-hmg": {},
     "gsl-131": {},
     "type-092": {},
@@ -3982,18 +4015,27 @@
       "recog": "小型自衛手槍：套筒方正、體積小、握把短；微聲型前方加裝粗大消音筒。"
     },
     "type-037is": {},
-    "type-051": {},
+    "type-051": {
+      "image": "assets/images/type-051.jpg",
+      "recog": "旅大級驅逐艦：艦艏艦艉各一座「雙管 130mm 砲」（砲管明顯成對）、中段兩組三聯裝反艦飛彈箱，上層建築老式方正。"
+    },
     "type-904": {},
     "pl-9": {},
     "df-3": {},
     "type-718b": {},
-    "hy-6": {},
+    "hy-6": {
+      "image": "assets/images/hy-6.jpg",
+      "recog": "轟油-6 加油機：轟-6 機身但翼下掛兩具軟管加油吊艙（圓柱狀莢艙），機鼻仍為玻璃領航艙。"
+    },
     "type-905": {},
     "type-037ig": {},
     "qlb-06": {},
     "ch-6": {},
     "rif-m": {},
-    "type-79": {},
+    "type-79": {
+      "image": "assets/images/type-79.jpg",
+      "recog": "79式主戰坦克：外形近似 69 式（圓形鑄造砲塔），但換裝 105mm 線膛砲並加裝現代火控，砲管較長。"
+    },
     "su-27sk": {
       "image": "assets/images/su-27sk.jpg",
       "recog": "俄製原裝 Flanker：機頭 IRST 球、翼尖掛架、垂尾頂端有明顯的方形整流罩，塗裝為俄式藍灰。"
@@ -4005,26 +4047,39 @@
       "recog": "中程防空：飛彈架在傾斜的雙軌發射架上「裸露」不裝箱，可直接看到彈體與彈翼，很好認。"
     },
     "j-10s": {
-      "recog": "殲-10 雙座型：座艙罩明顯拉長為前後兩座，機背略隆起；其餘鴨翼與腹部進氣同單座型。"
+      "recog": "殲-10 雙座型：座艙罩明顯拉長為前後兩座，機背略隆起；其餘鴨翼與腹部進氣同單座型。",
+      "image": "assets/images/j-10s.jpg"
     },
     "j-7e": {
       "recog": "殲-7 的雙三角翼改型：機翼前緣有明顯轉折（內段大後掠、外段較平直），與早期殲-7 的純三角翼不同。"
     },
     "h-6d": {},
     "slc-2": {},
-    "type-037": {},
+    "type-037": {
+      "image": "assets/images/type-037.jpg",
+      "recog": "海南級獵潛艇：小型艇身、艦艏 57mm 雙管砲、艙面有反潛火箭發射架，外形樸實無匿蹤設計。"
+    },
     "type-051g": {},
     "c-704": {},
-    "wz-523": {},
+    "wz-523": {
+      "image": "assets/images/wz-523.png",
+      "recog": "WZ-523 輪式裝甲車：6×6、車體較高、車艏尖楔形、車頂機槍塔小；主要外銷。"
+    },
     "pf-89": {},
     "type-382": {
       "image": "assets/images/type-382.jpg",
       "recog": "艦載三坐標對空雷達：桅杆頂端的「大型方形平板天線」，天線面呈網格狀並持續旋轉，是 054A 護衛艦最顯眼的特徵。"
     },
     "w85-hmg": {},
-    "kj-500a": {},
+    "kj-500a": {
+      "image": "assets/images/kj-500a.jpg",
+      "recog": "空警-500A：運-9 平台＋背部圓盤固定雷達罩，A 型機頭上方多出「空中受油探管」，是與基本型差別。"
+    },
     "z-15": {},
-    "type-54-pistol": {},
+    "type-54-pistol": {
+      "image": "assets/images/type-54-pistol.jpg",
+      "recog": "54式手槍：套筒方正平直、握把有直紋、無外露擊錘護罩；源自蘇聯 TT-33，與 59 式（馬卡洛夫，圓潤）外形明顯不同。"
+    },
     "type-051dt": {},
     "slc-7": {},
     "type-026": {},
@@ -4054,11 +4109,17 @@
       "recog": "155mm 外銷自走砲：砲塔方正、長砲管配大型砲口制退器；外銷中東故多為沙漠塗裝。"
     },
     "type-818": {},
-    "hj-73": {},
+    "hj-73": {
+      "image": "assets/images/hj-73.jpg",
+      "recog": "紅箭-73：小型有線導引反戰車飛彈，發射時彈體有四片大型彈翼展開，多架在三腳架或車頂導軌。"
+    },
     "wz-5": {},
     "q-5": {},
     "type-062": {},
-    "z-9w": {},
+    "z-9w": {
+      "image": "assets/images/z-9w.jpg",
+      "recog": "直-9W 武裝型：涵道尾槳＋機身兩側短翼掛架（反戰車飛彈/火箭），機頭下方常有光電轉塔。"
+    },
     "type-039c": {},
     "asn-206": {},
     "hhq-9b": {},
@@ -4068,12 +4129,24 @@
     "ch-901": {},
     "type-053h2g": {},
     "z-8g": {},
-    "hq-2": {},
+    "hq-2": {
+      "image": "assets/images/hq-2.jpg",
+      "recog": "紅旗-2：大型飛彈架在傾斜的三角形發射架上（裸露），彈體細長、尾部四片大三角翼，源自蘇聯 SA-2。"
+    },
     "type-65-aaa": {},
-    "hpj-26": {},
+    "hpj-26": {
+      "image": "assets/images/hpj-26.jpg",
+      "recog": "76mm 單管艦砲：砲塔較小、圓錐狀匿蹤外形、單根細砲管，054A/056 艦艏標配。"
+    },
     "type-909": {},
-    "type-037ii": {},
-    "type-074": {},
+    "type-037ii": {
+      "image": "assets/images/type-037ii.jpg",
+      "recog": "紅箭級飛彈艇：037 艇體加裝反艦飛彈箱（艦舯兩側各三具），艦艏 37mm 雙管砲。"
+    },
+    "type-074": {
+      "image": "assets/images/type-074.jpg",
+      "recog": "玉海級登陸艦：艦艏蚌殼式艏門＋跳板、上層建築集中艦艉、中段為平坦車輛甲板。"
+    },
     "y-12": {
       "image": "assets/images/y-12.jpg",
       "recog": "輕型雙發渦槳：方正機身、高置平直機翼、固定式起落架（不收放）是最好認的特徵。"
@@ -4111,7 +4184,10 @@
       "image": "assets/images/type-073a.jpg",
       "recog": "073 改進型：艦艉增設直升機平台、上層建築加大，艦體線條較方正。"
     },
-    "type-074a": {},
+    "type-074a": {
+      "image": "assets/images/type-074a.jpg",
+      "recog": "玉海級改進型登陸艦：艏門跳板設計，艦體比 073 小、上層建築更靠後。"
+    },
     "yuanwang-2122": {
       "image": "assets/images/yuanwang-2122.jpg",
       "recog": "火箭運輸船：船身修長、甲板平坦無上層結構、船艉有大型貨艙門（運送長征火箭用）。"
@@ -4126,20 +4202,32 @@
     },
     "z-19e": {},
     "sh1-155": {},
-    "df-5": {},
+    "df-5": {
+      "image": "assets/images/df-5.jpg",
+      "recog": "東風-5：巨大的液體燃料洲際飛彈，發射井/發射台發射（非機動），彈體極長，早期型需長時間加注燃料。"
+    },
     "type-095": {},
     "df-12": {},
     "sh2-122": {},
     "qbz-95": {},
     "type-cq": {},
     "type-096": {},
-    "z-20j": {},
+    "z-20j": {
+      "image": "assets/images/z-20j.jpg",
+      "recog": "直-20J 艦載型：五葉主旋翼、主旋翼與尾樑可摺疊、機腹雷達罩，海軍灰塗裝。"
+    },
     "type-68-rifle": {},
     "qbz-192": {},
-    "df-2": {},
+    "df-2": {
+      "image": "assets/images/df-2.jpg",
+      "recog": "東風-2：早期中程彈道飛彈，液體燃料單級、彈體細長、尾部四片梯形穩定翼，需在發射架上豎立加注。"
+    },
     "type-052": {},
     "qw-1m": {},
-    "j-8": {},
+    "j-8": {
+      "image": "assets/images/j-8.jpg",
+      "recog": "殲-8 初期型：機鼻圓形進氣口中央帶進氣錐（非兩側進氣）、細長機身、大後掠三角翼——與殲-8II 的兩側進氣是關鍵差別。"
+    },
     "bp-12a": {},
     "qx-04": {},
     "type-86-122": {},
@@ -4156,9 +4244,18 @@
     "h-6g": {},
     "type-59g": {},
     "qjs-161": {},
-    "qw-3": {},
-    "type-033": {},
-    "qijiguang": {},
+    "qw-3": {
+      "image": "assets/images/qw-3.jpg",
+      "recog": "前衛-3：便攜防空飛彈，圓筒發射管＋前端方形雷射導引窗（非圓錐紅外罩），肩射時可見大型握把與電池。"
+    },
+    "type-033": {
+      "image": "assets/images/type-033.jpg",
+      "recog": "羅密歐級潛艦：艇身粗短、指揮台圍殼高而方正（老式設計）、艏部線條圓鈍，與現代潛艦差異明顯。"
+    },
+    "qijiguang": {
+      "image": "assets/images/qijiguang.jpg",
+      "recog": "戚繼光艦：新型訓練艦，艦體更大更現代、匿蹤外飄艦體、艦艉大型直升機甲板與機庫。"
+    },
     "b611": {},
     "sh-15": {},
     "pl-11": {},
@@ -4173,9 +4270,15 @@
     "z-21": {},
     "df-5a": {},
     "type-59-130": {},
-    "df-5b": {},
+    "df-5b": {
+      "image": "assets/images/df-5b.jpg",
+      "recog": "東風-5B：同 DF-5 的大型液體飛彈，改進彈頭（多彈頭）與制導，外形與 DF-5 相近。"
+    },
     "type-010": {},
-    "z-11wb": {},
+    "z-11wb": {
+      "image": "assets/images/z-11wb.jpg",
+      "recog": "直-11WB：輕型武裝直升機、滑橇起落架、傳統尾槳、機身兩側小型短翼掛載飛彈。"
+    },
     "ka-27": {},
     "mi-8": {
       "image": "assets/images/mi-8.jpg",
@@ -4207,9 +4310,15 @@
     "type-035g": {},
     "hj-11": {},
     "kilo-636": {},
-    "type-63-apc": {},
+    "type-63-apc": {
+      "image": "assets/images/type-63-apc.jpg",
+      "recog": "63式裝甲輸送車：車體低矮方正、車頂平坦僅一挺機槍、四對小負重輪，是中國第一代履帶 APC。"
+    },
     "mengshi-3": {},
-    "pl-2": {},
+    "pl-2": {
+      "image": "assets/images/pl-2.jpg",
+      "recog": "霹靂-2：早期紅外空對空飛彈，彈體細長、頭部圓球形整流罩、中段四片小三角翼，源自蘇聯 K-13。"
+    },
     "type-039g": {},
     "type-92a": {},
     "type-85-smg": {
@@ -4280,7 +4389,8 @@
       "recog": "殲-11B 的雙座型：座艙罩加長為串列雙座，機背隆起；其餘同殲-11B。"
     },
     "fc-31": {
-      "recog": "殲-35 的原型／外銷版，外形同為中型雙發、無鴨翼匿蹤佈局；早期原型垂尾與機身細節略有不同。"
+      "recog": "殲-35 的原型／外銷版，外形同為中型雙發、無鴨翼匿蹤佈局；早期原型垂尾與機身細節略有不同。",
+      "image": "assets/images/fc-31.jpg"
     },
     "yj-8": {
       "image": "assets/images/yj-8.jpg",
@@ -4305,6 +4415,90 @@
     "type-59-pistol": {
       "image": "assets/images/type-59-pistol.jpg",
       "recog": "59 式手槍：馬卡洛夫仿製——套筒圓潤、握把有明顯弧度與菱格紋、體積小巧；與 54 式（TT 系，套筒方正）外形差異明顯。"
+    },
+    "type-081": {
+      "image": "assets/images/type-081.jpg",
+      "recog": "獵掃雷艦：艦體較寬扁、上層建築低矮方正、艦艉有遙控獵雷具收放平台，塗裝多為淺灰。"
+    },
+    "type-082": {
+      "image": "assets/images/type-082.png",
+      "recog": "掃雷艇：小型艇、艦艉甲板開闊放置掃雷具與絞盤，無大型武裝。"
+    },
+    "type-072iii": {
+      "image": "assets/images/type-072iii.jpg",
+      "recog": "玉亭II級登陸艦：艦艏蚌殼艏門、艦艉增設直升機甲板，上層建築較 072II 更完整。"
+    },
+    "hpj-38": {
+      "image": "assets/images/hpj-38.jpg",
+      "recog": "130mm 單管艦砲：砲塔為多面體匿蹤造型、單根長砲管，安裝於 052D/055 艦艏，是全艦最大的砲。"
+    },
+    "type-082i": {
+      "image": "assets/images/type-082i.png",
+      "recog": "渦掃改型掃雷艇：艇體小、艙面開闊、艉部有掃雷具吊放架。"
+    },
+    "type-082ii": {
+      "image": "assets/images/type-082ii.png",
+      "recog": "渦陽級獵掃雷艦：比 082I 大、上層建築更完整，配備遙控獵雷器與獵雷聲納。"
+    },
+    "type-908": {
+      "image": "assets/images/type-908.jpg",
+      "recog": "青海湖艦補給艦：由蘇製商船改裝，船體極大、甲板上有多組補給龍門架，外形比 903 更像商船。"
+    },
+    "type-815g": {
+      "image": "assets/images/type-815g.jpg",
+      "recog": "東調級電子偵察船後期型：甲板上多個白色球形雷達罩，數量與配置比早期型更密集。"
+    },
+    "zhenghe": {
+      "image": "assets/images/zhenghe.jpg",
+      "recog": "鄭和艦訓練艦：外形介於軍艦與客輪之間，上層建築高大（供學員住宿）、艦艉直升機甲板，白色編號明顯。"
+    },
+    "kj-1": {
+      "image": "assets/images/kj-1.jpg",
+      "recog": "空警-1：圖-4 四發螺旋槳轟炸機機身＋背部巨大圓盤雷達罩，外形笨重，為中國最早的預警試驗機。"
+    },
+    "z-9d": {
+      "image": "assets/images/z-9d.jpg",
+      "recog": "直-9D 艦載反艦型：涵道尾槳、機身兩側掛小型反艦飛彈（TL-10 等）、海軍灰塗裝、起落架有繫留環。"
+    },
+    "z-9wa": {
+      "image": "assets/images/z-9wa.jpg",
+      "recog": "直-9WA：直-9 武裝型的夜戰改良版，機頭下方有光電/紅外轉塔，兩側短翼掛反戰車飛彈。"
+    },
+    "z-10k": {
+      "image": "assets/images/z-10k.jpg",
+      "recog": "直-10K：與陸軍型同為窄機身串列雙座武裝直升機，機砲在機頭下方，塗裝與部隊標誌不同。"
+    },
+    "ac313": {
+      "image": "assets/images/ac313.jpg",
+      "recog": "AC313 民用大型直升機：直-8 系機身但塗裝鮮豔（民用/救援），三發、機腹船形艇體。"
+    },
+    "bzk-007": {
+      "image": "assets/images/bzk-007.jpg",
+      "recog": "BZK-007 偵察無人機：中小型、平直機翼、V 型尾翼、活塞螺旋槳，外形樸素。"
+    },
+    "df-1": {
+      "image": "assets/images/df-1.jpg",
+      "recog": "東風-1：中國第一款彈道飛彈（蘇聯 R-2 仿製），單級液體燃料、彈體粗短、尾部四片大穩定翼。"
+    },
+    "df-15": {
+      "image": "assets/images/df-15.jpg",
+      "recog": "東風-15：近程彈道飛彈，TEL 為 4~5 軸，彈體裸露、彈頭為圓錐形，比 DF-11 略大。"
+    },
+    "df-21": {
+      "image": "assets/images/df-21.jpg",
+      "recog": "東風-21：中程彈道飛彈，5 軸 TEL、彈體裸露圓柱、頭部圓錐；家族衍生多（21A/C/D）。"
+    },
+    "df-31a": {
+      "image": "assets/images/df-31a.jpg",
+      "recog": "東風-31A：洲際飛彈，飛彈裝在圓筒發射箱內由多軸 TEL 載運，箱體長且粗，與裸露彈體的 DF-21/26 一眼可分。"
+    },
+    "type-63-107": {
+      "image": "assets/images/type-63-107.jpg",
+      "recog": "63式107mm火箭砲：12 根短小發射管（3×4 排列）、可拆解由人力搬運，是全球最普及的輕型火箭砲之一。"
+    },
+    "type-77-pistol": {
+      "image": "assets/images/type-77-pistol.jpg",
+      "recog": "77式手槍：極小巧、套筒短、可單手上膛（扳機護圈可勾拉）；外形比 54/92 式都小一號。"
     }
   }
 }
