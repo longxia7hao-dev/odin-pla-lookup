@@ -1,0 +1,1127 @@
+{
+  "none": [
+    {
+      "id": "pp-89",
+      "name_zh": "PP-89 100mm迫擊砲",
+      "designation": "PP-89",
+      "category": "weapon"
+    },
+    {
+      "id": "w86-120",
+      "name_zh": "W86 120mm迫擊砲",
+      "designation": "W86",
+      "category": "weapon"
+    },
+    {
+      "id": "qlg-10",
+      "name_zh": "QLG-10 槍榴彈發射器",
+      "designation": "QLG-10",
+      "category": "weapon"
+    },
+    {
+      "id": "type-91b-gl",
+      "name_zh": "91B式槍榴彈",
+      "designation": "Type 91B",
+      "category": "weapon"
+    },
+    {
+      "id": "zbd-08",
+      "name_zh": "08式輪式步戰車",
+      "designation": "ZBD-08",
+      "category": "vehicle"
+    },
+    {
+      "id": "zsl-10",
+      "name_zh": "10式輪式裝甲車",
+      "designation": "ZSL-10",
+      "category": "vehicle"
+    },
+    {
+      "id": "pcl-181",
+      "name_zh": "PCL-181 155mm車載加榴砲",
+      "designation": "PCL-181",
+      "category": "vehicle"
+    },
+    {
+      "id": "pcl-171",
+      "name_zh": "PCL-171 輕型突擊車",
+      "designation": "PCL-171",
+      "category": "vehicle"
+    },
+    {
+      "id": "phz-11",
+      "name_zh": "PHZ-11 122mm多管火箭",
+      "designation": "PHZ-11",
+      "category": "vehicle"
+    },
+    {
+      "id": "pgz-04a",
+      "name_zh": "PGZ-04A 自行高砲",
+      "designation": "PGZ-04A",
+      "category": "vehicle"
+    },
+    {
+      "id": "asn-209",
+      "name_zh": "ASN-209 偵察無人機",
+      "designation": "ASN-209",
+      "category": "vehicle"
+    },
+    {
+      "id": "yj-12b",
+      "name_zh": "鷹擊-12B 岸艦飛彈",
+      "designation": "YJ-12B",
+      "category": "weapon"
+    },
+    {
+      "id": "pl-17",
+      "name_zh": "霹靂-17 超遠程空對空飛彈",
+      "designation": "PL-17",
+      "category": "weapon"
+    },
+    {
+      "id": "yu-6",
+      "name_zh": "魚-6 重型魚雷",
+      "designation": "Yu-6",
+      "category": "weapon"
+    },
+    {
+      "id": "yu-7",
+      "name_zh": "魚-7 輕型魚雷",
+      "designation": "Yu-7",
+      "category": "weapon"
+    },
+    {
+      "id": "yu-10",
+      "name_zh": "魚-10 魚雷",
+      "designation": "Yu-10",
+      "category": "weapon"
+    },
+    {
+      "id": "qgf-11",
+      "name_zh": "QGF-11 頭盔",
+      "designation": "QGF-11",
+      "category": "equipment"
+    },
+    {
+      "id": "bbg011a",
+      "name_zh": "BBG011A 夜視儀",
+      "designation": "BBG011A",
+      "category": "equipment"
+    },
+    {
+      "id": "gcl-111",
+      "name_zh": "GCL-111 架橋車",
+      "designation": "GCL-111",
+      "category": "vehicle"
+    },
+    {
+      "id": "gcj-112",
+      "name_zh": "GCJ 工程車系列",
+      "designation": "GCJ series",
+      "category": "vehicle"
+    },
+    {
+      "id": "pll-01",
+      "name_zh": "PLL-01 100mm突擊砲",
+      "designation": "PLL-01",
+      "category": "vehicle"
+    },
+    {
+      "id": "fb-6c",
+      "name_zh": "FB-6C 便攜／車載防空",
+      "designation": "FB-6C",
+      "category": "equipment"
+    },
+    {
+      "id": "cs-sm1",
+      "name_zh": "CS/SM1 120mm迫擊砲系統",
+      "designation": "CS/SM1",
+      "category": "equipment"
+    },
+    {
+      "id": "pcz-171",
+      "name_zh": "PCZ-171 突擊車變型",
+      "designation": "PCZ-171",
+      "category": "vehicle"
+    },
+    {
+      "id": "ba-9",
+      "name_zh": "藍箭-9 空射反戰車飛彈",
+      "designation": "BA-9",
+      "category": "weapon"
+    },
+    {
+      "id": "ft-series",
+      "name_zh": "飛騰系列精確炸彈",
+      "designation": "FT-series",
+      "category": "weapon"
+    },
+    {
+      "id": "gb-series",
+      "name_zh": "GB系列精確炸彈",
+      "designation": "GB-series",
+      "category": "weapon"
+    },
+    {
+      "id": "df-27",
+      "name_zh": "東風-27 彈道飛彈",
+      "designation": "DF-27",
+      "category": "weapon"
+    },
+    {
+      "id": "type-096",
+      "name_zh": "096型戰略核潛艇（唐級，研發中）",
+      "designation": "Type 096",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-818",
+      "name_zh": "818型海警船（昭頭級）",
+      "designation": "Type 818",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-718b",
+      "name_zh": "718B型海警巡邏船",
+      "designation": "Type 718B",
+      "category": "vehicle"
+    },
+    {
+      "id": "phl-11",
+      "name_zh": "PHL-11 122mm 火箭砲",
+      "designation": "PHL-11",
+      "category": "vehicle"
+    },
+    {
+      "id": "gcz-112",
+      "name_zh": "GCZ-112 裝甲工程車",
+      "designation": "GCZ-112",
+      "category": "vehicle"
+    },
+    {
+      "id": "slc-7",
+      "name_zh": "SLC-7 對空監視雷達",
+      "designation": "SLC-7",
+      "category": "equipment"
+    },
+    {
+      "id": "type-120-radar",
+      "name_zh": "305A／120 型低空補盲雷達",
+      "designation": "Type 120",
+      "category": "equipment"
+    },
+    {
+      "id": "cetc-jammer",
+      "name_zh": "車載通信/雷達干擾系統",
+      "designation": "EW-jammer",
+      "category": "equipment"
+    },
+    {
+      "id": "pl-11",
+      "name_zh": "霹靂-11 半主動空對空飛彈",
+      "designation": "PL-11",
+      "category": "weapon"
+    },
+    {
+      "id": "pl-21",
+      "name_zh": "霹靂-21 衝壓遠程空對空飛彈",
+      "designation": "PL-21",
+      "category": "weapon"
+    },
+    {
+      "id": "hj-11",
+      "name_zh": "紅箭-11 反戰車飛彈",
+      "designation": "HJ-11",
+      "category": "weapon"
+    },
+    {
+      "id": "df-21c",
+      "name_zh": "東風-21C 中程彈道飛彈",
+      "designation": "DF-21C",
+      "category": "weapon"
+    },
+    {
+      "id": "gb-6",
+      "name_zh": "GB-6 滑翔制導炸彈",
+      "designation": "GB-6",
+      "category": "weapon"
+    },
+    {
+      "id": "ls-500j",
+      "name_zh": "雷石-500J 制導炸彈",
+      "designation": "LS-500J",
+      "category": "weapon"
+    },
+    {
+      "id": "w85-hmg",
+      "name_zh": "W85 12.7mm 高射機槍",
+      "designation": "W85",
+      "category": "weapon"
+    },
+    {
+      "id": "type-024",
+      "name_zh": "024型飛彈艇（河谷級）",
+      "designation": "Type 024",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-909",
+      "name_zh": "909型試驗艦（畢昇級）",
+      "designation": "Type 909",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-925",
+      "name_zh": "925型潛艇支援艦（大峰級）",
+      "designation": "Type 925",
+      "category": "vehicle"
+    },
+    {
+      "id": "pgz-88",
+      "name_zh": "88式自行高射砲",
+      "designation": "Type 88",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-65-aaa",
+      "name_zh": "65式 37mm 高射砲",
+      "designation": "Type 65",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-74-aaa",
+      "name_zh": "74式雙 37mm 高射砲",
+      "designation": "Type 74",
+      "category": "vehicle"
+    },
+    {
+      "id": "asn-301",
+      "name_zh": "ASN-301 反輻射無人機",
+      "designation": "ASN-301",
+      "category": "weapon"
+    },
+    {
+      "id": "fh-97",
+      "name_zh": "飛鴻-97 忠誠僚機",
+      "designation": "FH-97",
+      "category": "vehicle"
+    },
+    {
+      "id": "wz-6",
+      "name_zh": "無偵-6 偵察無人機",
+      "designation": "WZ-6",
+      "category": "vehicle"
+    },
+    {
+      "id": "gj-1",
+      "name_zh": "攻擊-1 察打無人機",
+      "designation": "GJ-1",
+      "category": "weapon"
+    },
+    {
+      "id": "type-06-armor",
+      "name_zh": "06式防彈衣",
+      "designation": "Type 06",
+      "category": "equipment"
+    },
+    {
+      "id": "qgf-02",
+      "name_zh": "QGF-02 頭盔",
+      "designation": "QGF-02",
+      "category": "equipment"
+    },
+    {
+      "id": "single-soldier-system",
+      "name_zh": "單兵數位化作戰系統",
+      "designation": "Soldier System",
+      "category": "equipment"
+    },
+    {
+      "id": "zzc-command",
+      "name_zh": "裝甲指揮通信車",
+      "designation": "ZZC",
+      "category": "vehicle"
+    },
+    {
+      "id": "sx2306-truck",
+      "name_zh": "陝汽 SX2306 越野卡車",
+      "designation": "SX2306",
+      "category": "vehicle"
+    },
+    {
+      "id": "field-fuel-truck",
+      "name_zh": "野戰油罐車",
+      "designation": "Fuel Truck",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-051dt",
+      "name_zh": "051DT型驅逐艦（旅大III級）",
+      "designation": "Type 051DT",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-051g",
+      "name_zh": "051G型驅逐艦（旅大IV級）",
+      "designation": "Type 051G",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-065",
+      "name_zh": "065型護衛艦（江南級）",
+      "designation": "Type 065",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-037i",
+      "name_zh": "037I型獵潛艇（海青級基型）",
+      "designation": "Type 037I",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-037ig",
+      "name_zh": "037IG型飛彈艇（紅星級）",
+      "designation": "Type 037IG",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-062i",
+      "name_zh": "062I型護衛艇（上海III級）",
+      "designation": "Type 062I",
+      "category": "vehicle"
+    },
+    {
+      "id": "yj-82",
+      "name_zh": "鷹擊-82 潛射反艦飛彈",
+      "designation": "YJ-82",
+      "category": "weapon"
+    },
+    {
+      "id": "c-704",
+      "name_zh": "C-704 反艦飛彈",
+      "designation": "C-704",
+      "category": "weapon"
+    },
+    {
+      "id": "rif-m",
+      "name_zh": "裡夫-M 艦空飛彈系統",
+      "designation": "Rif-M",
+      "category": "weapon"
+    },
+    {
+      "id": "shtil",
+      "name_zh": "施基利 艦空飛彈系統",
+      "designation": "Shtil",
+      "category": "weapon"
+    },
+    {
+      "id": "yu-8",
+      "name_zh": "魚-8 火箭助飛魚雷",
+      "designation": "Yu-8",
+      "category": "vehicle"
+    },
+    {
+      "id": "yu-9",
+      "name_zh": "魚-9 魚雷",
+      "designation": "Yu-9",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-346",
+      "name_zh": "346型有源相控陣雷達（龍眼）",
+      "designation": "Type 346",
+      "category": "equipment"
+    },
+    {
+      "id": "type-346a",
+      "name_zh": "346A型相控陣雷達",
+      "designation": "Type 346A",
+      "category": "equipment"
+    },
+    {
+      "id": "type-346b",
+      "name_zh": "346B型大型相控陣雷達",
+      "designation": "Type 346B",
+      "category": "equipment"
+    },
+    {
+      "id": "type-035a",
+      "name_zh": "035A型常規潛艇（明級改）",
+      "designation": "Type 035A",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-035b",
+      "name_zh": "035B型常規潛艇（明級後期）",
+      "designation": "Type 035B",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-035g",
+      "name_zh": "035G型常規潛艇",
+      "designation": "Type 035G",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-071e",
+      "name_zh": "071E型船塢登陸艦（外銷）",
+      "designation": "Type 071E",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-081a",
+      "name_zh": "081A型獵掃雷艦（渦藏改）",
+      "designation": "Type 081A",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-010",
+      "name_zh": "010型掃雷艦（T-43 系）",
+      "designation": "Type 010",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-312",
+      "name_zh": "312型掃雷艇",
+      "designation": "Type 312",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-927",
+      "name_zh": "927型海洋監視船（拖曳陣）",
+      "designation": "Type 927",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-639",
+      "name_zh": "639型水文測量船",
+      "designation": "Type 639",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-636-survey",
+      "name_zh": "636型海洋測量船",
+      "designation": "Type 636",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-922",
+      "name_zh": "922型救生打撈船",
+      "designation": "Type 922",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-917",
+      "name_zh": "917型援潛救生船",
+      "designation": "Type 917",
+      "category": "vehicle"
+    },
+    {
+      "id": "lr7-dsrv",
+      "name_zh": "LR7 深潛救生艇",
+      "designation": "LR7",
+      "category": "vehicle"
+    },
+    {
+      "id": "shichang",
+      "name_zh": "世昌艦國防動員艦（Type 89）",
+      "designation": "Type 89",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-910",
+      "name_zh": "910型試驗艦",
+      "designation": "Type 910",
+      "category": "vehicle"
+    },
+    {
+      "id": "j-8h",
+      "name_zh": "殲-8H戰鬥機",
+      "designation": "J-8H",
+      "category": "vehicle"
+    },
+    {
+      "id": "h-6m",
+      "name_zh": "轟-6M改進型",
+      "designation": "H-6M",
+      "category": "vehicle"
+    },
+    {
+      "id": "hyj-7",
+      "name_zh": "轟教-7",
+      "designation": "HYJ-7",
+      "category": "vehicle"
+    },
+    {
+      "id": "gx-1",
+      "name_zh": "高新1號電子偵察機（運-8CB）",
+      "designation": "GX-1",
+      "category": "vehicle"
+    },
+    {
+      "id": "gx-2",
+      "name_zh": "高新2號電子偵察機（運-8JB）",
+      "designation": "GX-2",
+      "category": "vehicle"
+    },
+    {
+      "id": "gx-4",
+      "name_zh": "高新4號心理戰機（運-8XZ）",
+      "designation": "GX-4",
+      "category": "vehicle"
+    },
+    {
+      "id": "gx-5",
+      "name_zh": "高新5號指揮通信機（運-8T）",
+      "designation": "GX-5",
+      "category": "vehicle"
+    },
+    {
+      "id": "gx-7",
+      "name_zh": "高新7號電子偵察機（運-9DZ）",
+      "designation": "GX-7",
+      "category": "vehicle"
+    },
+    {
+      "id": "jz-8f",
+      "name_zh": "殲偵-8F偵察機",
+      "designation": "JZ-8F",
+      "category": "vehicle"
+    },
+    {
+      "id": "kd-63",
+      "name_zh": "空地-63導彈",
+      "designation": "KD-63",
+      "category": "weapon"
+    },
+    {
+      "id": "kd-20",
+      "name_zh": "空地-20巡航導彈",
+      "designation": "KD-20",
+      "category": "weapon"
+    },
+    {
+      "id": "z-18a",
+      "name_zh": "直-18A陸軍型",
+      "designation": "Z-18A",
+      "category": "vehicle"
+    },
+    {
+      "id": "z-18j",
+      "name_zh": "直-18J艦載預警直升機",
+      "designation": "Z-18J",
+      "category": "vehicle"
+    },
+    {
+      "id": "z-21",
+      "name_zh": "直-21武裝直升機（研發中）",
+      "designation": "Z-21",
+      "category": "vehicle"
+    },
+    {
+      "id": "ch-1",
+      "name_zh": "彩虹-1無人機",
+      "designation": "CH-1",
+      "category": "vehicle"
+    },
+    {
+      "id": "ch-2",
+      "name_zh": "彩虹-2無人機",
+      "designation": "CH-2",
+      "category": "vehicle"
+    },
+    {
+      "id": "bzk-005c",
+      "name_zh": "BZK-005C改進型無人機",
+      "designation": "BZK-005C",
+      "category": "vehicle"
+    },
+    {
+      "id": "fh-95",
+      "name_zh": "飛鴻-95電子偵察無人機",
+      "designation": "FH-95",
+      "category": "vehicle"
+    },
+    {
+      "id": "sw-6",
+      "name_zh": "SW-6空射無人機",
+      "designation": "SW-6",
+      "category": "vehicle"
+    },
+    {
+      "id": "df-12",
+      "name_zh": "東風-12／M20近程彈道導彈",
+      "designation": "DF-12",
+      "category": "weapon"
+    },
+    {
+      "id": "df-15a",
+      "name_zh": "東風-15A近程彈道導彈",
+      "designation": "DF-15A",
+      "category": "weapon"
+    },
+    {
+      "id": "hn-1",
+      "name_zh": "紅鳥-1巡航導彈",
+      "designation": "HN-1",
+      "category": "weapon"
+    },
+    {
+      "id": "hn-2",
+      "name_zh": "紅鳥-2巡航導彈",
+      "designation": "HN-2",
+      "category": "weapon"
+    },
+    {
+      "id": "hn-3",
+      "name_zh": "紅鳥-3巡航導彈",
+      "designation": "HN-3",
+      "category": "weapon"
+    },
+    {
+      "id": "df-zf",
+      "name_zh": "東風乘波體高超音速滑翔器（DF-ZF）",
+      "designation": "DF-ZF",
+      "category": "weapon"
+    },
+    {
+      "id": "bp-12a",
+      "name_zh": "BP-12A外銷近程彈道導彈",
+      "designation": "BP-12A",
+      "category": "weapon"
+    },
+    {
+      "id": "type-92a",
+      "name_zh": "92A式輪式步兵戰車（ZSL-92A）",
+      "designation": "ZSL-92A",
+      "category": "vehicle"
+    },
+    {
+      "id": "zsd-05",
+      "name_zh": "05式兩棲裝甲輸送車（ZSD-05）",
+      "designation": "ZSD-05",
+      "category": "vehicle"
+    },
+    {
+      "id": "zsl-08",
+      "name_zh": "08式輪式裝甲輸送車（ZSL-08）",
+      "designation": "ZSL-08",
+      "category": "vehicle"
+    },
+    {
+      "id": "vn1",
+      "name_zh": "VN1外銷輪式裝甲車",
+      "designation": "VN1",
+      "category": "vehicle"
+    },
+    {
+      "id": "st1",
+      "name_zh": "ST1外銷輪式突擊炮",
+      "designation": "ST1",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-83-152-towed",
+      "name_zh": "83式152毫米加榴炮（牽引）",
+      "designation": "Type 83-152",
+      "category": "weapon"
+    },
+    {
+      "id": "ar1-mlrs",
+      "name_zh": "AR1／AR1A外銷300毫米火箭炮",
+      "designation": "AR1",
+      "category": "vehicle"
+    },
+    {
+      "id": "ar3-mlrs",
+      "name_zh": "AR3模組化遠程火箭炮",
+      "designation": "AR3",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-70-122",
+      "name_zh": "70式122毫米自行火炮",
+      "designation": "Type 70-122",
+      "category": "vehicle"
+    },
+    {
+      "id": "sh1-155",
+      "name_zh": "SH1式155毫米輪式自行炮",
+      "designation": "SH1",
+      "category": "vehicle"
+    },
+    {
+      "id": "sh2-122",
+      "name_zh": "SH2式122毫米輪式自行炮",
+      "designation": "SH2",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-87-82",
+      "name_zh": "87式82毫米迫擊炮",
+      "designation": "Type 87-82",
+      "category": "weapon"
+    },
+    {
+      "id": "sm4-120",
+      "name_zh": "SM4式120毫米自行迫擊炮",
+      "designation": "SM4",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-85-23",
+      "name_zh": "85式23毫米高射炮",
+      "designation": "Type 85-23",
+      "category": "weapon"
+    },
+    {
+      "id": "type-87-25",
+      "name_zh": "87式25毫米高射炮",
+      "designation": "Type 87-25",
+      "category": "weapon"
+    },
+    {
+      "id": "pgz-07",
+      "name_zh": "07式35毫米自行高炮",
+      "designation": "PGZ-07",
+      "category": "weapon"
+    },
+    {
+      "id": "type-90-35aa",
+      "name_zh": "90式35毫米牽引高炮",
+      "designation": "Type 90-35",
+      "category": "weapon"
+    },
+    {
+      "id": "hj-9a",
+      "name_zh": "紅箭-9A反坦克導彈",
+      "designation": "HJ-9A",
+      "category": "vehicle"
+    },
+    {
+      "id": "pf-89a",
+      "name_zh": "89A式單兵火箭筒",
+      "designation": "PF-89A",
+      "category": "vehicle"
+    },
+    {
+      "id": "hn-6",
+      "name_zh": "紅纓-6便攜防空導彈",
+      "designation": "HN-6",
+      "category": "vehicle"
+    },
+    {
+      "id": "qw-1m",
+      "name_zh": "前衛-1M便攜防空導彈",
+      "designation": "QW-1M",
+      "category": "vehicle"
+    },
+    {
+      "id": "fb-6a",
+      "name_zh": "FB-6A車載近程防空系統",
+      "designation": "FB-6A",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-84a-avlb",
+      "name_zh": "84A式坦克架橋車",
+      "designation": "Type 84A",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-653-arv",
+      "name_zh": "653式坦克搶修車",
+      "designation": "Type 653",
+      "category": "vehicle"
+    },
+    {
+      "id": "type-99-arv",
+      "name_zh": "99式坦克搶修車",
+      "designation": "Type 99 ARV",
+      "category": "vehicle"
+    },
+    {
+      "id": "jy-8",
+      "name_zh": "JY-8對空情報雷達",
+      "designation": "JY-8",
+      "category": "equipment"
+    },
+    {
+      "id": "jy-9",
+      "name_zh": "JY-9低空補盲雷達",
+      "designation": "JY-9",
+      "category": "equipment"
+    },
+    {
+      "id": "jy-11",
+      "name_zh": "JY-11對空搜索雷達",
+      "designation": "JY-11",
+      "category": "equipment"
+    },
+    {
+      "id": "jy-14",
+      "name_zh": "JY-14遠程對空雷達",
+      "designation": "JY-14",
+      "category": "equipment"
+    },
+    {
+      "id": "jy-27a",
+      "name_zh": "JY-27A反隱身米波雷達",
+      "designation": "JY-27A",
+      "category": "equipment"
+    },
+    {
+      "id": "jy-26",
+      "name_zh": "JY-26反隱身預警雷達",
+      "designation": "JY-26",
+      "category": "equipment"
+    },
+    {
+      "id": "ylc-2",
+      "name_zh": "YLC-2三坐標雷達",
+      "designation": "YLC-2",
+      "category": "equipment"
+    },
+    {
+      "id": "ylc-4",
+      "name_zh": "YLC-4遠程警戒雷達",
+      "designation": "YLC-4",
+      "category": "equipment"
+    },
+    {
+      "id": "ylc-6",
+      "name_zh": "YLC-6低空雷達",
+      "designation": "YLC-6",
+      "category": "equipment"
+    },
+    {
+      "id": "ylc-8",
+      "name_zh": "YLC-8米波雷達",
+      "designation": "YLC-8",
+      "category": "equipment"
+    },
+    {
+      "id": "ylc-18",
+      "name_zh": "YLC-18三坐標雷達",
+      "designation": "YLC-18",
+      "category": "equipment"
+    },
+    {
+      "id": "ylc-20",
+      "name_zh": "YLC-20被動定位系統",
+      "designation": "YLC-20",
+      "category": "equipment"
+    },
+    {
+      "id": "ylc-29",
+      "name_zh": "YLC-29無源探測雷達",
+      "designation": "YLC-29",
+      "category": "equipment"
+    },
+    {
+      "id": "jyl-6",
+      "name_zh": "JYL-6中低空雷達",
+      "designation": "JYL-6",
+      "category": "equipment"
+    },
+    {
+      "id": "jl3d-90a",
+      "name_zh": "JL3D-90A三坐標雷達",
+      "designation": "JL3D-90A",
+      "category": "equipment"
+    },
+    {
+      "id": "ht-233",
+      "name_zh": "HT-233相控陣制導雷達",
+      "designation": "HT-233",
+      "category": "equipment"
+    },
+    {
+      "id": "slc-2e",
+      "name_zh": "SLC-2E炮兵定位雷達",
+      "designation": "SLC-2E",
+      "category": "equipment"
+    },
+    {
+      "id": "type-68-rifle",
+      "name_zh": "68式自動步槍",
+      "designation": "Type 68",
+      "category": "weapon"
+    },
+    {
+      "id": "type-cq",
+      "name_zh": "CQ 5.56毫米步槍",
+      "designation": "Type CQ",
+      "category": "weapon"
+    },
+    {
+      "id": "qbz-192",
+      "name_zh": "192式短突擊步槍",
+      "designation": "QBZ-192",
+      "category": "weapon"
+    },
+    {
+      "id": "js-9-smg",
+      "name_zh": "JS 9毫米衝鋒槍",
+      "designation": "JS 9mm",
+      "category": "weapon"
+    },
+    {
+      "id": "qjs-161",
+      "name_zh": "161式班用機槍",
+      "designation": "QJS-161",
+      "category": "weapon"
+    },
+    {
+      "id": "qbu-141",
+      "name_zh": "141式狙擊步槍",
+      "designation": "QBU-141",
+      "category": "weapon"
+    },
+    {
+      "id": "qbu-202",
+      "name_zh": "202式狙擊步槍",
+      "designation": "QBU-202",
+      "category": "weapon"
+    },
+    {
+      "id": "m99-amr",
+      "name_zh": "M99反器材步槍",
+      "designation": "M99",
+      "category": "weapon"
+    },
+    {
+      "id": "qx-04",
+      "name_zh": "QX-04手槍",
+      "designation": "QX-04",
+      "category": "weapon"
+    },
+    {
+      "id": "pf-97",
+      "name_zh": "97式雲爆火箭筒",
+      "designation": "PF-97",
+      "category": "weapon"
+    }
+  ],
+  "tiny": [
+    {
+      "id": "su-35",
+      "name_zh": "蘇-35S 戰鬥機",
+      "designation": "Su-35S",
+      "category": "vehicle",
+      "size": 22963
+    },
+    {
+      "id": "su-27ubk",
+      "name_zh": "蘇-27UBK 雙座",
+      "designation": "Su-27UBK",
+      "category": "vehicle",
+      "size": 18834
+    },
+    {
+      "id": "h-6k",
+      "name_zh": "轟-6K 轟炸機",
+      "designation": "H-6K",
+      "category": "vehicle",
+      "size": 16869
+    },
+    {
+      "id": "type-053h2g",
+      "name_zh": "053H2G型護衛艦（江衛I級）",
+      "designation": "Type 053H2G",
+      "category": "vehicle",
+      "size": 7406
+    },
+    {
+      "id": "type-053h1g",
+      "name_zh": "053H1G型護衛艦（江湖V級）",
+      "designation": "Type 053H1G",
+      "category": "vehicle",
+      "size": 6344
+    },
+    {
+      "id": "type-053h",
+      "name_zh": "053H型護衛艦（江湖I級）",
+      "designation": "Type 053H",
+      "category": "vehicle",
+      "size": 8381
+    },
+    {
+      "id": "type-037is",
+      "name_zh": "037IS型獵潛艇（海青級）",
+      "designation": "Type 037IS",
+      "category": "vehicle",
+      "size": 5738
+    },
+    {
+      "id": "type-904",
+      "name_zh": "904型補給艦（大運級）",
+      "designation": "Type 904",
+      "category": "vehicle",
+      "size": 4635
+    },
+    {
+      "id": "ptl-02",
+      "name_zh": "PTL-02 輪式突擊砲",
+      "designation": "PTL-02",
+      "category": "vehicle",
+      "size": 9695
+    },
+    {
+      "id": "sh-15",
+      "name_zh": "SH-15 155mm 車載榴彈砲",
+      "designation": "SH-15",
+      "category": "vehicle",
+      "size": 21430
+    },
+    {
+      "id": "df-4",
+      "name_zh": "東風-4 遠程彈道飛彈（歷史）",
+      "designation": "DF-4",
+      "category": "weapon",
+      "size": 21157
+    },
+    {
+      "id": "yj-18b",
+      "name_zh": "鷹擊-18B 潛射反艦飛彈",
+      "designation": "YJ-18B",
+      "category": "weapon",
+      "size": 20821
+    },
+    {
+      "id": "hpj-38",
+      "name_zh": "H/PJ-38 型 130mm 艦炮",
+      "designation": "H/PJ-38",
+      "category": "weapon",
+      "size": 20449
+    },
+    {
+      "id": "z-9d",
+      "name_zh": "直-9D反艦直升機",
+      "designation": "Z-9D",
+      "category": "vehicle",
+      "size": 11222
+    },
+    {
+      "id": "bzk-007",
+      "name_zh": "BZK-007偵察無人機",
+      "designation": "BZK-007",
+      "category": "vehicle",
+      "size": 3200
+    },
+    {
+      "id": "type-60-122",
+      "name_zh": "60式122毫米加農炮",
+      "designation": "Type 60",
+      "category": "weapon",
+      "size": 18258
+    },
+    {
+      "id": "type-67-82",
+      "name_zh": "67式82毫米迫擊炮",
+      "designation": "Type 67-82",
+      "category": "weapon",
+      "size": 21470
+    }
+  ]
+}

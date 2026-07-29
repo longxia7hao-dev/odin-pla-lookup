@@ -1,0 +1,299 @@
+{
+  "asn-209": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:ASN-209",
+      "zh:ASN-209",
+      "commons:ASN-209",
+      "zh:ASN-209 侦察无人机"
+    ]
+  },
+  "cs-sm1": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:CS/SM1",
+      "zh:CS/SM1",
+      "commons:CS/SM1",
+      "zh:CS/SM1 120mm迫击炮系統"
+    ]
+  },
+  "df-21c": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:DF-21",
+      "zh:东风-21",
+      "commons:DF-21",
+      "en:DF-21C",
+      "commons:DF-21C",
+      "zh:DF-21C",
+      "en:DF-21C MRBM",
+      "commons:DF-21C MRBM"
+    ]
+  },
+  "df-27": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:DF-27",
+      "zh:东风-27",
+      "commons:DF-27",
+      "zh:DF-27",
+      "en:DF-27 Ballistic Missile",
+      "commons:DF-27 Ballistic Missile",
+      "zh:东风-27 弹道飞弹"
+    ]
+  },
+  "fb-6c": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:FN-6",
+      "zh:飞弩-6",
+      "en:FB-6C",
+      "commons:FB-6C",
+      "zh:FB-6C",
+      "zh:FB-6C 便攜/车载防空"
+    ]
+  },
+  "hj-11": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:HJ-11",
+      "zh:红箭-11",
+      "commons:HJ-11",
+      "zh:HJ-11",
+      "en:HJ-11 ATGM",
+      "commons:HJ-11 ATGM",
+      "zh:红箭-11 反战车飞弹"
+    ]
+  },
+  "ls-500j": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "zh:雷石制导炸弹",
+      "en:LS-6 bomb",
+      "en:LS-500J",
+      "commons:LS-500J",
+      "zh:LS-500J",
+      "en:LS-500J guided bomb",
+      "commons:LS-500J guided bomb",
+      "zh:雷石-500J 制导炸弹"
+    ]
+  },
+  "pcl-181": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:PCL-181",
+      "zh:PCL-181",
+      "commons:SH-15 howitzer",
+      "en:SH-15 howitzer",
+      "commons:PCL-181",
+      "zh:PCL-181 155mm车载加榴炮"
+    ]
+  },
+  "pgz-04a": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:PGZ-04A",
+      "zh:PGZ-04A",
+      "commons:PGZ-04",
+      "commons:PGZ-04A",
+      "zh:PGZ-04A 自行高炮"
+    ]
+  },
+  "phl-11": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:PHL-11",
+      "zh:PHL-11",
+      "commons:PHL-11",
+      "en:PHL-11 MLRS",
+      "commons:PHL-11 MLRS",
+      "zh:PHL-11 122mm 火箭炮"
+    ]
+  },
+  "pl-11": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:PL-11",
+      "zh:霹雳-11",
+      "commons:PL-11",
+      "zh:PL-11",
+      "en:PL-11 SARH AAM",
+      "commons:PL-11 SARH AAM",
+      "zh:霹雳-11 半主動空對空飞弹"
+    ]
+  },
+  "pl-17": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:PL-17",
+      "zh:霹雳-17",
+      "commons:PL-17 missile",
+      "commons:PL-17",
+      "zh:PL-17",
+      "zh:霹雳-17 超远程空對空飞弹"
+    ]
+  },
+  "pl-21": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:PL-21",
+      "zh:霹雳-21",
+      "commons:PL-21",
+      "zh:PL-21",
+      "en:PL-21 ramjet BVR AAM",
+      "commons:PL-21 ramjet BVR AAM",
+      "zh:霹雳-21 冲壓远程空對空飞弹"
+    ]
+  },
+  "pll-01": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:PLL-01",
+      "zh:PLL-01",
+      "commons:PLL-01",
+      "zh:PLL-01 100mm突击炮"
+    ]
+  },
+  "pp-89": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "zh:100毫米迫击炮",
+      "en:Type 89 mortar",
+      "en:PP-89",
+      "commons:PP-89",
+      "zh:PP-89",
+      "en:PP-89 Mortar",
+      "commons:PP-89 Mortar",
+      "zh:PP-89 100mm迫击炮"
+    ]
+  },
+  "qlg-10": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:QLG-10",
+      "zh:QLG-10",
+      "commons:QLG-10",
+      "en:QLG-10 Underbarrel GL",
+      "commons:QLG-10 Underbarrel GL",
+      "zh:QLG-10 枪榴弹发射器"
+    ]
+  },
+  "type-024": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:Type 024 missile boat",
+      "zh:024型导弹艇",
+      "en:Type 024",
+      "commons:Type 024",
+      "zh:Type 024",
+      "en:Type 024 Hegu-class",
+      "commons:Type 024 Hegu-class",
+      "zh:024型飞弹艇"
+    ]
+  },
+  "type-909": {
+    "ok": true,
+    "source": "wikipedia_zh",
+    "title": "909型綜合試驗艦",
+    "file": "Naval Ensign of China.svg",
+    "query": "909型试验舰",
+    "path": "assets/images/type-909.jpg",
+    "bytes": 42674
+  },
+  "w85-hmg": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:W85 heavy machine gun",
+      "zh:W85高射机枪",
+      "en:W85",
+      "commons:W85",
+      "zh:W85",
+      "en:W85 heavy MG",
+      "commons:W85 heavy MG",
+      "zh:W85 12.7mm 高射机枪"
+    ]
+  },
+  "yj-12b": {
+    "ok": true,
+    "source": "wikipedia_zh",
+    "title": "鹰击12反舰导弹",
+    "file": "YJ-12A anti-ship missile launcher.png",
+    "query": "鹰击-12B 岸舰飞弹",
+    "path": "assets/images/yj-12b.jpg",
+    "bytes": 19098
+  },
+  "yu-6": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:Yu-6 torpedo",
+      "zh:鱼-6鱼雷",
+      "en:Yu-6",
+      "commons:Yu-6",
+      "zh:Yu-6",
+      "en:Yu-6 Torpedo",
+      "commons:Yu-6 Torpedo",
+      "zh:鱼-6 重型鱼雷"
+    ]
+  },
+  "yu-7": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:Yu-7 torpedo",
+      "zh:鱼-7鱼雷",
+      "en:Yu-7",
+      "commons:Yu-7",
+      "zh:Yu-7",
+      "en:Yu-7 Torpedo",
+      "commons:Yu-7 Torpedo",
+      "zh:鱼-7 轻型鱼雷"
+    ]
+  },
+  "zbd-08": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:Type 08",
+      "zh:ZBL-08",
+      "zh:08式装甲车族",
+      "commons:ZBL-08",
+      "en:ZBD-08",
+      "commons:ZBD-08",
+      "zh:ZBD-08",
+      "en:ZBD-08 IFV"
+    ]
+  },
+  "gcl-111": {
+    "ok": false,
+    "reason": "no_match",
+    "queries": [
+      "en:Type 84 AVLB",
+      "zh:84式坦克架桥车",
+      "commons:bridge layer tank China",
+      "en:GCL-111",
+      "commons:GCL-111",
+      "zh:GCL-111",
+      "en:GCL-111 Bridgelayer",
+      "commons:GCL-111 Bridgelayer"
+    ]
+  }
+}

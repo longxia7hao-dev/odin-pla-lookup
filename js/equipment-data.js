@@ -1971,7 +1971,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Mortars",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/pp-89.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -1988,7 +1988,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：PP-89",
         "url": "https://en.wikipedia.org/wiki/PP-89"
       }
-    ]
+    ],
+    "image_credit": "图片来自百科/公开页《PP89式100毫米迫击炮》（教育参考）"
   },
   {
     "id": "w86-120",
@@ -3563,7 +3564,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "PCL-181",
-    "image": "",
+    "image": "assets/images/pcl-181.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "PCL-181 (export SH-15 related)",
     "dod_class": "Wheeled self-propelled howitzer",
@@ -3582,7 +3583,7 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "車載榴彈砲：6×6 卡車底盤＋裝甲駕駛室，砲直接架在車尾平台（無砲塔），射擊時放下大型駐鋤。",
-    "image_credit": "图片来自百度百科《SH-15型155毫米车载加榴炮》（教育参考）"
+    "image_credit": "图片来自百科/公开页《SH-15型155毫米车载加榴炮》（教育参考）"
   },
   {
     "id": "pcl-171",
@@ -14249,7 +14250,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "ATGM",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/ba-9.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -14266,7 +14267,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：藍箭-7／藍箭-9",
         "url": "https://en.wikipedia.org/wiki/Blue_Arrow_7"
       }
-    ]
+    ],
+    "image_credit": "图片来自百科/公开页《AKD-9》（教育参考）"
   },
   {
     "id": "ty-90",
@@ -14409,7 +14411,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Munitions",
     "wiki": "",
-    "image": "",
+    "image": "assets/images/ft-series.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -14426,7 +14428,8 @@ window.EQUIPMENT_DATA = [
         "label": "維基百科：彩虹無人機（FT/GB 武器）",
         "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
       }
-    ]
+    ],
+    "image_credit": "图片来自百科/公开页《飞腾精确制导炸弹 site:baike.sogou.com - 搜狗搜索》（教育参考）"
   },
   {
     "id": "gb-series",
@@ -14677,7 +14680,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "DF-27",
-    "image": "",
+    "image": "assets/images/df-27.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "火箭軍",
@@ -14690,7 +14693,8 @@ window.EQUIPMENT_DATA = [
         "label": "FAS／DoD China Military Power Report 2024",
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
-    ]
+    ],
+    "image_credit": "图片来自百科/公开页《东风-27远程弹道导弹》（教育参考）"
   },
   {
     "id": "df-11a",
@@ -16118,7 +16122,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "大型海警巡防船（CG cutter）",
     "form_en": "",
     "wiki": "Zhaotou-class patrol vessel",
-    "image": "",
+    "image": "assets/images/type-818.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16127,7 +16131,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百科/公开页《818型巡逻舰》（教育参考）"
   },
   {
     "id": "type-718b",
@@ -17710,7 +17715,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "多功能對空監視雷達（L 波段）",
     "form_en": "",
     "wiki": "SLC-7",
-    "image": "",
+    "image": "assets/images/slc-7.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17720,7 +17725,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百科/公开页《SLC-7型L波段三坐标警戒雷达》（教育参考）"
   },
   {
     "id": "slc-2",
@@ -17852,7 +17858,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "低空補盲雷達",
     "form_en": "",
     "wiki": "Type 305A radar",
-    "image": "",
+    "image": "assets/images/type-120-radar.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17862,7 +17868,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百科/公开页《K/LLQ-120雷达》（教育参考）"
   },
   {
     "id": "dwl-002",
@@ -18039,7 +18046,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中距空對空飛彈（SARH）",
     "form_en": "",
     "wiki": "PL-11",
-    "image": "",
+    "image": "assets/images/pl-11.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -18049,7 +18056,8 @@ window.EQUIPMENT_DATA = [
     ],
     "branch_hint": "空軍",
     "authority_verified": true,
-    "branch": "空軍"
+    "branch": "空軍",
+    "image_credit": "图片来自百科/公开页《霹雳-11空空导弹》（教育参考）"
   },
   {
     "id": "pl-21",
@@ -19164,7 +19172,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "小型飛彈艇（舊式）",
     "form_en": "",
     "wiki": "Type 024 missile boat",
-    "image": "",
+    "image": "assets/images/type-024.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19173,7 +19181,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "海軍"
+    "branch": "海軍",
+    "image_credit": "图片来自百科/公开页《河谷级导弹快艇》（教育参考）"
   },
   {
     "id": "type-909",
@@ -19831,7 +19840,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引式高射砲（雙37mm）",
     "form_en": "",
     "wiki": "Type 65 anti-aircraft gun",
-    "image": "",
+    "image": "assets/images/type-65-aaa.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19840,7 +19849,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百科/公开页《65式37毫米双管高射炮》（教育参考）"
   },
   {
     "id": "type-74-aaa",
@@ -19877,7 +19887,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "牽引式高射砲（雙37mm）",
     "form_en": "",
     "wiki": "Type 74 anti-aircraft gun",
-    "image": "",
+    "image": "assets/images/type-74-aaa.jpg",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19886,7 +19896,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "authority_verified": true,
-    "branch": "陸軍"
+    "branch": "陸軍",
+    "image_credit": "图片来自百科/公开页《74式37毫米双管高射炮》（教育参考）"
   },
   {
     "id": "type-77-hmg",

@@ -2580,7 +2580,9 @@
       "crew": "6",
       "range_m": "20 km（火箭增程 53 km）",
       "rate_of_fire": "4–6 發/分",
-      "recog": "車載榴彈砲：6×6 卡車底盤＋裝甲駕駛室，砲直接架在車尾平台（無砲塔），射擊時放下大型駐鋤。"
+      "recog": "車載榴彈砲：6×6 卡車底盤＋裝甲駕駛室，砲直接架在車尾平台（無砲塔），射擊時放下大型駐鋤。",
+      "image": "assets/images/pcl-181.jpg",
+      "image_credit": "图片来自百科/公开页《SH-15型155毫米车载加榴炮》（教育参考）"
     },
     "zbl-08": {
       "weight_kg": "約 21 噸（族 15–25 噸）",
@@ -3760,7 +3762,9 @@
           "label": "FAS／DoD China Military Power Report 2024",
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
-      ]
+      ],
+      "image": "assets/images/df-27.jpg",
+      "image_credit": "图片来自百科/公开页《东风-27远程弹道导弹》（教育参考）"
     },
     "type-63a": {
       "caliber": "105mm 線膛砲（雙穩）",
@@ -3994,7 +3998,9 @@
           "label": "維基百科：PP-89",
           "url": "https://en.wikipedia.org/wiki/PP-89"
         }
-      ]
+      ],
+      "image": "assets/images/pp-89.jpg",
+      "image_credit": "图片来自百科/公开页《PP89式100毫米迫击炮》（教育参考）"
     },
     "zsd-63": {
       "caliber": "12.7mm 重機槍",
@@ -4249,7 +4255,9 @@
           "label": "維基百科：彩虹無人機（FT/GB 武器）",
           "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
         }
-      ]
+      ],
+      "image": "assets/images/ft-series.jpg",
+      "image_credit": "图片来自百科/公开页《飞腾精确制导炸弹 site:baike.sogou.com - 搜狗搜索》（教育参考）"
     },
     "gb-series": {
       "caliber": "精確導引炸彈族",
@@ -4273,7 +4281,9 @@
           "label": "維基百科：藍箭-7／藍箭-9",
           "url": "https://en.wikipedia.org/wiki/Blue_Arrow_7"
         }
-      ]
+      ],
+      "image": "assets/images/ba-9.jpg",
+      "image_credit": "图片来自百科/公开页《AKD-9》（教育参考）"
     },
     "cx-1": {
       "caliber": "超音速反艦飛彈（出口）",
@@ -4767,7 +4777,10 @@
       "recog": "54式手槍：套筒方正平直、握把有直紋、無外露擊錘護罩；源自蘇聯 TT-33，與 59 式（馬卡洛夫，圓潤）外形明顯不同。"
     },
     "type-051dt": {},
-    "slc-7": {},
+    "slc-7": {
+      "image": "assets/images/slc-7.jpg",
+      "image_credit": "图片来自百科/公开页《SLC-7型L波段三坐标警戒雷达》（教育参考）"
+    },
     "type-026": {
       "image": "assets/images/type-026.jpg",
       "image_credit": "图片来自百度百科《026型鱼雷艇》（教育参考）",
@@ -4824,7 +4837,9 @@
           "label": "百度百科：机械变异体024",
           "url": "https://baike.baidu.com/item/%E6%9C%BA%E6%A2%B0%E5%8F%98%E5%BC%82%E4%BD%93024"
         }
-      ]
+      ],
+      "image": "assets/images/type-024.jpg",
+      "image_credit": "图片来自百科/公开页《河谷级导弹快艇》（教育参考）"
     },
     "y-8g": {
       "image": "assets/images/y-8g.jpg",
@@ -4879,7 +4894,9 @@
           "label": "百度百科：G818次列车",
           "url": "https://baike.baidu.com/item/G818%E6%AC%A1%E5%88%97%E8%BD%A6"
         }
-      ]
+      ],
+      "image": "assets/images/type-818.jpg",
+      "image_credit": "图片来自百科/公开页《818型巡逻舰》（教育参考）"
     },
     "hj-73": {
       "image": "assets/images/hj-73.jpg",
@@ -5003,7 +5020,9 @@
           "label": "百度百科：高射炮",
           "url": "https://baike.baidu.com/item/%E9%AB%98%E5%B0%84%E7%82%AE"
         }
-      ]
+      ],
+      "image": "assets/images/type-65-aaa.jpg",
+      "image_credit": "图片来自百科/公开页《65式37毫米双管高射炮》（教育参考）"
     },
     "hpj-26": {
       "image": "assets/images/hpj-26.jpg",
@@ -5046,7 +5065,9 @@
           "label": "百度百科：高射炮",
           "url": "https://baike.baidu.com/item/%E9%AB%98%E5%B0%84%E7%82%AE"
         }
-      ]
+      ],
+      "image": "assets/images/type-74-aaa.jpg",
+      "image_credit": "图片来自百科/公开页《74式37毫米双管高射炮》（教育参考）"
     },
     "type-055a": {
       "image": "assets/images/type-055a.jpg",
@@ -5241,7 +5262,10 @@
       "image": "assets/images/sh-15.jpg",
       "image_credit": "图片来自百度百科《SH-15型155毫米车载加榴炮》（教育参考）"
     },
-    "pl-11": {},
+    "pl-11": {
+      "image": "assets/images/pl-11.jpg",
+      "image_credit": "图片来自百科/公开页《霹雳-11空空导弹》（教育参考）"
+    },
     "yuanwang": {
       "image": "assets/images/yuanwang.jpg",
       "recog": "航天遠洋測量船：船身白色、甲板上有 2～3 座巨大的白色球形／碟形測控天線罩，外形像海上天文台，全球僅少數國家擁有。"
@@ -5856,7 +5880,10 @@
       "image": "assets/images/jy-27.jpg",
       "image_credit": "图片来自百度百科《JY-27雷达》（教育参考）"
     },
-    "type-120-radar": {},
+    "type-120-radar": {
+      "image": "assets/images/type-120-radar.jpg",
+      "image_credit": "图片来自百科/公开页《K/LLQ-120雷达》（教育参考）"
+    },
     "dwl-002": {
       "image": "assets/images/dwl-002.jpg",
       "image_credit": "图片来自百度百科《DWL002雷达》（教育参考）"
