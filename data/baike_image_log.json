@@ -1,1068 +1,939 @@
 {
-  "zbd-08": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "08式輪式步戰車"
-  },
-  "pll-09": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['PLL-09', '122MM'] vs 09式122毫米车载榴弹炮",
-    "title": "09式122毫米车载榴弹炮",
-    "name_zh": "PLL-09 122mm輪式自走砲"
-  },
-  "zsl-10": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['ZSL-10'] vs AMX-10RC轮式侦察车",
-    "title": "AMX-10RC轮式侦察车",
-    "name_zh": "10式輪式裝甲車"
-  },
-  "plz-89": {
-    "ok": true,
-    "query": "PLZ-89",
-    "title": "PLZ89式122mm自行榴弹炮",
-    "desc": "89型122毫米自行榴弹炮",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/e865a6997b497a376e068cad-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/plz-89.jpg",
-    "source": "baike_suggest"
-  },
-  "pcl-181": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "PCL-181"
-  },
-  "pcl-171": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "PCL-171 輕型突擊車"
-  },
-  "pcl-161": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "PCL-161 122mm車載砲"
-  },
-  "phz-11": {
-    "ok": false,
-    "reason": "strict_reject:junk:SLC11A1基因剪接体在微量元素稳态代谢中的作用及分子机制研究 青年科学基金项",
-    "title": "SLC11A1基因剪接体在微量元素稳态代谢中的作用及分子机制研究",
-    "name_zh": "PHZ-11 122mm多管火箭"
-  },
-  "phl-81": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "PHL-81 122mm火箭砲"
-  },
-  "pgz-95": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['PGZ-95', '25MM', '95'] vs 自行高炮",
-    "title": "自行高炮",
-    "name_zh": "PGZ-95 25mm自行高砲"
-  },
-  "pgz-04a": {
-    "ok": true,
-    "query": "PGZ-04A自行高炮",
-    "title": "PGZ-04A自行防空系统",
-    "desc": "北方工业公司研发的防空系统",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/279759ee3d6d55fbe059973262224f4a20a4dd03-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/pgz-04a.jpg",
-    "source": "baike_suggest"
-  },
-  "ld-2000": {
-    "ok": true,
-    "query": "LD200",
-    "title": "“陆盾”2000(LD2000)型近程防空武器系统",
-    "desc": "陆上自行防空武器",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/023b5bb5c9ea15ce36d3f233ae592df33a87e95014ca?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/ld-2000.jpg",
-    "source": "baike_suggest"
-  },
-  "j-11bg": {
-    "ok": true,
-    "query": "歼-11",
-    "title": "歼-11",
-    "desc": "2000年列装的一型单座双发多功能重型喷气式第三代战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb1349540923c6293a128558d109b3dedc70?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-11bg.jpg",
-    "source": "baike_manual"
-  },
-  "su-27ubk": {
-    "ok": true,
-    "query": "苏-27",
-    "title": "苏-27战斗机",
-    "desc": "苏联20世纪80年代研制单座双发重型战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/a5c27d1ed21b0ef44f822dc3ddc451da80cb3ec0-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/su-27ubk.jpg",
-    "source": "baike_manual"
-  },
-  "tb-001": {
-    "ok": true,
-    "query": "双尾蝎",
-    "title": "双尾蝎A无人机",
-    "desc": "三发模块化多用途大型无人机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/bf096b63f6246b600c33295e6aa40d4c510fd9f904de?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/tb-001.jpg",
-    "source": "baike_manual"
-  },
-  "asn-209": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "ASN-209 偵察無人機"
-  },
-  "ch-7": {
-    "ok": false,
-    "reason": "strict_reject:no mil context",
-    "title": "彩虹",
-    "name_zh": "彩虹-7 匿蹤無人機"
-  },
-  "type-055": {
-    "ok": true,
-    "query": "055型",
-    "title": "南昌号驱逐舰",
-    "desc": "中国研制建造的055型驱逐舰首舰（舷号101）",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/11385343fbf2b211345a1e1ac58065380cd78e6a?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-055.jpg",
-    "source": "baike_suggest"
-  },
-  "type-052dl": {
-    "ok": true,
-    "query": "052DL型驱逐舰",
-    "title": "包头舰",
-    "desc": "中国建造的052DL改进型导弹驱逐舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f703ba8948b01ffa513d269768ca?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-052dl.jpg",
-    "source": "baike_suggest"
-  },
-  "sovremenny": {
-    "ok": true,
-    "query": "现代级驱逐舰",
-    "title": "现代级驱逐舰",
-    "desc": "前苏联建造的水面作战舰艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec54e7e514bc72ae389b504ec23d8b?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/sovremenny.jpg",
-    "source": "baike_manual"
-  },
-  "type-054b": {
-    "ok": true,
-    "query": "054B型护卫舰",
-    "title": "054B型护卫舰",
-    "desc": "中国研制建造的导弹护卫舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/a1ec08fa513d269759ee8e1833a3a5fb43166d227267?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-054b.jpg",
-    "source": "baike_suggest"
-  },
-  "type-726": {
-    "ok": true,
-    "query": "726型氣墊登陆艇",
-    "title": "726型气垫登陆艇",
-    "desc": "中国上海江南造船厂建造的中型气垫船",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ecf4b6f27b75d0f703908f64ab?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-726.jpg",
-    "source": "baike_suggest"
-  },
-  "type-093": {
-    "ok": true,
-    "query": "093型核潜艇",
-    "title": "093型核潜艇",
-    "desc": "中国海军第二代核动力攻击潜艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/c83d70cf3bc79f3db4a8bc8eb2a1cd11738b29c6-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-093.jpg",
-    "source": "baike_manual"
-  },
-  "type-093b": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "093B型核潜艇"
-  },
-  "type-035": {
-    "ok": true,
-    "query": "035型潜艇",
-    "title": "035型潜艇",
-    "desc": "中国海军隶下的常规动力潜艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/ac345982b2b7d0a267cb33b6c8ef76094b369a9e-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-035.jpg",
-    "source": "baike_suggest"
-  },
-  "type-004-rumor": {
-    "ok": true,
-    "query": "004型航空母舰",
-    "title": "004型航空母舰",
-    "desc": "中国建造中的第四艘航空母舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/c9fcc3cec3fdfc039245088c01639094a4c27d1e88c8?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-004-rumor.jpg",
-    "source": "baike_suggest"
-  },
-  "gcl-111": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "GCL-111 架橋車"
-  },
-  "type-84-minelayer": {
-    "ok": false,
-    "reason": "The read operation timed out"
-  },
-  "pll-01": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['PLL-01', '100MM', '01'] vs 中国105毫米轮式自行突击炮",
-    "title": "中国105毫米轮式自行突击炮",
-    "name_zh": "PLL-01 100mm突擊砲"
-  },
-  "type-83-sph": {
-    "ok": true,
-    "query": "83式152mm自走炮",
-    "title": "83式152毫米自行加榴炮",
-    "desc": "中国自行加榴炮",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/8d5494eef01f3a292df5466f4e7fab315c6034a8d645?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-83-sph.jpg",
-    "source": "baike_suggest"
-  },
-  "a100": {
-    "ok": false,
-    "reason": "strict_reject:junk:MSN-100 百式 《机动战士高达》中的机体",
-    "title": "MSN-100 百式",
-    "name_zh": "A-100 遠程火箭（出口／相關）"
-  },
-  "sr5": {
-    "ok": true,
-    "query": "SR-5",
-    "title": "中国SR-5自行远程火箭炮",
-    "desc": "中国SR-5自行远程火箭炮",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/e824b899a9014c08d8607fc40c7b02087bf4f47c-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/sr5.jpg",
-    "source": "baike_suggest"
-  },
-  "pcz-171": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "PCZ-171 突擊車變型"
-  },
-  "kj-3000": {
-    "ok": true,
-    "query": "KJ-3000",
-    "title": "空警-3000",
-    "desc": "未被官方证实的中国第三代预警机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/37d12f2eb9389b504fc2c7a9dc6ef2dde71191efc08f?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/kj-3000.jpg",
-    "source": "baike_suggest"
-  },
-  "type-19-ifv": {
-    "ok": true,
-    "query": "19式轮式步兵战车",
-    "title": "步兵战车",
-    "desc": "装甲战斗车辆",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/dc54564e9258d109b3dea2f89f00dbbf6c81800ae77b?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-19-ifv.jpg",
-    "source": "baike_suggest"
-  },
-  "wz-9": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "無偵-9 神鷹 偵察無人機"
-  },
-  "type-053h2g": {
-    "ok": true,
-    "query": "安庆号护卫舰",
-    "title": "安庆号护卫舰",
-    "desc": "中国海军东海舰队的护卫舰",
-    "path": "assets/images/type-053h2g.jpg",
-    "source": "baike_manual"
-  },
-  "type-053h1g": {
-    "ok": true,
-    "query": "053H1G型护卫舰",
-    "title": "053H1G型护卫舰",
-    "desc": "中国研制建造的反舰型导弹护卫舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/a2cc7cd98d1001e91dde6e80b00e7bec55e7975a-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-053h1g.jpg",
-    "source": "baike_suggest"
-  },
-  "type-053h": {
-    "ok": true,
-    "query": "053H型护卫舰",
-    "title": "053H型护卫舰",
-    "desc": "20世纪70年代中国研制建造的反舰型导弹护卫舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/80cb39dbb6fd5266692812e4a318972bd407363a-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-053h.jpg",
-    "source": "baike_suggest"
-  },
-  "type-037is": {
-    "ok": true,
-    "query": "037IS型猎潜艇",
-    "title": "037IS型反潜护卫艇",
-    "desc": "上海求新造船厂制造的反潜护卫艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/dc54564e9258d109eacddd22da58ccbf6c814d77-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-037is.jpg",
-    "source": "baike_suggest"
-  },
-  "type-062": {
-    "ok": true,
-    "query": "062型炮艇",
-    "title": "062型护卫艇",
-    "desc": "中国062型护卫艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/0df431adcbef7609cc0046812ddda3cc7cd99ea1-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-062.jpg",
-    "source": "baike_suggest"
-  },
-  "type-021": {
-    "ok": false,
-    "reason": "HTTP Error 400: Bad Request"
-  },
-  "type-032": {
-    "ok": true,
-    "query": "032型潜艇",
-    "title": "032型潜艇",
-    "desc": "中国弹道导弹常规动力试验潜艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/7a899e510fb30f240df249a4c095d143ad4b0328-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-032.jpg",
-    "source": "baike_suggest"
-  },
-  "type-039c": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "039C型潜艇"
-  },
-  "type-092": {
-    "ok": true,
-    "query": "092型核潜艇",
-    "title": "092型战略导弹核潜艇",
-    "desc": "中国第一型战略核潜艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/64380cd7912397dda144f24aaadea5b7d0a20cf42972?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-092.jpg",
-    "source": "baike_manual"
-  },
-  "type-096": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['096'] vs 战略核潜艇",
-    "title": "战略核潜艇",
-    "name_zh": "096型戰略核潛艇（唐級，研發中）"
-  },
-  "type-904": {
-    "ok": true,
-    "query": "904型补给舰",
-    "title": "904b型补给舰",
-    "desc": "中国制造的补给舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/b17eca8065380cd7d0f9b6c1a644ad3459828132-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-904.jpg",
-    "source": "baike_suggest"
-  },
-  "type-905": {
-    "ok": true,
-    "query": "905型补给舰",
-    "title": "905型补给舰",
-    "desc": "中国海军隶下的一型综合补给舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/9e3df8dcd100baa1bd6d38484d10b912c9fc2efb-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-905.jpg",
-    "source": "baike_suggest"
-  },
-  "type-926": {
-    "ok": false,
-    "reason": "HTTP Error 400: Bad Request"
-  },
-  "type-636a": {
-    "ok": false,
-    "reason": "strict_reject:no mil context",
-    "title": "636A型测量船",
-    "name_zh": "636A型測量船"
-  },
-  "type-818": {
-    "ok": false,
-    "reason": "strict_reject:junk:G818次列车 江山站开往北京南站的高速动车组列车",
-    "title": "G818次列车",
-    "name_zh": "818型海警船（昭頭級）"
-  },
-  "type-718b": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "718B型海警巡邏船"
-  },
-  "z-8g": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['Z-8G', '8G'] vs 直-8",
-    "title": "直-8",
-    "name_zh": "直-8G 通用運輸直升機"
-  },
-  "z-19e": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "直-19E 偵察攻擊直升機"
-  },
-  "z-15": {
-    "ok": true,
-    "query": "直-15中型多用途直升机",
-    "title": "直-15",
-    "desc": "法国空客直升机公司研发的直升机",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/3812b31bb051f8197faf3948d9b44aed2e73e72e-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/z-15.jpg",
-    "source": "baike_suggest"
-  },
-  "q-5": {
-    "ok": true,
-    "query": "强-5",
-    "title": "强-5",
-    "desc": "中国研制第一型强击机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/cf1b9d16fdfaaf51f3ded1ec9e0983eef01f3a29cc69?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/q-5.jpg",
-    "source": "baike_manual"
-  },
-  "j-7e": {
-    "ok": true,
-    "query": "歼-7",
-    "title": "歼-7",
-    "desc": "中国20世纪60年代研制喷气式战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918f1fc75db6463d269759ee6fd1?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-7e.jpg",
-    "source": "baike_manual"
-  },
-  "j-8b": {
-    "ok": true,
-    "query": "歼-8",
-    "title": "歼-8",
-    "desc": "中国1969年研制第二代战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb4316b23b711637a4462309f776df?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-8b.jpg",
-    "source": "baike_manual"
-  },
-  "ch-3": {
-    "ok": false,
-    "reason": "strict_reject:no mil context",
-    "title": "彩虹",
-    "name_zh": "彩虹-3 察打無人機"
-  },
-  "wing-loong-10": {
-    "ok": true,
-    "query": "翼龙-10",
-    "title": "翼龙-10",
-    "desc": "航空工业自主研发的高空高速无人机系统",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/37d12f2eb9389b504fc247645c69f2dde71190efc0ca?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/wing-loong-10.jpg",
-    "source": "baike_manual"
-  },
-  "wz-5": {
-    "ok": true,
-    "query": "WZ-5",
-    "title": "WZ523轮式装甲车",
-    "desc": "中国研制的6轮式装甲运兵车",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/b03533fa828ba61e68b91f504e34970a304e597e-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/wz-5.jpg",
-    "source": "baike_suggest"
-  },
-  "y-8g": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "運-8G 電子戰機"
-  },
-  "y-9g": {
-    "ok": false,
-    "reason": "strict_reject:junk:韶山9G型电力机车 客运电力机车",
-    "title": "韶山9G型电力机车",
-    "name_zh": "運-9G 電子戰機"
-  },
-  "type-80": {
-    "ok": true,
-    "query": "80式主战坦克",
-    "title": "80式主战坦克",
-    "desc": "第二代主战坦克",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/d31b0ef41bd5ad6eddc47d8e10972edbb6fd52669619?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-80.jpg",
-    "source": "baike_suggest"
-  },
-  "ptl-02": {
-    "ok": true,
-    "query": "PTL-02轮式突击炮",
-    "title": "PTL-02轮式突击炮",
-    "desc": "自行轮式反坦克火炮",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/6d81800a19d8bc3e2a5d3b2a888ba61ea9d345fc-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/ptl-02.jpg",
-    "source": "baike_suggest"
-  },
-  "plz-52": {
-    "ok": true,
-    "query": "PLZ-52",
-    "title": "155mm自行榴弹炮",
-    "desc": "中国研制的自行榴弹炮",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/0b55b319ebc4b74500912ebac1fc1e178a821510-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/plz-52.jpg",
-    "source": "baike_suggest"
-  },
-  "sh-15": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "SH-15 155mm 車載榴彈砲"
-  },
-  "phl-11": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "PHL-11 122mm 火箭砲"
-  },
-  "gsl-131": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "GSL-131 掃雷破障車"
-  },
-  "gcz-112": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "GCZ-112 裝甲工程車"
-  },
-  "type-84-bridge": {
-    "ok": true,
-    "query": "84式坦克",
-    "title": "84式坦克架桥车",
-    "desc": "中国在79式中型坦克底盘的基础上发展出来的变型车",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/6c224f4a20a44623d83cf8c39a22720e0df3d799-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-84-bridge.jpg",
-    "source": "baike_suggest"
-  },
-  "type-654-arv": {
-    "ok": false,
-    "reason": "strict_reject:junk:二战德国陆军第654重装甲歼击营官方战史（中册） 2015年吉林文史出版社出版的",
-    "title": "二战德国陆军第654重装甲歼击营官方战史（中册）",
-    "name_zh": "654式裝甲搶救車"
-  },
-  "type-053h1": {
-    "ok": true,
-    "query": "053H1型护卫舰",
-    "title": "053H1型护卫舰",
-    "desc": "改进型护卫舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/bd3eb13533fa828ba61ea39271435634970a304eec34?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-053h1.jpg",
-    "source": "baike_suggest"
-  },
-  "type-024": {
-    "ok": false,
-    "reason": "strict_reject:junk:机械变异体024 日本特摄剧《假面骑士Drive》中的角色",
-    "title": "机械变异体024",
-    "name_zh": "024型飛彈艇（河谷級）"
-  },
-  "type-909": {
-    "ok": false,
-    "reason": "strict_reject:junk:博世909 博世品牌的GSM手机",
-    "title": "博世909",
-    "name_zh": "909型試驗艦（畢昇級）"
-  },
-  "type-925": {
-    "ok": false,
-    "reason": "HTTP Error 400: Bad Request"
-  },
-  "type-095": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['095'] vs 核潜艇",
-    "title": "核潜艇",
-    "name_zh": "095型攻擊核潛艇（研發中）"
-  },
-  "type-039b": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "039B型潜艇"
-  },
-  "h-6d": {
-    "ok": true,
-    "query": "轰-6",
-    "title": "轰-6",
-    "desc": "1959年参照前苏联中型喷气图-16轰炸机研制的轰炸机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/b3b7d0a20cf431adcbef6734036dbbaf2edda3cc3231?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/h-6d.jpg",
-    "source": "baike_manual"
-  },
-  "ch-6": {
-    "ok": false,
-    "reason": "no_match",
-    "name_zh": "彩虹-6 高空長航時無人機"
-  },
-  "pgz-88": {
-    "ok": false,
-    "reason": "strict_reject:junk:德国88毫米FLAK高炮 武器装备",
-    "title": "德国88毫米FLAK高炮",
-    "name_zh": "88式自行高射砲"
-  },
-  "type-65-aaa": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['37MM'] vs 高射炮",
-    "title": "高射炮",
-    "name_zh": "65式 37mm 高射砲"
-  },
-  "type-74-aaa": {
-    "ok": false,
-    "reason": "strict_reject:token miss ['37MM'] vs 高射炮",
-    "title": "高射炮",
-    "name_zh": "74式雙 37mm 高射砲"
-  },
-  "type-054a": {
-    "ok": true,
-    "query": "054A型护卫舰",
-    "title": "054A型护卫舰",
-    "desc": "中国研制建造的导弹护卫舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/09fa513d269759ee3d6d755348a754166d224e4a71ac?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-054a.jpg",
-    "source": "baike_manual"
-  },
-  "type-052d": {
-    "ok": true,
-    "query": "052D型驱逐舰",
-    "title": "052D型驱逐舰",
-    "desc": "中国海军现役导弹驱逐舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/08f790529822720e0cf3302a44971d46f21fbf097d94?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-052d.jpg",
-    "source": "baike_manual"
-  },
-  "type-051": {
-    "ok": true,
-    "query": "051型驱逐舰",
-    "title": "051型驱逐舰",
-    "desc": "中国研制的导弹驱逐舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1b196f12a0b851f3deb48fc87d?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-051.jpg",
-    "source": "baike_manual"
-  },
-  "type-051b": {
-    "ok": true,
-    "query": "051B型驱逐舰",
-    "title": "051B型驱逐舰",
-    "desc": "多用途导弹驱逐舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/8718367adab44aed0a2d62a8b11c8701a18bfb1f-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-051b.jpg",
-    "source": "baike_manual"
-  },
-  "type-051c": {
-    "ok": true,
-    "query": "051C型驱逐舰",
-    "title": "051C型驱逐舰",
-    "desc": "大型防空导弹驱逐舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/3bf33a87e950352ac65c14c61116ecf2b21192131dfa?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-051c.jpg",
-    "source": "baike_manual"
-  },
-  "type-052b": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "052B型驱逐舰"
-  },
-  "type-052c": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "052C型驱逐舰"
-  },
-  "type-053h3": {
-    "ok": true,
-    "query": "053H3型护卫舰",
-    "title": "053H3型护卫舰",
-    "desc": "中国053H3型护卫舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/dbb44aed2e738bd40bb1d6bea98b87d6267ff9a9-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-053h3.jpg",
-    "source": "baike_manual"
-  },
-  "type-056": {
-    "ok": true,
-    "query": "056型护卫舰",
-    "title": "056型护卫舰",
-    "desc": "中国研制的多用途轻型护卫舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f0708283833e23a7caf99a9014d085482?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-056.jpg",
-    "source": "baike_manual"
-  },
-  "type-056a": {
-    "ok": true,
-    "query": "056A型护卫舰",
-    "title": "056A型护卫舰",
-    "desc": "中国自行研制生产的新一代轻型护卫舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b74543a9cf1958a609178a82b901bf30?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-056a.jpg",
-    "source": "baike_manual"
-  },
-  "type-071": {
-    "ok": true,
-    "query": "071型船坞登陆舰",
-    "title": "071型船坞登陆舰",
-    "desc": "两栖船坞登陆舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/bf096b63f6246b600c33f4df57b70d4c510fd9f90442?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-071.jpg",
-    "source": "baike_manual"
-  },
-  "type-075": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "075型两栖攻击舰"
-  },
-  "type-039": {
-    "ok": true,
-    "query": "039型潜艇",
-    "title": "039型潜艇",
-    "desc": "中国自行设计建造的第二代常规动力潜艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/ae51f3deb48f8c5456bb378930292df5e0fe7f28-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-039.jpg",
-    "source": "baike_manual"
-  },
-  "type-039a": {
-    "ok": true,
-    "query": "039A型潜艇",
-    "title": "元级潜艇",
-    "desc": "中国海军一型常规动力潜艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/0b55b319ebc4b745a9ec8b9ac5fc1e178b8215c5-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-039a.jpg",
-    "source": "baike_manual"
-  },
-  "type-091": {
-    "ok": true,
-    "query": "091型核潜艇",
-    "title": "091型攻击核潜艇",
-    "desc": "中国第一代攻击型核潜艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/58ee3d6d55fbb2fb2087a4b5454a20a44723dced-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-091.jpg",
-    "source": "baike_manual"
-  },
-  "type-094": {
-    "ok": true,
-    "query": "094型核潜艇",
-    "title": "094型战略核潜艇",
-    "desc": "中国海军隶下核动力弹道导弹潜艇",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/63d0f703918fa0ec720efcac2e9759ee3c6ddb42-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-094.jpg",
-    "source": "baike_manual"
-  },
-  "kilo-636": {
-    "ok": true,
-    "query": "基洛级潜艇",
-    "title": "基洛级潜艇",
-    "desc": "常规潜艇的北约代号",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/37d3d539b6003af33a87120b7d73d15c10385343181c?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/kilo-636.jpg",
-    "source": "baike_manual"
-  },
-  "type-003": {
-    "ok": true,
-    "query": "福建舰",
-    "title": "中国人民解放军海军福建舰",
-    "desc": "中国自主设计建造的首艘弹射型航空母舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/b3119313b07eca8065386ade797f80dda144ad3425cf?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-003.jpg",
-    "source": "baike_manual"
-  },
-  "type-001": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "辽宁舰"
-  },
-  "type-002": {
-    "ok": false,
-    "reason": "bad_title:中国船舶集团“山东舰”总体研制团队",
-    "prev": "中国船舶集团“山东舰”总体研制团队"
-  },
-  "j-20": {
-    "ok": true,
-    "query": "歼-20",
-    "title": "歼-20",
-    "desc": "中国2018年列装的第五代隐形战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf3bc7cc34ab87c600baa1cd11fdcd?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-20.jpg",
-    "source": "baike_manual"
-  },
-  "j-16": {
-    "ok": true,
-    "query": "歼-16",
-    "title": "歼-16",
-    "desc": "中国沈阳飞机公司研制的多用途战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/728da9773912b31b5592e48a8e18367adbb4e193-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-16.jpg",
-    "source": "baike_manual"
-  },
-  "j-15": {
-    "ok": true,
-    "query": "歼-15",
-    "title": "歼-15",
-    "desc": "中国自主研制的第一型舰载多用途战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d3aeb6046f800a304e241ff3ad?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-15.jpg",
-    "source": "baike_manual"
-  },
-  "j-11bs": {
-    "ok": true,
-    "query": "歼-11",
-    "title": "歼-11",
-    "desc": "2000年列装的一型单座双发多功能重型喷气式第三代战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb1349540923c6293a128558d109b3dedc70?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-11bs.jpg",
-    "source": "baike_manual"
-  },
-  "j-10c": {
-    "ok": true,
-    "query": "歼-10C",
-    "title": "歼-10C",
-    "desc": "中国自主研发的第三代改进型超音速多用途战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/00e93901213fb80e7becb43db38b382eb9389a503e9c?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-10c.jpg",
-    "source": "baike_manual"
-  },
-  "j-10s": {
-    "ok": true,
-    "query": "歼-10",
-    "title": "歼-10",
-    "desc": "20世纪90年代中国研制的第三代战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/c9fcc3cec3fdfc03924522166b6d9094a4c27d1e8858?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-10s.jpg",
-    "source": "baike_manual"
-  },
-  "j-5": {
-    "ok": true,
-    "query": "歼-5",
-    "title": "歼-5",
-    "desc": "中国研制的第一种喷气战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494eef01f9e36faa9f7fe9925bc31d0d5?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-5.jpg",
-    "source": "baike_manual"
-  },
-  "j-6": {
-    "ok": true,
-    "query": "歼-6",
-    "title": "歼-6",
-    "desc": "中国20世纪60年代研制超音速喷气战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/00e93901213fb80e7becdaa5e18d382eb9389b503e36?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-6.jpg",
-    "source": "baike_manual"
-  },
-  "su-30mkk": {
-    "ok": true,
-    "query": "苏-30",
-    "title": "苏-30战斗机",
-    "desc": "苏联/俄罗斯一型多用途歼击机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/21a4462309f7905298224151fda9c0ca7bcb0a467f13?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/su-30mkk.jpg",
-    "source": "baike_manual"
-  },
-  "su-35": {
-    "ok": true,
-    "query": "苏-35",
-    "title": "苏-35战斗机",
-    "desc": "俄罗斯多用途战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1bd8a6d3a3b851f3deb58fc8a0?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/su-35.jpg",
-    "source": "baike_manual"
-  },
-  "h-6g": {
-    "ok": true,
-    "query": "轰-6",
-    "title": "轰-6",
-    "desc": "1959年参照前苏联中型喷气图-16轰炸机研制的轰炸机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/b3b7d0a20cf431adcbef6734036dbbaf2edda3cc3231?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/h-6g.jpg",
-    "source": "baike_manual"
-  },
-  "h-6k": {
-    "ok": true,
-    "query": "轰-6K",
-    "title": "轰-6K",
-    "desc": "中国研制的中远程战略轰炸机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/0e2442a7d933c895d1434eac3f4864f082025bafaaea?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/h-6k.jpg",
-    "source": "baike_manual"
-  },
-  "jh-7a": {
-    "ok": true,
-    "query": "歼轰-7",
-    "title": "歼轰-7",
-    "desc": "中国歼击轰炸机",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/d000baa1cd11728bd21790acc0fcc3cec3fd2c01-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/jh-7a.jpg",
-    "source": "baike_manual"
-  },
-  "kj-500": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "空警-500"
-  },
-  "kj-2000": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "空警-2000"
-  },
-  "y-20": {
-    "ok": true,
-    "query": "运-20",
-    "title": "运-20",
-    "desc": "中国自主研发的首款大型运输机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/0e2442a7d933c895d1437e872f4964f082025bafaa8e?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/y-20.jpg",
-    "source": "baike_manual"
-  },
-  "z-10": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "直-10"
-  },
-  "z-19": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "直-19"
-  },
-  "z-20": {
-    "ok": true,
-    "query": "直-20",
-    "title": "直-20战术通用直升机",
-    "desc": "中国自主研制的第四代战术通用直升机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/d833c895d143ad4bd113f591cf594dafa40f4bfba815?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/z-20.jpg",
-    "source": "baike_manual"
-  },
-  "z-8": {
-    "ok": true,
-    "query": "直-8",
-    "title": "直-8",
-    "desc": "中国仿制改进的13吨级多用途直升机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/b58f8c5494eef01f3a2919fba8a58e25bc315c60d7c0?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/z-8.jpg",
-    "source": "baike_manual"
-  },
-  "z-9": {
-    "ok": true,
-    "query": "直-9",
-    "title": "直-9",
-    "desc": "哈尔滨飞机工业公司生产的轻型通用直升机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/8718367adab44aed2e732580fb459001a18b87d64d07?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/z-9.jpg",
-    "source": "baike_manual"
-  },
-  "z-18": {
-    "ok": true,
-    "query": "直-18",
-    "title": "直-18F",
-    "desc": "中国研制的舰载反潜直升机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb30f2498382a6fdf95d143ad4ba655?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/z-18.jpg",
-    "source": "baike_manual"
-  },
-  "ch-4": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "彩虹-4"
-  },
-  "ch-5": {
-    "ok": false,
-    "reason": "bad_title:彩虹5号电池",
-    "prev": "彩虹5号电池"
-  },
-  "gj-11": {
-    "ok": true,
-    "query": "攻击-11",
-    "title": "攻击-11",
-    "desc": "中国自主研发的无尾飞翼布局无人机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/8601a18b87d6277f9e2f1508c3640830e924b89956f4?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/gj-11.jpg",
-    "source": "baike_manual"
-  },
-  "df-41": {
-    "ok": true,
-    "query": "东风-41",
-    "title": "东风-41洲际战略核导弹",
-    "desc": "中国研发的第四代战略核导弹",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/4a36acaf2edda3cc7cd99afb49b22e01213fb90e34ef?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/df-41.jpg",
-    "source": "baike_manual"
-  },
-  "df-21d": {
-    "ok": true,
-    "query": "东风-21D",
-    "title": "东风-21弹道导弹",
-    "desc": "中程弹道导弹",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912397ddac8fe96f4e82b2b7d1a22a8f?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/df-21d.jpg",
-    "source": "baike_manual"
-  },
-  "df-26": {
-    "ok": true,
-    "query": "东风-26",
-    "title": "东风-26核常兼备导弹",
-    "desc": "中国研发的核常兼备中远程弹道导弹",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/3812b31bb051f8197fc8354bd5b44aed2f73e7c6-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/df-26.jpg",
-    "source": "baike_manual"
-  },
-  "df-17": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "东风-17"
-  },
-  "df-15": {
-    "ok": true,
-    "query": "东风-15",
-    "title": "东风-15C型导弹",
-    "desc": "东风-15C型导弹",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/023b5bb5c9ea15ce87757466b0003af33b87b2c2-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/df-15.jpg",
-    "source": "baike_manual"
-  },
-  "df-5": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "东风-5"
-  },
-  "df-31a": {
-    "ok": true,
-    "query": "东风-31",
-    "title": "东风-31新型陆基洲际导弹",
-    "desc": "中国人民解放军旗下的武器装备",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/a9d3fd1f4134970a304e7441de91c6c8a786c917f710?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/df-31a.jpg",
-    "source": "baike_manual"
-  },
-  "cj-10": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "长剑-10"
-  },
-  "plz-05": {
-    "ok": true,
-    "query": "PLZ-05",
-    "title": "PLZ-05自行榴弹炮",
-    "desc": "PLZ-05自行加农榴弹炮",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/78310a55b319ebc4cef33a7e8826cffc1f171649-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/plz-05.jpg",
-    "source": "baike_manual"
-  },
-  "ztq-15": {
-    "ok": true,
-    "query": "15式轻型坦克",
-    "title": "15式轻型坦克",
-    "desc": "中国研制的新型轻型坦克",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/1b4c510fd9f9d72a6059cb299c713f34349b033b0dc9?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/ztq-15.jpg",
-    "source": "baike_manual"
-  },
-  "phl-03": {
-    "ok": false,
-    "reason": "manual_no_match",
-    "query": "PHL-03"
-  },
-  "type-901": {
-    "ok": true,
-    "query": "901型补给舰",
-    "title": "901型综合补给舰",
-    "desc": "中国研制的大型综合补给舰",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/a71ea8d3fd1f4134970a351cb34582cad1c8a786f005?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-901.jpg",
-    "source": "baike_manual"
-  },
-  "type-903a": {
-    "ok": true,
-    "query": "903A型补给舰",
-    "title": "903a型补给舰",
-    "desc": "中国人民解放军海军武器装备",
-    "img_url": "https://bkimg.cdn.bcebos.com/smart/adaf2edda3cc7cd92421cb3e3f01213fb90e91cd-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/type-903a.jpg",
-    "source": "baike_manual"
-  },
-  "fc-31": {
-    "ok": true,
-    "query": "鹘鹰",
-    "title": "歼-35A",
-    "desc": "中国航空工业集团研制的新一代中型隐身多用途战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f070828381b8c1278af99a9014d0854b0?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/fc-31.jpg",
-    "source": "baike_manual"
-  },
-  "j-35": {
-    "ok": true,
-    "query": "歼-35",
-    "title": "歼-35",
-    "desc": "中国自主研制的新一代隐身舰载战斗机",
-    "img_url": "https://bkimg.cdn.bcebos.com/pic/0bd162d9f2d3572c11dfbdd5704f742762d0f703653f?x-bce-process=image/quality,Q_85",
-    "path": "assets/images/j-35.jpg",
-    "source": "baike_manual"
-  }
+"zbd-08": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "08式輪式步戰車"
+},
+"zsl-10": {
+"ok": false,
+"reason": "strict_reject:token miss ['ZSL-10'] vs AMX-10RC轮式侦察车",
+"title": "AMX-10RC轮式侦察车",
+"name_zh": "10式輪式裝甲車"
+},
+"plz-89": {
+"ok": true,
+"query": "PLZ-89",
+"title": "PLZ89式122mm自行榴弹炮",
+"desc": "89型122毫米自行榴弹炮",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/e865a6997b497a376e068cad-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/plz-89.jpg",
+"source": "baike_suggest"
+},
+"pcl-181": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "PCL-181"
+},
+"pcl-171": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "PCL-171 輕型突擊車"
+},
+"pcl-161": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "PCL-161 122mm車載砲"
+},
+"phz-11": {
+"ok": false,
+"reason": "strict_reject:junk:SLC11A1基因剪接体在微量元素稳态代谢中的作用及分子机制研究 青年科学基金项",
+"title": "SLC11A1基因剪接体在微量元素稳态代谢中的作用及分子机制研究",
+"name_zh": "PHZ-11 122mm多管火箭"
+},
+"phl-81": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "PHL-81 122mm火箭砲"
+},
+"pgz-95": {
+"ok": false,
+"reason": "strict_reject:token miss ['PGZ-95', '25MM', '95'] vs 自行高炮",
+"title": "自行高炮",
+"name_zh": "PGZ-95 25mm自行高砲"
+},
+"pgz-04a": {
+"ok": true,
+"query": "PGZ-04A自行高炮",
+"title": "PGZ-04A自行防空系统",
+"desc": "北方工业公司研发的防空系统",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/279759ee3d6d55fbe059973262224f4a20a4dd03-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/pgz-04a.jpg",
+"source": "baike_suggest"
+},
+"ld-2000": {
+"ok": true,
+"query": "LD200",
+"title": "“陆盾”2000(LD2000)型近程防空武器系统",
+"desc": "陆上自行防空武器",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/023b5bb5c9ea15ce36d3f233ae592df33a87e95014ca?x-bce-process=image/quality,Q_85",
+"path": "assets/images/ld-2000.jpg",
+"source": "baike_suggest"
+},
+"j-11bg": {
+"ok": true,
+"query": "歼-11",
+"title": "歼-11",
+"desc": "2000年列装的一型单座双发多功能重型喷气式第三代战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb1349540923c6293a128558d109b3dedc70?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-11bg.jpg",
+"source": "baike_manual"
+},
+"tb-001": {
+"ok": true,
+"query": "双尾蝎",
+"title": "双尾蝎A无人机",
+"desc": "三发模块化多用途大型无人机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/bf096b63f6246b600c33295e6aa40d4c510fd9f904de?x-bce-process=image/quality,Q_85",
+"path": "assets/images/tb-001.jpg",
+"source": "baike_manual"
+},
+"asn-209": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "ASN-209 偵察無人機"
+},
+"ch-7": {
+"ok": false,
+"reason": "strict_reject:no mil context",
+"title": "彩虹",
+"name_zh": "彩虹-7 匿蹤無人機"
+},
+"type-055": {
+"ok": true,
+"query": "055型",
+"title": "南昌号驱逐舰",
+"desc": "中国研制建造的055型驱逐舰首舰（舷号101）",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/11385343fbf2b211345a1e1ac58065380cd78e6a?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-055.jpg",
+"source": "baike_suggest"
+},
+"type-052dl": {
+"ok": true,
+"query": "052DL型驱逐舰",
+"title": "包头舰",
+"desc": "中国建造的052DL改进型导弹驱逐舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f703ba8948b01ffa513d269768ca?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-052dl.jpg",
+"source": "baike_suggest"
+},
+"sovremenny": {
+"ok": true,
+"query": "现代级驱逐舰",
+"title": "现代级驱逐舰",
+"desc": "前苏联建造的水面作战舰艇",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec54e7e514bc72ae389b504ec23d8b?x-bce-process=image/quality,Q_85",
+"path": "assets/images/sovremenny.jpg",
+"source": "baike_manual"
+},
+"type-054b": {
+"ok": true,
+"query": "054B型护卫舰",
+"title": "054B型护卫舰",
+"desc": "中国研制建造的导弹护卫舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/a1ec08fa513d269759ee8e1833a3a5fb43166d227267?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-054b.jpg",
+"source": "baike_suggest"
+},
+"type-726": {
+"ok": true,
+"query": "726型氣墊登陆艇",
+"title": "726型气垫登陆艇",
+"desc": "中国上海江南造船厂建造的中型气垫船",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ecf4b6f27b75d0f703908f64ab?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-726.jpg",
+"source": "baike_suggest"
+},
+"type-093": {
+"ok": true,
+"query": "093型核潜艇",
+"title": "093型核潜艇",
+"desc": "中国海军第二代核动力攻击潜艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/c83d70cf3bc79f3db4a8bc8eb2a1cd11738b29c6-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-093.jpg",
+"source": "baike_manual"
+},
+"type-093b": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "093B型核潜艇"
+},
+"type-035": {
+"ok": true,
+"query": "035型潜艇",
+"title": "035型潜艇",
+"desc": "中国海军隶下的常规动力潜艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/ac345982b2b7d0a267cb33b6c8ef76094b369a9e-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-035.jpg",
+"source": "baike_suggest"
+},
+"type-004-rumor": {
+"ok": true,
+"query": "004型航空母舰",
+"title": "004型航空母舰",
+"desc": "中国建造中的第四艘航空母舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/c9fcc3cec3fdfc039245088c01639094a4c27d1e88c8?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-004-rumor.jpg",
+"source": "baike_suggest"
+},
+"gcl-111": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "GCL-111 架橋車"
+},
+"pll-01": {
+"ok": false,
+"reason": "strict_reject:token miss ['PLL-01', '100MM', '01'] vs 中国105毫米轮式自行突击炮",
+"title": "中国105毫米轮式自行突击炮",
+"name_zh": "PLL-01 100mm突擊砲"
+},
+"type-83-sph": {
+"ok": true,
+"query": "83式152mm自走炮",
+"title": "83式152毫米自行加榴炮",
+"desc": "中国自行加榴炮",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/8d5494eef01f3a292df5466f4e7fab315c6034a8d645?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-83-sph.jpg",
+"source": "baike_suggest"
+},
+"a100": {
+"ok": false,
+"reason": "strict_reject:junk:MSN-100 百式 《机动战士高达》中的机体",
+"title": "MSN-100 百式",
+"name_zh": "A-100 遠程火箭（出口／相關）"
+},
+"sr5": {
+"ok": true,
+"query": "SR-5",
+"title": "中国SR-5自行远程火箭炮",
+"desc": "中国SR-5自行远程火箭炮",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/e824b899a9014c08d8607fc40c7b02087bf4f47c-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/sr5.jpg",
+"source": "baike_suggest"
+},
+"pcz-171": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "PCZ-171 突擊車變型"
+},
+"type-19-ifv": {
+"ok": true,
+"query": "19式轮式步兵战车",
+"title": "步兵战车",
+"desc": "装甲战斗车辆",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/dc54564e9258d109b3dea2f89f00dbbf6c81800ae77b?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-19-ifv.jpg",
+"source": "baike_suggest"
+},
+"type-053h2g": {
+"ok": true,
+"query": "安庆号护卫舰",
+"title": "安庆号护卫舰",
+"desc": "中国海军东海舰队的护卫舰",
+"path": "assets/images/type-053h2g.jpg",
+"source": "baike_manual"
+},
+"type-053h1g": {
+"ok": true,
+"query": "053H1G型护卫舰",
+"title": "053H1G型护卫舰",
+"desc": "中国研制建造的反舰型导弹护卫舰",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/a2cc7cd98d1001e91dde6e80b00e7bec55e7975a-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-053h1g.jpg",
+"source": "baike_suggest"
+},
+"type-053h": {
+"ok": true,
+"query": "053H型护卫舰",
+"title": "053H型护卫舰",
+"desc": "20世纪70年代中国研制建造的反舰型导弹护卫舰",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/80cb39dbb6fd5266692812e4a318972bd407363a-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-053h.jpg",
+"source": "baike_suggest"
+},
+"type-037is": {
+"ok": true,
+"query": "037IS型猎潜艇",
+"title": "037IS型反潜护卫艇",
+"desc": "上海求新造船厂制造的反潜护卫艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/dc54564e9258d109eacddd22da58ccbf6c814d77-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-037is.jpg",
+"source": "baike_suggest"
+},
+"type-062": {
+"ok": true,
+"query": "062型炮艇",
+"title": "062型护卫艇",
+"desc": "中国062型护卫艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/0df431adcbef7609cc0046812ddda3cc7cd99ea1-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-062.jpg",
+"source": "baike_suggest"
+},
+"type-021": {
+"ok": false,
+"reason": "HTTP Error 400: Bad Request"
+},
+"type-032": {
+"ok": true,
+"query": "032型潜艇",
+"title": "032型潜艇",
+"desc": "中国弹道导弹常规动力试验潜艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/7a899e510fb30f240df249a4c095d143ad4b0328-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-032.jpg",
+"source": "baike_suggest"
+},
+"type-039c": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "039C型潜艇"
+},
+"type-092": {
+"ok": true,
+"query": "092型核潜艇",
+"title": "092型战略导弹核潜艇",
+"desc": "中国第一型战略核潜艇",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/64380cd7912397dda144f24aaadea5b7d0a20cf42972?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-092.jpg",
+"source": "baike_manual"
+},
+"type-096": {
+"ok": false,
+"reason": "strict_reject:token miss ['096'] vs 战略核潜艇",
+"title": "战略核潜艇",
+"name_zh": "096型戰略核潛艇（唐級，研發中）"
+},
+"type-904": {
+"ok": true,
+"query": "904型补给舰",
+"title": "904b型补给舰",
+"desc": "中国制造的补给舰",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/b17eca8065380cd7d0f9b6c1a644ad3459828132-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-904.jpg",
+"source": "baike_suggest"
+},
+"type-905": {
+"ok": true,
+"query": "905型补给舰",
+"title": "905型补给舰",
+"desc": "中国海军隶下的一型综合补给舰",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/9e3df8dcd100baa1bd6d38484d10b912c9fc2efb-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-905.jpg",
+"source": "baike_suggest"
+},
+"type-926": {
+"ok": false,
+"reason": "HTTP Error 400: Bad Request"
+},
+"type-636a": {
+"ok": false,
+"reason": "strict_reject:no mil context",
+"title": "636A型测量船",
+"name_zh": "636A型測量船"
+},
+"type-818": {
+"ok": false,
+"reason": "strict_reject:junk:G818次列车 江山站开往北京南站的高速动车组列车",
+"title": "G818次列车",
+"name_zh": "818型海警船（昭頭級）"
+},
+"type-718b": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "718B型海警巡邏船"
+},
+"z-19e": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "直-19E 偵察攻擊直升機"
+},
+"j-7e": {
+"ok": true,
+"query": "歼-7",
+"title": "歼-7",
+"desc": "中国20世纪60年代研制喷气式战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918f1fc75db6463d269759ee6fd1?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-7e.jpg",
+"source": "baike_manual"
+},
+"j-8b": {
+"ok": true,
+"query": "歼-8",
+"title": "歼-8",
+"desc": "中国1969年研制第二代战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb4316b23b711637a4462309f776df?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-8b.jpg",
+"source": "baike_manual"
+},
+"ch-3": {
+"ok": false,
+"reason": "strict_reject:no mil context",
+"title": "彩虹",
+"name_zh": "彩虹-3 察打無人機"
+},
+"wing-loong-10": {
+"ok": true,
+"query": "翼龙-10",
+"title": "翼龙-10",
+"desc": "航空工业自主研发的高空高速无人机系统",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/37d12f2eb9389b504fc247645c69f2dde71190efc0ca?x-bce-process=image/quality,Q_85",
+"path": "assets/images/wing-loong-10.jpg",
+"source": "baike_manual"
+},
+"wz-5": {
+"ok": true,
+"query": "WZ-5",
+"title": "WZ523轮式装甲车",
+"desc": "中国研制的6轮式装甲运兵车",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/b03533fa828ba61e68b91f504e34970a304e597e-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/wz-5.jpg",
+"source": "baike_suggest"
+},
+"y-9g": {
+"ok": false,
+"reason": "strict_reject:junk:韶山9G型电力机车 客运电力机车",
+"title": "韶山9G型电力机车",
+"name_zh": "運-9G 電子戰機"
+},
+"type-80": {
+"ok": true,
+"query": "80式主战坦克",
+"title": "80式主战坦克",
+"desc": "第二代主战坦克",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/d31b0ef41bd5ad6eddc47d8e10972edbb6fd52669619?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-80.jpg",
+"source": "baike_suggest"
+},
+"ptl-02": {
+"ok": true,
+"query": "PTL-02轮式突击炮",
+"title": "PTL-02轮式突击炮",
+"desc": "自行轮式反坦克火炮",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/6d81800a19d8bc3e2a5d3b2a888ba61ea9d345fc-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/ptl-02.jpg",
+"source": "baike_suggest"
+},
+"plz-52": {
+"ok": true,
+"query": "PLZ-52",
+"title": "155mm自行榴弹炮",
+"desc": "中国研制的自行榴弹炮",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/0b55b319ebc4b74500912ebac1fc1e178a821510-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/plz-52.jpg",
+"source": "baike_suggest"
+},
+"sh-15": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "SH-15 155mm 車載榴彈砲"
+},
+"phl-11": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "PHL-11 122mm 火箭砲"
+},
+"gsl-131": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "GSL-131 掃雷破障車"
+},
+"gcz-112": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "GCZ-112 裝甲工程車"
+},
+"type-84-bridge": {
+"ok": true,
+"query": "84式坦克",
+"title": "84式坦克架桥车",
+"desc": "中国在79式中型坦克底盘的基础上发展出来的变型车",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/6c224f4a20a44623d83cf8c39a22720e0df3d799-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-84-bridge.jpg",
+"source": "baike_suggest"
+},
+"type-053h1": {
+"ok": true,
+"query": "053H1型护卫舰",
+"title": "053H1型护卫舰",
+"desc": "改进型护卫舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/bd3eb13533fa828ba61ea39271435634970a304eec34?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-053h1.jpg",
+"source": "baike_suggest"
+},
+"type-024": {
+"ok": false,
+"reason": "strict_reject:junk:机械变异体024 日本特摄剧《假面骑士Drive》中的角色",
+"title": "机械变异体024",
+"name_zh": "024型飛彈艇（河谷級）"
+},
+"type-909": {
+"ok": false,
+"reason": "strict_reject:junk:博世909 博世品牌的GSM手机",
+"title": "博世909",
+"name_zh": "909型試驗艦（畢昇級）"
+},
+"type-925": {
+"ok": false,
+"reason": "HTTP Error 400: Bad Request"
+},
+"type-039b": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "039B型潜艇"
+},
+"h-6d": {
+"ok": true,
+"query": "轰-6",
+"title": "轰-6",
+"desc": "1959年参照前苏联中型喷气图-16轰炸机研制的轰炸机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/b3b7d0a20cf431adcbef6734036dbbaf2edda3cc3231?x-bce-process=image/quality,Q_85",
+"path": "assets/images/h-6d.jpg",
+"source": "baike_manual"
+},
+"ch-6": {
+"ok": false,
+"reason": "no_match",
+"name_zh": "彩虹-6 高空長航時無人機"
+},
+"pgz-88": {
+"ok": false,
+"reason": "strict_reject:junk:德国88毫米FLAK高炮 武器装备",
+"title": "德国88毫米FLAK高炮",
+"name_zh": "88式自行高射砲"
+},
+"type-65-aaa": {
+"ok": false,
+"reason": "strict_reject:token miss ['37MM'] vs 高射炮",
+"title": "高射炮",
+"name_zh": "65式 37mm 高射砲"
+},
+"type-74-aaa": {
+"ok": false,
+"reason": "strict_reject:token miss ['37MM'] vs 高射炮",
+"title": "高射炮",
+"name_zh": "74式雙 37mm 高射砲"
+},
+"type-054a": {
+"ok": true,
+"query": "054A型护卫舰",
+"title": "054A型护卫舰",
+"desc": "中国研制建造的导弹护卫舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/09fa513d269759ee3d6d755348a754166d224e4a71ac?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-054a.jpg",
+"source": "baike_manual"
+},
+"type-052d": {
+"ok": true,
+"query": "052D型驱逐舰",
+"title": "052D型驱逐舰",
+"desc": "中国海军现役导弹驱逐舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/08f790529822720e0cf3302a44971d46f21fbf097d94?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-052d.jpg",
+"source": "baike_manual"
+},
+"type-051": {
+"ok": true,
+"query": "051型驱逐舰",
+"title": "051型驱逐舰",
+"desc": "中国研制的导弹驱逐舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1b196f12a0b851f3deb48fc87d?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-051.jpg",
+"source": "baike_manual"
+},
+"type-051b": {
+"ok": true,
+"query": "051B型驱逐舰",
+"title": "051B型驱逐舰",
+"desc": "多用途导弹驱逐舰",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/8718367adab44aed0a2d62a8b11c8701a18bfb1f-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-051b.jpg",
+"source": "baike_manual"
+},
+"type-051c": {
+"ok": true,
+"query": "051C型驱逐舰",
+"title": "051C型驱逐舰",
+"desc": "大型防空导弹驱逐舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/3bf33a87e950352ac65c14c61116ecf2b21192131dfa?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-051c.jpg",
+"source": "baike_manual"
+},
+"type-052b": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "052B型驱逐舰"
+},
+"type-053h3": {
+"ok": true,
+"query": "053H3型护卫舰",
+"title": "053H3型护卫舰",
+"desc": "中国053H3型护卫舰",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/dbb44aed2e738bd40bb1d6bea98b87d6267ff9a9-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-053h3.jpg",
+"source": "baike_manual"
+},
+"type-056": {
+"ok": true,
+"query": "056型护卫舰",
+"title": "056型护卫舰",
+"desc": "中国研制的多用途轻型护卫舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f0708283833e23a7caf99a9014d085482?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-056.jpg",
+"source": "baike_manual"
+},
+"type-056a": {
+"ok": true,
+"query": "056A型护卫舰",
+"title": "056A型护卫舰",
+"desc": "中国自行研制生产的新一代轻型护卫舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b74543a9cf1958a609178a82b901bf30?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-056a.jpg",
+"source": "baike_manual"
+},
+"type-071": {
+"ok": true,
+"query": "071型船坞登陆舰",
+"title": "071型船坞登陆舰",
+"desc": "两栖船坞登陆舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/bf096b63f6246b600c33f4df57b70d4c510fd9f90442?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-071.jpg",
+"source": "baike_manual"
+},
+"type-075": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "075型两栖攻击舰"
+},
+"type-039": {
+"ok": true,
+"query": "039型潜艇",
+"title": "039型潜艇",
+"desc": "中国自行设计建造的第二代常规动力潜艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/ae51f3deb48f8c5456bb378930292df5e0fe7f28-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-039.jpg",
+"source": "baike_manual"
+},
+"type-039a": {
+"ok": true,
+"query": "039A型潜艇",
+"title": "元级潜艇",
+"desc": "中国海军一型常规动力潜艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/0b55b319ebc4b745a9ec8b9ac5fc1e178b8215c5-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-039a.jpg",
+"source": "baike_manual"
+},
+"type-091": {
+"ok": true,
+"query": "091型核潜艇",
+"title": "091型攻击核潜艇",
+"desc": "中国第一代攻击型核潜艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/58ee3d6d55fbb2fb2087a4b5454a20a44723dced-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-091.jpg",
+"source": "baike_manual"
+},
+"type-094": {
+"ok": true,
+"query": "094型核潜艇",
+"title": "094型战略核潜艇",
+"desc": "中国海军隶下核动力弹道导弹潜艇",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/63d0f703918fa0ec720efcac2e9759ee3c6ddb42-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-094.jpg",
+"source": "baike_manual"
+},
+"kilo-636": {
+"ok": true,
+"query": "基洛级潜艇",
+"title": "基洛级潜艇",
+"desc": "常规潜艇的北约代号",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/37d3d539b6003af33a87120b7d73d15c10385343181c?x-bce-process=image/quality,Q_85",
+"path": "assets/images/kilo-636.jpg",
+"source": "baike_manual"
+},
+"type-001": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "辽宁舰"
+},
+"j-20": {
+"ok": true,
+"query": "歼-20",
+"title": "歼-20",
+"desc": "中国2018年列装的第五代隐形战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf3bc7cc34ab87c600baa1cd11fdcd?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-20.jpg",
+"source": "baike_manual"
+},
+"j-16": {
+"ok": true,
+"query": "歼-16",
+"title": "歼-16",
+"desc": "中国沈阳飞机公司研制的多用途战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/728da9773912b31b5592e48a8e18367adbb4e193-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-16.jpg",
+"source": "baike_manual"
+},
+"j-15": {
+"ok": true,
+"query": "歼-15",
+"title": "歼-15",
+"desc": "中国自主研制的第一型舰载多用途战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d3aeb6046f800a304e241ff3ad?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-15.jpg",
+"source": "baike_manual"
+},
+"j-11bs": {
+"ok": true,
+"query": "歼-11",
+"title": "歼-11",
+"desc": "2000年列装的一型单座双发多功能重型喷气式第三代战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb1349540923c6293a128558d109b3dedc70?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-11bs.jpg",
+"source": "baike_manual"
+},
+"j-10c": {
+"ok": true,
+"query": "歼-10C",
+"title": "歼-10C",
+"desc": "中国自主研发的第三代改进型超音速多用途战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/00e93901213fb80e7becb43db38b382eb9389a503e9c?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-10c.jpg",
+"source": "baike_manual"
+},
+"j-5": {
+"ok": true,
+"query": "歼-5",
+"title": "歼-5",
+"desc": "中国研制的第一种喷气战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494eef01f9e36faa9f7fe9925bc31d0d5?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-5.jpg",
+"source": "baike_manual"
+},
+"j-6": {
+"ok": true,
+"query": "歼-6",
+"title": "歼-6",
+"desc": "中国20世纪60年代研制超音速喷气战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/00e93901213fb80e7becdaa5e18d382eb9389b503e36?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-6.jpg",
+"source": "baike_manual"
+},
+"su-30mkk": {
+"ok": true,
+"query": "苏-30",
+"title": "苏-30战斗机",
+"desc": "苏联/俄罗斯一型多用途歼击机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/21a4462309f7905298224151fda9c0ca7bcb0a467f13?x-bce-process=image/quality,Q_85",
+"path": "assets/images/su-30mkk.jpg",
+"source": "baike_manual"
+},
+"su-35": {
+"ok": true,
+"query": "苏-35",
+"title": "苏-35战斗机",
+"desc": "俄罗斯多用途战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1bd8a6d3a3b851f3deb58fc8a0?x-bce-process=image/quality,Q_85",
+"path": "assets/images/su-35.jpg",
+"source": "baike_manual"
+},
+"h-6g": {
+"ok": true,
+"query": "轰-6",
+"title": "轰-6",
+"desc": "1959年参照前苏联中型喷气图-16轰炸机研制的轰炸机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/b3b7d0a20cf431adcbef6734036dbbaf2edda3cc3231?x-bce-process=image/quality,Q_85",
+"path": "assets/images/h-6g.jpg",
+"source": "baike_manual"
+},
+"h-6k": {
+"ok": true,
+"query": "轰-6K",
+"title": "轰-6K",
+"desc": "中国研制的中远程战略轰炸机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/0e2442a7d933c895d1434eac3f4864f082025bafaaea?x-bce-process=image/quality,Q_85",
+"path": "assets/images/h-6k.jpg",
+"source": "baike_manual"
+},
+"jh-7a": {
+"ok": true,
+"query": "歼轰-7",
+"title": "歼轰-7",
+"desc": "中国歼击轰炸机",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/d000baa1cd11728bd21790acc0fcc3cec3fd2c01-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/jh-7a.jpg",
+"source": "baike_manual"
+},
+"kj-500": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "空警-500"
+},
+"kj-2000": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "空警-2000"
+},
+"y-20": {
+"ok": true,
+"query": "运-20",
+"title": "运-20",
+"desc": "中国自主研发的首款大型运输机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/0e2442a7d933c895d1437e872f4964f082025bafaa8e?x-bce-process=image/quality,Q_85",
+"path": "assets/images/y-20.jpg",
+"source": "baike_manual"
+},
+"z-10": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "直-10"
+},
+"z-19": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "直-19"
+},
+"z-20": {
+"ok": true,
+"query": "直-20",
+"title": "直-20战术通用直升机",
+"desc": "中国自主研制的第四代战术通用直升机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/d833c895d143ad4bd113f591cf594dafa40f4bfba815?x-bce-process=image/quality,Q_85",
+"path": "assets/images/z-20.jpg",
+"source": "baike_manual"
+},
+"z-9": {
+"ok": true,
+"query": "直-9",
+"title": "直-9",
+"desc": "哈尔滨飞机工业公司生产的轻型通用直升机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/8718367adab44aed2e732580fb459001a18b87d64d07?x-bce-process=image/quality,Q_85",
+"path": "assets/images/z-9.jpg",
+"source": "baike_manual"
+},
+"z-18": {
+"ok": true,
+"query": "直-18",
+"title": "直-18F",
+"desc": "中国研制的舰载反潜直升机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb30f2498382a6fdf95d143ad4ba655?x-bce-process=image/quality,Q_85",
+"path": "assets/images/z-18.jpg",
+"source": "baike_manual"
+},
+"ch-4": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "彩虹-4"
+},
+"ch-5": {
+"ok": false,
+"reason": "bad_title:彩虹5号电池",
+"prev": "彩虹5号电池"
+},
+"gj-11": {
+"ok": true,
+"query": "攻击-11",
+"title": "攻击-11",
+"desc": "中国自主研发的无尾飞翼布局无人机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/8601a18b87d6277f9e2f1508c3640830e924b89956f4?x-bce-process=image/quality,Q_85",
+"path": "assets/images/gj-11.jpg",
+"source": "baike_manual"
+},
+"df-41": {
+"ok": true,
+"query": "东风-41",
+"title": "东风-41洲际战略核导弹",
+"desc": "中国研发的第四代战略核导弹",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/4a36acaf2edda3cc7cd99afb49b22e01213fb90e34ef?x-bce-process=image/quality,Q_85",
+"path": "assets/images/df-41.jpg",
+"source": "baike_manual"
+},
+"df-26": {
+"ok": true,
+"query": "东风-26",
+"title": "东风-26核常兼备导弹",
+"desc": "中国研发的核常兼备中远程弹道导弹",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/3812b31bb051f8197fc8354bd5b44aed2f73e7c6-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/df-26.jpg",
+"source": "baike_manual"
+},
+"df-17": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "东风-17"
+},
+"df-5": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "东风-5"
+},
+"df-31a": {
+"ok": true,
+"query": "东风-31",
+"title": "东风-31新型陆基洲际导弹",
+"desc": "中国人民解放军旗下的武器装备",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/a9d3fd1f4134970a304e7441de91c6c8a786c917f710?x-bce-process=image/quality,Q_85",
+"path": "assets/images/df-31a.jpg",
+"source": "baike_manual"
+},
+"cj-10": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "长剑-10"
+},
+"plz-05": {
+"ok": true,
+"query": "PLZ-05",
+"title": "PLZ-05自行榴弹炮",
+"desc": "PLZ-05自行加农榴弹炮",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/78310a55b319ebc4cef33a7e8826cffc1f171649-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/plz-05.jpg",
+"source": "baike_manual"
+},
+"ztq-15": {
+"ok": true,
+"query": "15式轻型坦克",
+"title": "15式轻型坦克",
+"desc": "中国研制的新型轻型坦克",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/1b4c510fd9f9d72a6059cb299c713f34349b033b0dc9?x-bce-process=image/quality,Q_85",
+"path": "assets/images/ztq-15.jpg",
+"source": "baike_manual"
+},
+"phl-03": {
+"ok": false,
+"reason": "manual_no_match",
+"query": "PHL-03"
+},
+"type-901": {
+"ok": true,
+"query": "901型补给舰",
+"title": "901型综合补给舰",
+"desc": "中国研制的大型综合补给舰",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/a71ea8d3fd1f4134970a351cb34582cad1c8a786f005?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-901.jpg",
+"source": "baike_manual"
+},
+"type-903a": {
+"ok": true,
+"query": "903A型补给舰",
+"title": "903a型补给舰",
+"desc": "中国人民解放军海军武器装备",
+"img_url": "https://bkimg.cdn.bcebos.com/smart/adaf2edda3cc7cd92421cb3e3f01213fb90e91cd-bkimg-process,v_1,rw_1,rh_1,maxl_150?x-bce-process=image/quality,Q_85",
+"path": "assets/images/type-903a.jpg",
+"source": "baike_manual"
+},
+"fc-31": {
+"ok": true,
+"query": "鹘鹰",
+"title": "歼-35A",
+"desc": "中国航空工业集团研制的新一代中型隐身多用途战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f070828381b8c1278af99a9014d0854b0?x-bce-process=image/quality,Q_85",
+"path": "assets/images/fc-31.jpg",
+"source": "baike_manual"
+},
+"j-35": {
+"ok": true,
+"query": "歼-35",
+"title": "歼-35",
+"desc": "中国自主研制的新一代隐身舰载战斗机",
+"img_url": "https://bkimg.cdn.bcebos.com/pic/0bd162d9f2d3572c11dfbdd5704f742762d0f703653f?x-bce-process=image/quality,Q_85",
+"path": "assets/images/j-35.jpg",
+"source": "baike_manual"
+}
 }

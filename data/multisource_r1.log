@@ -1,0 +1,385 @@
+targets=50
+
+[1/50] asn-209 | ASN-209 偵察無人機
+  toks=['asn209', '209'] keys=['ASN-209', 'ASN209', '侦察无人', 'asn209']
+  try en: ASN-209
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+  try zh: ASN-209
+  try commons: ASN-209
+  try zh: ASN-209 侦察无人机
+    FAIL
+
+[2/50] cs-sm1 | CS/SM1 120mm迫擊砲系統
+  toks=['sm1', '120', 'cssm1'] keys=['SM-1', 'SM1', '迫击炮系', 'cssm1']
+  try en: CS/SM1
+  try zh: CS/SM1
+  try commons: CS/SM1
+  try zh: CS/SM1 120mm迫击炮系統
+    FAIL
+
+[3/50] df-21c | 東風-21C 中程彈道飛彈
+  toks=['df21cmrbm', 'df21c', '东风', '21c', '东风21c', 'css5mod3', 'mod3', 'css5'] keys=['东风-21C', '东风21C', 'DF-21C', 'DF21C', '东风中程', 'df21c']
+  try en: DF-21
+  try zh: 东风-21
+  try commons: DF-21
+  try en: DF-21C
+  try commons: DF-21C
+  try zh: DF-21C
+  try en: DF-21C MRBM
+  try commons: DF-21C MRBM
+  try zh: 东风-21C 中程弹道飞弹
+    FAIL
+
+[4/50] df-27 | 東風-27 彈道飛彈
+  toks=['df27', 'df27ballisticmissile', '东风', '东风27'] keys=['东风-27', '东风27', 'DF-27', 'DF27', '东风弹道', 'df27']
+  try en: DF-27
+  try zh: 东风-27
+  try commons: DF-27
+  try zh: DF-27
+  try en: DF-27 Ballistic Missile
+  try commons: DF-27 Ballistic Missile
+  try zh: 东风-27 弹道飞弹
+    FAIL
+
+[5/50] fb-6c | FB-6C 便攜／車載防空
+  toks=['fb6c'] keys=['FB-6C', 'FB6C', '便攜车载', 'fb6c']
+  try en: FN-6
+  try zh: 飞弩-6
+  try en: FB-6C
+  try commons: FB-6C
+  try zh: FB-6C
+  try zh: FB-6C 便攜/车载防空
+    FAIL
+
+[6/50] gb-6 | GB-6 滑翔制導炸彈
+  toks=['gb6', 'gb6glidebomb'] keys=['GB-6', 'GB6', '滑翔制导', 'gb6']
+  try en: GB-6 bomb
+  try zh: GB-6
+  try en: GB-6
+  try commons: GB-6
+  try en: GB-6 glide bomb
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    OK wiki en GB-1 (17083)
+
+[7/50] gcl-111 | GCL-111 架橋車
+  toks=['gcl111bridgelayer', 'gcl111', '111'] keys=['GCL-111', 'GCL111', '架橋车', 'gcl111']
+  try en: Type 84 AVLB
+  try zh: 84式坦克架桥车
+  try commons: bridge layer tank China
+  try en: GCL-111
+  try commons: GCL-111
+  try zh: GCL-111
+    OK wiki zh 85式装甲输送车 (43940)
+
+[8/50] hj-11 | 紅箭-11 反戰車飛彈
+  toks=['hj11', '红箭', 'hj11atgm', '红箭11'] keys=['红箭-11', '红箭11', 'HJ-11', 'HJ11', '红箭反战', 'hj11']
+  try en: HJ-11
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+  try zh: 红箭-11
+  try commons: HJ-11
+  try zh: HJ-11
+  try en: HJ-11 ATGM
+  try commons: HJ-11 ATGM
+  try zh: 红箭-11 反战车飞弹
+    FAIL
+
+[9/50] ls-500j | 雷石-500J 制導炸彈
+  toks=['ls500jguidedbomb', 'ls500j', '500', '雷石500j', '500j'] keys=['LS-500J', 'LS500J', '雷石制导', 'ls500j']
+  try zh: 雷石制导炸弹
+  try en: LS-6 bomb
+  try en: LS-500J
+  try commons: LS-500J
+  try zh: LS-500J
+  try en: LS-500J guided bomb
+  try commons: LS-500J guided bomb
+  try zh: 雷石-500J 制导炸弹
+    FAIL
+
+[10/50] pcl-171 | PCL-171 輕型突擊車
+  toks=['171', 'pcl171'] keys=['PCL-171', 'PCL171', '轻型突击', 'pcl171']
+  try en: PCL-171
+  try commons: PCL-171
+  try zh: PCL-171
+  try zh: PCL-171 轻型突击车
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)
+    dl fail: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)
+    OK wiki zh 东风猛士 (25125)
+
+[11/50] pcl-181 | PCL-181 155mm車載加榴砲
+  toks=['181', '155', 'pcl181'] keys=['PCL-181', 'PCL181', '车载加榴', 'pcl181']
+  try en: PCL-181
+  try zh: PCL-181
+  try commons: SH-15 howitzer
+  try en: SH-15 howitzer
+  try commons: PCL-181
+  try zh: PCL-181 155mm车载加榴炮
+    FAIL
+
+[12/50] pgz-04a | PGZ-04A 自行高砲
+  toks=['04a', 'pgz04a'] keys=['PGZ-04A', 'PGZ04A', '自行高炮', 'pgz04a']
+  try en: PGZ-04A
+  try zh: PGZ-04A
+  try commons: PGZ-04
+  try commons: PGZ-04A
+  try zh: PGZ-04A 自行高炮
+    FAIL
+
+[13/50] pgz-88 | 88式自行高射砲
+  toks=['type88', 'type88spaag', 'pgz88'] keys=['88', '88型', '88式', '式自行高', 'pgz88']
+  try en: Type 88 SPAAG
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    OK wiki en Type 08 (250121)
+
+[14/50] phl-11 | PHL-11 122mm 火箭砲
+  toks=['phl11mlrs', 'phl11', 'type11'] keys=['PHL-11', 'PHL11', '火箭炮', 'phl11']
+  try en: PHL-11
+  try zh: PHL-11
+  try commons: PHL-11
+  try en: PHL-11 MLRS
+  try commons: PHL-11 MLRS
+  try zh: PHL-11 122mm 火箭炮
+    FAIL
+
+[15/50] phz-11 | PHZ-11 122mm多管火箭
+  toks=['phz11'] keys=['PHZ-11', 'PHZ11', '多管火箭', 'phz11']
+  try en: PHZ-11
+  try zh: PHZ-11
+  try commons: PHZ-11
+  try zh: PHZ-11 122mm多管火箭
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    OK wiki zh 多管火箭炮 (326804)
+
+[16/50] pl-11 | 霹靂-11 半主動空對空飛彈
+  toks=['霹雳', 'pl11', 'pl11sarhaam', '霹雳11'] keys=['霹雳-11', '霹雳11', 'PL-11', 'PL11', '霹雳半主', 'pl11']
+  try en: PL-11
+  try zh: 霹雳-11
+  try commons: PL-11
+  try zh: PL-11
+  try en: PL-11 SARH AAM
+  try commons: PL-11 SARH AAM
+  try zh: 霹雳-11 半主動空對空飞弹
+    FAIL
+
+[17/50] pl-17 | 霹靂-17 超遠程空對空飛彈
+  toks=['霹雳', 'pl17', '霹雳17'] keys=['霹雳-17', '霹雳17', 'PL-17', 'PL17', '霹雳超远', 'pl17']
+  try en: PL-17
+  try zh: 霹雳-17
+  try commons: PL-17 missile
+  try commons: PL-17
+  try zh: PL-17
+  try zh: 霹雳-17 超远程空對空飞弹
+    FAIL
+
+[18/50] pl-21 | 霹靂-21 衝壓遠程空對空飛彈
+  toks=['霹雳', 'pl21', '霹雳21', 'pl21ramjetbvraam'] keys=['霹雳-21', '霹雳21', 'PL-21', 'PL21', '霹雳冲壓', 'pl21']
+  try en: PL-21
+  try zh: 霹雳-21
+  try commons: PL-21
+  try zh: PL-21
+  try en: PL-21 ramjet BVR AAM
+  try commons: PL-21 ramjet BVR AAM
+  try zh: 霹雳-21 冲壓远程空對空飞弹
+    FAIL
+
+[19/50] pll-01 | PLL-01 100mm突擊砲
+  toks=['pll01', '100'] keys=['PLL-01', 'PLL01', '突击炮', 'pll01']
+  try en: PLL-01
+  try zh: PLL-01
+  try commons: PLL-01
+  try zh: PLL-01 100mm突击炮
+    FAIL
+
+[20/50] pp-89 | PP-89 100mm迫擊砲
+  toks=['100', 'pp89', 'pp89mortar'] keys=['PP-89', 'PP89', '迫击炮', 'pp89']
+  try zh: 100毫米迫击炮
+  try en: Type 89 mortar
+  try en: PP-89
+  try commons: PP-89
+  try zh: PP-89
+  try en: PP-89 Mortar
+  try commons: PP-89 Mortar
+  try zh: PP-89 100mm迫击炮
+    FAIL
+
+[21/50] qlg-10 | QLG-10 槍榴彈發射器
+  toks=['qlg10', 'qlg10underbarrelgl'] keys=['QLG-10', 'QLG10', '枪榴弹发', 'qlg10']
+  try en: QLG-10
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+  try zh: QLG-10
+  try commons: QLG-10
+  try en: QLG-10 Underbarrel GL
+  try commons: QLG-10 Underbarrel GL
+  try zh: QLG-10 枪榴弹发射器
+    FAIL
+
+[22/50] type-024 | 024型飛彈艇（河谷級）
+  toks=['type024', '024', 'type024heguclass', 'hegu'] keys=['024', '024型', '024式', '型飞弹艇', 'type024']
+  try en: Type 024 missile boat
+  try zh: 024型导弹艇
+  try en: Type 024
+  try commons: Type 024
+  try zh: Type 024
+  try en: Type 024 Hegu-class
+  try commons: Type 024 Hegu-class
+  try zh: 024型飞弹艇
+  try zh: 024型
+  try zh: 024式
+    FAIL
+
+[23/50] type-096 | 096型戰略核潛艇（唐級，研發中）
+  toks=['type096', 'tang', 'type096tangclass', '096'] keys=['096', '096型', '096式', '型战略核', 'type096']
+  try en: Type 096 submarine
+  try zh: 096型核潜艇
+  try en: Type 096
+  try commons: Type 096
+  try zh: Type 096
+  try en: Type 096 Tang-class
+  try commons: Type 096 Tang-class
+  try zh: 096型战略核潜艇
+  try zh: 096型
+  try zh: 096式
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    OK wiki zh SCP基金会 (80150)
+
+[24/50] type-909 | 909型試驗艦（畢昇級）
+  toks=['type909bishengclasstrialsship', 'type909', 'bisheng', '909'] keys=['909', '909型', '909式', '型試驗舰', 'type909']
+  try zh: 909型试验舰
+    OK wiki zh 909型綜合試驗艦 (42674)
+
+[25/50] type-925 | 925型潛艇支援艦（大峰級）
+  toks=['925', 'dafeng', 'type925', 'type925dafengclassasr'] keys=['925', '925型', '925式', '型潜艇支', 'type925']
+  try zh: 925型潜艇支援舰
+  try en: Type 925
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    OK wiki en Type 054B frigate (35874)
+
+[26/50] w85-hmg | W85 12.7mm 高射機槍
+  toks=['w85hmg', 'w85', 'qjc88', 'w85heavymg'] keys=['W-85', 'W85', '.高射机', 'w85hmg']
+  try en: W85 heavy machine gun
+  try zh: W85高射机枪
+  try en: W85
+  try commons: W85
+  try zh: W85
+  try en: W85 heavy MG
+  try commons: W85 heavy MG
+  try zh: W85 12.7mm 高射机枪
+    FAIL
+
+[27/50] yj-12b | 鷹擊-12B 岸艦飛彈
+  toks=['12b', 'yj12b', '鹰击12b', '鹰击'] keys=['鹰击-12B', '鹰击12B', 'YJ-12B', 'YJ12B', '鹰击岸舰', 'yj12b']
+  try en: YJ-12
+  try zh: 鹰击-12
+  try commons: YJ-12
+  try en: YJ-12B
+  try commons: YJ-12B
+  try zh: YJ-12B
+  try zh: 鹰击-12B 岸舰飞弹
+    dl fail: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)
+    OK wiki zh 鹰击12反舰导弹 (19098)
+
+[28/50] yu-6 | 魚-6 重型魚雷
+  toks=['yu6torpedo', 'yu6', '鱼6'] keys=['YU-6', 'YU6', '鱼重型鱼', 'yu6']
+  try en: Yu-6 torpedo
+  try zh: 鱼-6鱼雷
+  try en: Yu-6
+  try commons: Yu-6
+  try zh: Yu-6
+  try en: Yu-6 Torpedo
+  try commons: Yu-6 Torpedo
+  try zh: 鱼-6 重型鱼雷
+    FAIL
+
+[29/50] yu-7 | 魚-7 輕型魚雷
+  toks=['yu7', '鱼7', 'yu7torpedo'] keys=['YU-7', 'YU7', '鱼轻型鱼', 'yu7']
+  try en: Yu-7 torpedo
+  try zh: 鱼-7鱼雷
+  try en: Yu-7
+  try commons: Yu-7
+  try zh: Yu-7
+  try en: Yu-7 Torpedo
+  try commons: Yu-7 Torpedo
+  try zh: 鱼-7 轻型鱼雷
+    FAIL
+
+[30/50] zbd-08 | 08式輪式步戰車
+  toks=['zbd08', 'zbd08ifv'] keys=['ZBD-08', 'ZBD08', '式轮式步', 'zbd08']
+  try en: Type 08
+  try zh: ZBL-08
+  try zh: 08式装甲车族
+  try commons: ZBL-08
+  try en: ZBD-08
+  try commons: ZBD-08
+  try zh: ZBD-08
+  try en: ZBD-08 IFV
+  try commons: ZBD-08 IFV
+  try zh: 08式轮式步战车
+    FAIL
+
+[31/50] zsl-10 | 10式輪式裝甲車
+  toks=['zsl10'] keys=['ZSL-10', 'ZSL10', '式轮式装', 'zsl10']
+  try en: Type 08
+  try zh: 08式装甲车族
+  try commons: ZBL-08 APC
+  try en: ZSL-10
+  try commons: ZSL-10
+  try zh: ZSL-10
+  try zh: 10式轮式装甲车
+    FAIL
+
+[32/50] bzk-007 | BZK-007偵察無人機
+  toks=['007', 'bzk007'] keys=['BZK-007', 'BZK007', '侦察无人', 'bzk007']
+  try en: BZK-007
+    dl fail: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+    dl fail: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)
+    dl fail: HTTP Error 429: Too Many Requests (015d12c)
+  try zh: BZK-007
+  try commons: BZK-007
+  try zh: BZK-007侦察无人机
+    FAIL
+
+[33/50] df-4 | 東風-4 遠程彈道飛彈（歷史）
+  toks=['css3', 'df4irbmicbm', '东风', '东风4', 'df4'] keys=['东风-4', '东风4', 'DF-4', 'DF4', '东风远程', 'df4']
+  try en: DF-4
+  try zh: 东风-4

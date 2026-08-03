@@ -1,0 +1,200 @@
+targets=22
+
+[1/22] df-21c | 東風-21C 中程彈道飛彈
+  toks=['', '21c', 'df21c', 'mod3', '东风', 'df21cmrbm', 'css5', 'css5mod3'] keys=['东风-21C', '东风21C', 'DF-21C', 'DF21C', '东风中程', 'df21c']
+  try en: DF-21
+    skip title DF-21
+    skip title DF-ZF
+    skip title Dongfeng (missile)
+    skip title DF-3A
+    skip title DF-61
+    skip title DF-26
+  try zh: 东风-21
+    skip title 东风-21中程弹道导弹
+    skip title 东风系列导弹
+    skip title 东风-31型洲际弹道导弹
+    skip title 东风-26中程弹道导弹
+    skip title 东风21型柴油机车
+    skip title 东风-41型洲际弹道导弹
+  try commons: DF-21
+    skip file DF-21A TEL - Chinese Military Museum Beijing.jpg
+    skip file Deepin Icon Theme – text-css (5).svg
+    skip file Mig-29s intercepeted by F-15s - DF-ST-90-05759.jpg
+    skip file Yevhen Cheberko 21 DF Columbus Crew.jpg
+    skip file Hildegard Jäckel, Df j 0000421 01.jpg
+    skip file Thabo Nare 21 DF Charlotte Independence 04252026.j
+    skip file Yevhen Cheberko 21 DF Columbus Crew-7.jpg
+    skip file Yevhen Cheberko 21 DF Columbus Crew-2.jpg
+    skip file Yevhen Cheberko 21 DF Columbus Crew-4a.jpg
+    skip file Yevhen Cheberko 21 DF Columbus Crew-6.jpg
+    skip file Yevhen Cheberko 21 DF Columbus Crew-3.jpg
+    skip file Yevhen Cheberko 21 DF Columbus Crew-5.jpg
+  try en: DF-21C
+    skip title DF-21
+    skip title People's Liberation Army Rocket Force
+    skip title WS2500
+    skip title Eastern Theater Command
+    skip title Shandong
+    skip title WS2600
+  try commons: DF-21C
+    skip file DF-21A TEL - Chinese Military Museum Beijing.jpg
+    skip file Dongfeng-21D.JPG
+    skip file Catalogue des livres de la bibliothèque de feu Fra
+    skip file Suggested outlines for opening talk at county prod
+    skip file Petites bronzes, terres-cuites, antiquitiés divers
+    skip file Privilegirte Schlesische Zeitung. 1826, No. 4 (9 J
+    skip file Glendale Daily Press 1923-03-02 (IA cgl 002047).pd
+    skip file Opregte Haarlemsche Courant 03-08-1819 (IA ddd 010
+    skip file H.W. Buckbee seed and plant guide - 52nd year, 192
+    skip file The lincoln memorial - album-immortelles (IA linco
+    skip file Ionospheric Data (IA ionosphericdata57cent).pdf
+    skip file RL33153 (IA RL33153-crs).pdf
+  try zh: DF-21C
+    skip title 东风-21中程弹道导弹
+    skip title 东风-26中程弹道导弹
+    skip title Pandas
+    skip title 2026年國際足協世界盃決賽
+    skip title 東風-61型洲際彈道導彈
+    skip title 2026年國際足協世界盃淘汰賽
+  try en: DF-21C MRBM
+    skip title DF-21
+    skip title WS2500
+    skip title People's Liberation Army Rocket Force
+    skip title WS2600
+  try commons: DF-21C MRBM
+    HTTP 429, sleep 8s
+    HTTP 429, sleep 19s
+    skip file RL33153 (IA RL33153-crs).pdf
+    skip file 154171 China Naval Modernization Implications for 
+    skip file 112036 China Naval Modernization Implications for 
+    skip file 110365 China Naval Modernization Implications for 
+    skip file 104269 China's Naval Modernization Implications fo
+    skip file 104703 China Naval Modernization Implications for 
+  try zh: 东风-21C 中程弹道飞弹
+    skip title 东风-21中程弹道导弹
+    skip title 东风-26中程弹道导弹
+    skip title 东风-41型洲际弹道导弹
+    skip title 东风-31型洲际弹道导弹
+    skip title 短程弹道导弹
+    skip title 中国人民解放军火箭军
+    FAIL
+
+[2/22] gcl-111 | GCL-111 架橋車
+  toks=['bridgelayer', 'gcl111bridgelayer', 'gcl111', 'type84', '111', 'avlb', '84式'] keys=['GCL-111', 'GCL111', '架橋车', 'gcl111']
+  try en: Type 84 AVLB
+    skip title List of equipment of the Royal Thai Army
+    skip title M48 Patton
+    skip title K1 tank
+    skip title Type 61 (tank)
+    skip title M60 tank
+    skip title List of Gulf War military equipment
+  try zh: 84式坦克架桥车
+    skip title 装甲架桥车
+    skip title 69式坦克
+    skip title 59式坦克
+    skip title T-72主戰坦克
+    skip title 88式坦克
+    skip title 四號坦克
+  try commons: bridge layer tank China
+    skip file Experiments on Ekman layer instability. (IA experi
+    skip file A diary of Chinese husbandry, from observations ma
+    skip file Mythical and practical in Szechwan (IA mythicalpra
+    skip file Characteristics and weathering mechanisms of the t
+    skip file The Middle Kingdom- A Survey of the Geography Gove
+    skip file Hydrodynamic response of a composite structure in 
+    skip file Intelligence Bulletin, Volume 1, Number 9 (May 194
+    skip file Intelligence Bulletin, Volume 1, Number 9 (May 194
+    skip file Discrete event simulation model of the Polaris 2.1
+    skip file Books from the Library of Congress (IA rustprevent
+    skip file TRIBOELECTRIC GENERATOR FOR ENERGY HARVESTING (IA 
+    skip file A tour of the world, its famous cities and strange
+  try en: GCL-111
+    skip title Juan Soto
+    skip title Ferroptosis
+    skip title Juan Soto trade
+    skip title Ben Meyer
+    skip title Carlos Tosca
+    skip title Spider
+  try commons: GCL-111
+    skip file Federal Register 1980-06-06- Vol 45 Iss 111 (IA si
+    skip file Federal Register 1974-06-07- Vol 39 Iss 111 (IA si
+    skip file Monitorul Oficial al României 1887-08-21, nr. 111.
+    skip file Pal 10 in 2MASS color.png
+    skip file The early history of land-holding among the German
+    skip file Frohe Botschaft in Liedern - Meist aus englischen 
+    skip file Por Pedro Gomez de la Cruz vezino de la ciudad de 
+    skip file Sermon en las honras del ... señor Don Luis Ponce 
+    skip file Naturwissenschaftliche Reisen nach den Inseln des 
+    skip file Opregte Haarlemsche Courant 14-09-1816 (IA ddd 010
+    skip file Panegirico y sermon de acciones ilustres y sublime
+    skip file Señor. Don Diego Chacon, Cauallero del Orden de Ca
+  try zh: GCL-111
+    skip title 85式装甲输送车
+    skip title PLZ-45自行加榴炮
+    skip title 2012年紐約洋基隊球季
+    skip title 2002年紐約洋基隊球季
+    skip title 1991年紐約洋基隊球季
+    skip title 2015年紐約洋基隊球季
+  try en: GCL-111 Bridgelayer
+  try commons: GCL-111 Bridgelayer
+  try zh: GCL-111 架橋车
+    HTTP 429, sleep 8s
+    HTTP 429, sleep 19s
+    HTTP 429, sleep 30s
+    FAIL
+
+[3/22] pcl-181 | PCL-181 155mm車載加榴砲
+  toks=['181', 'pcl181', 'sh15', '155', 'sh-15'] keys=['PCL-181', 'PCL181', '车载加榴', 'pcl181']
+  try en: PCL-181
+    skip title PCL-161
+    skip title List of wheeled self-propelled howitzers
+    skip title Archer artillery system
+    skip title List of equipment of the People's Liberation Army 
+    skip title Patria ARVE
+  try zh: PCL-181
+    skip title PCL-171车载榴弹炮
+    skip title 东风猛士
+    skip title 09V型核潜艇
+    skip title RCH 155自行榴弹炮
+    skip title 09III型核潜艇
+  try commons: SH-15 howitzer
+    skip file Czech Army 152mm howitzer (10958577354).jpg
+    skip file Czech Army 152mm howitzer battery (10958634703).jp
+    skip file TM 9-747 155-mm Gun Motor Carriage T83 and 8-inch 
+    skip file Lešany, vojenské muzeum, samohybná houfnice Ondava
+    skip file Lešany, vojenské muzeum, samohybná houfnice Ondava
+    skip file Lešany, vojenské muzeum, samohybná houfnice Ondava
+    skip file Lešany, vojenské muzeum, samohybná houfnice Ondava
+    skip file Lešany, vojenské muzeum, samohybná houfnice Ondava
+    skip file Victoria Daily Times (1899-11-15) (IA victoriadail
+    skip file Victoria Daily Times (1915-10-15) (IA victoriadail
+    skip file 131121-A-KH850-004 (11045794563).jpg
+    skip file TM 30-410 Handbook on the British army - with supp
+  try en: SH-15 howitzer
+    HTTP 429, sleep 8s
+    HTTP 429, sleep 19s
+    skip title List of wheeled self-propelled howitzers
+    skip title List of howitzers
+    skip title 122 mm howitzer M1938 (M-30)
+    skip title 122 mm howitzer 2A18 (D-30)
+    skip title M-56 Howitzer
+  try commons: PCL-181
+    skip file PCL-09.png
+    skip file PCL-09 (cropped).png
+    skip file 6849 III , Estancia Los Zorros, 1-50,000 (PDF) - P
+    skip file Map of Mecklenburg 1803.jpg
+    skip file US construction companies.webp
+    skip file El Blasón de los Guzmanes - comedia nueva (IA A250
+    skip file A legacy for the ladies, or, Characters of the wom
+    skip file Combat & Operational Stress Research Quarterly Vol
+    skip file Excependi ratio nova, das ist eine neue art .. wie
+    skip file Combat & Operational Stress Research Quarterly Vol
+    skip file Oracion en la beatificacion de onze martyres, y Sa
+    skip file Arnhemsche courant 09-11-1839 (IA ddd 010150726 mp
+  try zh: PCL-181 155mm车载加榴炮
+    skip title PLZ-05自行加榴炮
+    skip title 凯撒自行火炮
+    skip title PCL-171车载榴弹炮
+    skip title 83式152毫米自行加榴炮
+    skip title PLZ-45自行加榴炮
+    FAIL

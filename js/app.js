@@ -180,6 +180,7 @@
       sources: Array.isArray(item.sources) ? item.sources : [],
       data_status: item.data_status || "",
       recog: item.recog || "",
+      img_key: item.img_key || "",
     };
   }
 
@@ -1011,21 +1012,34 @@
   function buildQuiz(scope, level) {
     const pool = quizPool(scope);
     if (pool.length < 4) return null;
+
+    // 同族變體常共用同一張照片（如 96/96A/96B）。若正解與誘答的圖相同，
+    // 題目就無解——因此誘答一律排除「與正解同圖」者。
+    const sameImg = (a, b) =>
+      (a.img_key && b.img_key) ? a.img_key === b.img_key : (a.image || "") === (b.image || "");
+
     const picks = shuffle(pool.slice()).slice(0, Math.min(QUIZ_N, pool.length));
     return picks.map((ans) => {
+      const usable = pool.filter((x) => x.id !== ans.id && !sameImg(x, ans));
       // 困難：優先同子類 → 同軍種；簡單：隨機
       let cands = [];
       if (level === "hard") {
-        cands = pool.filter((x) => x.id !== ans.id && x.subcategory === ans.subcategory);
+        cands = usable.filter((x) => x.subcategory === ans.subcategory);
         if (cands.length < 2) {
-          cands = cands.concat(pool.filter(
-            (x) => x.id !== ans.id && x.branch === ans.branch && x.subcategory !== ans.subcategory));
+          cands = cands.concat(usable.filter(
+            (x) => x.branch === ans.branch && x.subcategory !== ans.subcategory));
         }
       }
       if (cands.length < 2) {
-        cands = cands.concat(pool.filter((x) => x.id !== ans.id && !cands.includes(x)));
+        cands = cands.concat(usable.filter((x) => !cands.includes(x)));
       }
-      const distractors = shuffle(cands).slice(0, 2);
+      // 三個選項彼此都必須不同圖（誘答之間也不可共用同一張照片）
+      const distractors = [];
+      for (const c of shuffle(cands)) {
+        if (distractors.some((d) => sameImg(d, c))) continue;
+        distractors.push(c);
+        if (distractors.length === 2) break;
+      }
       return { ans, choices: shuffle([ans, ...distractors]) };
     });
   }

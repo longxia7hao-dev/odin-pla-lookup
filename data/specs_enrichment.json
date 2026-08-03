@@ -97,7 +97,6 @@
         }
       ],
       "recog": "TEL 為 5 軸，彈體較 DF-26 短；彈頭段有明顯的機動彈頭外形（頭部帶控制翼）。",
-      "image": "assets/images/df-21d.jpg",
       "image_credit": "图片来自百度百科《东风-21弹道导弹》（教育参考）"
     },
     "df-26": {
@@ -166,7 +165,6 @@
           "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
         }
       ],
-      "image": "assets/images/df-5c.jpg",
       "image_credit": "图片来自百度百科《东风-5C》（教育参考）"
     },
     "jl-2": {
@@ -280,7 +278,6 @@
       ],
       "mobility": "蒸汽輪機；約 30 節",
       "recog": "山東艦：同為滑躍甲板，但艦島較遼寧艦短小、雷達佈局不同，甲板標線與停機區配置有差異。",
-      "image": "assets/images/type-002.jpg",
       "image_credit": "图片来自百度百科《中国人民解放军海军山东舰》（教育参考）"
     },
     "type-003": {
@@ -304,7 +301,6 @@
       ],
       "mobility": "蒸汽輪機；四軸",
       "recog": "福建艦：平直全通甲板（無滑躍），甲板上有三條電磁彈射器軌道、艦島小而後移，是最大識別點。",
-      "image": "assets/images/type-003.jpg",
       "image_credit": "图片来自百度百科《中国人民解放军海军福建舰》（教育参考）"
     },
     "type-055": {
@@ -388,7 +384,6 @@
       ],
       "crew": "280",
       "recog": "「中華神盾」首型：艦橋四面為「圓弧形」相位陣列（052D 為平面方形）、艦艏 100mm 單管砲、垂發為圓形轉輪式發射口。",
-      "image": "assets/images/type-052c.jpg",
       "image_credit": "图片来自百度百科《052C型驱逐舰》（教育参考）"
     },
     "sovremenny": {
@@ -1123,7 +1118,6 @@
       ],
       "crew": "2",
       "recog": "雙座 Flanker，海航塗裝；與 Su-30MKK 幾乎同形，任務為對海打擊常掛反艦飛彈。",
-      "image": "assets/images/su-30mk2.jpg",
       "image_credit": "图片来自百度百科《苏-30战斗机》（教育参考）"
     },
     "su-35": {
@@ -1172,7 +1166,6 @@
         }
       ],
       "crew": "2",
-      "image": "assets/images/su-27ubk.jpg",
       "image_credit": "图片来自百度百科《苏-27UBK》（教育参考）"
     },
     "j-35": {
@@ -2796,7 +2789,6 @@
         }
       ],
       "recog": "大型三發直升機：機腹為船形艇體（可水上起降）、六葉主旋翼、機身粗大；源自法製超黃蜂。",
-      "image": "assets/images/z-8.jpg",
       "image_credit": "图片来自百度百科《直-8》（教育参考）"
     },
     "z-18": {
@@ -3056,7 +3048,6 @@
           "url": "https://en.wikipedia.org/wiki/QBZ-191"
         }
       ],
-      "image": "assets/images/qbu-191.jpg",
       "recog": "精確射手步槍：191 槍族外形＋長槍管與長導軌、高倍瞄準鏡、兩腳架。"
     },
     "qjy-201": {
@@ -3478,7 +3469,6 @@
           "url": "https://en.wikipedia.org/wiki/ZSL-92"
         }
       ],
-      "image": "assets/images/zsl-92.jpg",
       "recog": "6×6 輪式裝甲車：六輪、車艏尖楔形（兩棲破浪）、小砲塔配 25mm 機砲。"
     },
     "type-92b": {
@@ -3560,7 +3550,6 @@
           "url": "https://baike.baidu.com/item/09%E5%BC%8F122%E6%AF%AB%E7%B1%B3%E8%BD%A6%E8%BD%BD%E6%A6%B4%E5%BC%B9%E7%82%AE"
         }
       ],
-      "image": "assets/images/pll-09.jpg",
       "image_credit": "图片来自百度百科《09式122毫米车载榴弹炮》（教育参考）"
     },
     "type-90-mlrs": {
@@ -4174,7 +4163,6 @@
           "url": "https://baike.baidu.com/item/%E7%A9%BA%E8%AD%A6-3000"
         }
       ],
-      "image": "assets/images/kj-3000.jpg",
       "image_credit": "图片来自百度百科《空警-3000》（教育参考）"
     },
     "hq-19": {
@@ -4228,7 +4216,6 @@
           "url": "https://baike.baidu.com/item/%E6%97%A0%E4%BE%A6-9"
         }
       ],
-      "image": "assets/images/wz-9.jpg",
       "image_credit": "图片来自百度百科《无侦-9》（教育参考）"
     },
     "ld-10": {
@@ -4256,7 +4243,6 @@
           "url": "https://en.wikipedia.org/wiki/CASC_Rainbow"
         }
       ],
-      "image": "assets/images/ft-series.jpg",
       "image_credit": "图片来自百科/公开页《飞腾精确制导炸弹 site:baike.sogou.com - 搜狗搜索》（教育参考）"
     },
     "gb-series": {
@@ -4282,7 +4268,6 @@
           "url": "https://en.wikipedia.org/wiki/Blue_Arrow_7"
         }
       ],
-      "image": "assets/images/ba-9.jpg",
       "image_credit": "图片来自百科/公开页《AKD-9》（教育参考）"
     },
     "cx-1": {
@@ -4381,7 +4366,6 @@
           "url": "https://en.wikipedia.org/wiki/Minelayer"
         }
       ],
-      "image": "assets/images/type-84-minelayer.jpg",
       "image_credit": "图片来自百度百科《84式24管火箭布雷车》（教育参考）"
     },
     "type-07-uniform": {
@@ -4705,7 +4689,6 @@
     },
     "j-10s": {
       "recog": "殲-10 雙座型：座艙罩明顯拉長為前後兩座，機背略隆起；其餘鴨翼與腹部進氣同單座型。",
-      "image": "assets/images/j-10s.jpg",
       "image_credit": "图片来自百度百科《歼-10》（教育参考）",
       "sources": [
         {
@@ -4763,7 +4746,6 @@
       "recog": "空警-500A：運-9 平台＋背部圓盤固定雷達罩，A 型機頭上方多出「空中受油探管」，是與基本型差別。"
     },
     "z-15": {
-      "image": "assets/images/z-15.jpg",
       "sources": [
         {
           "label": "百度百科：直-15",
@@ -4842,7 +4824,6 @@
       "image_credit": "图片来自百科/公开页《河谷级导弹快艇》（教育参考）"
     },
     "y-8g": {
-      "image": "assets/images/y-8g.jpg",
       "image_credit": "图片来自百度百科《运-8远距离支援干扰机》（教育参考）",
       "sources": [
         {
@@ -4919,7 +4900,6 @@
           "url": "https://baike.baidu.com/item/%E5%BC%BA-5"
         }
       ],
-      "image": "assets/images/q-5.jpg",
       "image_credit": "图片来自百度百科《强-5》（教育参考）"
     },
     "type-062": {
@@ -4951,7 +4931,6 @@
       "image_credit": "图片来自百度百科《元级潜艇》（教育参考）"
     },
     "asn-206": {
-      "image": "assets/images/asn-206.png",
       "image_credit": "本地图库（教育参考）"
     },
     "hhq-9b": {
@@ -5007,7 +4986,6 @@
           "url": "https://baike.baidu.com/item/%E7%9B%B4-8"
         }
       ],
-      "image": "assets/images/z-8g.jpg",
       "image_credit": "图片来自百度百科《直-8》（教育参考）"
     },
     "hq-2": {
@@ -5165,7 +5143,6 @@
           "url": "https://baike.baidu.com/item/095%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87"
         }
       ],
-      "image": "assets/images/type-095.jpg",
       "image_credit": "图片来自百度百科《095型核潜艇》（教育参考）"
     },
     "df-12": {},
@@ -5194,7 +5171,6 @@
       "recog": "東風-2：早期中程彈道飛彈，液體燃料單級、彈體細長、尾部四片梯形穩定翼，需在發射架上豎立加注。"
     },
     "type-052": {
-      "image": "assets/images/type-052.jpg",
       "image_credit": "图片来自百度百科《052型驱逐舰》（教育参考）",
       "sources": [
         {
@@ -5216,7 +5192,6 @@
     },
     "jz-8f": {},
     "type-81-lmg": {
-      "image": "assets/images/type-81-lmg.jpg",
       "recog": "81 班機：外形同 81 式步槍但槍管加長加重＋兩腳架，使用 75 發彈鼓。"
     },
     "j-8h": {},
@@ -5314,7 +5289,6 @@
           "url": "https://baike.baidu.com/item/%E4%BA%8C%E6%88%98%E5%BE%B7%E5%9B%BD%E9%99%86%E5%86%9B%E7%AC%AC654%E9%87%8D%E8%A3%85%E7%94%B2%E6%AD%BC%E5%87%BB%E8%90%A5%E5%AE%98%E6%96%B9%E6%88%98%E5%8F%B2%EF%BC%88%E4%B8%AD%E5%86%8C%EF%BC%89"
         }
       ],
-      "image": "assets/images/type-654-arv.jpg",
       "image_credit": "图片来自百度百科《装甲抢救车》（教育参考）"
     },
     "hn-5": {
@@ -5322,7 +5296,6 @@
       "recog": "第一代便攜防空飛彈：細長圓筒發射管＋前端錐形罩、下方握把與電池組，外形近似蘇製 SA-7，比新式 FN-6 細長。"
     },
     "h-20": {
-      "image": "assets/images/h-20.jpg",
       "image_credit": "图片来自百度百科《轰-20》（教育参考）",
       "sources": [
         {
@@ -5561,7 +5534,6 @@
       "recog": "東風-1：中國第一款彈道飛彈（蘇聯 R-2 仿製），單級液體燃料、彈體粗短、尾部四片大穩定翼。"
     },
     "df-15": {
-      "image": "assets/images/df-15.jpg",
       "recog": "東風-15：近程彈道飛彈，TEL 為 4~5 軸，彈體裸露、彈頭為圓錐形，比 DF-11 略大。",
       "image_credit": "图片来自百度百科《东风-15弹道导弹》（教育参考）",
       "sources": [
@@ -5783,7 +5755,6 @@
       "image_credit": "图片来自百度百科《运-20（中国自主研发的首款大型运输机）》（教育参考）"
     },
     "zdk-03": {
-      "image": "assets/images/zdk-03.jpg",
       "image_credit": "图片来自百度百科《ZDK-03预警机》（教育参考）"
     },
     "gx-1": {},
@@ -5864,7 +5835,6 @@
       "image_credit": "图片来自百度百科《05A式155毫米加榴炮》（教育参考）"
     },
     "sh5-105": {
-      "image": "assets/images/sh5-105.jpg",
       "image_credit": "图片来自百度百科《SH5型105毫米车载榴弹炮》（教育参考）"
     },
     "qw-18": {
@@ -5881,11 +5851,9 @@
       "image_credit": "图片来自百度百科《JY-27雷达》（教育参考）"
     },
     "type-120-radar": {
-      "image": "assets/images/type-120-radar.jpg",
       "image_credit": "图片来自百科/公开页《K/LLQ-120雷达》（教育参考）"
     },
     "dwl-002": {
-      "image": "assets/images/dwl-002.jpg",
       "image_credit": "图片来自百度百科《DWL002雷达》（教育参考）"
     },
     "cetc-jammer": {},

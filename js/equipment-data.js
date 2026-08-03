@@ -57,7 +57,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QBZ-191"
       }
     ],
-    "recog": "有托步槍：直托＋全長頂部皮卡汀尼導軌、彈匣在扳機前方（傳統佈局）、槍身多為黑色。"
+    "recog": "有托步槍：直托＋全長頂部皮卡汀尼導軌、彈匣在扳機前方（傳統佈局）、槍身多為黑色。",
+    "img_key": "ed83fbe17e6e"
   },
   {
     "id": "qbz-95-1",
@@ -111,7 +112,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QBZ-95"
       }
     ],
-    "recog": "無托步槍：彈匣在扳機「後方」（無托最大特徵）、提把式照門、槍身短而粗。"
+    "recog": "無托步槍：彈匣在扳機「後方」（無托最大特徵）、提把式照門、槍身短而粗。",
+    "img_key": "bf1a973b26a0"
   },
   {
     "id": "qbz-95b",
@@ -164,7 +166,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QBZ-95"
       }
     ],
-    "recog": "95 短卡賓：無托佈局（彈匣在扳機後）但槍管明顯縮短、無槍榴彈發射器，全長最短。"
+    "recog": "95 短卡賓：無托佈局（彈匣在扳機後）但槍管明顯縮短、無槍榴彈發射器，全長最短。",
+    "img_key": "bf1a973b26a0"
   },
   {
     "id": "qbz-03",
@@ -216,7 +219,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QBZ-03"
       }
     ],
-    "recog": "有托步槍：傳統佈局（彈匣在扳機前）、可摺疊金屬槍托、外形介於 AK 與現代步槍之間。"
+    "recog": "有托步槍：傳統佈局（彈匣在扳機前）、可摺疊金屬槍托、外形介於 AK 與現代步槍之間。",
+    "img_key": "2d0f2b62832c"
   },
   {
     "id": "type-56-rifle",
@@ -270,7 +274,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_56_assault_rifle"
       }
     ],
-    "recog": "AK 系：木質或摺疊槍托、彎曲香蕉彈匣、槍口有刺刀座（部分帶摺疊三稜刺刀）。"
+    "recog": "AK 系：木質或摺疊槍托、彎曲香蕉彈匣、槍口有刺刀座（部分帶摺疊三稜刺刀）。",
+    "img_key": "3d01ffc3858c"
   },
   {
     "id": "type-81-rifle",
@@ -322,7 +327,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_81_assault_rifle"
       }
     ],
-    "recog": "國產 AK 改良：木質護木與槍托、彈匣較直、導氣箍位置與 AK 不同，槍身較修長。"
+    "recog": "國產 AK 改良：木質護木與槍托、彈匣較直、導氣箍位置與 AK 不同，槍身較修長。",
+    "img_key": "fb052d1d0d03"
   },
   {
     "id": "qbu-191",
@@ -355,7 +361,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Small Arms",
     "wiki": "QBZ-191",
-    "image": "assets/images/qbu-191.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/QBZ191_20250921.jpg/330px-QBZ191_20250921.jpg",
     "source_tier": "US_open",
@@ -425,7 +431,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QBU-88"
       }
     ],
-    "recog": "無托精確射手步槍：長槍管、無托佈局、槍身上方大型光學瞄準鏡，槍口有制退器。"
+    "recog": "無托精確射手步槍：長槍管、無托佈局、槍身上方大型光學瞄準鏡，槍口有制退器。",
+    "img_key": "4da30110f0c4"
   },
   {
     "id": "qbu-10",
@@ -478,7 +485,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QBU-10"
       }
     ],
-    "recog": "12.7mm 反器材步槍：極長槍管＋大型砲口制退器、無托或長槍身、雙腳架，單兵扛起時明顯過長。"
+    "recog": "12.7mm 反器材步槍：極長槍管＋大型砲口制退器、無托或長槍身、雙腳架，單兵扛起時明顯過長。",
+    "img_key": "0b859631d9c0"
   },
   {
     "id": "qsz-92",
@@ -530,7 +538,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QSZ-92"
       }
     ],
-    "recog": "手槍：套筒方正、握把有明顯手指槽、彈匣容量大（雙排）；5.8mm 與 9mm 兩種口徑外觀相近。"
+    "recog": "手槍：套筒方正、握把有明顯手指槽、彈匣容量大（雙排）；5.8mm 與 9mm 兩種口徑外觀相近。",
+    "img_key": "d697a156f451"
   },
   {
     "id": "qsw-06",
@@ -583,7 +592,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QSW-06"
       }
     ],
-    "recog": "微聲手槍：外形像一般手槍但槍管前接一根粗長的圓柱消音器，全長明顯加倍。"
+    "recog": "微聲手槍：外形像一般手槍但槍管前接一根粗長的圓柱消音器，全長明顯加倍。",
+    "img_key": "00daa3deb027"
   },
   {
     "id": "qcw-05",
@@ -635,7 +645,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QCW-05"
       }
     ],
-    "recog": "微聲衝鋒槍：無托佈局＋槍管外套粗大的一體式消音筒，外形短粗獨特。"
+    "recog": "微聲衝鋒槍：無托佈局＋槍管外套粗大的一體式消音筒，外形短粗獨特。",
+    "img_key": "914eed62ecf4"
   },
   {
     "id": "qcq-171",
@@ -687,7 +698,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QBZ-191"
       }
     ],
-    "recog": "新型衝鋒槍：緊湊短小、大量皮卡汀尼導軌、可摺疊槍托，外形現代化。"
+    "recog": "新型衝鋒槍：緊湊短小、大量皮卡汀尼導軌、可摺疊槍托，外形現代化。",
+    "img_key": "3db284b46f47"
   },
   {
     "id": "type-79-smg",
@@ -739,7 +751,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_79_submachine_gun"
       }
     ],
-    "recog": "老式衝鋒槍：小巧輕便、木質或金屬摺疊托、彈匣短直，外形像縮小版步槍。"
+    "recog": "老式衝鋒槍：小巧輕便、木質或金屬摺疊托、彈匣短直，外形像縮小版步槍。",
+    "img_key": "5f865aec9140"
   },
   {
     "id": "qjy-88",
@@ -791,7 +804,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QJY-88"
       }
     ],
-    "recog": "5.8mm 通用機槍：彈鏈供彈（左側進彈）、輕巧兩腳架或三腳架、槍管中段有提把。"
+    "recog": "5.8mm 通用機槍：彈鏈供彈（左側進彈）、輕巧兩腳架或三腳架、槍管中段有提把。",
+    "img_key": "aeba5d69d396"
   },
   {
     "id": "qjy-201",
@@ -842,7 +856,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QBZ-191"
       }
     ],
-    "recog": "新一代通用機槍：彈鏈供彈、槍身輕巧、頂部全長導軌配光學瞄具，兩腳架可折收，比 88 式更現代化。"
+    "recog": "新一代通用機槍：彈鏈供彈、槍身輕巧、頂部全長導軌配光學瞄具，兩腳架可折收，比 88 式更現代化。",
+    "img_key": "aeb02d14d879"
   },
   {
     "id": "qjz-89",
@@ -895,7 +910,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "12.7mm 重機槍：整體輕巧（世界最輕級）、三腳架、粗大槍管與大型槍口制退器、彈鏈供彈。",
-    "image_credit": "图片来自百度百科《89式重机枪（中国研制的重机枪）》（教育参考）"
+    "image_credit": "图片来自百度百科《89式重机枪（中国研制的重机枪）》（教育参考）",
+    "img_key": "9b1925a7bd51"
   },
   {
     "id": "qjz-171",
@@ -946,7 +962,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QJZ-89"
       }
     ],
-    "recog": "新式 12.7mm 重機槍：極度輕量化（單兵可搬）、槍管粗長帶大型制退器、三腳架低矮，彈鏈自左側供彈。"
+    "recog": "新式 12.7mm 重機槍：極度輕量化（單兵可搬）、槍管粗長帶大型制退器、三腳架低矮，彈鏈自左側供彈。",
+    "img_key": "9349c31adeb2"
   },
   {
     "id": "type-67-mg",
@@ -998,7 +1015,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_67_machine_gun"
       }
     ],
-    "recog": "老式通用機槍：外形硬朗方正、彈鏈盒掛右側、槍管較細，三腳架笨重。"
+    "recog": "老式通用機槍：外形硬朗方正、彈鏈盒掛右側、槍管較細，三腳架笨重。",
+    "img_key": "68a13f98b150"
   },
   {
     "id": "type-80-mg",
@@ -1051,7 +1069,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_80_machine_gun"
       }
     ],
-    "recog": "PKM 衍生：彈鏈供彈、槍身修長、槍托為骨架式（中空鏤空）、兩腳架在槍口下方。"
+    "recog": "PKM 衍生：彈鏈供彈、槍身修長、槍托為骨架式（中空鏤空）、兩腳架在槍口下方。",
+    "img_key": "51b12d1f2740"
   },
   {
     "id": "qlz-87",
@@ -1103,7 +1122,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QLZ-87"
       }
     ],
-    "recog": "35mm 自動榴彈發射器：圓形彈鼓（螺旋狀）掛在右側、短粗槍管、三腳架。"
+    "recog": "35mm 自動榴彈發射器：圓形彈鼓（螺旋狀）掛在右側、短粗槍管、三腳架。",
+    "img_key": "3aab7d5e23c7"
   },
   {
     "id": "qlz-04",
@@ -1155,7 +1175,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QLZ-87"
       }
     ],
-    "recog": "自動榴彈發射器：比 QLZ-87 輕巧，螺旋彈鼓掛右側、可肩射或三腳架，槍身較短。"
+    "recog": "自動榴彈發射器：比 QLZ-87 輕巧，螺旋彈鼓掛右側、可肩射或三腳架，槍身較短。",
+    "img_key": "adde00c4ab1e"
   },
   {
     "id": "qlu-11",
@@ -1206,7 +1227,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QLU-11"
       }
     ],
-    "recog": "狙擊型榴彈發射器：外形像加大版狙擊步槍——長槍管＋大型光學/測距瞄具＋兩腳架，彈匣（非彈鼓）插在機匣下方，可精確發射 35mm 空爆榴彈。"
+    "recog": "狙擊型榴彈發射器：外形像加大版狙擊步槍——長槍管＋大型光學/測距瞄具＋兩腳架，彈匣（非彈鼓）插在機匣下方，可精確發射 35mm 空爆榴彈。",
+    "img_key": "6cfc19a343f0"
   },
   {
     "id": "qjg-02",
@@ -1258,7 +1280,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QJG-02"
       }
     ],
-    "recog": "14.5mm 高射機槍：管徑極粗、大型三腳架可高射、常配環形對空瞄具，體積遠大於 12.7mm。"
+    "recog": "14.5mm 高射機槍：管徑極粗、大型三腳架可高射、常配環形對空瞄具，體積遠大於 12.7mm。",
+    "img_key": "4f2635dba2f2"
   },
   {
     "id": "pf-98",
@@ -1310,7 +1333,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PF-98"
       }
     ],
-    "recog": "120mm 火箭筒：管徑粗大、可肩射或架在兩腳架上、後端喇叭狀噴口、上方有光學/火控瞄具。"
+    "recog": "120mm 火箭筒：管徑粗大、可肩射或架在兩腳架上、後端喇叭狀噴口、上方有光學/火控瞄具。",
+    "img_key": "3747625910c6"
   },
   {
     "id": "pf-98a",
@@ -1362,7 +1386,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PF-98"
       }
     ],
-    "recog": "PF-98 輕量化型：外形同 120mm 火箭筒但更輕、瞄具簡化，仍為粗大發射管＋後噴口。"
+    "recog": "PF-98 輕量化型：外形同 120mm 火箭筒但更輕、瞄具簡化，仍為粗大發射管＋後噴口。",
+    "img_key": "b4573d695fc1"
   },
   {
     "id": "dzj-08",
@@ -1413,7 +1438,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/DZJ-08"
       }
     ],
-    "image_credit": "图片来自百度百科《DZJ08式火箭发射器》（教育参考）"
+    "image_credit": "图片来自百度百科《DZJ08式火箭发射器》（教育参考）",
+    "img_key": "462998e903d5"
   },
   {
     "id": "type-69-rpg",
@@ -1466,7 +1492,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_69_RPG"
       }
     ],
-    "recog": "RPG-7 衍生：細長發射管＋中段木質握把與扳機、彈頭為超口徑的水滴形（露在管外）。"
+    "recog": "RPG-7 衍生：細長發射管＋中段木質握把與扳機、彈頭為超口徑的水滴形（露在管外）。",
+    "img_key": "023e9168fe6c"
   },
   {
     "id": "hj-8",
@@ -1518,7 +1545,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HJ-8"
       }
     ],
-    "recog": "有線導引反戰車飛彈：三腳架＋圓筒發射管，後方有大型方形瞄準/導引儀（操作手需持續瞄準）。"
+    "recog": "有線導引反戰車飛彈：三腳架＋圓筒發射管，後方有大型方形瞄準/導引儀（操作手需持續瞄準）。",
+    "img_key": "2417a54f787e"
   },
   {
     "id": "hj-9",
@@ -1570,7 +1598,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HJ-9"
       }
     ],
-    "recog": "重型反戰車飛彈：多為 4 聯裝架在輪式車頂，發射箱為方形，車頂另有毫米波導引雷達。"
+    "recog": "重型反戰車飛彈：多為 4 聯裝架在輪式車頂，發射箱為方形，車頂另有毫米波導引雷達。",
+    "img_key": "305dc2b4e7cc"
   },
   {
     "id": "hj-10",
@@ -1623,7 +1652,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HJ-10"
       }
     ],
-    "recog": "8 聯裝方形發射箱架在履帶/輪式車頂（可升降），無主砲，是專用反裝甲飛彈車。"
+    "recog": "8 聯裝方形發射箱架在履帶/輪式車頂（可升降），無主砲，是專用反裝甲飛彈車。",
+    "img_key": "e3ac7bb0db19"
   },
   {
     "id": "hj-12",
@@ -1676,7 +1706,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HJ-12"
       }
     ],
-    "recog": "單兵「發射後不管」飛彈：粗大發射筒＋前方大型光電瞄準模組，可肩扛，外形接近美製標槍。"
+    "recog": "單兵「發射後不管」飛彈：粗大發射筒＋前方大型光電瞄準模組，可肩扛，外形接近美製標槍。",
+    "img_key": "3cd50a6ec663"
   },
   {
     "id": "fn-6",
@@ -1729,7 +1760,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "便攜防空飛彈：發射筒前端有「三角錐狀」尋標頭罩、握把與電池組，肩扛發射。",
-    "image_credit": "图片来自百度百科《飞弩-6单兵便携式防空导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《飞弩-6单兵便携式防空导弹》（教育参考）",
+    "img_key": "908151d4a123"
   },
   {
     "id": "fn-16",
@@ -1782,7 +1814,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "外形接近 FN-6，尋標頭罩形狀略異、瞄具現代化；肉眼難與 FN-6 區分。",
-    "image_credit": "图片来自百度百科《FN-16单兵便携式防空导弹武器系统》（教育参考）"
+    "image_credit": "图片来自百度百科《FN-16单兵便携式防空导弹武器系统》（教育参考）",
+    "img_key": "8da0854689ba"
   },
   {
     "id": "qw-1",
@@ -1834,7 +1867,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QW-1_Vanguard"
       }
     ],
-    "recog": "便攜防空飛彈：圓筒發射管＋前方圓形尋標罩、下方握把與電池，外形近似俄製 SA-16。"
+    "recog": "便攜防空飛彈：圓筒發射管＋前方圓形尋標罩、下方握把與電池，外形近似俄製 SA-16。",
+    "img_key": "5a3812961876"
   },
   {
     "id": "qw-2",
@@ -1886,7 +1920,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QW-1_Vanguard"
       }
     ],
-    "recog": "前衛-2：外形同前衛系列圓筒發射管，尋標頭與握把細節不同，常見於閱兵與外銷。"
+    "recog": "前衛-2：外形同前衛系列圓筒發射管，尋標頭與握把細節不同，常見於閱兵與外銷。",
+    "img_key": "6ef42cd4a947"
   },
   {
     "id": "pp-87",
@@ -1938,7 +1973,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PP-87"
       }
     ],
-    "image_credit": "图片来自百度百科《W87式81毫米迫击炮》（教育参考）"
+    "image_credit": "图片来自百度百科《W87式81毫米迫击炮》（教育参考）",
+    "img_key": "963caeefa083"
   },
   {
     "id": "pp-89",
@@ -1989,7 +2025,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PP-89"
       }
     ],
-    "image_credit": "图片来自百科/公开页《PP89式100毫米迫击炮》（教育参考）"
+    "image_credit": "图片来自百科/公开页《PP89式100毫米迫击炮》（教育参考）",
+    "img_key": "a52c3d880b48"
   },
   {
     "id": "w86-120",
@@ -2090,7 +2127,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/QTS-11"
       }
     ],
-    "image_credit": "图片来自百度百科《QTS11式单兵综合作战系统》（教育参考）"
+    "image_credit": "图片来自百度百科《QTS11式单兵综合作战系统》（教育参考）",
+    "img_key": "0ea3e9067b55"
   },
   {
     "id": "qlg-10",
@@ -2244,7 +2282,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_99_tank"
       }
     ],
-    "recog": "主戰坦克：砲塔正面為大角度楔形複合裝甲（明顯尖銳外斜）、砲塔頂部有雷射自衛裝置圓柱體、七對負重輪。"
+    "recog": "主戰坦克：砲塔正面為大角度楔形複合裝甲（明顯尖銳外斜）、砲塔頂部有雷射自衛裝置圓柱體、七對負重輪。",
+    "img_key": "b677ca25c44d"
   },
   {
     "id": "ztz-99",
@@ -2296,7 +2335,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_99_tank"
       }
     ],
-    "recog": "99 式初期型：砲塔正面為方正的複合裝甲塊（非 99A 的大角度楔形）、車體七對負重輪、砲塔頂雷射裝置較小。"
+    "recog": "99 式初期型：砲塔正面為方正的複合裝甲塊（非 99A 的大角度楔形）、車體七對負重輪、砲塔頂雷射裝置較小。",
+    "img_key": "b677ca25c44d"
   },
   {
     "id": "ztz-96b",
@@ -2348,7 +2388,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_96_tank"
       }
     ],
-    "recog": "96B：砲塔加掛楔形反應裝甲、車體側裙加厚，動力艙加高（換大功率發動機），比 96A 更「壯」。"
+    "recog": "96B：砲塔加掛楔形反應裝甲、車體側裙加厚，動力艙加高（換大功率發動機），比 96A 更「壯」。",
+    "img_key": "bfec5e0e0948"
   },
   {
     "id": "ztz-96a",
@@ -2400,7 +2441,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_96_tank"
       }
     ],
-    "recog": "砲塔正面加掛楔形反應裝甲（比 99A 小）、車體為六對負重輪，砲塔較圓潤低矮。"
+    "recog": "砲塔正面加掛楔形反應裝甲（比 99A 小）、車體為六對負重輪，砲塔較圓潤低矮。",
+    "img_key": "bfec5e0e0948"
   },
   {
     "id": "ztz-96",
@@ -2452,7 +2494,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_96_tank"
       }
     ],
-    "recog": "96 式基本型：砲塔為焊接方正外形、無楔形附加裝甲，車體六對負重輪。"
+    "recog": "96 式基本型：砲塔為焊接方正外形、無楔形附加裝甲，車體六對負重輪。",
+    "img_key": "bfec5e0e0948"
   },
   {
     "id": "ztq-15",
@@ -2511,7 +2554,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "輕型坦克：車身明顯較窄較高、六對小負重輪、105mm 砲配大型砲口制退器；為高原設計，動力艙有大散熱格柵。",
-    "image_credit": "图片来自百度百科《15式轻型坦克》（教育参考）"
+    "image_credit": "图片来自百度百科《15式轻型坦克》（教育参考）",
+    "img_key": "df6233a245d9"
   },
   {
     "id": "ztz-88",
@@ -2563,7 +2607,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_80/88_main_battle_tank"
       }
     ],
-    "recog": "88式主戰坦克：砲塔方正焊接（無楔形附加裝甲）、105mm 線膛砲、車體六對負重輪，外形介於 80 式與 96 式之間。"
+    "recog": "88式主戰坦克：砲塔方正焊接（無楔形附加裝甲）、105mm 線膛砲、車體六對負重輪，外形介於 80 式與 96 式之間。",
+    "img_key": "174be2f50f26"
   },
   {
     "id": "type-59d",
@@ -2615,7 +2660,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_59_tank"
       }
     ],
-    "recog": "59D式：59 式車體但砲塔正面加掛「方塊狀爆炸反應裝甲」、換 105mm 線膛砲並加裝現代化火控箱體。"
+    "recog": "59D式：59 式車體但砲塔正面加掛「方塊狀爆炸反應裝甲」、換 105mm 線膛砲並加裝現代化火控箱體。",
+    "img_key": "126ec81f366a"
   },
   {
     "id": "zbd-04a",
@@ -2667,7 +2713,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/ZBD-04"
       }
     ],
-    "recog": "履帶步戰車：低矮車體、雙人砲塔配 100mm 低壓砲＋30mm 機砲同軸（雙砲口是關鍵特徵）、六對負重輪。"
+    "recog": "履帶步戰車：低矮車體、雙人砲塔配 100mm 低壓砲＋30mm 機砲同軸（雙砲口是關鍵特徵）、六對負重輪。",
+    "img_key": "b907df2e018e"
   },
   {
     "id": "zbd-04",
@@ -2719,7 +2766,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/ZBD-04"
       }
     ],
-    "recog": "履帶步戰車：與 04A 同為 100mm＋30mm 雙砲，但車體裝甲較薄、艉部有噴水推進口（兩棲能力）。"
+    "recog": "履帶步戰車：與 04A 同為 100mm＋30mm 雙砲，但車體裝甲較薄、艉部有噴水推進口（兩棲能力）。",
+    "img_key": "b907df2e018e"
   },
   {
     "id": "zbd-03",
@@ -2772,7 +2820,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "空降戰車：車體極輕薄小巧、砲塔配 30mm 機砲、車底有空投用的緩衝裝置掛點。",
-    "image_credit": "图片来自百度百科《ZBD-03空降战车》（教育参考）"
+    "image_credit": "图片来自百度百科《ZBD-03空降战车》（教育参考）",
+    "img_key": "dc4a292c0e65"
   },
   {
     "id": "zbd-05",
@@ -2828,7 +2877,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/ZBD-05"
       }
     ],
-    "recog": "兩棲步戰車：車艏有大型可收放滑水板（浮渡時翹起）、車身修長、艉部兩具噴水推進口。"
+    "recog": "兩棲步戰車：車艏有大型可收放滑水板（浮渡時翹起）、車身修長、艉部兩具噴水推進口。",
+    "img_key": "6bc8951db7dc"
   },
   {
     "id": "ztd-05",
@@ -2865,7 +2915,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "AFV",
     "wiki": "ZTD-05",
-    "image": "assets/images/ztd-05.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chinese_ZBD-05.jpg/330px-Chinese_ZBD-05.jpg",
     "source_tier": "US_open",
@@ -2936,7 +2986,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/ZBL-08"
       }
     ],
-    "recog": "8×8 輪式步戰車：八個大型輪胎、車體高而方正、砲塔配 30mm 機砲；家族衍生極多。"
+    "recog": "8×8 輪式步戰車：八個大型輪胎、車體高而方正、砲塔配 30mm 機砲；家族衍生極多。",
+    "img_key": "fa8d85224c79"
   },
   {
     "id": "zbd-08",
@@ -3043,7 +3094,8 @@ window.EQUIPMENT_DATA = [
     "image_license": "CC BY-SA 4.0",
     "image_source_url": "https://commons.wikimedia.org/wiki/File:ZTL-11_Assault_Vehicle_20170919.jpg",
     "image_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "recog": "08 輪式底盤配 105mm 大砲塔，砲管長且有砲口制退器，是輪式車中最好認的火力支援型。"
+    "recog": "08 輪式底盤配 105mm 大砲塔，砲管長且有砲口制退器，是輪式車中最好認的火力支援型。",
+    "img_key": "1fae8caf74bf"
   },
   {
     "id": "pll-09",
@@ -3076,7 +3128,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Artillery",
     "wiki": "Type 08 vehicle",
-    "image": "assets/images/pll-09.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -3132,7 +3184,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "AFV",
     "wiki": "Type 92 AFV",
-    "image": "assets/images/zsl-92.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -3257,7 +3309,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "履帶裝甲輸送車：車體方正、車頂平坦僅一挺 12.7mm 機槍（無砲塔）、五對負重輪。",
-    "image_credit": "图片来自百度百科《ZSD-89装甲输送车》（教育参考）"
+    "image_credit": "图片来自百度百科《ZSD-89装甲输送车》（教育参考）",
+    "img_key": "1b038242cb62"
   },
   {
     "id": "zsd-63",
@@ -3310,7 +3363,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_63_armoured_personnel_carrier"
       }
     ],
-    "recog": "第一代履帶 APC：車體小而方正、車頭傾斜、四對負重輪，車頂僅機槍座。"
+    "recog": "第一代履帶 APC：車體小而方正、車頭傾斜、四對負重輪，車頂僅機槍座。",
+    "img_key": "708e81b56ba9"
   },
   {
     "id": "pll-05",
@@ -3364,7 +3418,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PLL-05"
       }
     ],
-    "recog": "120mm 輪式自行迫榴砲：WZ551 六輪底盤＋圓形砲塔，砲管短粗（迫榴砲特徵），可迫擊亦可直射。"
+    "recog": "120mm 輪式自行迫榴砲：WZ551 六輪底盤＋圓形砲塔，砲管短粗（迫榴砲特徵），可迫擊亦可直射。",
+    "img_key": "8fadf694d97d"
   },
   {
     "id": "plz-05",
@@ -3422,7 +3477,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "155mm 自走砲：大型方正砲塔、長砲管配砲口制退器與抽煙裝置、履帶六對負重輪、砲塔後方有補彈艙門。",
-    "image_credit": "图片来自百度百科《05A式155毫米加榴炮》（教育参考）"
+    "image_credit": "图片来自百度百科《05A式155毫米加榴炮》（教育参考）",
+    "img_key": "bb94b5a3b722"
   },
   {
     "id": "plz-07",
@@ -3474,7 +3530,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PLZ-07"
       }
     ],
-    "recog": "122mm 履帶自走砲：砲塔較 PLZ-05 小、砲管明顯較短較細，車體六對負重輪。"
+    "recog": "122mm 履帶自走砲：砲塔較 PLZ-05 小、砲管明顯較短較細，車體六對負重輪。",
+    "img_key": "bbc182aa17ef"
   },
   {
     "id": "plz-89",
@@ -3529,7 +3586,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/PLZ89%E5%BC%8F122mm%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BC%B9%E7%82%AE"
       }
     ],
-    "image_credit": "图片来自百度百科《PLZ89式122mm自行榴弹炮》（教育参考）"
+    "image_credit": "图片来自百度百科《PLZ89式122mm自行榴弹炮》（教育参考）",
+    "img_key": "b04e3b61b311"
   },
   {
     "id": "pcl-181",
@@ -3583,7 +3641,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "車載榴彈砲：6×6 卡車底盤＋裝甲駕駛室，砲直接架在車尾平台（無砲塔），射擊時放下大型駐鋤。",
-    "image_credit": "图片来自百科/公开页《SH-15型155毫米车载加榴炮》（教育参考）"
+    "image_credit": "图片来自百科/公开页《SH-15型155毫米车载加榴炮》（教育参考）",
+    "img_key": "d51ded16f794"
   },
   {
     "id": "pcl-171",
@@ -3684,7 +3743,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PCL-161"
       }
     ],
-    "image_credit": "图片来自百度百科《09式122毫米车载榴弹炮》（教育参考）"
+    "image_credit": "图片来自百度百科《09式122毫米车载榴弹炮》（教育参考）",
+    "img_key": "947c2c05b478"
   },
   {
     "id": "phl-03",
@@ -3739,7 +3799,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PHL-03"
       }
     ],
-    "recog": "300mm 遠火：8×8 卡車＋後方 12 根粗大發射管（4×3 排列），是最容易辨認的火箭砲。"
+    "recog": "300mm 遠火：8×8 卡車＋後方 12 根粗大發射管（4×3 排列），是最容易辨認的火箭砲。",
+    "img_key": "a2f73cdb7603"
   },
   {
     "id": "phl-16",
@@ -3797,7 +3858,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PHL-16"
       }
     ],
-    "recog": "模組化遠火：8×8 卡車＋後方兩個方形箱式發射模組（非裸露管束），可換裝不同口徑。"
+    "recog": "模組化遠火：8×8 卡車＋後方兩個方形箱式發射模組（非裸露管束），可換裝不同口徑。",
+    "img_key": "7b065474cdd3"
   },
   {
     "id": "phz-11",
@@ -3907,7 +3969,8 @@ window.EQUIPMENT_DATA = [
     "image_license": "CC BY-SA 3.0",
     "image_source_url": "https://commons.wikimedia.org/wiki/File:50th_anniversary_of_PRC_4.jpg",
     "image_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "recog": "122mm 履帶火箭砲：履帶底盤＋後方 40 管火箭發射箱（4×10 密集排列），管口小而多。"
+    "recog": "122mm 履帶火箭砲：履帶底盤＋後方 40 管火箭發射箱（4×10 密集排列），管口小而多。",
+    "img_key": "5602678f06ab"
   },
   {
     "id": "phl-81",
@@ -3958,7 +4021,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_81_122_mm_multiple_rocket_launcher"
       }
     ],
-    "image_credit": "图片来自百度百科《81式火箭炮》（教育参考）"
+    "image_credit": "图片来自百度百科《81式火箭炮》（教育参考）",
+    "img_key": "f8cffb011c4c"
   },
   {
     "id": "pgz-09",
@@ -4011,7 +4075,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PGZ-09"
       }
     ],
-    "recog": "自行高砲：履帶底盤＋大型方形砲塔兩側各一門 35mm 機砲，砲塔頂部有搜索雷達圓盤與跟蹤雷達。"
+    "recog": "自行高砲：履帶底盤＋大型方形砲塔兩側各一門 35mm 機砲，砲塔頂部有搜索雷達圓盤與跟蹤雷達。",
+    "img_key": "196114b23b44"
   },
   {
     "id": "pgz-95",
@@ -4066,7 +4131,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/%E8%87%AA%E8%A1%8C%E9%AB%98%E7%82%AE"
       }
     ],
-    "image_credit": "图片来自百度百科《95式自行高炮防空系统》（教育参考）"
+    "image_credit": "图片来自百度百科《95式自行高炮防空系统》（教育参考）",
+    "img_key": "25aa8c21ec8d"
   },
   {
     "id": "pgz-04a",
@@ -4173,7 +4239,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-17"
       }
     ],
-    "recog": "近程防空：履帶或輪式底盤，車頂前方為搜索雷達圓盤、後方為垂直發射的方形彈艙一體化。"
+    "recog": "近程防空：履帶或輪式底盤，車頂前方為搜索雷達圓盤、後方為垂直發射的方形彈艙一體化。",
+    "img_key": "4d2f5503e3d9"
   },
   {
     "id": "hq-17a",
@@ -4225,7 +4292,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-17"
       }
     ],
-    "recog": "近程防空：輪式 8×8 底盤，車頂為一體化的方形垂直彈艙＋前方雷達天線陣面（履帶版為 HQ-17）。"
+    "recog": "近程防空：輪式 8×8 底盤，車頂為一體化的方形垂直彈艙＋前方雷達天線陣面（履帶版為 HQ-17）。",
+    "img_key": "463a29e7ed69"
   },
   {
     "id": "hq-16",
@@ -4279,7 +4347,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-16"
       }
     ],
-    "recog": "中程防空：卡車底盤＋6 具垂直發射筒（兩排三列），發射時垂直彈出。"
+    "recog": "中程防空：卡車底盤＋6 具垂直發射筒（兩排三列），發射時垂直彈出。",
+    "img_key": "9b7eb64fe3fd"
   },
   {
     "id": "hq-9",
@@ -4332,7 +4401,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-9"
       }
     ],
-    "recog": "遠程防空：TEL 為多軸卡車＋四具傾斜或垂直的圓筒發射箱；配套有大型平板相位陣列雷達車。"
+    "recog": "遠程防空：TEL 為多軸卡車＋四具傾斜或垂直的圓筒發射箱；配套有大型平板相位陣列雷達車。",
+    "img_key": "0be4dc52f855"
   },
   {
     "id": "hq-9b",
@@ -4388,7 +4458,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "外形同紅旗-9，彈體加長、發射箱較長；車隊中另有增程型雷達車，肉眼難與 9A 區分。"
+    "recog": "外形同紅旗-9，彈體加長、發射箱較長；車隊中另有增程型雷達車，肉眼難與 9A 區分。",
+    "img_key": "734920e1d02b"
   },
   {
     "id": "hq-22",
@@ -4441,7 +4512,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "中遠程防空：卡車底盤＋4 具「方形」發射箱（紅旗-9 為圓筒），是最快的區分點。",
-    "image_credit": "图片来自百度百科《红旗-22防空导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《红旗-22防空导弹》（教育参考）",
+    "img_key": "d6d310ebfb40"
   },
   {
     "id": "hq-7",
@@ -4496,7 +4568,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "近程防空：小型輪式或牽引底盤，4 具短粗方形飛彈箱＋中央碟形追蹤雷達（源自法製響尾蛇）。",
-    "image_credit": "图片来自百度百科《红旗-7防空导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《红旗-7防空导弹》（教育参考）",
+    "img_key": "1a8b437d05f4"
   },
   {
     "id": "hq-10",
@@ -4549,7 +4622,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-10"
       }
     ],
-    "recog": "艦載近迫飛彈：像蜂巢的多聯裝方形發射箱（18/24 格），架在艦艉或機庫頂，體積比近防砲小。"
+    "recog": "艦載近迫飛彈：像蜂巢的多聯裝方形發射箱（18/24 格），架在艦艉或機庫頂，體積比近防砲小。",
+    "img_key": "8b7b4990fc19"
   },
   {
     "id": "ld-2000",
@@ -4605,7 +4679,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/%E2%80%9C%E9%99%86%E7%9B%BE%E2%80%9D2000%28LD2000%29%E5%9E%8B%E8%BF%91%E7%A8%8B%E9%98%B2%E7%A9%BA%E6%AD%A6%E5%99%A8%E7%B3%BB%E7%BB%9F"
       }
     ],
-    "image_credit": "图片来自百度百科《“陆盾”2000(LD2000)型近程防空武器系统》（教育参考）"
+    "image_credit": "图片来自百度百科《“陆盾”2000(LD2000)型近程防空武器系统》（教育参考）",
+    "img_key": "b233864e4d45"
   },
   {
     "id": "s-300",
@@ -4658,7 +4733,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://missilethreat.csis.org/defsys/s-400-triumf/"
       }
     ],
-    "recog": "俄製遠程防空：MAZ 大型 8×8 底盤＋4 具「直立」圓筒發射箱（行進時放平、作戰時豎起），與國產 HQ-9 的傾斜箱不同。"
+    "recog": "俄製遠程防空：MAZ 大型 8×8 底盤＋4 具「直立」圓筒發射箱（行進時放平、作戰時豎起），與國產 HQ-9 的傾斜箱不同。",
+    "img_key": "5cd3554ed9b3"
   },
   {
     "id": "s-400",
@@ -4716,7 +4792,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "外形與 S-300 幾乎相同（直立圓筒發射箱），差別在配套雷達車型號與彈種，肉眼難分。"
+    "recog": "外形與 S-300 幾乎相同（直立圓筒發射箱），差別在配套雷達車型號與彈種，肉眼難分。",
+    "img_key": "52171593a62e"
   },
   {
     "id": "mengshi",
@@ -4772,7 +4849,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "branch_hint": "陸軍",
-    "recog": "高機動戰術車：外形近似悍馬，寬車體、方正輪拱、車頂常有機槍環形架。"
+    "recog": "高機動戰術車：外形近似悍馬，寬車體、方正輪拱、車頂常有機槍環形架。",
+    "img_key": "b4553a7e6255"
   },
   {
     "id": "eq2058",
@@ -4824,7 +4902,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Dongfeng_Mengshi"
       }
     ],
-    "recog": "新一代高機動車：比舊猛士更寬更方正、大型防雷 V 型車底、車頂常見遙控武器站。"
+    "recog": "新一代高機動車：比舊猛士更寬更方正、大型防雷 V 型車底、車頂常見遙控武器站。",
+    "img_key": "723f7307beaf"
   },
   {
     "id": "j-20",
@@ -4887,7 +4966,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "鴨式佈局：機頭後方一對鴨翼＋大三角主翼；菱形機頭與 DSI 蚌式進氣道（進氣口無隔道、有鼓包）；雙外傾垂尾＋腹鰭；機腹平整無外掛（武器內置）。全機灰色低可視塗裝。",
-    "image_credit": "图片来自百度百科《歼-20》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-20》（教育参考）",
+    "img_key": "5f6be42e6024"
   },
   {
     "id": "j-20s",
@@ -4944,7 +5024,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "殲-20 的雙座型：座艙罩明顯加長為前後兩座，機背隆起延伸；其餘鴨翼、菱形機頭、雙外傾垂尾與單座型相同。",
-    "image_credit": "图片来自百度百科《歼-20S》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-20S》（教育参考）",
+    "img_key": "dcd75591d3a1"
   },
   {
     "id": "j-35a",
@@ -5002,7 +5083,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "陸基匿蹤：與艦載殲-35 同為無鴨翼中型雙發匿蹤，但主翼不可摺疊、無攔阻鉤。",
-    "image_credit": "图片来自百度百科《歼-35A》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-35A》（教育参考）",
+    "img_key": "60addb795c96"
   },
   {
     "id": "j-35",
@@ -5064,7 +5146,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "中型雙發匿蹤：機頭菱形、無鴨翼（與殲-20 最大差別）、雙外傾垂尾、DSI 進氣；艦載型主翼可摺疊、有攔阻鉤。",
-    "image_credit": "图片来自百度百科《歼-35》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-35》（教育参考）",
+    "img_key": "e7b957e9be63"
   },
   {
     "id": "j-16",
@@ -5121,7 +5204,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "重型雙發雙座 Flanker 外形：大型後掠翼＋兩具分開的發動機艙、雙垂尾；座艙為前後串列雙座；機翼下掛架多。與 Su-30 幾乎同形，靠灰色塗裝與國徽辨識。",
-    "image_credit": "图片来自百度百科《歼-16》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-16》（教育参考）",
+    "img_key": "42d64f8d8de2"
   },
   {
     "id": "j-16d",
@@ -5174,7 +5258,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "在殲-16 基礎上：翼尖換成長方形電戰吊艙（非飛彈掛架）、機頭下方無 IRST 球與機砲口，是最快的辨識點。",
-    "image_credit": "图片来自百度百科《歼-16D》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-16D》（教育参考）",
+    "img_key": "48512fb78bea"
   },
   {
     "id": "j-10c",
@@ -5231,7 +5316,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "與殲-10A 同為鴨翼＋腹部進氣，但進氣口為 DSI 蚌式（無隔道板、有鼓包），雷達罩較鈍，是最明顯差別。",
-    "image_credit": "图片来自百度百科《歼-10C》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-10C》（教育参考）",
+    "img_key": "fde710daefb0"
   },
   {
     "id": "j-10b",
@@ -5283,7 +5369,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
       }
     ],
-    "recog": "與殲-10C 同為 DSI 蚌式進氣（有鼓包），但雷達罩略尖、機頭下方有 IRST 紅外球，是與 C 型的細部差異。"
+    "recog": "與殲-10C 同為 DSI 蚌式進氣（有鼓包），但雷達罩略尖、機頭下方有 IRST 紅外球，是與 C 型的細部差異。",
+    "img_key": "543ecffc3bce"
   },
   {
     "id": "j-10a",
@@ -5335,7 +5422,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
       }
     ],
-    "recog": "單發單垂尾、大三角翼＋鴨翼；機腹進氣（矩形帶隔道板）；機腹有兩片腹鰭。"
+    "recog": "單發單垂尾、大三角翼＋鴨翼；機腹進氣（矩形帶隔道板）；機腹有兩片腹鰭。",
+    "img_key": "543ecffc3bce"
   },
   {
     "id": "j-11b",
@@ -5387,7 +5475,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-11"
       }
     ],
-    "recog": "單座重型 Flanker：雙發、雙垂尾、機背中央脊；機頭雷達罩較尖，翼尖為飛彈掛架。與 Su-27 外形幾乎相同。"
+    "recog": "單座重型 Flanker：雙發、雙垂尾、機背中央脊；機頭雷達罩較尖，翼尖為飛彈掛架。與 Su-27 外形幾乎相同。",
+    "img_key": "c7af140dff51"
   },
   {
     "id": "j-11bg",
@@ -5446,7 +5535,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/%E6%AD%BC-11"
       }
     ],
-    "image_credit": "图片来自百度百科《歼-11》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-11》（教育参考）",
+    "img_key": "c3ef85e96556"
   },
   {
     "id": "j-11a",
@@ -5499,7 +5589,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "早期 Flanker：外形同 Su-27，機頭 IRST 球偏右、翼尖為飛彈掛架；塗裝多為藍灰迷彩。",
-    "image_credit": "图片来自百度百科《歼-11》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-11》（教育参考）",
+    "img_key": "4d7e7f294796"
   },
   {
     "id": "j-15",
@@ -5556,7 +5647,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "艦載重型雙發 Flanker：機頭前方有鴨翼（Su-33 血統）、翼與尾翼可摺疊、機尾有著艦攔阻鉤、前起落架為雙輪加強型。",
-    "image_credit": "图片来自百度百科《歼-15》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-15》（教育参考）",
+    "img_key": "4ea98cc95ea6"
   },
   {
     "id": "j-15t",
@@ -5609,7 +5701,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "殲-15 彈射型：前起落架為「雙輪＋彈射拖曳桿」（掛在福建艦彈射器上），是與滑躍型最大差別。",
-    "image_credit": "图片来自百度百科《歼-15T》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-15T》（教育参考）",
+    "img_key": "0a355634072f"
   },
   {
     "id": "j-15d",
@@ -5662,7 +5755,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shenyang_J-15"
       }
     ],
-    "recog": "艦載電戰型：翼尖換成電戰吊艙、機頭無 IRST 球、串列雙座；同 J-16D 的改裝邏輯。"
+    "recog": "艦載電戰型：翼尖換成電戰吊艙、機頭無 IRST 球、串列雙座；同 J-16D 的改裝邏輯。",
+    "img_key": "6666671ab162"
   },
   {
     "id": "su-30mkk",
@@ -5723,7 +5817,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "雙座重型 Flanker，機頭有 IRST 球；與殲-16 幾乎同形，靠俄製塗裝與細部天線區分。",
-    "image_credit": "图片来自百度百科《苏-30战斗机》（教育参考）"
+    "image_credit": "图片来自百度百科《苏-30战斗机》（教育参考）",
+    "img_key": "309880548c83"
   },
   {
     "id": "su-30mk2",
@@ -5756,7 +5851,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Aircraft",
     "wiki": "Sukhoi Su-30",
-    "image": "assets/images/su-30mk2.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sukhoi_Su-30SM_in_flight_2014.jpg/330px-Sukhoi_Su-30SM_in_flight_2014.jpg",
     "source_tier": "US_DoD",
@@ -5837,7 +5932,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "重型雙發 Flanker，與殲-11 系相似；辨識點：無鴨翼、垂尾頂端切平、發動機噴口為向量推力（可偏轉）、俄式塗裝。",
-    "image_credit": "图片来自百度百科《苏-35战斗机》（教育参考）"
+    "image_credit": "图片来自百度百科《苏-35战斗机》（教育参考）",
+    "img_key": "c30f8369bf1d"
   },
   {
     "id": "su-27ubk",
@@ -5870,7 +5966,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Aircraft",
     "wiki": "Sukhoi Su-27",
-    "image": "assets/images/su-27ubk.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -5961,7 +6057,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "雙發、高置後掠翼（肩翼）、串列雙座、單垂尾＋腹鰭；機腹平坦掛載大型反艦飛彈時最好認。",
-    "image_credit": "图片来自百度百科《歼轰-7（中国歼击轰炸机）》（教育参考）"
+    "image_credit": "图片来自百度百科《歼轰-7（中国歼击轰炸机）》（教育参考）",
+    "img_key": "64f4416bdb48"
   },
   {
     "id": "h-6k",
@@ -6022,7 +6119,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "轟-6 家族：後掠翼、兩具發動機埋在翼根、玻璃機鼻。K 型辨識點：機鼻改為不透明黑色大雷達罩（無玻璃領航艙）、翼下 6 個大型掛架、進氣口明顯加大。",
-    "image_credit": "图片来自百度百科《轰-6K》（教育参考）"
+    "image_credit": "图片来自百度百科《轰-6K》（教育参考）",
+    "img_key": "07cbf7b5f234"
   },
   {
     "id": "h-6n",
@@ -6079,7 +6177,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "外形同轟-6K，但機腹中線有凹陷缺口（掛載空射彈道飛彈用）、機鼻上方多出空中受油探管。",
-    "image_credit": "图片来自百度百科《轰-6N》（教育参考）"
+    "image_credit": "图片来自百度百科《轰-6N》（教育参考）",
+    "img_key": "83082e2e7269"
   },
   {
     "id": "h-6j",
@@ -6132,7 +6231,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "海軍型轟-6K，外形幾乎相同，塗裝為海軍灰藍色，常掛 YJ-12 反艦飛彈。",
-    "image_credit": "图片来自百度百科《轰-6J》（教育参考）"
+    "image_credit": "图片来自百度百科《轰-6J》（教育参考）",
+    "img_key": "cc706020980d"
   },
   {
     "id": "h-6h",
@@ -6185,7 +6285,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "轟-6 中期型：仍保留玻璃機鼻（與 K 型的黑色雷達罩不同）、翼下掛 2 枚巡航飛彈。",
-    "image_credit": "图片来自百度百科《轰-6》（教育参考）"
+    "image_credit": "图片来自百度百科《轰-6》（教育参考）",
+    "img_key": "cc314aff1f21"
   },
   {
     "id": "j-8f",
@@ -6238,7 +6339,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "殲-8II 後期型：兩側進氣、細長機身、大三角翼；與早期型差在雷達罩與掛架，肉眼相近。",
-    "image_credit": "图片来自百度百科《歼-8》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-8》（教育参考）",
+    "img_key": "972500f6899c"
   },
   {
     "id": "j-7",
@@ -6290,7 +6392,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Chengdu_J-7"
       }
     ],
-    "recog": "小型單發、機鼻圓形進氣口中央帶進氣錐、三角翼、單垂尾——典型 MiG-21 外形。"
+    "recog": "小型單發、機鼻圓形進氣口中央帶進氣錐、三角翼、單垂尾——典型 MiG-21 外形。",
+    "img_key": "3cd5decd3645"
   },
   {
     "id": "kj-500",
@@ -6347,7 +6450,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "運-9 四發渦槳機身＋背部圓盤形固定雷達罩；與空警-2000 差在是螺旋槳、機身較小。",
-    "image_credit": "图片来自百度百科《空警-500》（教育参考）"
+    "image_credit": "图片来自百度百科《空警-500》（教育参考）",
+    "img_key": "fa9050cd4d2c"
   },
   {
     "id": "kj-200",
@@ -6402,7 +6506,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/KJ-200"
       }
     ],
-    "recog": "運-8/9 四發渦槳＋機背「平衡木」長條形雷達（非圓盤），是最好認的特徵。"
+    "recog": "運-8/9 四發渦槳＋機背「平衡木」長條形雷達（非圓盤），是最好認的特徵。",
+    "img_key": "d6efb1abfb52"
   },
   {
     "id": "kj-2000",
@@ -6458,7 +6563,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "伊爾-76 四發運輸機機身＋背部圓形固定式雷達罩（不旋轉），罩內為三面相位陣列，機背支柱明顯。"
+    "recog": "伊爾-76 四發運輸機機身＋背部圓形固定式雷達罩（不旋轉），罩內為三面相位陣列，機背支柱明顯。",
+    "img_key": "495150c5326d"
   },
   {
     "id": "kj-600",
@@ -6510,7 +6616,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/KJ-600"
       }
     ],
-    "recog": "艦載預警機：雙渦槳、背部圓盤形雷達罩、機翼可摺疊、雙垂尾；外形近似美製 E-2 鷹眼。"
+    "recog": "艦載預警機：雙渦槳、背部圓盤形雷達罩、機翼可摺疊、雙垂尾；外形近似美製 E-2 鷹眼。",
+    "img_key": "cb67843f3811"
   },
   {
     "id": "y-20",
@@ -6568,7 +6675,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "四發大型噴射運輸機：高置機翼、T 型尾翼較短、機身粗短寬厚、起落架多輪；外形類似 C-17 但較短胖。",
-    "image_credit": "图片来自百度百科《运-20》（教育参考）"
+    "image_credit": "图片来自百度百科《运-20》（教育参考）",
+    "img_key": "77a9abd78468"
   },
   {
     "id": "yy-20",
@@ -6621,7 +6729,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "運-20 改裝加油機：機翼下加掛兩具軟管加油吊艙，機身塗裝與運輸型相同。",
-    "image_credit": "图片来自百度百科《运油-20》（教育参考）"
+    "image_credit": "图片来自百度百科《运油-20》（教育参考）",
+    "img_key": "aa846f843411"
   },
   {
     "id": "y-9",
@@ -6674,7 +6783,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "運-8 改良：四葉→六葉螺旋槳（明顯特徵）、機頭雷達罩加大、無玻璃領航艙。",
-    "image_credit": "图片来自百度百科《运-9（中国研发的中型中程运输机）》（教育参考）"
+    "image_credit": "图片来自百度百科《运-9（中国研发的中型中程运输机）》（教育参考）",
+    "img_key": "974f1fd797c5"
   },
   {
     "id": "y-8",
@@ -6726,7 +6836,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Shaanxi_Y-9"
       }
     ],
-    "recog": "四發渦槳運輸機、高置機翼、機頭下方常有玻璃領航艙；家族衍生多，特種型機身常有各式天線/整流罩。"
+    "recog": "四發渦槳運輸機、高置機翼、機頭下方常有玻璃領航艙；家族衍生多，特種型機身常有各式天線/整流罩。",
+    "img_key": "6b07e9b2aabf"
   },
   {
     "id": "y-8gx",
@@ -6780,7 +6891,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "運-8/9 特種任務族：機身佈滿各式天線、整流罩、球形雷達或側面「刀狀」天線陣，依任務不同外形差異大。",
-    "image_credit": "图片来自百度百科《运-8》（教育参考）"
+    "image_credit": "图片来自百度百科《运-8》（教育参考）",
+    "img_key": "1968b0316c64"
   },
   {
     "id": "il-76",
@@ -6832,7 +6944,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
       }
     ],
-    "recog": "四發噴射運輸機：高置機翼、發動機吊掛翼下、T 型尾翼高聳、機頭下方有玻璃導航艙，機身粗壯。"
+    "recog": "四發噴射運輸機：高置機翼、發動機吊掛翼下、T 型尾翼高聳、機頭下方有玻璃導航艙，機身粗壯。",
+    "img_key": "ff1a4d17ce2f"
   },
   {
     "id": "il-78",
@@ -6884,7 +6997,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
       }
     ],
-    "recog": "由 Il-76 改裝的加油機：機翼下與機尾各有加油吊艙（圓柱狀莢艙），機身其餘同 Il-76。"
+    "recog": "由 Il-76 改裝的加油機：機翼下與機尾各有加油吊艙（圓柱狀莢艙），機身其餘同 Il-76。",
+    "img_key": "439a95537260"
   },
   {
     "id": "kq-200",
@@ -6938,7 +7052,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "反潛巡邏機：運-9 機身＋機尾細長的磁異偵測桿（MAD stinger）、機腹搜索雷達罩，是關鍵識別點。",
-    "image_credit": "图片来自百度百科《空潜200大型反潜巡逻机》（教育参考）"
+    "image_credit": "图片来自百度百科《空潜200大型反潜巡逻机》（教育参考）",
+    "img_key": "59c0980fee47"
   },
   {
     "id": "y-9jz",
@@ -6991,7 +7106,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "運-9 電子偵察型：機身兩側與腹部有大量刀狀天線與整流罩，無機尾磁探桿（與 KQ-200 的差別）。",
-    "image_credit": "图片来自百度百科《运-9电子侦察机》（教育参考）"
+    "image_credit": "图片来自百度百科《运-9电子侦察机》（教育参考）",
+    "img_key": "78c6153a138f"
   },
   {
     "id": "z-20",
@@ -7048,7 +7164,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "10 噸級通用直升機：五葉主旋翼（與美製黑鷹四葉不同，是關鍵辨識點）、傾斜尾槳、機身外形近似 UH-60。",
-    "image_credit": "图片来自百度百科《直-20战术通用直升机》（教育参考）"
+    "image_credit": "图片来自百度百科《直-20战术通用直升机》（教育参考）",
+    "img_key": "c79ee663f9ad"
   },
   {
     "id": "z-20f",
@@ -7102,7 +7219,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "艦載型直-20：五葉旋翼＋主旋翼與尾樑可摺疊（艦上收納用）、機腹雷達罩，是與陸軍型最大差別。",
-    "image_credit": "图片来自百度百科《直-20战术通用直升机》（教育参考）"
+    "image_credit": "图片来自百度百科《直-20战术通用直升机》（教育参考）",
+    "img_key": "ee77b37b3455"
   },
   {
     "id": "z-10",
@@ -7154,7 +7272,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/CAIC_Z-10"
       }
     ],
-    "recog": "專用武裝直升機：窄機身、串列雙座（後座高於前座）、機砲位於機頭下方、短翼掛架；發動機排氣口朝上（紅外抑制）。"
+    "recog": "專用武裝直升機：窄機身、串列雙座（後座高於前座）、機砲位於機頭下方、短翼掛架；發動機排氣口朝上（紅外抑制）。",
+    "img_key": "b041425302d3"
   },
   {
     "id": "z-19",
@@ -7206,7 +7325,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Harbin_Z-19"
       }
     ],
-    "recog": "輕型武裝偵察直升機：串列雙座、涵道式尾槳（尾部圓形涵道，最明顯特徵）、機頭上方常有毫米波雷達罩。"
+    "recog": "輕型武裝偵察直升機：串列雙座、涵道式尾槳（尾部圓形涵道，最明顯特徵）、機頭上方常有毫米波雷達罩。",
+    "img_key": "9b8854fa180b"
   },
   {
     "id": "z-9",
@@ -7263,7 +7383,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "輕型直升機：涵道式尾槳（Fenestron）、機身圓潤——源自法製海豚，家族衍生多。",
-    "image_credit": "图片来自百度百科《直-9》（教育参考）"
+    "image_credit": "图片来自百度百科《直-9》（教育参考）",
+    "img_key": "b2473379c132"
   },
   {
     "id": "z-9c",
@@ -7317,7 +7438,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "艦載型直-9：涵道尾槳＋機腹搜索雷達罩、機身側面有聲納吊放艙門，起落架加裝浮筒/繫留環。",
-    "image_credit": "图片来自百度百科《直-9》（教育参考）"
+    "image_credit": "图片来自百度百科《直-9》（教育参考）",
+    "img_key": "9487293eb28f"
   },
   {
     "id": "z-8",
@@ -7350,7 +7472,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Aircraft",
     "wiki": "Changhe Z-8",
-    "image": "assets/images/z-8.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Z8J_Chinese_Navy_%2816203585038%29.jpg/330px-Z8J_Chinese_Navy_%2816203585038%29.jpg",
     "source_tier": "US_open",
@@ -7435,7 +7557,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "直-8 深度改進：機腹船形艇體保留但更方正、發動機艙加大、機頭雷達罩明顯。",
-    "image_credit": "图片来自百度百科《直-18F》（教育参考）"
+    "image_credit": "图片来自百度百科《直-18F》（教育参考）",
+    "img_key": "2ab025b9df9e"
   },
   {
     "id": "z-18f",
@@ -7488,7 +7611,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "艦載反潛型直-18：機腹船形艇體＋機頭下方大型搜索雷達罩，機身側面有聲納浮標發射管。",
-    "image_credit": "图片来自百度百科《直-18F》（教育参考）"
+    "image_credit": "图片来自百度百科《直-18F》（教育参考）",
+    "img_key": "2ab025b9df9e"
   },
   {
     "id": "mi-17",
@@ -7544,7 +7668,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Mil_Mi-17"
       }
     ],
-    "recog": "俄製中型運輸直升機：五葉主旋翼、機身圓筒狀、後部蚌殼式艙門、發動機在座艙上方兩側。"
+    "recog": "俄製中型運輸直升機：五葉主旋翼、機身圓筒狀、後部蚌殼式艙門、發動機在座艙上方兩側。",
+    "img_key": "f8d6e6a4496a"
   },
   {
     "id": "ka-28",
@@ -7597,7 +7722,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "俄製共軸雙旋翼反潛直升機：上下兩組反向旋轉旋翼、無尾槳、雙垂尾，外形極易辨認。",
-    "image_credit": "图片来自百度百科《卡-28直升机》（教育参考）"
+    "image_credit": "图片来自百度百科《卡-28直升机》（教育参考）",
+    "img_key": "6a8074527987"
   },
   {
     "id": "ka-31",
@@ -7649,7 +7775,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Kamov_Ka-27"
       }
     ],
-    "recog": "同卡-28 的共軸雙旋翼，但機腹掛有可收放的長方形平板雷達天線（飛行時放下），非常好認。"
+    "recog": "同卡-28 的共軸雙旋翼，但機腹掛有可收放的長方形平板雷達天線（飛行時放下），非常好認。",
+    "img_key": "dd9b2764adcc"
   },
   {
     "id": "z-11",
@@ -7700,7 +7827,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Changhe_Z-11"
       }
     ],
-    "recog": "輕型直升機：機身小巧、傳統尾槳（非涵道）、滑橇式起落架，三葉主旋翼，常見於訓練與偵察。"
+    "recog": "輕型直升機：機身小巧、傳統尾槳（非涵道）、滑橇式起落架，三葉主旋翼，常見於訓練與偵察。",
+    "img_key": "c0e0fcef7433"
   },
   {
     "id": "jl-9",
@@ -7754,7 +7882,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Guizhou_JL-9"
       }
     ],
-    "recog": "高級教練機：由殲-7 發展，機頭圓錐雷達罩＋兩側進氣（非機鼻進氣）、三角翼、串列雙座。"
+    "recog": "高級教練機：由殲-7 發展，機頭圓錐雷達罩＋兩側進氣（非機鼻進氣）、三角翼、串列雙座。",
+    "img_key": "92ddaaff7263"
   },
   {
     "id": "jl-10",
@@ -7807,7 +7936,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Hongdu_L-15"
       }
     ],
-    "recog": "超音速高教機：小型雙發、兩側進氣、大型邊條翼、雙座氣泡罩；外形接近韓製 T-50。"
+    "recog": "超音速高教機：小型雙發、兩側進氣、大型邊條翼、雙座氣泡罩；外形接近韓製 T-50。",
+    "img_key": "89a5fdd8ddea"
   },
   {
     "id": "jl-8",
@@ -7859,7 +7989,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Hongdu_JL-8"
       }
     ],
-    "recog": "初/中級噴射教練機：小巧、平直下單翼、翼根進氣口、串列雙座氣泡座艙，常見紅白訓練塗裝。"
+    "recog": "初/中級噴射教練機：小巧、平直下單翼、翼根進氣口、串列雙座氣泡座艙，常見紅白訓練塗裝。",
+    "img_key": "245340afef41"
   },
   {
     "id": "y-5",
@@ -7912,7 +8043,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "雙翼機（上下兩層機翼＋支柱與張線），單發螺旋槳，是機隊中唯一的雙翼機，一眼可辨。",
-    "image_credit": "图片来自百度百科《运-5运输机》（教育参考）"
+    "image_credit": "图片来自百度百科《运-5运输机》（教育参考）",
+    "img_key": "cad697944f2a"
   },
   {
     "id": "y-7",
@@ -7964,7 +8096,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Xian_Y-7"
       }
     ],
-    "recog": "雙發渦槳支線機：機翼位於機身上方、雙垂尾為單片、機頭圓鈍（安-24 衍生）。"
+    "recog": "雙發渦槳支線機：機翼位於機身上方、雙垂尾為單片、機頭圓鈍（安-24 衍生）。",
+    "img_key": "5813b7ccdec5"
   },
   {
     "id": "ch-4",
@@ -8021,7 +8154,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "中空長航時察打機：細長機身、V 型尾翼、背部推進螺旋槳（推進式）、機翼下 4 個掛架；外形接近美製 MQ-1。",
-    "image_credit": "图片来自百度百科《彩虹-4无人机》（教育参考）"
+    "image_credit": "图片来自百度百科《彩虹-4无人机》（教育参考）",
+    "img_key": "e6a95b10534e"
   },
   {
     "id": "ch-5",
@@ -8085,7 +8219,8 @@ window.EQUIPMENT_DATA = [
     "image_license": "CC BY-SA 4.0",
     "image_source_url": "https://commons.wikimedia.org/wiki/File:CH-5_at_Airshow_China_Zhuhai_2022.jpg",
     "image_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "recog": "彩虹-5：比 CH-4 大一號，平直長翼展、V 型尾翼、機腹光電球；掛架可達 6 個以上。"
+    "recog": "彩虹-5：比 CH-4 大一號，平直長翼展、V 型尾翼、機腹光電球；掛架可達 6 個以上。",
+    "img_key": "73bdcddcfdee"
   },
   {
     "id": "wing-loong-2",
@@ -8138,7 +8273,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/CAIG_Wing_Loong"
       }
     ],
-    "recog": "翼龍-2：機身加大、改為 Y 型／倒 V 尾翼配置，翼展更長，掛架更多。"
+    "recog": "翼龍-2：機身加大、改為 Y 型／倒 V 尾翼配置，翼展更長，掛架更多。",
+    "img_key": "ffaf2d4c0d6c"
   },
   {
     "id": "wing-loong-1",
@@ -8191,7 +8327,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "翼龍-1：V 型尾翼、推進式螺旋槳、機腹光電球；與 CH-4 相似，機身較短、翼型略異。",
-    "image_credit": "图片来自百度百科《翼龙-1》（教育参考）"
+    "image_credit": "图片来自百度百科《翼龙-1》（教育参考）",
+    "img_key": "2eb6dc56e2ae"
   },
   {
     "id": "tb-001",
@@ -8255,7 +8392,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "雙尾蠍：明顯的雙尾撐（兩根尾樑連接雙垂尾）＋雙發動機並列於機身兩側，外形非常好認。",
-    "image_credit": "图片来自百度百科《TB-001》（教育参考）"
+    "image_credit": "图片来自百度百科《TB-001》（教育参考）",
+    "img_key": "22df21f5ac22"
   },
   {
     "id": "gj-11",
@@ -8316,7 +8454,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "飛翼佈局：無垂尾、無平尾，機體呈三角飛翼；背部進氣口、鋸齒狀噴口與艙門，全機匿蹤外形。",
-    "image_credit": "图片来自百度百科《攻击-11》（教育参考）"
+    "image_credit": "图片来自百度百科《攻击-11》（教育参考）",
+    "img_key": "a171acb074a1"
   },
   {
     "id": "wz-7",
@@ -8370,7 +8509,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "獨特「連翼（菱形翼）」設計：前後兩對機翼在翼尖相接成菱形環，全球少見，一眼可辨。",
-    "image_credit": "图片来自百度百科《无侦-7》（教育参考）"
+    "image_credit": "图片来自百度百科《无侦-7》（教育参考）",
+    "img_key": "bce6ef2081db"
   },
   {
     "id": "wz-8",
@@ -8426,7 +8566,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "黑色無人機，機身短粗、雙尾撐、腹部平整；由轟-6 機腹掛載空射，尾部為兩具火箭噴口。"
+    "recog": "黑色無人機，機身短粗、雙尾撐、腹部平整；由轟-6 機腹掛載空射，尾部為兩具火箭噴口。",
+    "img_key": "bcec1f79ce4c"
   },
   {
     "id": "bzk-005",
@@ -8478,7 +8619,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "中高空長航時偵察無人機：機身修長、雙尾撐＋倒 V 尾翼、背部推進螺旋槳，機腹光電球。",
-    "image_credit": "图片来自百度百科《BZK-005》（教育参考）"
+    "image_credit": "图片来自百度百科《BZK-005》（教育参考）",
+    "img_key": "a1810ddddaa1"
   },
   {
     "id": "asn-209",
@@ -8588,7 +8730,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/%E5%BD%A9%E8%99%B9-7%E9%AB%98%E7%A9%BA%E9%9A%90%E8%BA%AB%E6%97%A0%E4%BA%BA%E6%9C%BA"
       }
     ],
-    "image_credit": "图片来自百度百科《彩虹-7高空隐身无人机》（教育参考）"
+    "image_credit": "图片来自百度百科《彩虹-7高空隐身无人机》（教育参考）",
+    "img_key": "4e77b38ec0d1"
   },
   {
     "id": "wj-700",
@@ -8639,7 +8782,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/WJ-700"
       }
     ],
-    "recog": "高速察打無人機：噴射動力、機身流線、背部進氣口、翼下多掛架；外形比螺旋槳無人機更接近有人機。"
+    "recog": "高速察打無人機：噴射動力、機身流線、背部進氣口、翼下多掛架；外形比螺旋槳無人機更接近有人機。",
+    "img_key": "777785e87240"
   },
   {
     "id": "df-21d",
@@ -8673,7 +8817,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "DF-21",
-    "image": "assets/images/df-21d.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg/330px-DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg",
     "us_designation": "CSS-5 Mod (ASBM variant)",
@@ -8759,7 +8903,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "中程彈道飛彈：5 軸 TEL，彈體裸露圓柱形、頭部圓錐；DF-21 家族外形相近，靠彈頭段細節區分。"
+    "recog": "中程彈道飛彈：5 軸 TEL，彈體裸露圓柱形、頭部圓錐；DF-21 家族外形相近，靠彈頭段細節區分。",
+    "img_key": "72666c685ce7"
   },
   {
     "id": "df-26",
@@ -8821,7 +8966,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "中遠程飛彈：TEL 為 6 軸，飛彈裸露呈細長圓柱、彈頭段可見；比 DF-21 明顯更長。",
-    "image_credit": "图片来自百度百科《东风-26核常兼备导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《东风-26核常兼备导弹》（教育参考）",
+    "img_key": "062966fd9930"
   },
   {
     "id": "df-17",
@@ -8878,7 +9024,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "彈體上方為扁平的楔形高超音速滑翔體（非傳統圓錐彈頭），外形極特殊、一眼可辨。"
+    "recog": "彈體上方為扁平的楔形高超音速滑翔體（非傳統圓錐彈頭），外形極特殊、一眼可辨。",
+    "img_key": "c0a3bbd34806"
   },
   {
     "id": "df-15b",
@@ -8934,7 +9081,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "近程彈道飛彈：TEL 為 5 軸，彈體較 DF-11 長，彈頭段有明顯的機動彈頭控制翼。"
+    "recog": "近程彈道飛彈：TEL 為 5 軸，彈體較 DF-11 長，彈頭段有明顯的機動彈頭控制翼。",
+    "img_key": "0605f3f1fa1f"
   },
   {
     "id": "df-16",
@@ -8990,7 +9138,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://missilethreat.csis.org/country_tax/china/"
       }
     ],
-    "recog": "近程彈道飛彈：TEL 為 5 軸重型卡車，彈體裸露圓柱形，比 DF-11 明顯長粗、比 DF-21 短。"
+    "recog": "近程彈道飛彈：TEL 為 5 軸重型卡車，彈體裸露圓柱形，比 DF-11 明顯長粗、比 DF-21 短。",
+    "img_key": "036c75b37936"
   },
   {
     "id": "df-31ag",
@@ -9047,7 +9196,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "洲際飛彈：大型多軸 TEL，飛彈裝在白色圓筒「發射箱」內（不裸露），是與 DF-21/26 最快的區分點。"
+    "recog": "洲際飛彈：大型多軸 TEL，飛彈裝在白色圓筒「發射箱」內（不裸露），是與 DF-21/26 最快的區分點。",
+    "img_key": "02a491bacf93"
   },
   {
     "id": "df-41",
@@ -9109,7 +9259,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "洲際飛彈：極大型 TEL（多達 8 軸以上），飛彈裝在白色圓筒發射箱內，閱兵時最長的一款。",
-    "image_credit": "图片来自百度百科《东风-41洲际战略核导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《东风-41洲际战略核导弹》（教育参考）",
+    "img_key": "7955fdd34287"
   },
   {
     "id": "df-5c",
@@ -9142,7 +9293,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Missiles",
     "wiki": "DF-5",
-    "image": "assets/images/df-5c.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "CSS-4 Mod 4 (reported)",
     "dod_class": "ICBM",
@@ -9221,7 +9372,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "潛射彈道飛彈：比 JL-1 明顯加長加粗，頭部圓鈍；實物少見，多為示意圖或模型。"
+    "recog": "潛射彈道飛彈：比 JL-1 明顯加長加粗，頭部圓鈍；實物少見，多為示意圖或模型。",
+    "img_key": "1f40f6c1c634"
   },
   {
     "id": "jl-3",
@@ -9279,7 +9431,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "新一代潛射洲際飛彈：外形資料極少，公開多為 094/096 潛艦龜背輪廓推測。",
-    "image_credit": "图片来自百度百科《巨浪-3潜射洲际导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《巨浪-3潜射洲际导弹》（教育参考）",
+    "img_key": "e0d9d9feb9d8"
   },
   {
     "id": "cj-10",
@@ -9340,7 +9493,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "陸射巡航飛彈：發射車為 8×8 卡車＋3 具長方形發射箱（呈品字或並排），彈體平時不外露。",
-    "image_credit": "图片来自百度百科《长剑-10巡航导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《长剑-10巡航导弹》（教育参考）",
+    "img_key": "acd056055917"
   },
   {
     "id": "cj-20",
@@ -9397,7 +9551,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "空射巡航飛彈：掛在轟-6K 翼下，彈體細長、有可折疊的下垂彈翼與尾部渦扇進氣口。",
-    "image_credit": "图片来自百度百科《长剑-20A导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《长剑-20A导弹》（教育参考）",
+    "img_key": "bf57ca07d254"
   },
   {
     "id": "df-100",
@@ -9452,7 +9607,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "image_credit": "图片来自百度百科《长剑-100巡航导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《长剑-100巡航导弹》（教育参考）",
+    "img_key": "5c6f072f8cd9"
   },
   {
     "id": "yj-12",
@@ -9504,7 +9660,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/YJ-12"
       }
     ],
-    "recog": "超音速反艦飛彈：彈體粗短、四片大型三角尾翼、腹部有明顯的衝壓進氣道，外形肥壯。"
+    "recog": "超音速反艦飛彈：彈體粗短、四片大型三角尾翼、腹部有明顯的衝壓進氣道，外形肥壯。",
+    "img_key": "3ea3914aef2c"
   },
   {
     "id": "yj-12b",
@@ -9609,7 +9766,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "潛/艦射反艦飛彈，通常裝在垂發箱內看不到彈體；展示彈為細長圓柱＋末端衝刺段。",
-    "image_credit": "图片来自百度百科《鹰击-18A》（教育参考）"
+    "image_credit": "图片来自百度百科《鹰击-18A》（教育参考）",
+    "img_key": "6924f5678b45"
   },
   {
     "id": "yj-83",
@@ -9662,7 +9820,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/YJ-83"
       }
     ],
-    "recog": "亞音速反艦飛彈：彈體細長、腹部小型渦噴進氣口、四片折疊彈翼；比 YJ-12 細瘦許多。"
+    "recog": "亞音速反艦飛彈：彈體細長、腹部小型渦噴進氣口、四片折疊彈翼；比 YJ-12 細瘦許多。",
+    "img_key": "660ab0a13d27"
   },
   {
     "id": "yj-62",
@@ -9714,7 +9873,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/YJ-62"
       }
     ],
-    "recog": "遠程反艦：彈體細長圓柱、發射箱為長方形；岸防連常見 3 具箱體並排在卡車上。"
+    "recog": "遠程反艦：彈體細長圓柱、發射箱為長方形；岸防連常見 3 具箱體並排在卡車上。",
+    "img_key": "bfcfe9ca4250"
   },
   {
     "id": "yj-21",
@@ -9770,7 +9930,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "image_credit": "图片来自百度百科《鹰击-21导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《鹰击-21导弹》（教育参考）",
+    "img_key": "038d45494d79"
   },
   {
     "id": "yj-6",
@@ -9823,7 +9984,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/YJ-6"
       }
     ],
-    "recog": "老式空射反艦：彈體極大（像小飛機）、有中置後掠彈翼與尾翼，掛在轟-6 翼下時幾乎垂到地面。"
+    "recog": "老式空射反艦：彈體極大（像小飛機）、有中置後掠彈翼與尾翼，掛在轟-6 翼下時幾乎垂到地面。",
+    "img_key": "b8ff8c006f50"
   },
   {
     "id": "c-802a",
@@ -9875,7 +10037,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/YJ-83"
       }
     ],
-    "recog": "外銷型反艦飛彈：細長彈體＋腹部小進氣口、四片折疊彈翼，與 YJ-83 同源外形。"
+    "recog": "外銷型反艦飛彈：細長彈體＋腹部小進氣口、四片折疊彈翼，與 YJ-83 同源外形。",
+    "img_key": "11a724ee7691"
   },
   {
     "id": "pl-15",
@@ -9931,7 +10094,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "遠距空對空：彈體細長、四片小型尾舵（無大型中置彈翼），常掛在殲-20 內置彈艙或翼下。"
+    "recog": "遠距空對空：彈體細長、四片小型尾舵（無大型中置彈翼），常掛在殲-20 內置彈艙或翼下。",
+    "img_key": "ef6a4f78daef"
   },
   {
     "id": "pl-10",
@@ -9983,7 +10147,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PL-10"
       }
     ],
-    "recog": "近距格鬥彈：彈頭為多面體紅外成像尋標器（不透明馬賽克狀）、前部有四片小鴨翼。"
+    "recog": "近距格鬥彈：彈頭為多面體紅外成像尋標器（不透明馬賽克狀）、前部有四片小鴨翼。",
+    "img_key": "7c35c4d35388"
   },
   {
     "id": "pl-12",
@@ -10040,7 +10205,8 @@ window.EQUIPMENT_DATA = [
     "image_license": "CC0 1.0",
     "image_source_url": "https://commons.wikimedia.org/wiki/File:PL-12AE_air-to-air_missile.jpg",
     "image_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "recog": "中距空對空：中段有四片中置三角彈翼＋尾部四舵，比 PL-15 短粗。"
+    "recog": "中距空對空：中段有四片中置三角彈翼＋尾部四舵，比 PL-15 短粗。",
+    "img_key": "e60f067801bf"
   },
   {
     "id": "pl-17",
@@ -10149,7 +10315,8 @@ window.EQUIPMENT_DATA = [
     "image_credit": "中華民國國防部 / Wikimedia Commons",
     "image_license": "政府網站資料開放宣告（須署名）",
     "image_source_url": "https://commons.wikimedia.org/wiki/File:PL-8_missile_carried_by_PLAAF_J-10A.jpg",
-    "recog": "近距格鬥彈：彈頭為圓球形透明整流罩、前段有大型三角形鴨翼（源自以色列 Python-3）。"
+    "recog": "近距格鬥彈：彈頭為圓球形透明整流罩、前段有大型三角形鴨翼（源自以色列 Python-3）。",
+    "img_key": "ba7df436c973"
   },
   {
     "id": "pl-5e",
@@ -10201,7 +10368,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PL-5"
       }
     ],
-    "recog": "近距格鬥彈：外形與 PL-8 相似但彈體較細、鴨翼較小，是較早期的紅外彈。"
+    "recog": "近距格鬥彈：外形與 PL-8 相似但彈體較細、鴨翼較小，是較早期的紅外彈。",
+    "img_key": "fcf2f665dc39"
   },
   {
     "id": "type-003",
@@ -10237,7 +10405,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Chinese aircraft carrier Fujian",
-    "image": "assets/images/type-003.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "us_designation": "Fujian (CV-18) / Type 003",
     "dod_class": "Aircraft carrier (CATOBAR/EMALS)",
@@ -10299,7 +10467,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Chinese aircraft carrier Shandong",
-    "image": "assets/images/type-002.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg/330px-Chinese_aircraft_carrier_Shandong_in_2019.jpg",
     "us_designation": "Shandong (CV-17) / Type 002",
@@ -10389,7 +10557,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "遼寧艦：艦艏為上翹的滑躍甲板（無彈射器）、艦島高大且靠右舷後方，煙囪與艦島一體。"
+    "recog": "遼寧艦：艦艏為上翹的滑躍甲板（無彈射器）、艦島高大且靠右舷後方，煙囪與艦島一體。",
+    "img_key": "7332a464abf8"
   },
   {
     "id": "type-055",
@@ -10453,7 +10622,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "萬噸大驅：艦艏封閉式一體化桅杆（金字塔狀）、艦體線條方正匿蹤、艏艉共 112 具垂發、130mm 單管主砲。",
-    "image_credit": "图片来自百度百科《南昌号驱逐舰》（教育参考）"
+    "image_credit": "图片来自百度百科《南昌号驱逐舰》（教育参考）",
+    "img_key": "e7ad4c339186"
   },
   {
     "id": "type-052d",
@@ -10512,7 +10682,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "艦艏 130mm 單管主砲、四面固定相位陣列嵌在艦橋上、艏艉各 32 具垂發；煙囪兩座、艦體較 055 小一號。",
-    "image_credit": "图片来自百度百科《052D型驱逐舰》（教育参考）"
+    "image_credit": "图片来自百度百科《052D型驱逐舰》（教育参考）",
+    "img_key": "1c0f84452a90"
   },
   {
     "id": "type-052dl",
@@ -10569,7 +10740,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/%E5%8C%85%E5%A4%B4%E8%88%B0"
       }
     ],
-    "image_credit": "图片来自百度百科《焦作舰》（教育参考）"
+    "image_credit": "图片来自百度百科《焦作舰》（教育参考）",
+    "img_key": "48dd3924030a"
   },
   {
     "id": "type-052c",
@@ -10604,7 +10776,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Naval",
     "wiki": "Type 052C destroyer",
-    "image": "assets/images/type-052c.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "image_remote": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chinese_Navy_Guided-Missile_Destroyer_Xian_%28153%29_Departs_Joint_Base_Pearl_Harbor-Hickam_Following_the_Conclusion_of_RIMPAC_2016_160804-N-IU636-106.jpg/330px-Chinese_Navy_Guided-Missile_Destroyer_Xian_%28153%29_Departs_Joint_Base_Pearl_Harbor-Hickam_Following_the_Conclusion_of_RIMPAC_2016_160804-N-IU636-106.jpg",
     "us_designation": "Luyang II-class / Type 052C",
@@ -10689,7 +10861,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "無相位陣列：艦橋頂為俄式旋轉雷達、艦艏 100mm 砲、兩側單臂防空飛彈發射架，外觀較老式。",
-    "image_credit": "图片来自百度百科《中国人民解放军海军广州舰》（教育参考）"
+    "image_credit": "图片来自百度百科《中国人民解放军海军广州舰》（教育参考）",
+    "img_key": "3e8f8693f25f"
   },
   {
     "id": "type-051c",
@@ -10749,7 +10922,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "艦體為老式 051 加大版，艦艉甲板上有俄製「裡夫-M」轉輪式垂直發射器（圓形大轉盤），非常特殊。",
-    "image_credit": "图片来自百度百科《051C型驱逐舰》（教育参考）"
+    "image_credit": "图片来自百度百科《051C型驱逐舰》（教育参考）",
+    "img_key": "a0330160ece6"
   },
   {
     "id": "type-051b",
@@ -10809,7 +10983,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "單艦「深圳號」：艦體修長、上層建築方正大面積、原無垂發（後改裝），煙囪明顯外露。",
-    "image_credit": "图片来自百度百科《051B型驱逐舰》（教育参考）"
+    "image_credit": "图片来自百度百科《051B型驱逐舰》（教育参考）",
+    "img_key": "06f03e57948d"
   },
   {
     "id": "sovremenny",
@@ -10868,7 +11043,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E7%BA%A7%E9%A9%B1%E9%80%90%E8%88%B0"
       }
     ],
-    "image_credit": "图片来自百度百科《现代级驱逐舰》（教育参考）"
+    "image_credit": "图片来自百度百科《现代级驱逐舰》（教育参考）",
+    "img_key": "4568ae4fac2a"
   },
   {
     "id": "type-054a",
@@ -10927,7 +11103,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "護衛艦：艦艏 76mm 單管砲、艦橋前方 32 具垂發、艏艉各一座 730 近防砲，艦體外飄匿蹤造型。",
-    "image_credit": "图片来自百度百科《054A型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《054A型护卫舰》（教育参考）",
+    "img_key": "c5894d4b2043"
   },
   {
     "id": "type-054b",
@@ -10982,7 +11159,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/054B%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
-    "image_credit": "图片来自百度百科《054B型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《054B型护卫舰》（教育参考）",
+    "img_key": "917eb7cda6f2"
   },
   {
     "id": "type-054",
@@ -11036,7 +11214,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_054_frigate"
       }
     ],
-    "recog": "054 初型：艦艏 100mm 單管砲（054A 為 76mm）、無垂發（用八聯裝 HQ-7 發射架），是與 054A 的關鍵差別。"
+    "recog": "054 初型：艦艏 100mm 單管砲（054A 為 76mm）、無垂發（用八聯裝 HQ-7 發射架），是與 054A 的關鍵差別。",
+    "img_key": "379aa9983f46"
   },
   {
     "id": "type-056a",
@@ -11093,7 +11272,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/056A%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0"
       }
     ],
-    "image_credit": "图片来自百度百科《056A型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《056A型护卫舰》（教育参考）",
+    "img_key": "2e8c52b9fe93"
   },
   {
     "id": "type-056",
@@ -11151,7 +11331,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "輕型護衛艦：艦體小、艦艏 76mm 砲、艦艉直升機甲板但無機庫（056A 有拖曳聲納絞車）。",
-    "image_credit": "图片来自百度百科《056型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《056型护卫舰》（教育参考）",
+    "img_key": "f26e912dd884"
   },
   {
     "id": "type-053h3",
@@ -11212,7 +11393,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "老式護衛艦：艦艏 100mm 雙管砲（雙砲管）、中部兩組四聯裝反艦飛彈箱斜置、艦艉八聯裝 HQ-7。",
-    "image_credit": "图片来自百度百科《053H3型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《053H3型护卫舰》（教育参考）",
+    "img_key": "66e88546be92"
   },
   {
     "id": "type-022",
@@ -11267,7 +11449,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_022_missile_boat"
       }
     ],
-    "recog": "飛彈快艇：雙體穿浪船型（兩片艇體）、艙面平整匿蹤、艇艉兩側各 4 具反艦飛彈箱。"
+    "recog": "飛彈快艇：雙體穿浪船型（兩片艇體）、艙面平整匿蹤、艇艉兩側各 4 具反艦飛彈箱。",
+    "img_key": "a0d20fec83cd"
   },
   {
     "id": "type-075",
@@ -11326,7 +11509,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "兩棲攻擊艦：全通直甲板、艦島小而靠右舷、無滑躍；艦內為直升機庫與塢艙。",
-    "image_credit": "图片来自百度百科《075型两栖攻击舰》（教育参考）"
+    "image_credit": "图片来自百度百科《075型两栖攻击舰》（教育参考）",
+    "img_key": "e9e31fba61e6"
   },
   {
     "id": "type-076",
@@ -11383,7 +11567,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "新型兩棲攻擊艦：全通甲板＋艦島偏右，最大特徵是甲板上有「電磁彈射軌道」（供無人機起飛），075 沒有。",
-    "image_credit": "图片来自百度百科《076型两栖攻击舰》（教育参考）"
+    "image_credit": "图片来自百度百科《076型两栖攻击舰》（教育参考）",
+    "img_key": "47dba2bd8aa7"
   },
   {
     "id": "type-071",
@@ -11442,7 +11627,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "船塢登陸艦：艦艏 76mm 砲、上層建築方正匿蹤、艦艉為可注水塢艙、中後段直升機甲板。",
-    "image_credit": "图片来自百度百科《071型船坞登陆舰》（教育参考）"
+    "image_credit": "图片来自百度百科《071型船坞登陆舰》（教育参考）",
+    "img_key": "0d1782663c35"
   },
   {
     "id": "type-072a",
@@ -11496,7 +11682,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_072_landing_ship"
       }
     ],
-    "recog": "坦克登陸艦：艦艏為可開啟的蚌殼式艏門＋跳板、上層建築集中在艦艉、中部為平坦車輛甲板。"
+    "recog": "坦克登陸艦：艦艏為可開啟的蚌殼式艏門＋跳板、上層建築集中在艦艉、中部為平坦車輛甲板。",
+    "img_key": "1dbc27dba7f0"
   },
   {
     "id": "type-726",
@@ -11554,7 +11741,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/726%E5%9E%8B%E6%B0%94%E5%9E%AB%E7%99%BB%E9%99%86%E8%89%87"
       }
     ],
-    "image_credit": "图片来自百度百科《726型气垫登陆艇》（教育参考）"
+    "image_credit": "图片来自百度百科《726型气垫登陆艇》（教育参考）",
+    "img_key": "5e5b95db6621"
   },
   {
     "id": "type-093",
@@ -11620,7 +11808,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "攻擊核潛艦：艇身修長無龜背、指揮台圍殼較低長、艉部十字舵。",
-    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）",
+    "img_key": "9db82e7c7f44"
   },
   {
     "id": "type-093b",
@@ -11679,7 +11868,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/093B%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87"
       }
     ],
-    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）",
+    "img_key": "9db82e7c7f44"
   },
   {
     "id": "type-094",
@@ -11743,7 +11933,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "戰略核潛艦：艦體中後段有明顯隆起的「龜背」飛彈艙（容納 12 枚 JL-2），是關鍵辨識點。",
-    "image_credit": "图片来自百度百科《094型战略核潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《094型战略核潜艇》（教育参考）",
+    "img_key": "728eab4dd652"
   },
   {
     "id": "type-091",
@@ -11804,7 +11995,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "第一代攻擊核潛艦：指揮台圍殼較高且靠前、艇艏線條較鈍，艇身有明顯的排水孔列。",
-    "image_credit": "图片来自百度百科《091型攻击核潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《091型攻击核潜艇》（教育参考）",
+    "img_key": "c774ac23e577"
   },
   {
     "id": "type-039a",
@@ -11866,7 +12058,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "常規潛艦：指揮台圍殼前緣有明顯階梯狀折角、艇身圓胖（AIP 艙段），與宋級的圍殼線條不同。",
-    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）",
+    "img_key": "8179a822cc1d"
   },
   {
     "id": "type-039",
@@ -11925,7 +12118,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "宋級柴電潛艦：指揮台圍殼「前緣垂直」且有階梯狀凸起（與元級的圓弧圍殼不同）。",
-    "image_credit": "图片来自百度百科《039型潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《039型潜艇》（教育参考）",
+    "img_key": "a0aa0cc8b5dd"
   },
   {
     "id": "type-035",
@@ -11981,7 +12175,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/035%E5%9E%8B%E6%BD%9C%E8%89%87"
       }
     ],
-    "image_credit": "图片来自百度百科《035型潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《035型潜艇》（教育参考）",
+    "img_key": "4e42ef1deae3"
   },
   {
     "id": "kilo",
@@ -12039,7 +12234,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "俄製基洛級：艇身特別「圓胖」（水滴形明顯）、指揮台圍殼低矮平順，外號「大洋黑洞」。",
-    "image_credit": "图片来自百度百科《基洛级潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《基洛级潜艇》（教育参考）",
+    "img_key": "3250166b95d5"
   },
   {
     "id": "type-901",
@@ -12099,7 +12295,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "大型快速補給艦：比 903 更大、艦體高，補給站數量多，煙囪與上層建築更龐大。",
-    "image_credit": "图片来自百度百科《901型综合补给舰》（教育参考）"
+    "image_credit": "图片来自百度百科《901型综合补给舰》（教育参考）",
+    "img_key": "3146eef889fd"
   },
   {
     "id": "type-903a",
@@ -12163,7 +12360,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "綜合補給艦：艦身長、甲板上有 2～4 座高聳的補給龍門架（門型吊桿），艦艉直升機甲板。",
-    "image_credit": "图片来自百度百科《903a型补给舰》（教育参考）"
+    "image_credit": "图片来自百度百科《903a型补给舰》（教育参考）",
+    "img_key": "8efa37bc7bfc"
   },
   {
     "id": "type-815a",
@@ -12219,7 +12417,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "電子偵察艦：甲板上林立多個大型「白色球形雷達罩」（3～4 個），是全艦隊最好認的外形。",
-    "image_credit": "图片来自百度百科《815A型电子侦察船》（教育参考）"
+    "image_credit": "图片来自百度百科《815A型电子侦察船》（教育参考）",
+    "img_key": "3f5ea82feeb4"
   },
   {
     "id": "type-004-rumor",
@@ -12272,7 +12471,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/004%E5%9E%8B%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0"
       }
     ],
-    "image_credit": "图片来自百度百科《004型航空母舰》（教育参考）"
+    "image_credit": "图片来自百度百科《004型航空母舰》（教育参考）",
+    "img_key": "1fe6cb08a969"
   },
   {
     "id": "type-730",
@@ -12327,7 +12527,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "近防砲：7 管旋轉砲管＋砲塔上方一體化的追蹤雷達與光電球（砲塔較 1130 小）。",
-    "image_credit": "图片来自百度百科《730型30毫米近防炮系统》（教育参考）"
+    "image_credit": "图片来自百度百科《730型30毫米近防炮系统》（教育参考）",
+    "img_key": "467b5707c865"
   },
   {
     "id": "type-1130",
@@ -12381,7 +12582,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "近防砲：11 管旋轉砲管（管數明顯更多更密）、砲塔兩側各有彈鼓，射速極高。",
-    "image_credit": "图片来自百度百科《H/PJ-11型11管30毫米舰炮》（教育参考）"
+    "image_credit": "图片来自百度百科《H/PJ-11型11管30毫米舰炮》（教育参考）",
+    "img_key": "0bd0ac76a84a"
   },
   {
     "id": "yu-6",
@@ -12585,7 +12787,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
       }
     ],
-    "recog": "21 式作戰服：淺色「星空迷彩」（細碎點狀數位斑塊）、模組化背心與快拆結構。"
+    "recog": "21 式作戰服：淺色「星空迷彩」（細碎點狀數位斑塊）、模組化背心與快拆結構。",
+    "img_key": "ab7cb979067f"
   },
   {
     "id": "type-19-gear",
@@ -12637,7 +12840,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
       }
     ],
-    "recog": "19 式攜行具：模組化 MOLLE 織帶、快拆背心、常搭配星空迷彩與新式頭盔。"
+    "recog": "19 式攜行具：模組化 MOLLE 織帶、快拆背心、常搭配星空迷彩與新式頭盔。",
+    "img_key": "ab7cb979067f"
   },
   {
     "id": "type-07-uniform",
@@ -12690,7 +12894,8 @@ window.EQUIPMENT_DATA = [
       }
     ],
     "recog": "07 式軍服：較大塊的數位迷彩（比 21 式星空迷彩色塊粗），陸空海各有配色。",
-    "image_credit": "图片来自百度百科《中国人民解放军2007式军服》（教育参考）"
+    "image_credit": "图片来自百度百科《中国人民解放军2007式军服》（教育参考）",
+    "img_key": "1d74cd1af58d"
   },
   {
     "id": "qgf-11",
@@ -12792,7 +12997,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Uniforms_of_the_People%27s_Liberation_Army"
       }
     ],
-    "recog": "頭盔：芳綸複合材質、外形圓潤無盔沿，兩側有簡易掛點（新式 QGF-11 則有導軌與夜視座）。"
+    "recog": "頭盔：芳綸複合材質、外形圓潤無盔沿，兩側有簡易掛點（新式 QGF-11 則有導軌與夜視座）。",
+    "img_key": "5bef28a8d75a"
   },
   {
     "id": "bbg011a",
@@ -12976,7 +13182,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Engineer",
     "wiki": "",
-    "image": "assets/images/type-84-minelayer.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -13045,7 +13251,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/PCL-09"
       }
     ],
-    "recog": "122mm 車載砲：6×6 卡車後方架砲，砲管較 PCL-181 明顯短細，駕駛室為裝甲式。"
+    "recog": "122mm 車載砲：6×6 卡車後方架砲，砲管較 PCL-181 明顯短細，駕駛室為裝甲式。",
+    "img_key": "21706fbf915e"
   },
   {
     "id": "pll-01",
@@ -13151,7 +13358,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_63A"
       }
     ],
-    "recog": "63A式水陸坦克：低矮車體＋車艏大型滑水板、砲塔配 105mm 線膛砲、履帶側裙延伸，浮渡時艏板豎起。"
+    "recog": "63A式水陸坦克：低矮車體＋車艏大型滑水板、砲塔配 105mm 線膛砲、履帶側裙延伸，浮渡時艏板豎起。",
+    "img_key": "e57662080873"
   },
   {
     "id": "type-62",
@@ -13203,7 +13411,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_62_light_tank"
       }
     ],
-    "recog": "輕型坦克：外形像縮小版 59 式，圓形鑄造砲塔但車體明顯較窄較矮、負重輪較小。"
+    "recog": "輕型坦克：外形像縮小版 59 式，圓形鑄造砲塔但車體明顯較窄較矮、負重輪較小。",
+    "img_key": "29842fdaddd5"
   },
   {
     "id": "hq-6",
@@ -13259,7 +13468,8 @@ window.EQUIPMENT_DATA = [
         "label": "⚠️ 待蒐：資料尚待權威來源核實"
       }
     ],
-    "recog": "近程防空：牽引/車載發射架，彈體較短，常與高砲混編部署。"
+    "recog": "近程防空：牽引/車載發射架，彈體較短，常與高砲混編部署。",
+    "img_key": "ebb935f84cf1"
   },
   {
     "id": "fb-6c",
@@ -13369,7 +13579,8 @@ window.EQUIPMENT_DATA = [
     "image_license": "CC BY 2.0",
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Type_90B_Peru.jpg",
     "image_license_url": "https://creativecommons.org/licenses/by/2.0/",
-    "recog": "122mm 卡車火箭砲：8×8 卡車＋後方 40 管發射箱，與履帶版 PHZ-89 差在底盤。"
+    "recog": "122mm 卡車火箭砲：8×8 卡車＋後方 40 管發射箱，與履帶版 PHZ-89 差在底盤。",
+    "img_key": "1bd1d3a51cb6"
   },
   {
     "id": "type-83-sph",
@@ -13425,7 +13636,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/83%E5%BC%8F152%E6%AF%AB%E7%B1%B3%E8%87%AA%E8%A1%8C%E5%8A%A0%E6%A6%B4%E7%82%AE"
       }
     ],
-    "image_credit": "图片来自百度百科《83式152毫米自行加榴炮》（教育参考）"
+    "image_credit": "图片来自百度百科《83式152毫米自行加榴炮》（教育参考）",
+    "img_key": "22178e7479e1"
   },
   {
     "id": "type-66-152",
@@ -13478,7 +13690,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_66_152_mm_howitzer"
       }
     ],
-    "recog": "牽引加榴砲：雙輪大型砲架、長砲管配「胡椒罐」型多孔砲口制退器，射擊時放下兩根大架腿。"
+    "recog": "牽引加榴砲：雙輪大型砲架、長砲管配「胡椒罐」型多孔砲口制退器，射擊時放下兩根大架腿。",
+    "img_key": "c14c292f9abf"
   },
   {
     "id": "cs-sm1",
@@ -13586,7 +13799,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/Type_86_infantry_fighting_vehicle"
       }
     ],
-    "recog": "BMP-1 衍生：低矮扁平車體、小圓砲塔配 73mm 低壓短砲（砲管粗短）、砲塔頂有反戰車飛彈導軌。"
+    "recog": "BMP-1 衍生：低矮扁平車體、小圓砲塔配 73mm 低壓短砲（砲管粗短）、砲塔頂有反戰車飛彈導軌。",
+    "img_key": "2ed47d730800"
   },
   {
     "id": "type-92b",
@@ -13637,7 +13851,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/ZSL-92"
       }
     ],
-    "recog": "6×6 輪式裝甲車：六輪、車體較小、砲塔配 30mm 機砲；車艏有波浪板（兩棲能力）。"
+    "recog": "6×6 輪式裝甲車：六輪、車體較小、砲塔配 30mm 機砲；車艏有波浪板（兩棲能力）。",
+    "img_key": "a160b550ba5b"
   },
   {
     "id": "zbd-04a-at",
@@ -13690,7 +13905,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/ZBD-04"
       }
     ],
-    "recog": "以 04A 底盤改裝：砲塔換成可升降的「箱型飛彈發射架」（通常 8 聯裝紅箭-10），無主砲。"
+    "recog": "以 04A 底盤改裝：砲塔換成可升降的「箱型飛彈發射架」（通常 8 聯裝紅箭-10），無主砲。",
+    "img_key": "b907df2e018e"
   },
   {
     "id": "a100",
@@ -13745,7 +13961,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/MSN-100%20%E7%99%BE%E5%BC%8F"
       }
     ],
-    "image_credit": "图片来自百度百科《A100火箭炮》（教育参考）"
+    "image_credit": "图片来自百度百科《A100火箭炮》（教育参考）",
+    "img_key": "d59f100505e7"
   },
   {
     "id": "sr5",
@@ -13800,7 +14017,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BDSR-5%E8%87%AA%E8%A1%8C%E8%BF%9C%E7%A8%8B%E7%81%AB%E7%AE%AD%E7%82%AE"
       }
     ],
-    "image_credit": "图片来自百度百科《中国SR-5式多管自行火箭炮》（教育参考）"
+    "image_credit": "图片来自百度百科《中国SR-5式多管自行火箭炮》（教育参考）",
+    "img_key": "aaa474724353"
   },
   {
     "id": "pcz-171",
@@ -13902,7 +14120,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-9"
       }
     ],
-    "recog": "遠程防空：8×8 越野卡車＋4 具傾斜圓筒發射箱（冷發射，彈先彈出再點火）；配套大型平板相位陣列雷達車。"
+    "recog": "遠程防空：8×8 越野卡車＋4 具傾斜圓筒發射箱（冷發射，彈先彈出再點火）；配套大型平板相位陣列雷達車。",
+    "img_key": "734920e1d02b"
   },
   {
     "id": "hhq-9",
@@ -13955,7 +14174,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-9"
       }
     ],
-    "recog": "艦載遠程防空：看不到飛彈本體，識別靠載艦——052C/D、055 的甲板垂發陣列（方形格柵蓋板）。"
+    "recog": "艦載遠程防空：看不到飛彈本體，識別靠載艦——052C/D、055 的甲板垂發陣列（方形格柵蓋板）。",
+    "img_key": "734920e1d02b"
   },
   {
     "id": "hhq-16",
@@ -14008,7 +14228,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HQ-16"
       }
     ],
-    "recog": "艦載中程防空：054A 艦艏前方 32 格垂發陣列；平時只見甲板上的方形發射格蓋。"
+    "recog": "艦載中程防空：054A 艦艏前方 32 格垂發陣列；平時只見甲板上的方形發射格蓋。",
+    "img_key": "a6a53051a348"
   },
   {
     "id": "yj-18a",
@@ -14060,7 +14281,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/YJ-18"
       }
     ],
-    "image_credit": "图片来自百度百科《鹰击-18A》（教育参考）"
+    "image_credit": "图片来自百度百科《鹰击-18A》（教育参考）",
+    "img_key": "6924f5678b45"
   },
   {
     "id": "cx-1",
@@ -14112,7 +14334,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/CX-1_(missile)"
       }
     ],
-    "image_credit": "图片来自百度百科《CX-1巡航导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《CX-1巡航导弹》（教育参考）",
+    "img_key": "8c0f40afb8a3"
   },
   {
     "id": "cm-401",
@@ -14164,7 +14387,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/CM-401"
       }
     ],
-    "image_credit": "图片来自百度百科《CM401反舰导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《CM401反舰导弹》（教育参考）",
+    "img_key": "2afaf9973a53"
   },
   {
     "id": "akd-10",
@@ -14217,7 +14441,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/HJ-10"
       }
     ],
-    "recog": "空射反戰車飛彈：細長彈體、掛在直-10/直-19 短翼的多聯裝發射管內。"
+    "recog": "空射反戰車飛彈：細長彈體、掛在直-10/直-19 短翼的多聯裝發射管內。",
+    "img_key": "daeb15d7b6d4"
   },
   {
     "id": "ba-9",
@@ -14250,7 +14475,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "ATGM",
     "wiki": "",
-    "image": "assets/images/ba-9.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -14321,7 +14546,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/TY-90"
       }
     ],
-    "recog": "直升機專用空對空飛彈：體積很小（約 2 公尺），常 4 聯裝掛在直-10/直-19 短翼掛架上。"
+    "recog": "直升機專用空對空飛彈：體積很小（約 2 公尺），常 4 聯裝掛在直-10/直-19 短翼掛架上。",
+    "img_key": "214f34b420f7"
   },
   {
     "id": "ls-6",
@@ -14378,7 +14604,8 @@ window.EQUIPMENT_DATA = [
     "image_license": "CC0 1.0",
     "image_source_url": "https://commons.wikimedia.org/wiki/File:FTC-2000G_in_Zhuhai_airshow_2024.jpg",
     "image_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "recog": "滑翔炸彈：彈體為炸彈外形＋尾部可展開的「格柵/滑翔翼」，掛機時翼面收摺。"
+    "recog": "滑翔炸彈：彈體為炸彈外形＋尾部可展開的「格柵/滑翔翼」，掛機時翼面收摺。",
+    "img_key": "2ddb73029e14"
   },
   {
     "id": "ft-series",
@@ -14411,7 +14638,7 @@ window.EQUIPMENT_DATA = [
     ],
     "odin_hint": "Munitions",
     "wiki": "",
-    "image": "assets/images/ft-series.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "source_tier": "US_open",
     "source_authority": [
@@ -14531,7 +14758,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/KD-88"
       }
     ],
-    "recog": "空地飛彈：彈體中段有明顯的十字形彈翼、頭部為光電/電視導引透明整流罩。"
+    "recog": "空地飛彈：彈體中段有明顯的十字形彈翼、頭部為光電/電視導引透明整流罩。",
+    "img_key": "4acc026fbfca"
   },
   {
     "id": "yj-91",
@@ -14583,7 +14811,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/YJ-91"
       }
     ],
-    "recog": "反輻射飛彈：彈體細長、頭部為尖錐形被動雷達尋標器（無透明整流罩），四片小前翼。"
+    "recog": "反輻射飛彈：彈體細長、頭部為尖錐形被動雷達尋標器（無透明整流罩），四片小前翼。",
+    "img_key": "029fae816ed0"
   },
   {
     "id": "ld-10",
@@ -14634,7 +14863,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/LD-10"
       }
     ],
-    "image_credit": "图片来自百度百科《LD-10反辐射导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《LD-10反辐射导弹》（教育参考）",
+    "img_key": "19e745c24687"
   },
   {
     "id": "df-27",
@@ -14694,7 +14924,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "image_credit": "图片来自百科/公开页《东风-27远程弹道导弹》（教育参考）"
+    "image_credit": "图片来自百科/公开页《东风-27远程弹道导弹》（教育参考）",
+    "img_key": "82ab0c81b195"
   },
   {
     "id": "df-11a",
@@ -14752,7 +14983,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://missilethreat.csis.org/country_tax/china/"
       }
     ],
-    "recog": "近程彈道飛彈：TEL 為 4 軸較短，彈體裸露、彈頭圓錐形；車體比 DF-15 系列小。"
+    "recog": "近程彈道飛彈：TEL 為 4 軸較短，彈體裸露、彈頭圓錐形；車體比 DF-15 系列小。",
+    "img_key": "300d89d527a6"
   },
   {
     "id": "df-31b",
@@ -14805,7 +15037,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://en.wikipedia.org/wiki/DF-31"
       }
     ],
-    "image_credit": "图片来自百度百科《东风-31新型陆基洲际导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《东风-31新型陆基洲际导弹》（教育参考）",
+    "img_key": "09800fca1ed2"
   },
   {
     "id": "hq-19",
@@ -14863,7 +15096,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://fas.org/publication/the-2024-dod-china-military-power-report/"
       }
     ],
-    "recog": "反導攔截系統：8×8 大型越野卡車＋4 具「長型」方形發射箱（比 HQ-9 圓筒更長更方），專打彈道飛彈，配套大型 X 波段雷達車。"
+    "recog": "反導攔截系統：8×8 大型越野卡車＋4 具「長型」方形發射箱（比 HQ-9 圓筒更長更方），專打彈道飛彈，配套大型 X 波段雷達車。",
+    "img_key": "8d706109cecc"
   },
   {
     "id": "kj-3000",
@@ -14906,7 +15140,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "",
-    "image": "assets/images/kj-3000.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "空軍",
@@ -14983,7 +15217,8 @@ window.EQUIPMENT_DATA = [
         "url": "https://baike.baidu.com/item/%E6%AD%A5%E5%85%B5%E6%88%98%E8%BD%A6"
       }
     ],
-    "image_credit": "图片来自百度百科《VN22轮式装甲车》（教育参考）"
+    "image_credit": "图片来自百度百科《VN22轮式装甲车》（教育参考）",
+    "img_key": "cc7757168973"
   },
   {
     "id": "wz-9",
@@ -15027,7 +15262,7 @@ window.EQUIPMENT_DATA = [
     ],
     "source_tier": "US_DoD",
     "wiki": "Divine Eagle",
-    "image": "assets/images/wz-9.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "authority_verified": true,
     "branch": "空軍",
@@ -15088,7 +15323,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《安庆号护卫舰》"
+    "image_credit": "图片来自百度百科《安庆号护卫舰》",
+    "img_key": "b8c4db65f804"
   },
   {
     "id": "type-053h1g",
@@ -15135,7 +15371,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《053H1G型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《053H1G型护卫舰》（教育参考）",
+    "img_key": "7e94c3c64766"
   },
   {
     "id": "type-053h",
@@ -15182,7 +15419,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《053H型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《053H型护卫舰》（教育参考）",
+    "img_key": "6c718849c666"
   },
   {
     "id": "type-037",
@@ -15229,7 +15467,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "海南級獵潛艇：小型艇身、艦艏 57mm 雙管砲、艙面有反潛火箭發射架，外形樸實無匿蹤設計。"
+    "recog": "海南級獵潛艇：小型艇身、艦艏 57mm 雙管砲、艙面有反潛火箭發射架，外形樸實無匿蹤設計。",
+    "img_key": "b6249366f876"
   },
   {
     "id": "type-037is",
@@ -15276,7 +15515,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《037IS型反潜护卫艇》（教育参考）"
+    "image_credit": "图片来自百度百科《037IS型反潜护卫艇》（教育参考）",
+    "img_key": "cf0cb9e98470"
   },
   {
     "id": "type-062",
@@ -15323,7 +15563,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《062型护卫艇》（教育参考）"
+    "image_credit": "图片来自百度百科《062型护卫艇》（教育参考）",
+    "img_key": "27b45b25e90e"
   },
   {
     "id": "type-021",
@@ -15370,7 +15611,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《黄蜂级导弹艇》（教育参考）"
+    "image_credit": "图片来自百度百科《黄蜂级导弹艇》（教育参考）",
+    "img_key": "9c09579e8836"
   },
   {
     "id": "type-081",
@@ -15417,7 +15659,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "獵掃雷艦：艦體較寬扁、上層建築低矮方正、艦艉有遙控獵雷具收放平台，塗裝多為淺灰。"
+    "recog": "獵掃雷艦：艦體較寬扁、上層建築低矮方正、艦艉有遙控獵雷具收放平台，塗裝多為淺灰。",
+    "img_key": "aafc12d79138"
   },
   {
     "id": "type-082",
@@ -15463,7 +15706,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "掃雷艇：小型艇、艦艉甲板開闊放置掃雷具與絞盤，無大型武裝。"
+    "recog": "掃雷艇：小型艇、艦艉甲板開闊放置掃雷具與絞盤，無大型武裝。",
+    "img_key": "758c0ff45169"
   },
   {
     "id": "type-073",
@@ -15510,7 +15754,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "中型登陸艦：艦體較小、艦艏跳板、艦橋居中，甲板上常見裝甲車輛。"
+    "recog": "中型登陸艦：艦體較小、艦艏跳板、艦橋居中，甲板上常見裝甲車輛。",
+    "img_key": "9cb30f41e101"
   },
   {
     "id": "type-074",
@@ -15557,7 +15802,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "玉海級登陸艦：艦艏蚌殼式艏門＋跳板、上層建築集中艦艉、中段為平坦車輛甲板。"
+    "recog": "玉海級登陸艦：艦艏蚌殼式艏門＋跳板、上層建築集中艦艉、中段為平坦車輛甲板。",
+    "img_key": "9b00bac1f1f7"
   },
   {
     "id": "type-032",
@@ -15604,7 +15850,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《032型潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《032型潜艇》（教育参考）",
+    "img_key": "6b642201bdc2"
   },
   {
     "id": "type-039c",
@@ -15655,7 +15902,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）",
+    "img_key": "8179a822cc1d"
   },
   {
     "id": "type-092",
@@ -15706,7 +15954,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《092型战略导弹核潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《092型战略导弹核潜艇》（教育参考）",
+    "img_key": "12366dac0b74"
   },
   {
     "id": "type-096",
@@ -15800,7 +16049,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "羅密歐級潛艦：艇身粗短、指揮台圍殼高而方正（老式設計）、艏部線條圓鈍，與現代潛艦差異明顯。"
+    "recog": "羅密歐級潛艦：艇身粗短、指揮台圍殼高而方正（老式設計）、艏部線條圓鈍，與現代潛艦差異明顯。",
+    "img_key": "088833d6261b"
   },
   {
     "id": "type-904",
@@ -15847,7 +16097,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《904b型补给舰》（教育参考）"
+    "image_credit": "图片来自百度百科《904b型补给舰》（教育参考）",
+    "img_key": "4834ac2c7cdd"
   },
   {
     "id": "type-905",
@@ -15894,7 +16145,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《905型补给舰》（教育参考）"
+    "image_credit": "图片来自百度百科《905型补给舰》（教育参考）",
+    "img_key": "b1b30234aa45"
   },
   {
     "id": "type-926",
@@ -15942,7 +16194,8 @@ window.EQUIPMENT_DATA = [
     "authority_verified": true,
     "branch": "海軍",
     "branch_hint": "海軍",
-    "image_credit": "图片来自百度百科《926型潜艇支援舰》（教育参考）"
+    "image_credit": "图片来自百度百科《926型潜艇支援舰》（教育参考）",
+    "img_key": "096d457fc5d8"
   },
   {
     "id": "type-920",
@@ -15990,7 +16243,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "醫院船：全白船身＋巨大紅十字標誌、艦艉直升機甲板，外形像客輪，絕不會認錯。"
+    "recog": "醫院船：全白船身＋巨大紅十字標誌、艦艉直升機甲板，外形像客輪，絕不會認錯。",
+    "img_key": "c828f296bce8"
   },
   {
     "id": "yuanwang",
@@ -16037,7 +16291,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "航天遠洋測量船：船身白色、甲板上有 2～3 座巨大的白色球形／碟形測控天線罩，外形像海上天文台，全球僅少數國家擁有。"
+    "recog": "航天遠洋測量船：船身白色、甲板上有 2～3 座巨大的白色球形／碟形測控天線罩，外形像海上天文台，全球僅少數國家擁有。",
+    "img_key": "090183e25d2a"
   },
   {
     "id": "type-636a",
@@ -16083,7 +16338,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《636A型测量船》（教育参考）"
+    "image_credit": "图片来自百度百科《636A型测量船》（教育参考）",
+    "img_key": "4bcd61a15095"
   },
   {
     "id": "type-818",
@@ -16132,7 +16388,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百科/公开页《818型巡逻舰》（教育参考）"
+    "image_credit": "图片来自百科/公开页《818型巡逻舰》（教育参考）",
+    "img_key": "aa6670c65f51"
   },
   {
     "id": "type-718b",
@@ -16214,7 +16471,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型運輸直升機",
     "form_en": "",
     "wiki": "Harbin Z-8",
-    "image": "assets/images/z-8g.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16270,7 +16527,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "直-8L 寬體型：機身明顯加寬（可載輕型車輛）、機腹船形艇體、三發、六葉主旋翼。"
+    "recog": "直-8L 寬體型：機身明顯加寬（可載輕型車輛）、機腹船形艇體、三發、六葉主旋翼。",
+    "img_key": "2a967455228b"
   },
   {
     "id": "z-9w",
@@ -16316,7 +16574,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "直-9W 武裝型：涵道尾槳＋機身兩側短翼掛架（反戰車飛彈/火箭），機頭下方常有光電轉塔。"
+    "recog": "直-9W 武裝型：涵道尾槳＋機身兩側短翼掛架（反戰車飛彈/火箭），機頭下方常有光電轉塔。",
+    "img_key": "3b4632d38a83"
   },
   {
     "id": "z-19e",
@@ -16362,7 +16621,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《直-19武装直升机》（教育参考）"
+    "image_credit": "图片来自百度百科《直-19武装直升机》（教育参考）",
+    "img_key": "4be17117b377"
   },
   {
     "id": "z-11wb",
@@ -16408,7 +16668,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "直-11WB：輕型武裝直升機、滑橇起落架、傳統尾槳、機身兩側小型短翼掛載飛彈。"
+    "recog": "直-11WB：輕型武裝直升機、滑橇起落架、傳統尾槳、機身兩側小型短翼掛載飛彈。",
+    "img_key": "c0e0fcef7433"
   },
   {
     "id": "z-15",
@@ -16445,7 +16706,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "中型多用途直升機",
     "form_en": "",
     "wiki": "Airbus Helicopters H175",
-    "image": "assets/images/z-15.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16493,7 +16754,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "對地攻擊機",
     "form_en": "",
     "wiki": "Nanchang Q-5",
-    "image": "assets/images/q-5.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16552,7 +16813,8 @@ window.EQUIPMENT_DATA = [
     "authority_verified": true,
     "branch": "空軍",
     "recog": "殲-7 的雙三角翼改型：機翼前緣有明顯轉折（內段大後掠、外段較平直），與早期殲-7 的純三角翼不同。",
-    "image_credit": "图片来自百度百科《歼-7》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-7》（教育参考）",
+    "img_key": "7d0b3e98dbf9"
   },
   {
     "id": "j-8b",
@@ -16598,7 +16860,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《歼-8》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-8》（教育参考）",
+    "img_key": "e3d3f840753a"
   },
   {
     "id": "ch-3",
@@ -16645,7 +16908,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《彩虹-3无人机》（教育参考）"
+    "image_credit": "图片来自百度百科《彩虹-3无人机》（教育参考）",
+    "img_key": "4ff535750712"
   },
   {
     "id": "wing-loong-10",
@@ -16697,7 +16961,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《翼龙-10》（教育参考）"
+    "image_credit": "图片来自百度百科《翼龙-10》（教育参考）",
+    "img_key": "61e915eb8634"
   },
   {
     "id": "wz-5",
@@ -16745,7 +17010,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《无人侦察-5》（教育参考）"
+    "image_credit": "图片来自百度百科《无人侦察-5》（教育参考）",
+    "img_key": "8969828ee9ac"
   },
   {
     "id": "asn-206",
@@ -16781,7 +17047,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "戰術偵察無人機（ASN-206）",
     "form_en": "",
     "wiki": "ASN-206",
-    "image": "assets/images/asn-206.png",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16828,7 +17094,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "電子戰機（Y-8 平台）",
     "form_en": "",
     "wiki": "Shaanxi Y-8",
-    "image": "assets/images/y-8g.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -16889,7 +17155,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《运-9（中国研发的中型中程运输机）》（教育参考）"
+    "image_credit": "图片来自百度百科《运-9（中国研发的中型中程运输机）》（教育参考）",
+    "img_key": "974f1fd797c5"
   },
   {
     "id": "kj-500a",
@@ -16935,7 +17202,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "空警-500A：運-9 平台＋背部圓盤固定雷達罩，A 型機頭上方多出「空中受油探管」，是與基本型差別。"
+    "recog": "空警-500A：運-9 平台＋背部圓盤固定雷達罩，A 型機頭上方多出「空中受油探管」，是與基本型差別。",
+    "img_key": "5c5047fad21f"
   },
   {
     "id": "type-59",
@@ -16982,7 +17250,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "老式中型坦克：圓形鑄造砲塔（半球形）、五對負重輪且間距均勻、100mm 線膛砲有抽煙裝置。"
+    "recog": "老式中型坦克：圓形鑄造砲塔（半球形）、五對負重輪且間距均勻、100mm 線膛砲有抽煙裝置。",
+    "img_key": "9a6c706cb7d0"
   },
   {
     "id": "type-69",
@@ -17029,7 +17298,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "老式坦克：圓形鑄造砲塔＋砲塔前方常見紅外探照燈（大圓筒）、五對負重輪，與 59 式極相似。"
+    "recog": "老式坦克：圓形鑄造砲塔＋砲塔前方常見紅外探照燈（大圓筒）、五對負重輪，與 59 式極相似。",
+    "img_key": "49de9d9caf67"
   },
   {
     "id": "type-79",
@@ -17075,7 +17345,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "79式主戰坦克：外形近似 69 式（圓形鑄造砲塔），但換裝 105mm 線膛砲並加裝現代火控，砲管較長。"
+    "recog": "79式主戰坦克：外形近似 69 式（圓形鑄造砲塔），但換裝 105mm 線膛砲並加裝現代火控，砲管較長。",
+    "img_key": "479f8ad701ac"
   },
   {
     "id": "type-80",
@@ -17121,7 +17392,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《80式主战坦克》（教育参考）"
+    "image_credit": "图片来自百度百科《80式主战坦克》（教育参考）",
+    "img_key": "a5ec83ba805d"
   },
   {
     "id": "ptl-02",
@@ -17168,7 +17440,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《PTL-02轮式突击炮》（教育参考）"
+    "image_credit": "图片来自百度百科《PTL-02轮式突击炮》（教育参考）",
+    "img_key": "5b1ed390bd95"
   },
   {
     "id": "wz-523",
@@ -17214,7 +17487,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "WZ-523 輪式裝甲車：6×6、車體較高、車艏尖楔形、車頂機槍塔小；主要外銷。"
+    "recog": "WZ-523 輪式裝甲車：6×6、車體較高、車艏尖楔形、車頂機槍塔小；主要外銷。",
+    "img_key": "d486948c315e"
   },
   {
     "id": "plz-45",
@@ -17260,7 +17534,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "155mm 外銷自走砲：砲塔方正、長砲管配大型砲口制退器；外銷中東故多為沙漠塗裝。"
+    "recog": "155mm 外銷自走砲：砲塔方正、長砲管配大型砲口制退器；外銷中東故多為沙漠塗裝。",
+    "img_key": "b81d6568fdc5"
   },
   {
     "id": "plz-52",
@@ -17306,7 +17581,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《155mm自行榴弹炮》（教育参考）"
+    "image_credit": "图片来自百度百科《155mm自行榴弹炮》（教育参考）",
+    "img_key": "b432553adc68"
   },
   {
     "id": "sh-15",
@@ -17353,7 +17629,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《SH-15型155毫米车载加榴炮》（教育参考）"
+    "image_credit": "图片来自百度百科《SH-15型155毫米车载加榴炮》（教育参考）",
+    "img_key": "d51ded16f794"
   },
   {
     "id": "phl-11",
@@ -17445,7 +17722,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《扫雷车》（教育参考）"
+    "image_credit": "图片来自百度百科《扫雷车》（教育参考）",
+    "img_key": "fb264c7a9b61"
   },
   {
     "id": "gcz-112",
@@ -17537,7 +17815,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《84式坦克架桥车》（教育参考）"
+    "image_credit": "图片来自百度百科《84式坦克架桥车》（教育参考）",
+    "img_key": "31e08d927e2e"
   },
   {
     "id": "type-654-arv",
@@ -17574,7 +17853,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "裝甲搶救車（ARV）",
     "form_en": "",
     "wiki": "Type 654 armoured recovery vehicle",
-    "image": "assets/images/type-654-arv.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17632,7 +17911,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《JY-27雷达》（教育参考）"
+    "image_credit": "图片来自百度百科《JY-27雷达》（教育参考）",
+    "img_key": "bd2f27481e9e"
   },
   {
     "id": "ylc-8b",
@@ -17679,7 +17959,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《YLC-8E型UHF波段三坐标警戒雷达》（教育参考）"
+    "image_credit": "图片来自百度百科《YLC-8E型UHF波段三坐标警戒雷达》（教育参考）",
+    "img_key": "57b5a5496858"
   },
   {
     "id": "slc-7",
@@ -17726,7 +18007,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百科/公开页《SLC-7型L波段三坐标警戒雷达》（教育参考）"
+    "image_credit": "图片来自百科/公开页《SLC-7型L波段三坐标警戒雷达》（教育参考）",
+    "img_key": "44bc9a33520b"
   },
   {
     "id": "slc-2",
@@ -17774,7 +18056,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《炮位侦察雷达》（教育参考）"
+    "image_credit": "图片来自百度百科《炮位侦察雷达》（教育参考）",
+    "img_key": "e108b29e21ec"
   },
   {
     "id": "jyl-1",
@@ -17821,7 +18104,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《JYL-1雷达》（教育参考）"
+    "image_credit": "图片来自百度百科《JYL-1雷达》（教育参考）",
+    "img_key": "6724b3a17b4e"
   },
   {
     "id": "type-120-radar",
@@ -17858,7 +18142,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "低空補盲雷達",
     "form_en": "",
     "wiki": "Type 305A radar",
-    "image": "assets/images/type-120-radar.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -17906,7 +18190,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "被動電子偵測定位系統（ESM）",
     "form_en": "",
     "wiki": "DWL-002",
-    "image": "assets/images/dwl-002.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -18010,7 +18294,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《霹雳9型空空导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《霹雳9型空空导弹》（教育参考）",
+    "img_key": "607c39343c7f"
   },
   {
     "id": "pl-11",
@@ -18057,7 +18342,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百科/公开页《霹雳-11空空导弹》（教育参考）"
+    "image_credit": "图片来自百科/公开页《霹雳-11空空导弹》（教育参考）",
+    "img_key": "18e608f72675"
   },
   {
     "id": "pl-21",
@@ -18150,7 +18436,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "紅箭-73：小型有線導引反戰車飛彈，發射時彈體有四片大型彈翼展開，多架在三腳架或車頂導軌。"
+    "recog": "紅箭-73：小型有線導引反戰車飛彈，發射時彈體有四片大型彈翼展開，多架在三腳架或車頂導軌。",
+    "img_key": "5c0edb7d9cc3"
   },
   {
     "id": "hj-11",
@@ -18242,7 +18529,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "紅旗-2：大型飛彈架在傾斜的三角形發射架上（裸露），彈體細長、尾部四片大三角翼，源自蘇聯 SA-2。"
+    "recog": "紅旗-2：大型飛彈架在傾斜的三角形發射架上（裸露），彈體細長、尾部四片大三角翼，源自蘇聯 SA-2。",
+    "img_key": "256ffa04f428"
   },
   {
     "id": "hq-12",
@@ -18291,7 +18579,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "中程防空：飛彈架在傾斜的雙軌發射架上「裸露」不裝箱，可直接看到彈體與彈翼，很好認。"
+    "recog": "中程防空：飛彈架在傾斜的雙軌發射架上「裸露」不裝箱，可直接看到彈體與彈翼，很好認。",
+    "img_key": "f9b59fd5aeba"
   },
   {
     "id": "df-3",
@@ -18339,7 +18628,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "image_credit": "图片来自百度百科《东风-3弹道导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《东风-3弹道导弹》（教育参考）",
+    "img_key": "efbc07a697d0"
   },
   {
     "id": "df-4",
@@ -18387,7 +18677,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "image_credit": "图片来自百度百科《东风-4弹道导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《东风-4弹道导弹》（教育参考）",
+    "img_key": "7a998a2e2dc8"
   },
   {
     "id": "df-21c",
@@ -18575,7 +18866,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "通用",
-    "recog": "95 式班機：無托佈局＋75 發大型圓形彈鼓掛在槍身下方、槍管加長加重、兩腳架。"
+    "recog": "95 式班機：無托佈局＋75 發大型圓形彈鼓掛在槍身下方、槍管加長加重、兩腳架。",
+    "img_key": "337cb2e98a3a"
   },
   {
     "id": "qbb-191",
@@ -18621,7 +18913,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "通用",
-    "recog": "191 班機：有托佈局、長重槍管＋兩腳架、可用彈鼓或彈匣，頂部全長導軌。"
+    "recog": "191 班機：有托佈局、長重槍管＋兩腳架、可用彈鼓或彈匣，頂部全長導軌。",
+    "img_key": "38abc991378a"
   },
   {
     "id": "type-56-sks",
@@ -18668,7 +18961,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "通用",
-    "recog": "半自動步槍：固定式木質全長槍托、10 發固定彈倉（不可拆彈匣）、槍下方摺疊式刺刀。"
+    "recog": "半自動步槍：固定式木質全長槍托、10 發固定彈倉（不可拆彈匣）、槍下方摺疊式刺刀。",
+    "img_key": "5dd4f0a95fbc"
   },
   {
     "id": "type-54-pistol",
@@ -18715,7 +19009,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "通用",
-    "recog": "54式手槍：套筒方正平直、握把有直紋、無外露擊錘護罩；源自蘇聯 TT-33，與 59 式（馬卡洛夫，圓潤）外形明顯不同。"
+    "recog": "54式手槍：套筒方正平直、握把有直紋、無外露擊錘護罩；源自蘇聯 TT-33，與 59 式（馬卡洛夫，圓潤）外形明顯不同。",
+    "img_key": "0ce9a83ce4b3"
   },
   {
     "id": "type-64-pistol",
@@ -18760,7 +19055,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "通用",
-    "recog": "小型自衛手槍：套筒方正、體積小、握把短；微聲型前方加裝粗大消音筒。"
+    "recog": "小型自衛手槍：套筒方正、體積小、握把短；微聲型前方加裝粗大消音筒。",
+    "img_key": "1fdd48584706"
   },
   {
     "id": "type-85-sniper",
@@ -18808,7 +19104,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《85式狙击步枪》（教育参考）"
+    "image_credit": "图片来自百度百科《85式狙击步枪》（教育参考）",
+    "img_key": "17315ac13f6b"
   },
   {
     "id": "w85-hmg",
@@ -18901,7 +19198,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《PF89A式80毫米单兵多用途火箭筒》（教育参考）"
+    "image_credit": "图片来自百度百科《PF89A式80毫米单兵多用途火箭筒》（教育参考）",
+    "img_key": "b23431ae293f"
   },
   {
     "id": "fhj-84",
@@ -18947,7 +19245,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《FHJ84式62MM单兵火箭筒》（教育参考）"
+    "image_credit": "图片来自百度百科《FHJ84式62MM单兵火箭筒》（教育参考）",
+    "img_key": "9bd22d3af590"
   },
   {
     "id": "qlb-06",
@@ -18993,7 +19292,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《QLB-06》（教育参考）"
+    "image_credit": "图片来自百度百科《QLB-06》（教育参考）",
+    "img_key": "de297ae7546a"
   },
   {
     "id": "type-051",
@@ -19041,7 +19341,8 @@ window.EQUIPMENT_DATA = [
     "authority_verified": true,
     "branch": "海軍",
     "recog": "旅大級驅逐艦：艦艏艦艉各一座「雙管 130mm 砲」（砲管明顯成對）、中段兩組三聯裝反艦飛彈箱，上層建築老式方正。",
-    "image_credit": "图片来自百度百科《051型驱逐舰》（教育参考）"
+    "image_credit": "图片来自百度百科《051型驱逐舰》（教育参考）",
+    "img_key": "4b2256ff96c1"
   },
   {
     "id": "type-053h1",
@@ -19088,7 +19389,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《053H1型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《053H1型护卫舰》（教育参考）",
+    "img_key": "d549e9d46fd6"
   },
   {
     "id": "type-037ii",
@@ -19135,7 +19437,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "紅箭級飛彈艇：037 艇體加裝反艦飛彈箱（艦舯兩側各三具），艦艏 37mm 雙管砲。"
+    "recog": "紅箭級飛彈艇：037 艇體加裝反艦飛彈箱（艦舯兩側各三具），艦艏 37mm 雙管砲。",
+    "img_key": "086ec982bf30"
   },
   {
     "id": "type-024",
@@ -19182,7 +19485,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百科/公开页《河谷级导弹快艇》（教育参考）"
+    "image_credit": "图片来自百科/公开页《河谷级导弹快艇》（教育参考）",
+    "img_key": "c9a5b4d73ce6"
   },
   {
     "id": "type-909",
@@ -19321,7 +19625,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "玉亭II級登陸艦：艦艏蚌殼艏門、艦艉增設直升機甲板，上層建築較 072II 更完整。"
+    "recog": "玉亭II級登陸艦：艦艏蚌殼艏門、艦艉增設直升機甲板，上層建築較 072II 更完整。",
+    "img_key": "73ffcbe5eca2"
   },
   {
     "id": "type-095",
@@ -19359,7 +19664,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "次世代攻擊核潛艇（SSN）",
     "form_en": "",
     "wiki": "Type 095 submarine",
-    "image": "assets/images/type-095.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19424,7 +19729,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《元级潜艇》（教育参考）",
+    "img_key": "8179a822cc1d"
   },
   {
     "id": "h-6d",
@@ -19473,7 +19779,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《轰-6》（教育参考）"
+    "image_credit": "图片来自百度百科《轰-6》（教育参考）",
+    "img_key": "23bf390074aa"
   },
   {
     "id": "hy-6",
@@ -19520,7 +19827,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "轟油-6 加油機：轟-6 機身但翼下掛兩具軟管加油吊艙（圓柱狀莢艙），機鼻仍為玻璃領航艙。"
+    "recog": "轟油-6 加油機：轟-6 機身但翼下掛兩具軟管加油吊艙（圓柱狀莢艙），機鼻仍為玻璃領航艙。",
+    "img_key": "7039bc1f3c24"
   },
   {
     "id": "su-27sk",
@@ -19567,7 +19875,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "俄製原裝 Flanker：機頭 IRST 球、翼尖掛架、垂尾頂端有明顯的方形整流罩，塗裝為俄式藍灰。"
+    "recog": "俄製原裝 Flanker：機頭 IRST 球、翼尖掛架、垂尾頂端有明顯的方形整流罩，塗裝為俄式藍灰。",
+    "img_key": "2791bfa7fcde"
   },
   {
     "id": "j-10s",
@@ -19604,7 +19913,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "雙座多用途戰機（殲-10S）",
     "form_en": "",
     "wiki": "Chengdu J-10",
-    "image": "assets/images/j-10s.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -19662,7 +19971,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "輕型雙發渦槳：方正機身、高置平直機翼、固定式起落架（不收放）是最好認的特徵。"
+    "recog": "輕型雙發渦槳：方正機身、高置平直機翼、固定式起落架（不收放）是最好認的特徵。",
+    "img_key": "e415448951ce"
   },
   {
     "id": "ch-6",
@@ -19709,7 +20019,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《彩虹-6无人机》（教育参考）"
+    "image_credit": "图片来自百度百科《彩虹-6无人机》（教育参考）",
+    "img_key": "3f50122cf426"
   },
   {
     "id": "type-63-apc",
@@ -19757,7 +20068,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "63式裝甲輸送車：車體低矮方正、車頂平坦僅一挺機槍、四對小負重輪，是中國第一代履帶 APC。"
+    "recog": "63式裝甲輸送車：車體低矮方正、車頂平坦僅一挺機槍、四對小負重輪，是中國第一代履帶 APC。",
+    "img_key": "f7bee17dfd6e"
   },
   {
     "id": "pgz-88",
@@ -19850,7 +20162,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百科/公开页《65式37毫米双管高射炮》（教育参考）"
+    "image_credit": "图片来自百科/公开页《65式37毫米双管高射炮》（教育参考）",
+    "img_key": "496360237959"
   },
   {
     "id": "type-74-aaa",
@@ -19897,7 +20210,8 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百科/公开页《74式37毫米双管高射炮》（教育参考）"
+    "image_credit": "图片来自百科/公开页《74式37毫米双管高射炮》（教育参考）",
+    "img_key": "70c5f0391b74"
   },
   {
     "id": "type-77-hmg",
@@ -19944,7 +20258,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《77式高射机枪》（教育参考）"
+    "image_credit": "图片来自百度百科《77式高射机枪》（教育参考）",
+    "img_key": "7f30105ba689"
   },
   {
     "id": "asn-301",
@@ -20038,7 +20353,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《WS-43巡飞弹》（教育参考）"
+    "image_credit": "图片来自百度百科《WS-43巡飞弹》（教育参考）",
+    "img_key": "da803602fb64"
   },
   {
     "id": "ch-901",
@@ -20085,7 +20401,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "本地图库（教育参考）"
+    "image_credit": "本地图库（教育参考）",
+    "img_key": "43e4a18901b2"
   },
   {
     "id": "fh-97",
@@ -20505,7 +20822,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "飛彈驅逐艦（旅滬級）",
     "form_en": "",
     "wiki": "Type 052 destroyer",
-    "image": "assets/images/type-052.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -20659,7 +20976,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《055型驱逐舰》（教育参考）"
+    "image_credit": "图片来自百度百科《055型驱逐舰》（教育参考）",
+    "img_key": "c3a125651c3f"
   },
   {
     "id": "sovremenny-em",
@@ -20708,7 +21026,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《现代级驱逐舰》（教育参考）"
+    "image_credit": "图片来自百度百科《现代级驱逐舰》（教育参考）",
+    "img_key": "6a055b5a4b61"
   },
   {
     "id": "type-065",
@@ -20804,7 +21123,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《053K型护卫舰》（教育参考）"
+    "image_credit": "图片来自百度百科《053K型护卫舰》（教育参考）",
+    "img_key": "1497d8254db8"
   },
   {
     "id": "type-037i",
@@ -20947,7 +21267,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《026型鱼雷艇》（教育参考）"
+    "image_credit": "图片来自百度百科《026型鱼雷艇》（教育参考）",
+    "img_key": "190d51dc9db2"
   },
   {
     "id": "type-062i",
@@ -21044,7 +21365,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "第一代國產反艦飛彈：彈體短粗、四片中置三角彈翼＋四片尾翼，無腹部進氣口（純火箭動力），與後續 YJ-83 的細長帶進氣口外形明顯不同。"
+    "recog": "第一代國產反艦飛彈：彈體短粗、四片中置三角彈翼＋四片尾翼，無腹部進氣口（純火箭動力），與後續 YJ-83 的細長帶進氣口外形明顯不同。",
+    "img_key": "c8815118b133"
   },
   {
     "id": "yj-82",
@@ -21139,7 +21461,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "空射反艦：掛在戰機翼下，彈體細長、腹部進氣口小，尾部四片穩定翼。"
+    "recog": "空射反艦：掛在戰機翼下，彈體細長、腹部進氣口小，尾部四片穩定翼。",
+    "img_key": "866fe11055d0"
   },
   {
     "id": "yj-18b",
@@ -21187,7 +21510,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "潛射反艦：裝在膠囊狀發射筒內由魚雷管射出，展示彈為細長圓柱＋末段衝刺彈體。"
+    "recog": "潛射反艦：裝在膠囊狀發射筒內由魚雷管射出，展示彈為細長圓柱＋末段衝刺彈體。",
+    "img_key": "046c4b42e185"
   },
   {
     "id": "c-705",
@@ -21234,7 +21558,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "輕型反艦飛彈（外銷）：彈體小巧、中段十字形彈翼、頭部為圓錐雷達罩；體積比 C-802 小一號，適合快艇搭載。"
+    "recog": "輕型反艦飛彈（外銷）：彈體小巧、中段十字形彈翼、頭部為圓錐雷達罩；體積比 C-802 小一號，適合快艇搭載。",
+    "img_key": "b809809b3dbf"
   },
   {
     "id": "c-704",
@@ -21329,7 +21654,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "海紅旗-7 艦載型：八聯裝方形飛彈箱＋中央碟形追蹤雷達，整組安裝在艦艏或艦艉甲板上。"
+    "recog": "海紅旗-7 艦載型：八聯裝方形飛彈箱＋中央碟形追蹤雷達，整組安裝在艦艏或艦艉甲板上。",
+    "img_key": "db4007ee1b88"
   },
   {
     "id": "hhq-10",
@@ -21378,7 +21704,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "同紅旗-10 艦載型：蜂巢狀多聯裝方形發射箱，常與 730/1130 近防砲成對佈置。"
+    "recog": "同紅旗-10 艦載型：蜂巢狀多聯裝方形發射箱，常與 730/1130 近防砲成對佈置。",
+    "img_key": "8b7b4990fc19"
   },
   {
     "id": "hhq-16bc",
@@ -21427,7 +21754,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《红旗-16B》（教育参考）"
+    "image_credit": "图片来自百度百科《红旗-16B》（教育参考）",
+    "img_key": "bbfec0a733fb"
   },
   {
     "id": "hhq-9b",
@@ -21475,7 +21803,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《海红旗-9B导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《海红旗-9B导弹》（教育参考）",
+    "img_key": "52aaf6b27ac5"
   },
   {
     "id": "rif-m",
@@ -21715,7 +22044,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "130mm 單管艦砲：砲塔為多面體匿蹤造型、單根長砲管，安裝於 052D/055 艦艏，是全艦最大的砲。"
+    "recog": "130mm 單管艦砲：砲塔為多面體匿蹤造型、單根長砲管，安裝於 052D/055 艦艏，是全艦最大的砲。",
+    "img_key": "064f64296b46"
   },
   {
     "id": "hpj-26",
@@ -21764,7 +22094,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "76mm 單管艦砲：砲塔較小、圓錐狀匿蹤外形、單根細砲管，054A/056 艦艏標配。"
+    "recog": "76mm 單管艦砲：砲塔較小、圓錐狀匿蹤外形、單根細砲管，054A/056 艦艏標配。",
+    "img_key": "c6e864117183"
   },
   {
     "id": "type-346",
@@ -21952,7 +22283,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "艦載三坐標對空雷達：桅杆頂端的「大型方形平板天線」，天線面呈網格狀並持續旋轉，是 054A 護衛艦最顯眼的特徵。"
+    "recog": "艦載三坐標對空雷達：桅杆頂端的「大型方形平板天線」，天線面呈網格狀並持續旋轉，是 054A 護衛艦最顯眼的特徵。",
+    "img_key": "b82f246cc015"
   },
   {
     "id": "type-093a",
@@ -22000,7 +22332,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《093型核潜艇》（教育参考）",
+    "img_key": "9db82e7c7f44"
   },
   {
     "id": "type-094a",
@@ -22048,7 +22381,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《094型战略核潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《094型战略核潜艇》（教育参考）",
+    "img_key": "728eab4dd652"
   },
   {
     "id": "type-033g",
@@ -22096,7 +22430,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《033G型潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《033G型潜艇》（教育参考）",
+    "img_key": "b3a0ee0a459d"
   },
   {
     "id": "type-035a",
@@ -22278,7 +22613,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《039型潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《039型潜艇》（教育参考）",
+    "img_key": "a0aa0cc8b5dd"
   },
   {
     "id": "kilo-636",
@@ -22326,7 +22662,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《基洛级潜艇》（教育参考）"
+    "image_credit": "图片来自百度百科《基洛级潜艇》（教育参考）",
+    "img_key": "2f2f91f8d722"
   },
   {
     "id": "jl-1",
@@ -22375,7 +22712,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "潛射彈道飛彈：彈體短粗、頭部鈍圓（適應水下發射），展示時多為剖面或模型。"
+    "recog": "潛射彈道飛彈：彈體短粗、頭部鈍圓（適應水下發射），展示時多為剖面或模型。",
+    "img_key": "1f40f6c1c634"
   },
   {
     "id": "type-071e",
@@ -22469,7 +22807,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "老式坦克登陸艦：同為艏門跳板設計，但上層建築較小、無直升機甲板。"
+    "recog": "老式坦克登陸艦：同為艏門跳板設計，但上層建築較小、無直升機甲板。",
+    "img_key": "1dbc27dba7f0"
   },
   {
     "id": "type-072ii",
@@ -22517,7 +22856,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《072Ⅱ型坦克登陆舰》（教育参考）"
+    "image_credit": "图片来自百度百科《072Ⅱ型坦克登陆舰》（教育参考）",
+    "img_key": "a5770f17a676"
   },
   {
     "id": "type-073a",
@@ -22565,7 +22905,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "073 改進型：艦艉增設直升機平台、上層建築加大，艦體線條較方正。"
+    "recog": "073 改進型：艦艉增設直升機平台、上層建築加大，艦體線條較方正。",
+    "img_key": "9cb30f41e101"
   },
   {
     "id": "type-074a",
@@ -22613,7 +22954,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "玉海級改進型登陸艦：艏門跳板設計，艦體比 073 小、上層建築更靠後。"
+    "recog": "玉海級改進型登陸艦：艏門跳板設計，艦體比 073 小、上層建築更靠後。",
+    "img_key": "b8e1d3cacc92"
   },
   {
     "id": "type-271",
@@ -22661,7 +23003,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《271型登陆艇》（教育参考）"
+    "image_credit": "图片来自百度百科《271型登陆艇》（教育参考）",
+    "img_key": "45c20b8ee50d"
   },
   {
     "id": "type-726a",
@@ -22709,7 +23052,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《726A型气垫登陆艇》（教育参考）"
+    "image_credit": "图片来自百度百科《726A型气垫登陆艇》（教育参考）",
+    "img_key": "4d07159b896b"
   },
   {
     "id": "zubr",
@@ -22758,7 +23102,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《欧洲野牛级气垫登陆舰》（教育参考）"
+    "image_credit": "图片来自百度百科《欧洲野牛级气垫登陆舰》（教育参考）",
+    "img_key": "81e3ac1f2489"
   },
   {
     "id": "type-067",
@@ -22805,7 +23150,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "小型登陸艇：艇身低矮平坦、艏門跳板佔艇寬大半、無上層建築（僅小駕駛室）。"
+    "recog": "小型登陸艇：艇身低矮平坦、艏門跳板佔艇寬大半、無上層建築（僅小駕駛室）。",
+    "img_key": "5ea95be3101f"
   },
   {
     "id": "type-081a",
@@ -22898,7 +23244,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "渦掃改型掃雷艇：艇體小、艙面開闊、艉部有掃雷具吊放架。"
+    "recog": "渦掃改型掃雷艇：艇體小、艙面開闊、艉部有掃雷具吊放架。",
+    "img_key": "0ae4f0b1efed"
   },
   {
     "id": "type-082ii",
@@ -22945,7 +23292,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "渦陽級獵掃雷艦：比 082I 大、上層建築更完整，配備遙控獵雷器與獵雷聲納。"
+    "recog": "渦陽級獵掃雷艦：比 082I 大、上層建築更完整，配備遙控獵雷器與獵雷聲納。",
+    "img_key": "3e8638232c5e"
   },
   {
     "id": "type-010",
@@ -23085,7 +23433,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《903型补给舰》（教育参考）"
+    "image_credit": "图片来自百度百科《903型补给舰》（教育参考）",
+    "img_key": "d2d24d880e61"
   },
   {
     "id": "type-904b",
@@ -23132,7 +23481,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《904b型补给舰》（教育参考）"
+    "image_credit": "图片来自百度百科《904b型补给舰》（教育参考）",
+    "img_key": "ebd7c95e9573"
   },
   {
     "id": "type-908",
@@ -23180,7 +23530,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "青海湖艦補給艦：由蘇製商船改裝，船體極大、甲板上有多組補給龍門架，外形比 903 更像商船。"
+    "recog": "青海湖艦補給艦：由蘇製商船改裝，船體極大、甲板上有多組補給龍門架，外形比 903 更像商船。",
+    "img_key": "bd90509acfd3"
   },
   {
     "id": "type-815",
@@ -23228,7 +23579,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《815型电子侦察船》（教育参考）"
+    "image_credit": "图片来自百度百科《815型电子侦察船》（教育参考）",
+    "img_key": "870dcad6c058"
   },
   {
     "id": "type-815g",
@@ -23275,7 +23627,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "東調級電子偵察船後期型：甲板上多個白色球形雷達罩，數量與配置比早期型更密集。"
+    "recog": "東調級電子偵察船後期型：甲板上多個白色球形雷達罩，數量與配置比早期型更密集。",
+    "img_key": "972d4266266a"
   },
   {
     "id": "type-927",
@@ -23457,7 +23810,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《远望7号测量船》（教育参考）"
+    "image_credit": "图片来自百度百科《远望7号测量船》（教育参考）",
+    "img_key": "3ac15a0a48e8"
   },
   {
     "id": "yuanwang-2122",
@@ -23505,7 +23859,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "火箭運輸船：船身修長、甲板平坦無上層結構、船艉有大型貨艙門（運送長征火箭用）。"
+    "recog": "火箭運輸船：船身修長、甲板平坦無上層結構、船艉有大型貨艙門（運送長征火箭用）。",
+    "img_key": "1f350db02acd"
   },
   {
     "id": "type-922",
@@ -23687,7 +24042,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《海冰722破冰船（第一代破冰船）》（教育参考）"
+    "image_credit": "图片来自百度百科《海冰722破冰船（第一代破冰船）》（教育参考）",
+    "img_key": "ea8968de6869"
   },
   {
     "id": "xuelong2",
@@ -23735,7 +24091,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "極地破冰船：紅色船身＋白色上層建築、艦艏加強破冰結構、艦艉有科考作業甲板與吊臂。"
+    "recog": "極地破冰船：紅色船身＋白色上層建築、艦艏加強破冰結構、艦艉有科考作業甲板與吊臂。",
+    "img_key": "2e389ffd334a"
   },
   {
     "id": "zhenghe",
@@ -23782,7 +24139,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "鄭和艦訓練艦：外形介於軍艦與客輪之間，上層建築高大（供學員住宿）、艦艉直升機甲板，白色編號明顯。"
+    "recog": "鄭和艦訓練艦：外形介於軍艦與客輪之間，上層建築高大（供學員住宿）、艦艉直升機甲板，白色編號明顯。",
+    "img_key": "553ea496c8cd"
   },
   {
     "id": "qijiguang",
@@ -23829,7 +24187,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "戚繼光艦：新型訓練艦，艦體更大更現代、匿蹤外飄艦體、艦艉大型直升機甲板與機庫。"
+    "recog": "戚繼光艦：新型訓練艦，艦體更大更現代、匿蹤外飄艦體、艦艉大型直升機甲板與機庫。",
+    "img_key": "9f39bae64e31"
   },
   {
     "id": "shichang",
@@ -23964,7 +24323,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《中国海警3901》（教育参考）"
+    "image_credit": "图片来自百度百科《中国海警3901》（教育参考）",
+    "img_key": "90f8e5e42f56"
   },
   {
     "id": "j-5",
@@ -24013,7 +24373,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《歼-5》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-5》（教育参考）",
+    "img_key": "9ff2237d2bc3"
   },
   {
     "id": "j-6",
@@ -24062,7 +24423,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《歼-6》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-6》（教育参考）",
+    "img_key": "6013d17eb5bb"
   },
   {
     "id": "j-8",
@@ -24110,7 +24472,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "殲-8 初期型：機鼻圓形進氣口中央帶進氣錐（非兩側進氣）、細長機身、大後掠三角翼——與殲-8II 的兩側進氣是關鍵差別。"
+    "recog": "殲-8 初期型：機鼻圓形進氣口中央帶進氣錐（非兩側進氣）、細長機身、大後掠三角翼——與殲-8II 的兩側進氣是關鍵差別。",
+    "img_key": "2090ce695673"
   },
   {
     "id": "j-8ii",
@@ -24157,7 +24520,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "細長機身、機頭兩側進氣（非機鼻進氣）、大後掠三角翼、單垂尾；外形修長像「兩根管子」，辨識度高。"
+    "recog": "細長機身、機頭兩側進氣（非機鼻進氣）、大後掠三角翼、單垂尾；外形修長像「兩根管子」，辨識度高。",
+    "img_key": "521bc3fd2ce5"
   },
   {
     "id": "j-8h",
@@ -24250,7 +24614,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《歼-10CE》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-10CE》（教育参考）",
+    "img_key": "3dce284b02ca"
   },
   {
     "id": "j-11bs",
@@ -24298,7 +24663,8 @@ window.EQUIPMENT_DATA = [
     "authority_verified": true,
     "branch": "空軍",
     "recog": "殲-11B 的雙座型：座艙罩加長為串列雙座，機背隆起；其餘同殲-11B。",
-    "image_credit": "图片来自百度百科《歼-11》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-11》（教育参考）",
+    "img_key": "c3ef85e96556"
   },
   {
     "id": "j-15s",
@@ -24345,7 +24711,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《歼-15》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-15》（教育参考）",
+    "img_key": "5fccc0a2b6ae"
   },
   {
     "id": "j-20a",
@@ -24392,7 +24759,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "同殲-20 的鴨翼＋DSI 進氣，差別在發動機噴口（WS-15 鋸齒噴口）與塗裝細節，外觀上不易與早期型區分。"
+    "recog": "同殲-20 的鴨翼＋DSI 進氣，差別在發動機噴口（WS-15 鋸齒噴口）與塗裝細節，外觀上不易與早期型區分。",
+    "img_key": "3e848d6b6755"
   },
   {
     "id": "fc-31",
@@ -24446,7 +24814,8 @@ window.EQUIPMENT_DATA = [
     "authority_verified": true,
     "branch": "空軍",
     "recog": "殲-35 的原型／外銷版，外形同為中型雙發、無鴨翼匿蹤佈局；早期原型垂尾與機身細節略有不同。",
-    "image_credit": "图片来自百度百科《歼-31》（教育参考）"
+    "image_credit": "图片来自百度百科《歼-31》（教育参考）",
+    "img_key": "ceeb6d6781c8"
   },
   {
     "id": "jh-7",
@@ -24495,7 +24864,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "飛豹早期型：肩翼（高置機翼）、串列雙座、單垂尾＋大腹鰭，機身較 JH-7A 少了部分加強結構。"
+    "recog": "飛豹早期型：肩翼（高置機翼）、串列雙座、單垂尾＋大腹鰭，機身較 JH-7A 少了部分加強結構。",
+    "img_key": "16592f824ac0"
   },
   {
     "id": "h-5",
@@ -24544,7 +24914,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《轰5轻型轰炸机》（教育参考）"
+    "image_credit": "图片来自百度百科《轰5轻型轰炸机》（教育参考）",
+    "img_key": "c4d261b07c50"
   },
   {
     "id": "h-6g",
@@ -24591,7 +24962,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《轰-6》（教育参考）"
+    "image_credit": "图片来自百度百科《轰-6》（教育参考）",
+    "img_key": "23bf390074aa"
   },
   {
     "id": "h-6m",
@@ -24674,7 +25046,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "匿蹤戰略轟炸機（轟-20）",
     "form_en": "",
     "wiki": "Xian H-20",
-    "image": "assets/images/h-20.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -24733,7 +25105,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《歼教-7》（教育参考）"
+    "image_credit": "图片来自百度百科《歼教-7》（教育参考）",
+    "img_key": "4db98cae098e"
   },
   {
     "id": "cj-6",
@@ -24782,7 +25155,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "初級教練機：單發活塞螺旋槳、平直下單翼、串列雙座、固定式起落架，外形像二戰教練機。"
+    "recog": "初級教練機：單發活塞螺旋槳、平直下單翼、串列雙座、固定式起落架，外形像二戰教練機。",
+    "img_key": "d018d5852816"
   },
   {
     "id": "hyj-7",
@@ -24875,7 +25249,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《运-20（中国自主研发的首款大型运输机）》（教育参考）"
+    "image_credit": "图片来自百度百科《运-20（中国自主研发的首款大型运输机）》（教育参考）",
+    "img_key": "a7c03e59c686"
   },
   {
     "id": "y-11",
@@ -24923,7 +25298,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "輕型雙發運輸機：高置平直機翼＋固定式起落架（不收放）、方正機身與大面積座艙玻璃，外形樸素像小型通勤機。"
+    "recog": "輕型雙發運輸機：高置平直機翼＋固定式起落架（不收放）、方正機身與大面積座艙玻璃，外形樸素像小型通勤機。",
+    "img_key": "e82d7da09b9a"
   },
   {
     "id": "tu-154md",
@@ -24971,7 +25347,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "三發噴射客機改裝：三具發動機集中在機尾（兩側＋垂尾根部）、T 型尾翼；機腹常有合成孔徑雷達長條整流罩。"
+    "recog": "三發噴射客機改裝：三具發動機集中在機尾（兩側＋垂尾根部）、T 型尾翼；機腹常有合成孔徑雷達長條整流罩。",
+    "img_key": "d27c43a075a2"
   },
   {
     "id": "kj-1",
@@ -25019,7 +25396,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "空警-1：圖-4 四發螺旋槳轟炸機機身＋背部巨大圓盤雷達罩，外形笨重，為中國最早的預警試驗機。"
+    "recog": "空警-1：圖-4 四發螺旋槳轟炸機機身＋背部巨大圓盤雷達罩，外形笨重，為中國最早的預警試驗機。",
+    "img_key": "225815c7090b"
   },
   {
     "id": "zdk-03",
@@ -25056,7 +25434,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "空中預警機（ZDK-03）",
     "form_en": "",
     "wiki": "ZDK-03",
-    "image": "assets/images/zdk-03.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -25396,7 +25774,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "霹靂-2：早期紅外空對空飛彈，彈體細長、頭部圓球形整流罩、中段四片小三角翼，源自蘇聯 K-13。"
+    "recog": "霹靂-2：早期紅外空對空飛彈，彈體細長、頭部圓球形整流罩、中段四片小三角翼，源自蘇聯 K-13。",
+    "img_key": "1bedea320e99"
   },
   {
     "id": "pl-5",
@@ -25445,7 +25824,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "近距紅外空對空飛彈：彈頭為圓球形透明整流罩、前段有四片大型三角鴨翼；訓練彈常塗成藍色（惰性彈）。"
+    "recog": "近距紅外空對空飛彈：彈頭為圓球形透明整流罩、前段有四片大型三角鴨翼；訓練彈常塗成藍色（惰性彈）。",
+    "img_key": "fee50e83c542"
   },
   {
     "id": "kd-63",
@@ -25587,7 +25967,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《直-5》（教育参考）"
+    "image_credit": "图片来自百度百科《直-5》（教育参考）",
+    "img_key": "08477fb5410c"
   },
   {
     "id": "z-6",
@@ -25634,7 +26015,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《直-6》（教育参考）"
+    "image_credit": "图片来自百度百科《直-6》（教育参考）",
+    "img_key": "c50d540d8a19"
   },
   {
     "id": "z-8a",
@@ -25681,7 +26063,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《直-8A》（教育参考）"
+    "image_credit": "图片来自百度百科《直-8A》（教育参考）",
+    "img_key": "5d9c391451df"
   },
   {
     "id": "z-8j",
@@ -25728,7 +26111,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "海軍運輸型直-8：三發、船形機腹、六葉旋翼；海軍灰塗裝、常見於補給艦與兩棲艦甲板。"
+    "recog": "海軍運輸型直-8：三發、船形機腹、六葉旋翼；海軍灰塗裝、常見於補給艦與兩棲艦甲板。",
+    "img_key": "fc4dd682d5e2"
   },
   {
     "id": "z-18a",
@@ -25868,7 +26252,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《直-9B》（教育参考）"
+    "image_credit": "图片来自百度百科《直-9B》（教育参考）",
+    "img_key": "09104d383c0a"
   },
   {
     "id": "z-9d",
@@ -25915,7 +26300,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "直-9D 艦載反艦型：涵道尾槳、機身兩側掛小型反艦飛彈（TL-10 等）、海軍灰塗裝、起落架有繫留環。"
+    "recog": "直-9D 艦載反艦型：涵道尾槳、機身兩側掛小型反艦飛彈（TL-10 等）、海軍灰塗裝、起落架有繫留環。",
+    "img_key": "92e380b12636"
   },
   {
     "id": "z-9wa",
@@ -25962,7 +26348,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "直-9WA：直-9 武裝型的夜戰改良版，機頭下方有光電/紅外轉塔，兩側短翼掛反戰車飛彈。"
+    "recog": "直-9WA：直-9 武裝型的夜戰改良版，機頭下方有光電/紅外轉塔，兩側短翼掛反戰車飛彈。",
+    "img_key": "bd84d3744497"
   },
   {
     "id": "z-10k",
@@ -26009,7 +26396,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "recog": "直-10K：與陸軍型同為窄機身串列雙座武裝直升機，機砲在機頭下方，塗裝與部隊標誌不同。"
+    "recog": "直-10K：與陸軍型同為窄機身串列雙座武裝直升機，機砲在機頭下方，塗裝與部隊標誌不同。",
+    "img_key": "5b6be0fcfca6"
   },
   {
     "id": "z-10me",
@@ -26056,7 +26444,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《直-10ME》（教育参考）"
+    "image_credit": "图片来自百度百科《直-10ME》（教育参考）",
+    "img_key": "52cadae6fc23"
   },
   {
     "id": "z-11w",
@@ -26103,7 +26492,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "輕型武裝偵察直升機：機身很小、傳統尾槳（非涵道）、滑橇式起落架、兩側短翼掛小型飛彈。"
+    "recog": "輕型武裝偵察直升機：機身很小、傳統尾槳（非涵道）、滑橇式起落架、兩側短翼掛小型飛彈。",
+    "img_key": "2a28644acca5"
   },
   {
     "id": "z-20j",
@@ -26150,7 +26540,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "recog": "直-20J 艦載型：五葉主旋翼、主旋翼與尾樑可摺疊、機腹雷達罩，海軍灰塗裝。"
+    "recog": "直-20J 艦載型：五葉主旋翼、主旋翼與尾樑可摺疊、機腹雷達罩，海軍灰塗裝。",
+    "img_key": "da4e967bd36b"
   },
   {
     "id": "z-21",
@@ -26247,7 +26638,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "俄製中型運輸直升機：五葉主旋翼、圓筒機身、發動機在座艙上方；與米-17 幾乎同形（米-17 尾槳在左側）。"
+    "recog": "俄製中型運輸直升機：五葉主旋翼、圓筒機身、發動機在座艙上方；與米-17 幾乎同形（米-17 尾槳在左側）。",
+    "img_key": "df01f8e25d52"
   },
   {
     "id": "mi-26",
@@ -26297,7 +26689,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《米-26直升机》（教育参考）"
+    "image_credit": "图片来自百度百科《米-26直升机》（教育参考）",
+    "img_key": "5729ad9bef2b"
   },
   {
     "id": "ka-27",
@@ -26347,7 +26740,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《卡-27直升机》（教育参考）"
+    "image_credit": "图片来自百度百科《卡-27直升机》（教育参考）",
+    "img_key": "bd1b8b8d2308"
   },
   {
     "id": "as565",
@@ -26396,7 +26790,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《AS-365直升机》（教育参考）"
+    "image_credit": "图片来自百度百科《AS-365直升机》（教育参考）",
+    "img_key": "2bf326565e18"
   },
   {
     "id": "sa321",
@@ -26445,7 +26840,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《SA321直升机》（教育参考）"
+    "image_credit": "图片来自百度百科《SA321直升机》（教育参考）",
+    "img_key": "bd8c1f451feb"
   },
   {
     "id": "ac313",
@@ -26492,7 +26888,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "recog": "AC313 民用大型直升機：直-8 系機身但塗裝鮮豔（民用/救援），三發、機腹船形艇體。"
+    "recog": "AC313 民用大型直升機：直-8 系機身但塗裝鮮豔（民用/救援），三發、機腹船形艇體。",
+    "img_key": "236eab7f2901"
   },
   {
     "id": "wing-loong-1d",
@@ -26540,7 +26937,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《翼龙-1》（教育参考）"
+    "image_credit": "图片来自百度百科《翼龙-1》（教育参考）",
+    "img_key": "2eb6dc56e2ae"
   },
   {
     "id": "wing-loong-3",
@@ -26588,7 +26986,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《翼龙-3无人机》（教育参考）"
+    "image_credit": "图片来自百度百科《翼龙-3无人机》（教育参考）",
+    "img_key": "442683966981"
   },
   {
     "id": "ch-1",
@@ -26777,7 +27176,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "BZK-007 偵察無人機：中小型、平直機翼、V 型尾翼、活塞螺旋槳，外形樸素。"
+    "recog": "BZK-007 偵察無人機：中小型、平直機翼、V 型尾翼、活塞螺旋槳，外形樸素。",
+    "img_key": "4ae73cca9b59"
   },
   {
     "id": "fh-95",
@@ -26908,7 +27308,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "海軍",
     "authority_verified": true,
     "branch": "海軍",
-    "image_credit": "图片来自百度百科《JARI-USV多用途无人作战艇》（教育参考）"
+    "image_credit": "图片来自百度百科《JARI-USV多用途无人作战艇》（教育参考）",
+    "img_key": "7977096c4346"
   },
   {
     "id": "ar-1",
@@ -26956,7 +27357,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "空軍",
     "authority_verified": true,
     "branch": "空軍",
-    "image_credit": "图片来自百度百科《AR-1空地导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《AR-1空地导弹》（教育参考）",
+    "img_key": "e6dd64cc03fe"
   },
   {
     "id": "df-1",
@@ -27005,7 +27407,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "東風-1：中國第一款彈道飛彈（蘇聯 R-2 仿製），單級液體燃料、彈體粗短、尾部四片大穩定翼。"
+    "recog": "東風-1：中國第一款彈道飛彈（蘇聯 R-2 仿製），單級液體燃料、彈體粗短、尾部四片大穩定翼。",
+    "img_key": "bfc9f544a800"
   },
   {
     "id": "df-2",
@@ -27053,7 +27456,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "東風-2：早期中程彈道飛彈，液體燃料單級、彈體細長、尾部四片梯形穩定翼，需在發射架上豎立加注。"
+    "recog": "東風-2：早期中程彈道飛彈，液體燃料單級、彈體細長、尾部四片梯形穩定翼，需在發射架上豎立加注。",
+    "img_key": "43d0e9a77bfa"
   },
   {
     "id": "df-5",
@@ -27101,7 +27505,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "東風-5：巨大的液體燃料洲際飛彈，發射井/發射台發射（非機動），彈體極長，早期型需長時間加注燃料。"
+    "recog": "東風-5：巨大的液體燃料洲際飛彈，發射井/發射台發射（非機動），彈體極長，早期型需長時間加注燃料。",
+    "img_key": "9b67bcc0aed0"
   },
   {
     "id": "df-5a",
@@ -27148,7 +27553,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "image_credit": "图片来自百度百科《东风-5弹道导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《东风-5弹道导弹》（教育参考）",
+    "img_key": "26ff345bb5ae"
   },
   {
     "id": "df-5b",
@@ -27195,7 +27601,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "東風-5B：同 DF-5 的大型液體飛彈，改進彈頭（多彈頭）與制導，外形與 DF-5 相近。"
+    "recog": "東風-5B：同 DF-5 的大型液體飛彈，改進彈頭（多彈頭）與制導，外形與 DF-5 相近。",
+    "img_key": "3e551e08ef01"
   },
   {
     "id": "df-12",
@@ -27281,7 +27688,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "近程彈道導彈（DF-15）",
     "form_en": "",
     "wiki": "DF-15",
-    "image": "assets/images/df-15.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -27386,7 +27793,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "image_credit": "图片来自百度百科《东风-15C型导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《东风-15C型导弹》（教育参考）",
+    "img_key": "f737752f5282"
   },
   {
     "id": "df-21",
@@ -27434,7 +27842,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "東風-21：中程彈道飛彈，5 軸 TEL、彈體裸露圓柱、頭部圓錐；家族衍生多（21A/C/D）。"
+    "recog": "東風-21：中程彈道飛彈，5 軸 TEL、彈體裸露圓柱、頭部圓錐；家族衍生多（21A/C/D）。",
+    "img_key": "8d2560fb2606"
   },
   {
     "id": "df-31",
@@ -27482,7 +27891,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "洲際彈道飛彈：多軸大型 TEL，飛彈裝在圓筒發射箱內（不裸露），車體比 DF-21 明顯長很多；AG 型另有越野底盤。"
+    "recog": "洲際彈道飛彈：多軸大型 TEL，飛彈裝在圓筒發射箱內（不裸露），車體比 DF-21 明顯長很多；AG 型另有越野底盤。",
+    "img_key": "9f8c74532ea1"
   },
   {
     "id": "df-31a",
@@ -27530,7 +27940,8 @@ window.EQUIPMENT_DATA = [
     "authority_verified": true,
     "branch": "火箭軍",
     "recog": "東風-31A：洲際飛彈，飛彈裝在圓筒發射箱內由多軸 TEL 載運，箱體長且粗，與裸露彈體的 DF-21/26 一眼可分。",
-    "image_credit": "图片来自百度百科《东风-31新型陆基洲际导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《东风-31新型陆基洲际导弹》（教育参考）",
+    "img_key": "94da28b2dec1"
   },
   {
     "id": "df-61",
@@ -27577,7 +27988,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "recog": "研發中型號，公開影像有限，多為閱兵中的箱式 TEL 推測外形。"
+    "recog": "研發中型號，公開影像有限，多為閱兵中的箱式 TEL 推測外形。",
+    "img_key": "e49258a915ee"
   },
   {
     "id": "cj-10a",
@@ -27625,7 +28037,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "image_credit": "图片来自百度百科《长剑-10巡航导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《长剑-10巡航导弹》（教育参考）",
+    "img_key": "acd056055917"
   },
   {
     "id": "hn-1",
@@ -27861,7 +28274,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "image_credit": "图片来自百度百科《CM-400AKG空地导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《CM-400AKG空地导弹》（教育参考）",
+    "img_key": "44cfd908de21"
   },
   {
     "id": "bp-12a",
@@ -27956,7 +28370,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "火箭軍",
     "authority_verified": true,
     "branch": "火箭軍",
-    "image_credit": "图片来自百度百科《B-611导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《B-611导弹》（教育参考）",
+    "img_key": "1680c70654b2"
   },
   {
     "id": "type-59g",
@@ -28004,7 +28419,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《ZTZ59D1主战坦克》（教育参考）"
+    "image_credit": "图片来自百度百科《ZTZ59D1主战坦克》（教育参考）",
+    "img_key": "64c172a56c88"
   },
   {
     "id": "type-88a",
@@ -28051,7 +28467,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《88A式主战坦克》（教育参考）"
+    "image_credit": "图片来自百度百科《88A式主战坦克》（教育参考）",
+    "img_key": "489ef357e5e9"
   },
   {
     "id": "vt-4",
@@ -28099,7 +28516,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《VT-4主战坦克》（教育参考）"
+    "image_credit": "图片来自百度百科《VT-4主战坦克》（教育参考）",
+    "img_key": "3c0869a0ec3f"
   },
   {
     "id": "vt-5",
@@ -28146,7 +28564,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《VT5轻型坦克》（教育参考）"
+    "image_credit": "图片来自百度百科《VT5轻型坦克》（教育参考）",
+    "img_key": "ef3b0c0d3ac9"
   },
   {
     "id": "al-khalid",
@@ -28195,7 +28614,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "外銷主戰坦克：砲塔方正帶楔形裝甲、車體六對負重輪，砲塔後部有大型置物籃，塗裝多為沙漠色。"
+    "recog": "外銷主戰坦克：砲塔方正帶楔形裝甲、車體六對負重輪，砲塔後部有大型置物籃，塗裝多為沙漠色。",
+    "img_key": "94bdde991308"
   },
   {
     "id": "type-92a",
@@ -28478,7 +28898,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《东风猛士》（教育参考）"
+    "image_credit": "图片来自百度百科《东风猛士》（教育参考）",
+    "img_key": "3508ba3f93c1"
   },
   {
     "id": "type-54-122",
@@ -28526,7 +28947,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《54式122毫米榴弹炮》（教育参考）"
+    "image_credit": "图片来自百度百科《54式122毫米榴弹炮》（教育参考）",
+    "img_key": "f6d92de0da52"
   },
   {
     "id": "type-60-122",
@@ -28574,7 +28996,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《60式122毫米加农炮》（教育参考）"
+    "image_credit": "图片来自百度百科《60式122毫米加农炮》（教育参考）",
+    "img_key": "748be6926141"
   },
   {
     "id": "type-59-130",
@@ -28622,7 +29045,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《59式130毫米加农炮》（教育参考）"
+    "image_credit": "图片来自百度百科《59式130毫米加农炮》（教育参考）",
+    "img_key": "600162eb2ec7"
   },
   {
     "id": "type-86-122",
@@ -28669,7 +29093,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《86式122毫米榴弹炮》（教育参考）"
+    "image_credit": "图片来自百度百科《86式122毫米榴弹炮》（教育参考）",
+    "img_key": "989c8d630b35"
   },
   {
     "id": "type-83-152-towed",
@@ -28763,7 +29188,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《中国PLL01型155毫米牵引式加农榴弹炮》（教育参考）"
+    "image_credit": "图片来自百度百科《中国PLL01型155毫米牵引式加农榴弹炮》（教育参考）",
+    "img_key": "73f35aced39c"
   },
   {
     "id": "type-63-107",
@@ -28811,7 +29237,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "63式107mm火箭砲：12 根短小發射管（3×4 排列）、可拆解由人力搬運，是全球最普及的輕型火箭砲之一。"
+    "recog": "63式107mm火箭砲：12 根短小發射管（3×4 排列）、可拆解由人力搬運，是全球最普及的輕型火箭砲之一。",
+    "img_key": "e75c4afd3e44"
   },
   {
     "id": "type-81-122",
@@ -28858,7 +29285,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《81式火箭炮》（教育参考）"
+    "image_credit": "图片来自百度百科《81式火箭炮》（教育参考）",
+    "img_key": "f8cffb011c4c"
   },
   {
     "id": "type-83-273",
@@ -28905,7 +29333,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《WM-80式273毫米火箭炮系统》（教育参考）"
+    "image_credit": "图片来自百度百科《WM-80式273毫米火箭炮系统》（教育参考）",
+    "img_key": "66fdd634493f"
   },
   {
     "id": "type-82-130",
@@ -28952,7 +29381,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《82式130mm轮式自行火箭炮》（教育参考）"
+    "image_credit": "图片来自百度百科《82式130mm轮式自行火箭炮》（教育参考）",
+    "img_key": "ac7b7fdfb426"
   },
   {
     "id": "ar1-mlrs",
@@ -29094,7 +29524,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "外銷遠程火箭砲：大型卡車底盤＋後方 8 管粗大發射管（4×2 排列），管徑 273mm 明顯比 122mm 火箭砲粗。"
+    "recog": "外銷遠程火箭砲：大型卡車底盤＋後方 8 管粗大發射管（4×2 排列），管徑 273mm 明顯比 122mm 火箭砲粗。",
+    "img_key": "8ef4a9affbfd"
   },
   {
     "id": "type-70-122",
@@ -29187,7 +29618,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《122毫米自行榴弹炮》（教育参考）"
+    "image_credit": "图片来自百度百科《122毫米自行榴弹炮》（教育参考）",
+    "img_key": "2bc44fe80d86"
   },
   {
     "id": "plz-05a",
@@ -29235,7 +29667,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《05A式155毫米加榴炮》（教育参考）"
+    "image_credit": "图片来自百度百科《05A式155毫米加榴炮》（教育参考）",
+    "img_key": "bb94b5a3b722"
   },
   {
     "id": "sh1-155",
@@ -29363,7 +29796,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "輕型車載榴彈砲（105mm，SH5）",
     "form_en": "",
     "wiki": "SH5 (howitzer)",
-    "image": "assets/images/sh5-105.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -29420,7 +29853,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《67式82毫米迫击炮》（教育参考）"
+    "image_credit": "图片来自百度百科《67式82毫米迫击炮》（教育参考）",
+    "img_key": "837a06553575"
   },
   {
     "id": "type-87-82",
@@ -29511,7 +29945,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《64式120毫米迫击炮》（教育参考）"
+    "image_credit": "图片来自百度百科《64式120毫米迫击炮》（教育参考）",
+    "img_key": "621c925dc1cc"
   },
   {
     "id": "type-56-160",
@@ -29558,7 +29993,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《56式160毫米迫击炮》（教育参考）"
+    "image_credit": "图片来自百度百科《56式160毫米迫击炮》（教育参考）",
+    "img_key": "06ee0bc6fe2b"
   },
   {
     "id": "sm4-120",
@@ -29652,7 +30088,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《75式14.5毫米高射机枪》（教育参考）"
+    "image_credit": "图片来自百度百科《75式14.5毫米高射机枪》（教育参考）",
+    "img_key": "55dd36dd2956"
   },
   {
     "id": "type-85-23",
@@ -29793,7 +30230,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "57mm 牽引高砲：長砲管高高上仰、四輪砲車、砲位周圍有座椅與手輪，多為單管或雙管。"
+    "recog": "57mm 牽引高砲：長砲管高高上仰、四輪砲車、砲位周圍有座椅與手輪，多為單管或雙管。",
+    "img_key": "56274b104742"
   },
   {
     "id": "type-59-100aa",
@@ -29841,7 +30279,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《中国59式100毫米高射炮》（教育参考）"
+    "image_credit": "图片来自百度百科《中国59式100毫米高射炮》（教育参考）",
+    "img_key": "c833bbc467b6"
   },
   {
     "id": "pgz-07",
@@ -30076,7 +30515,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "第一代便攜防空飛彈：細長圓筒發射管＋前端錐形罩、下方握把與電池組，外形近似蘇製 SA-7，比新式 FN-6 細長。"
+    "recog": "第一代便攜防空飛彈：細長圓筒發射管＋前端錐形罩、下方握把與電池組，外形近似蘇製 SA-7，比新式 FN-6 細長。",
+    "img_key": "892c27b37d5b"
   },
   {
     "id": "hn-6",
@@ -30215,7 +30655,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "前衛-3：便攜防空飛彈，圓筒發射管＋前端方形雷射導引窗（非圓錐紅外罩），肩射時可見大型握把與電池。"
+    "recog": "前衛-3：便攜防空飛彈，圓筒發射管＋前端方形雷射導引窗（非圓錐紅外罩），肩射時可見大型握把與電池。",
+    "img_key": "f8b61797af0e"
   },
   {
     "id": "qw-18",
@@ -30262,7 +30703,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《前卫-18防空导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《前卫-18防空导弹》（教育参考）",
+    "img_key": "6824753c78d7"
   },
   {
     "id": "hq-7b",
@@ -30309,7 +30751,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《FM-90(FM-80M)防空导弹》（教育参考）"
+    "image_credit": "图片来自百度百科《FM-90(FM-80M)防空导弹》（教育参考）",
+    "img_key": "9dbbc32815d5"
   },
   {
     "id": "hq-11",
@@ -30356,7 +30799,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "recog": "近程點防空：車載垂直發射，彈艙為方正箱體，車頂前方有小型搜索雷達。"
+    "recog": "近程點防空：車載垂直發射，彈艙為方正箱體，車頂前方有小型搜索雷達。",
+    "img_key": "dc48f1d9ea68"
   },
   {
     "id": "tor-m1",
@@ -30405,7 +30849,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "陸軍",
     "authority_verified": true,
     "branch": "陸軍",
-    "image_credit": "图片来自百度百科《盾牌--道尔-M1地空导弹系统》（教育参考）"
+    "image_credit": "图片来自百度百科《盾牌--道尔-M1地空导弹系统》（教育参考）",
+    "img_key": "cb21a1d4d2a7"
   },
   {
     "id": "fb-6a",
@@ -31410,7 +31855,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《95式自动步枪（中国兵器装备集团公司研制的突击步枪）》（教育参考）"
+    "image_credit": "图片来自百度百科《95式自动步枪（中国兵器装备集团公司研制的突击步枪）》（教育参考）",
+    "img_key": "4d385c13e258"
   },
   {
     "id": "type-68-rifle",
@@ -31597,7 +32043,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "recog": "衝鋒槍：管狀機匣、摺疊金屬托、彈匣略斜；微聲型槍管外有粗大消音筒。"
+    "recog": "衝鋒槍：管狀機匣、摺疊金屬托、彈匣略斜；微聲型槍管外有粗大消音筒。",
+    "img_key": "458304b35370"
   },
   {
     "id": "js-9-smg",
@@ -31692,7 +32139,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "recog": "RPD 衍生班機：圓形彈鼓直接掛在機匣下方、槍管固定不可更換、木質槍托。"
+    "recog": "RPD 衍生班機：圓形彈鼓直接掛在機匣下方、槍管固定不可更換、木質槍托。",
+    "img_key": "190612cc8ab3"
   },
   {
     "id": "type-81-lmg",
@@ -31728,7 +32176,7 @@ window.EQUIPMENT_DATA = [
     "form_zh": "班用機槍（81式）",
     "form_en": "",
     "wiki": "Type 81 assault rifle",
-    "image": "assets/images/type-81-lmg.jpg",
+    "image": "",
     "odin_url": "https://odin.t2com.army.mil/WEG",
     "sources": [
       {
@@ -31833,7 +32281,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《85式高射机枪》（教育参考）"
+    "image_credit": "图片来自百度百科《85式高射机枪》（教育参考）",
+    "img_key": "1e530e60c58f"
   },
   {
     "id": "qbu-141",
@@ -31971,7 +32420,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《CS LR4狙击步枪》（教育参考）"
+    "image_credit": "图片来自百度百科《CS LR4狙击步枪》（教育参考）",
+    "img_key": "effc302d4b11"
   },
   {
     "id": "cs-lr3",
@@ -32017,7 +32467,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《CS/LR3狙击步枪》（教育参考）"
+    "image_credit": "图片来自百度百科《CS/LR3狙击步枪》（教育参考）",
+    "img_key": "89df13d7435a"
   },
   {
     "id": "m99-amr",
@@ -32111,7 +32562,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "recog": "59 式手槍：馬卡洛夫仿製——套筒圓潤、握把有明顯弧度與菱格紋、體積小巧；與 54 式（TT 系，套筒方正）外形差異明顯。"
+    "recog": "59 式手槍：馬卡洛夫仿製——套筒圓潤、握把有明顯弧度與菱格紋、體積小巧；與 54 式（TT 系，套筒方正）外形差異明顯。",
+    "img_key": "de9ade010607"
   },
   {
     "id": "type-77-pistol",
@@ -32157,7 +32609,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "recog": "77式手槍：極小巧、套筒短、可單手上膛（扳機護圈可勾拉）；外形比 54/92 式都小一號。"
+    "recog": "77式手槍：極小巧、套筒短、可單手上膛（扳機護圈可勾拉）；外形比 54/92 式都小一號。",
+    "img_key": "76442ea6e889"
   },
   {
     "id": "qsz-92g",
@@ -32204,7 +32657,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《92式手枪（中国军用手枪）》（教育参考）"
+    "image_credit": "图片来自百度百科《92式手枪（中国军用手枪）》（教育参考）",
+    "img_key": "9609b6a68b75"
   },
   {
     "id": "qx-04",
@@ -32344,7 +32798,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《中国63-1式60毫米迫击炮》（教育参考）"
+    "image_credit": "图片来自百度百科《中国63-1式60毫米迫击炮》（教育参考）",
+    "img_key": "4cf38dcee734"
   },
   {
     "id": "type-90-60",
@@ -32391,7 +32846,8 @@ window.EQUIPMENT_DATA = [
     "branch_hint": "通用",
     "authority_verified": true,
     "branch": "通用",
-    "image_credit": "图片来自百度百科《90式60毫米迫击炮》（教育参考）"
+    "image_credit": "图片来自百度百科《90式60毫米迫击炮》（教育参考）",
+    "img_key": "acc46c9d6ce0"
   },
   {
     "id": "mi-171",
@@ -32439,6 +32895,7 @@ window.EQUIPMENT_DATA = [
     ],
     "authority_verified": true,
     "image_credit": "图片来自百度百科《米-171直升机》（教育参考）",
+    "img_key": "b39393245283",
     "branch": "陸軍"
   }
 ];

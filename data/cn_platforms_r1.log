@@ -1,0 +1,320 @@
+targets=40 CDP=http://127.0.0.1:9333
+
+[1/40] asn-209 | ASN-209 偵察無人機
+  queries=['ASN-209无人机', 'ASN209', 'ASN-209侦察无人机', 'ASN-209'] keys=['ASN-209', 'ASN209', '无人机', '209', '机', '无人']
+    skip baike '百度百科－全球領先的中文百科全書'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+  OK baike_search HS-700型发动机 12552
+
+[2/40] asn-301 | ASN-301 反輻射無人機
+  queries=['ASN-301', '反辐射无人机', 'ASN-301反輻射无人机'] keys=['ASN-301', '反辐射', '301', '机', '无人']
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike 反辐射无人机 36549
+
+[3/40] ba-9 | 藍箭-9 空射反戰車飛彈
+  queries=['蓝箭-9', '蓝箭9导弹', '藍箭-9空射反战车飞弹', 'BA-9'] keys=['蓝箭-9', '蓝箭9', 'BA-9', '9', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+  OK baike_search AKD-9 98055
+
+[4/40] bbg011a | BBG011A 夜視儀
+  queries=['BBG011A', '夜视仪', 'BBG011A夜视仪', 'BBG-011A'] keys=['BBG011A', '夜视', 'BBG-011A', '011A']
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike 夜视仪 34782
+
+[5/40] cetc-jammer | 車載通信/雷達干擾系統
+  queries=['电子战干扰车', '通信干扰系统', '车载通信/雷達干擾系統', 'EW-jammer'] keys=['干扰', '电子战', 'EW-jammer']
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike 通信干扰系统 120212
+
+[6/40] cs-sm1 | CS/SM1 120mm迫擊砲系統
+  queries=['CS/SM1', '120毫米车载迫击炮', 'CS/SM1120mm迫击炮系統'] keys=['CS/SM1', '120毫米', '迫击炮', '炮']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+    skip baike_search '自行迫击炮'
+/Users/longxia7hao/odin-pla-lookup/.venv/lib/python3.14/site-packages/PIL/Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+  OK sogou_baike CS/SM1 site:baike.sogou.com - 搜狗搜索 85855
+
+[7/40] df-15a | 東風-15A近程彈道導彈
+  queries=['东风-15A', '东风15A', '东风-15A近程弹道导弹', 'DF-15A'] keys=['东风-15A', '东风-15', '东风15', 'DF-15A', '15A', '弹']
+    skip baike '百度百科－全球領先的中文百科全書'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 东风-15C型导弹 60706
+
+[8/40] df-21c | 東風-21C 中程彈道飛彈
+  queries=['东风-21C', '东风21C', '东风-21C中程弹道飞弹', 'DF-21C'] keys=['东风-21C', '东风21C', '东风-21', 'DF-21C', '21C', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '东风-21弹道导弹'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+    skip sogou_baike '东风-21C site:baike.sogou.com - 搜狗搜索'
+    skip sogou_baike '东风21C site:baike.sogou.com - 搜狗搜索'
+    dl HTTP Error 403: Forbidden
+    dl HTTP Error 403: Forbidden
+    dl HTTP Error 403: Forbidden
+    dl HTTP Error 403: Forbidden
+    dl HTTP Error 403: Forbidden
+    skip zhihu_sogou '东风21C - 搜狗搜索'
+    dl HTTP Error 403: Forbidden
+    dl HTTP Error 403: Forbidden
+    dl HTTP Error 403: Forbidden
+    dl HTTP Error 403: Forbidden
+    skip zhihu '东风-21C - 搜索结果'
+    skip zhihu '东风21C - 搜索结果'
+  FAIL
+
+[9/40] df-27 | 東風-27 彈道飛彈
+  queries=['东风-27', '东风27导弹', '东风-27弹道飞弹', 'DF-27'] keys=['东风-27', '东风27', 'DF-27', '27', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 东风-27远程弹道导弹 9960
+
+[10/40] fb-6c | FB-6C 便攜／車載防空
+  queries=['FB-6C', '飞弩防空导弹', 'FB-6C便攜/车载防空'] keys=['FB-6', '飞弩', 'FB-6C', '6C']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 飞弩-6单兵便携式防空导弹 45305
+
+[11/40] ft-series | 飛騰系列精確炸彈
+  queries=['飞腾精确制导炸弹', '飞腾系列炸弹', '飞騰系列精確炸弹', 'FT-series'] keys=['飞腾', '制导炸弹', 'FT-series', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK sogou_baike 飞腾精确制导炸弹 site:baike.sogou.com - 搜狗搜索 26359
+
+[12/40] gb-6 | GB-6 滑翔制導炸彈
+  queries=['GB-6滑翔制导炸弹', 'GB-6'] keys=['GB-6', '滑翔制导炸弹', '6', '弹']
+    skip baike '百度百科－全球領先的中文百科全書'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 智能炸弹（一种用于空中打击的智能弹药） 61906
+
+[13/40] gb-series | GB系列精確炸彈
+  queries=['GB系列精确制导炸弹', 'GB系列精確炸弹', 'GB-series'] keys=['GB系列', '制导炸弹', 'GB-series', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search GBU-57巨型钻地弹 211552
+
+[14/40] gcj-112 | GCJ 工程車系列
+  queries=['GCJ工程车', '装甲工程车', 'GCJ工程车系列', 'GCJseries'] keys=['GCJ', '工程车', 'GCJseries']
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike 装甲工程车 37913
+
+[15/40] gcl-111 | GCL-111 架橋車
+  queries=['84式坦克架桥车', '坦克架桥车', 'GCL-111架橋车', 'GCL-111'] keys=['架桥车', '84式', '坦克架桥', 'GCL-111', '111']
+    skip baike '84式坦克架桥车'
+  OK baike 坦克式架桥车 40884
+
+[16/40] gcz-112 | GCZ-112 裝甲工程車
+  queries=['GCZ-112', '装甲工程车', 'GCZ-112装甲工程车'] keys=['GCZ-112', '工程车', '112']
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike 装甲工程车 37913
+
+[17/40] hj-11 | 紅箭-11 反戰車飛彈
+  queries=['红箭-11', '红箭11', '红箭-11反战车飞弹', 'HJ-11'] keys=['红箭-11', '红箭11', 'HJ-11', '11', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '红箭-11反坦克导弹'
+    skip baike_search '红箭-11反坦克导弹'
+    dl HTTP Error 403: Forbidden
+  OK sogou_baike 红箭-11 site:baike.sogou.com - 搜狗搜索 85855
+
+[18/40] ls-500j | 雷石-500J 制導炸彈
+  queries=['雷石-500', '雷石制导炸弹', '雷石-500J制导炸弹', 'LS-500J'] keys=['雷石', 'LS-500', 'LS-500J', '500J', '弹']
+    skip baike '百度百科－全球領先的中文百科全書'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 雷石6滑翔制导炸弹 55438
+
+[19/40] pcl-171 | PCL-171 輕型突擊車
+  queries=['PCL-171', 'PCL171车载榴弹炮', 'PCL-171轻型突击车'] keys=['PCL-171', 'PCL171', '171']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+  OK sogou_baike PCL-171 site:baike.sogou.com - 搜狗搜索 20629
+
+[20/40] pcl-181 | PCL-181 155mm車載加榴砲
+  queries=['PCL-181', 'SH-15型155毫米车载加榴炮', 'SH-15', 'PCL-181155mm车载加榴炮'] keys=['PCL-181', 'SH-15', 'SH15', '155', '车载', '181']
+    skip baike '百度百科－全球領先的中文百科全書'
+  OK baike SH-15型155毫米车载加榴炮 21430
+
+[21/40] pcz-171 | PCZ-171 突擊車變型
+  queries=['PCZ-171', 'PCZ-171突击车变型'] keys=['PCZ-171', '171']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+    skip sogou_baike 'PCZ-171 site:baike.sogou.com - 搜狗搜索'
+    dl HTTP Error 403: Forbidden
+  OK sogou_baike PCZ-171突击车变型 site:baike.sogou.com - 搜狗搜索 85855
+
+[22/40] pgz-04a | PGZ-04A 自行高砲
+  queries=['PGZ-04A', '04A式自行高炮', 'PGZ-04A自行高炮'] keys=['PGZ-04A', '04A式', '自行高炮', '04A', '炮']
+    skip baike '百度百科－全球領先的中文百科全書'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search PGZ-88式双管37毫米自行高炮 63584
+
+[23/40] pgz-88 | 88式自行高射砲
+  queries=['88式自行高炮', 'PGZ-88', '88式自行高射炮', 'Type88'] keys=['88式', 'PGZ-88', '自行高炮', 'Type88', '88', '炮']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 自行高炮 70145
+
+[24/40] phl-11 | PHL-11 122mm 火箭砲
+  queries=['PHL-11', 'PHL11火箭炮', 'PHL-11122mm火箭炮'] keys=['PHL-11', 'PHL11', '11', '炮', '火箭']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+  OK baike_search 远程箱式火箭炮 127593
+
+[25/40] phz-11 | PHZ-11 122mm多管火箭
+  queries=['PHZ-11', 'PHZ11火箭炮', 'PHZ-11122mm多管火箭'] keys=['PHZ-11', 'PHZ11', '11', '火箭']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+  OK sogou_baike PHZ-11 site:baike.sogou.com - 搜狗搜索 20629
+
+[26/40] pl-11 | 霹靂-11 半主動空對空飛彈
+  queries=['霹雳-11', 'PL-11', '霹雳-11半主動空對空飞弹'] keys=['霹雳-11', '霹雳11', 'PL-11', '11', '弹']
+    skip baike '百度百科－全球領先的中文百科全書'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 霹雳-11空空导弹 47953
+
+[27/40] pl-17 | 霹靂-17 超遠程空對空飛彈
+  queries=['霹雳-17', '霹雳17空空导弹', 'PL-17', '霹雳-17超远程空對空飞弹'] keys=['霹雳-17', '霹雳17', 'PL-17', '17', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+  OK baike_search 反飞机导弹 93142
+
+[28/40] pl-21 | 霹靂-21 衝壓遠程空對空飛彈
+  queries=['霹雳-21', 'PL-21', '霹雳-21衝壓远程空對空飞弹'] keys=['霹雳-21', '霹雳21', 'PL-21', '21', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 霹雳8近距空空导弹 149335
+
+[29/40] pll-01 | PLL-01 100mm突擊砲
+  queries=['PLL-01', '100毫米突击炮', 'PLL-01100mm突击炮'] keys=['PLL-01', 'PLL01', '突击炮', '01', '炮']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search 'PLL-01加农榴弹炮'
+  OK baike_search 突击炮 141989
+
+[30/40] pp-89 | PP-89 100mm迫擊砲
+  queries=['89式100毫米迫击炮', '100毫米迫击炮', 'PP-89100mm迫击炮', 'PP-89'] keys=['100毫米迫击炮', '89式迫击炮', 'PP-89', '89', '炮']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search PP89式100毫米迫击炮 73756
+
+[31/40] qgf-11 | QGF-11 頭盔
+  queries=['QGF-11头盔', '11式头盔', 'QGF-11頭盔', 'QGF-11'] keys=['QGF-11', '头盔', '11']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 防弹头盔（人体头部保护用装备） 64760
+
+[32/40] qlg-10 | QLG-10 槍榴彈發射器
+  queries=['QLG-10', '枪挂榴弹发射器', 'QLG-10枪榴弹发射器'] keys=['QLG-10', 'QLG10', '枪挂榴弹', '10', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike LG2枪挂式榴弹发射器 41260
+
+[33/40] slc-7 | SLC-7 對空監視雷達
+  queries=['SLC-7雷达', 'SLC-7對空監视雷達', 'SLC-7'] keys=['SLC-7', '雷达', '7']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search SLC-7型L波段三坐标警戒雷达 73837
+
+[34/40] type-024 | 024型飛彈艇（河谷級）
+  queries=['024型导弹艇', '河谷级', '024型飞弹艇', 'Type024'] keys=['024', '导弹艇', '河谷', 'Type024', '艇', '弹']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 河谷级导弹快艇 242151
+
+[35/40] type-096 | 096型戰略核潛艇（唐級，研發中）
+  queries=['096型核潜艇', '096型战略核潜艇', 'Type096', '096型'] keys=['096', '核潜艇', 'Type096', '艇', '潜艇']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 核潜艇（核动力潜水艇） 250285
+
+[36/40] type-120-radar | 305A／120 型低空補盲雷達
+  queries=['120型雷达', '低空补盲雷达', '305A/120型低空补盲雷達', 'Type120'] keys=['120型', '补盲', '雷达', 'Type120', '120']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search K/LLQ-120雷达 107305
+
+[37/40] type-65-aaa | 65式 37mm 高射砲
+  queries=['65式37毫米高射炮', '65式37mm高射炮', 'Type65', '65型'] keys=['65式', '37毫米', '高射炮', 'Type65', '65', '炮']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 65式37毫米双管高射炮 71126
+
+[38/40] type-718b | 718B型海警巡邏船
+  queries=['718B型海警船', '718B型海警巡邏船', 'Type718B', '718B型'] keys=['718B', '海警', 'Type718B']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+    skip baike_search '百度百科_全球领先的中文百科全书'
+  OK sogou_baike 718B型海警船 site:baike.sogou.com - 搜狗搜索 85855
+
+[39/40] type-74-aaa | 74式雙 37mm 高射砲
+  queries=['74式双37毫米高射炮', '74式双37mm高射炮', 'Type74', '74型'] keys=['74式', '37毫米', '高射炮', 'Type74', '74', '炮']
+    skip baike '百度百科－全球領先的中文百科全書'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 74式37毫米双管高射炮 45260
+
+[40/40] type-818 | 818型海警船（昭頭級）
+  queries=['818型海警船', '昭头级', 'Type818', '818型'] keys=['818', '海警', '昭头', 'Type818']
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+    skip baike '百度百科——全球领先的中文百科全书'
+  OK baike_search 818型巡逻舰 70935
+
+DONE ok=39 fail=1 enrich=39 captcha_hit=False

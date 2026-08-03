@@ -1385,6 +1385,31 @@ def main():
     if broken:
         print(f"⚠ 清除 {broken} 筆失效圖片路徑（檔案不存在）")
 
+    # 圖片內容指紋：同族變體常共用同一張照片（不同檔名、相同內容），
+    # 前端問答用它避免同一題出現兩個圖片相同的選項。
+    import hashlib
+    hashes = {}
+    dup_items = 0
+    for it in items:
+        img = it.get("image") or ""
+        if not img.startswith("assets/"):
+            continue
+        if img not in hashes:
+            try:
+                hashes[img] = hashlib.md5((ROOT / img).read_bytes()).hexdigest()[:12]
+            except Exception:
+                hashes[img] = ""
+        if hashes[img]:
+            it["img_key"] = hashes[img]
+    seen = {}
+    for it in items:
+        k = it.get("img_key")
+        if k:
+            seen.setdefault(k, []).append(it["id"])
+    dup_items = sum(len(v) for v in seen.values() if len(v) > 1)
+    if dup_items:
+        print(f"ℹ 圖片內容重複：{sum(1 for v in seen.values() if len(v) > 1)} 組／{dup_items} 筆（問答已自動避開）")
+
     # 指派軍種（陸/海/空/火箭軍/通用）與正規化 sources 欄位
     for it in items:
         it["branch"] = assign_branch(it)

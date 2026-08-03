@@ -59,11 +59,6 @@
 "file": "DF-16 Ballistic Missile 20170919.jpg",
 "query": "DF-16 missile"
 },
-"type-003": {
-"path": "assets/images/type-003.jpg",
-"file": "Chinese aircraft carrier Fujian flight deck.jpg",
-"query": "Type 003"
-},
 "type-052d": {
 "path": "assets/images/type-052d.jpg",
 "file": "Type-052D destroyer Jiaozuo 焦作 (163) during a visit to Saint Petersburg, Russia (July 26, 2024).jpg",
@@ -168,11 +163,6 @@
 "path": "assets/images/hy-6.jpg",
 "file": "PLAAF Xian HY-6 Li Pang.jpg",
 "query": "HY-6"
-},
-"j-10s": {
-"path": "assets/images/j-10s.jpg",
-"file": "HY-6 with two J-10s - 2015 China Victory Day Parade 2.jpg",
-"query": "J-10S aircraft"
 },
 "type-63-apc": {
 "path": "assets/images/type-63-apc.jpg",
@@ -299,11 +289,6 @@
 "file": "DF-5B, first stage.jpg",
 "query": "DF-5B missile"
 },
-"df-15": {
-"path": "assets/images/df-15.jpg",
-"file": "Dongfeng-15B.JPG",
-"query": "DF-15 missile"
-},
 "df-21": {
 "path": "assets/images/df-21.jpg",
 "file": "DF-21A TEL - Chinese Military Museum Beijing.jpg",
@@ -333,11 +318,6 @@
 "path": "assets/images/type-056a.jpg",
 "file": "Type 056A light frigate Jingmen(667).jpg",
 "query": "Type 056A ship"
-},
-"asn-206": {
-"path": "assets/images/asn-206.png",
-"file": "ASN-206.png",
-"query": "ASN-206"
 },
 "ch-901": {
 "path": "assets/images/ch-901.jpg",
